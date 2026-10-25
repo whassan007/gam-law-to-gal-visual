@@ -1,0 +1,47 @@
+{
+  "agent": "D01",
+  "host": "waelbot",
+  "arch": "aarch64",
+  "gpu": "NVIDIA GB10, [N/A]",
+  "model": "gemma4:26b",
+  "evaluated_clauses": 4,
+  "results": [
+    {
+      "clause_id": "pipeda-4.1.2",
+      "jurisdiction": "CA-Federal",
+      "expected_polarity": "Allow",
+      "expected_deontic": "Obligatory",
+      "model": "gemma4:26b",
+      "latency_ms": 12407.3,
+      "raw_output": ""
+    },
+    {
+      "clause_id": "pipeda-ex2-prohibition",
+      "jurisdiction": "CA-Federal",
+      "expected_polarity": "Deny",
+      "expected_deontic": "Prohibited",
+      "model": "gemma4:26b",
+      "latency_ms": 3572.4,
+      "raw_output": ""
+    },
+    {
+      "clause_id": "sox-201-prohibition",
+      "jurisdiction": "US-Federal",
+      "expected_polarity": "Deny",
+      "expected_deontic": "Prohibited",
+      "model": "gemma4:26b",
+      "latency_ms": 3433.5,
+      "raw_output": ""
+    },
+    {
+      "clause_id": "gdpr-art28-subprocessor",
+      "jurisdiction": "EU",
+      "expected_polarity": "Deny",
+      "expected_deontic": "Prohibited",
+      "model": "gemma4:26b",
+      "latency_ms": 3254.6,
+      "raw_output": ""
+    }
+  ],
+  "note": "Evaluated on DGX Spark local Ollama runtime. Experimental LLM output is strictly advisory and never overrides GAM formal validator."
+}
