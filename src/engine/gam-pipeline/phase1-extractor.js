@@ -213,7 +213,7 @@ const HIGHER_PATTERNS = {
 // "shall not disclose" and "shall disclose" previously matched the SAME
 // obligation family. Polarity inversion is the most consequential error a
 // compliance extractor can make: it turns a prohibition into a permission.
-const NEGATION = /\b(?:shall not|must not|may not|cannot|can not|shall never|must never|is prohibited from|is forbidden from|no person (?:shall|may)|nothing in this (?:section|act) (?:shall|may))\b/i;
+const NEGATION = /\b(?:shall not|must not|may not|cannot|can not|shall never|must never|is prohibited from|are prohibited from|prohibited from|is forbidden from|are forbidden from|forbidden from|no [a-z0-9_-]+(?:\s+[a-z0-9_-]+)?\s+(?:shall|may|must)|nothing in this (?:section|act) (?:shall|may))\b/i;
 
 /** @returns {'Deny'|'Allow'} the polarity of a provision */
 export function detectPolarity(text) {

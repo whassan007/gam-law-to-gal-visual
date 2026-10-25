@@ -155,7 +155,7 @@ function provisionQa(provision: LawProvision): Array<{ q: string; a: string }> {
   return cards;
 }
 
-export default function EducationalWalkthroughGuide({
+export function EducationalWalkthroughGuide({
   stage,
   provision = null,
   defaultOpen = false,
@@ -345,3 +345,5 @@ export default function EducationalWalkthroughGuide({
     </aside>
   );
 }
+
+export default EducationalWalkthroughGuide;
