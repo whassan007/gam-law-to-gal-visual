@@ -1,0 +1,48 @@
+{
+  "agent": "D02",
+  "host": "waelbot",
+  "platform": "Linux 7.0.0-1019-nvidia (arm64)",
+  "cpus": 20,
+  "elapsedMs": 5,
+  "allPassed": true,
+  "adversarialCases": [
+    {
+      "id": "ADV-01-EDGE-DIRECTION",
+      "description": "Reversed CanAssignTo (Role->Activity) silently misses conflict; canonical (Activity->Role) catches ACTIVITY_CONFLICT",
+      "wrongDirectionConsistent": true,
+      "correctDirectionConsistent": false,
+      "violationsDetected": 1,
+      "passed": true
+    },
+    {
+      "id": "ADV-02-SHARED-VOCABULARY",
+      "description": "Namespacing identifiers by origin (law: vs enterprise:) prevents cross-model closure interaction",
+      "namespacedConsistent": true,
+      "sharedVocabConsistent": false,
+      "passed": true
+    },
+    {
+      "id": "ADV-03-CON-NOT-SUFFICIENT",
+      "description": "Con passes (0 contradictions) while OntologyChecker catches missing required activity (ONTOLOGY_GAP)",
+      "conConsistent": true,
+      "ontologySatisfied": false,
+      "passed": true
+    },
+    {
+      "id": "ADV-04-DELEGATION-LAUNDERING",
+      "description": "Delegation conferring a prohibited activity onto a barred role triggers DELEGATION_LAUNDERS_PROHIBITION and ACTIVITY_CONFLICT",
+      "consistent": false,
+      "violationTypes": [
+        "ACTIVITY_CONFLICT",
+        "DELEGATION_LAUNDERS_PROHIBITION"
+      ],
+      "passed": true
+    },
+    {
+      "id": "ADV-05-POLARITY-NEGATION",
+      "description": "All negation patterns (shall not, no person shall, is prohibited from) strictly map to Deny polarity",
+      "samplesTested": 4,
+      "passed": true
+    }
+  ]
+}
