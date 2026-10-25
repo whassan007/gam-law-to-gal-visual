@@ -1,0 +1,47 @@
+{
+  "agent": "D01",
+  "host": "waelbot",
+  "arch": "aarch64",
+  "gpu": "NVIDIA GB10, [N/A]",
+  "model": "qwen3-coder:30b",
+  "evaluated_clauses": 4,
+  "results": [
+    {
+      "clause_id": "pipeda-4.1.2",
+      "jurisdiction": "CA-Federal",
+      "expected_polarity": "Allow",
+      "expected_deontic": "Obligatory",
+      "model": "qwen3-coder:30b",
+      "latency_ms": 8845.4,
+      "extracted_output": "{\n  \"GAM_polarity\": \"Allow\",\n  \"deontic_status\": \"Permitted\",\n  \"canonical_CanAssignTo\": {\n    \"source\": \"Activity\",\n    \"target\": \"Role\"\n  }\n}"
+    },
+    {
+      "clause_id": "pipeda-ex2-prohibition",
+      "jurisdiction": "CA-Federal",
+      "expected_polarity": "Deny",
+      "expected_deontic": "Prohibited",
+      "model": "qwen3-coder:30b",
+      "latency_ms": 687.7,
+      "extracted_output": "{\n  \"GAM_polarity\": \"Deny\",\n  \"deontic_status\": \"Prohibited\",\n  \"canonical_edge\": {\n    \"source\": \"access clients' personal information\",\n    \"target\": \"Employees in the privacy division\"\n  }\n}"
+    },
+    {
+      "clause_id": "sox-201-prohibition",
+      "jurisdiction": "US-Federal",
+      "expected_polarity": "Deny",
+      "expected_deontic": "Prohibited",
+      "model": "qwen3-coder:30b",
+      "latency_ms": 729.0,
+      "extracted_output": "{\n  \"GAM_polarity\": \"Deny\",\n  \"deontic_status\": \"Prohibited\",\n  \"canonical_CanAssignTo\": {\n    \"source\": \"provide bookkeeping or other services\",\n    \"target\": \"registered public accounting firm\"\n  }\n}"
+    },
+    {
+      "clause_id": "gdpr-art28-subprocessor",
+      "jurisdiction": "EU",
+      "expected_polarity": "Deny",
+      "expected_deontic": "Prohibited",
+      "model": "qwen3-coder:30b",
+      "latency_ms": 632.4,
+      "extracted_output": "{\n  \"GAM_polarity\": \"Deny\",\n  \"deontic_status\": \"Prohibited\",\n  \"canonical_edge\": {\n    \"source\": \"engage another processor\",\n    \"target\": \"processor\"\n  }\n}"
+    }
+  ],
+  "note": "Evaluated on DGX Spark local Ollama runtime. Experimental LLM output is strictly advisory and never overrides GAM formal validator."
+}
