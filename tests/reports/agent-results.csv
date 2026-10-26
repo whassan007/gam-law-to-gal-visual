@@ -1,0 +1,21 @@
+agent_id,group,assignment,branch,commit,status,summary,tests,integration
+01,A,EU sources,audit-only,none,complete,"Reviewed EUR-Lex coverage; identified original-versus-consolidated GDPR versioning and aggregated adequacy-decision gaps",none,integrated as findings
+02,A,US sources,audit-only,none,complete,"Reviewed federal and state source quality; identified mutable URLs, stale/mirror copies, missing legal status/version metadata",none,integrated as findings
+03,A,Canada sources,audit-only,none,complete,"Found Nunavut source text identical to NWT and incomplete authority/version metadata",none,Nunavut source blocked
+04,A,Middle East sources,shared-workspace,none,complete,"Added Saudi, UAE, ADGM, and DIFC registry/catalogue source handling with language and status caveats; UAE and ADGM remain blocked",3 focused tests passed,integrated
+05,A,APAC sources,shared-workspace,none,complete,"Added India DPDP, Japan APPI, and Australia Privacy Act registry/catalogue coverage with commencement and language caveats",2 focused tests passed,integrated
+06,A,Africa/global frameworks,audit-only,none,complete,"Found missing African/regional ingest coverage and failed or mismatched global framework sources",none,integrated as findings
+07,B,Legal parsing,audit-only,none,complete,"Reviewed clause segmentation and identified absent legal locators and fuzzy concept spans",none,integrated as findings
+08,B,Deontic extraction,shared-workspace,none,complete,"Found may-not modality disagreement; lead corrected prohibited pattern matching and added regression cases",4 regression cases passed,integrated
+09,B,Legal text to GAM,audit-only,none,complete,"Identified compound-clause, exception-scope, generic endpoint, and unsupported mapping risks",none,integrated as findings
+10,B,GAM to GAL transformation,audit-only,none,complete,"Confirmed canonical direction guard; identified potentially non-equivalent CanAssignTo prohibition mapping",none,integrated as findings
+11,B,Formal validation,audit-only,none,complete,"Identified partial SAT cross-check and schema/requirement validation gaps",none,integrated as findings
+12,B,Traceability,shared-workspace,none,complete,"Removed offset-zero evidence fallback; no-match concepts remain unmapped and unverified",2 focused tests passed,integrated
+13,C,Interactive graph,shared-workspace,none,complete,"Added keyboard-accessible graph nodes/edges with accessible labels and Enter/Space selection",2 focused tests passed,integrated
+14,C,Source/model relationship visualization,audit-only,none,complete,"Confirmed current bidirectional highlighting; identified missing citation metadata in inspectors",none,integrated as findings
+15,C,Cross-jurisdiction visualization,audit-only,none,complete,"Found no legal requirement comparison view; existing modal is enterprise-versus-law analysis",none,integrated as findings
+16,C,Amendment visualization,audit-only,none,complete,"Found no article-level diff or affected-model workflow; source snapshots now preserve old hashes",none,integrated as findings
+17,D,Source registry and versioning,shared-workspace,none,complete,"Captured eCFR requested/final URL and version date; added hash-addressed source history and failed-refresh preservation",4 focused tests passed,integrated
+18,D,Search and performance,shared-workspace,none,complete,"Deferred source search results and removed a per-query full-document tuple allocation",1 focused test passed,integrated
+19,D,Automated testing,shared-workspace,none,complete,"Added concept provenance verification checks",3 focused tests passed,integrated
+20,D,Observability and documentation,audit-only,none,complete,"Flagged authority overclaim in README; lead corrected source-fetch and catalogue caveats",none,integrated

@@ -606,7 +606,9 @@ export function App({ initialView = 'editor' }: { initialView?: 'editor' | 'clas
                             ? ` + ${getCatalogueForCountry(selectedCountry.code).length} catalogued`
                             : ''
                         }`
-                      : 'No Curated Pack Yet'}
+                      : getCatalogueForCountry(selectedCountry.code).length > 0
+                        ? `${getCatalogueForCountry(selectedCountry.code).length} Sources Catalogued · No GAM Pack`
+                        : 'No Curated Pack Yet'}
                   </span>
                 </div>
 
@@ -714,6 +716,16 @@ export function App({ initialView = 'editor' }: { initialView?: 'editor' | 'clas
                       {selectedCountry.notes ??
                         'This demonstration never fabricates statutory text or GAL relations. Select one of the verified jurisdictions below or inspect full provenance.'}
                     </p>
+                    {getCatalogueForCountry(selectedCountry.code).length > 0 && (
+                      <button
+                        type="button"
+                        data-testid={`browse-catalogue-${selectedCountry.code}`}
+                        onClick={() => setActiveScreen('law-selection')}
+                        className="w-full rounded-lg border border-cyan-500/40 bg-cyan-500/10 px-3 py-2 text-left text-xs font-semibold text-cyan-200 transition hover:border-cyan-400/70 hover:bg-cyan-500/15"
+                      >
+                        Browse {getCatalogueForCountry(selectedCountry.code).length} catalogued legal sources
+                      </button>
+                    )}
                     <div className="pt-2 space-y-1.5">
                       <div className="text-xs font-semibold text-slate-400 uppercase">
                         Try a Verified Jurisdiction:

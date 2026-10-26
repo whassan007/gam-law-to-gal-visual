@@ -18,6 +18,7 @@ import {
   Sparkles,
   Compass,
   MapPin,
+  BookMarked,
 } from 'lucide-react';
 import type { CountryMetadata } from '../../types/contracts';
 import { getCatalogueForCountry } from '../../data/verified-examples';
@@ -1003,8 +1004,17 @@ export const InteractiveGlobe: React.FC<InteractiveGlobeProps> = ({
                           </span>
                         ) : (
                           <span className="inline-flex items-center gap-1 rounded-full bg-slate-800 border border-slate-700 px-2 py-0.5 text-[11px] text-slate-400">
-                            <MapPin className="h-3 w-3 text-slate-500" />
-                            Unbundled
+                            {getCatalogueForCountry(country.code).length > 0 ? (
+                              <>
+                                <BookMarked className="h-3 w-3 text-cyan-400" />
+                                {getCatalogueForCountry(country.code).length} sources catalogued
+                              </>
+                            ) : (
+                              <>
+                                <MapPin className="h-3 w-3 text-slate-500" />
+                                Unbundled
+                              </>
+                            )}
                           </span>
                         )}
                       </div>

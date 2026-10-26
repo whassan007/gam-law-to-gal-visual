@@ -1,0 +1,45 @@
+{
+  "runDateLocal": "2026-10-25",
+  "formalism": {
+    "existingGamGalSemanticsChanged": false,
+    "directionGuardPreserved": true,
+    "verificationBoundary": "Heuristic extraction and phrase-based source checks do not establish legal interpretation or compliance.",
+    "alloySolverExecuted": false
+  },
+  "checks": {
+    "typecheck": { "status": "passed", "command": "npm run typecheck" },
+    "testSuite": { "status": "passed", "files": 15, "tests": 166, "command": "npm test -- --reporter=dot" },
+    "productionBuild": { "status": "passed", "command": "npm run build", "warning": "Main JavaScript bundle is 927.08 kB minified, above the 900 kB warning threshold." },
+    "diffWhitespace": { "status": "passed", "command": "git diff --check" }
+  },
+  "endToEndScenarios": [
+    { "id": 1, "name": "Import official GDPR provision to traceable GAM", "status": "partial", "evidence": "Existing GDPR Article 9 fixture exercises GAM/GAL validation; no fresh official import-to-model workflow was executed." },
+    { "id": 2, "name": "GAM to GAL semantic preservation", "status": "partial", "evidence": "Existing direction/formal semantics tests pass; unsupported free-text deontic mappings remain an issue." },
+    { "id": 3, "name": "Select visual GAL element to exact source passage", "status": "partial", "evidence": "Graph selection and exact-span provenance unit tests pass; one browser-level source-to-visual end-to-end path was not run." },
+    { "id": 4, "name": "Saudi PDPL and GDPR comparison", "status": "not-run", "evidence": "Saudi text imported, but no reviewed Saudi model or legal comparison view exists." },
+    { "id": 5, "name": "Amendment detection and affected models", "status": "partial", "evidence": "Source text hash history is preserved; article-level diff and affected-element identification are not implemented." },
+    { "id": 6, "name": "Historical/current model visual comparison", "status": "not-run", "evidence": "No historical model comparison UI exists." },
+    { "id": 7, "name": "Reject unsupported or incorrectly cited assertion", "status": "partial", "evidence": "No-match concepts are unmapped and unverified; phrase match is not a citation verifier." },
+    { "id": 8, "name": "Unavailable source without corrupting prior data", "status": "passed", "evidence": "History helper tests preserve prior text/hash and last-success metadata; three current sources remain blocked." },
+    { "id": 9, "name": "Large interconnected graph behavior", "status": "not-run", "evidence": "A 5,000-paragraph source search fixture was tested, but no 1,000-node/5,000-edge graph benchmark was run." },
+    { "id": 10, "name": "Existing application workflow regression", "status": "passed", "evidence": "Full regression suite passed: 15 files, 166 tests, including a globe-to-catalogue-to-source-reader path for Japan APPI." }
+  ],
+  "sourceSnapshotResults": {
+    "registryEntries": 255,
+    "fetched": 247,
+    "blocked": 2,
+    "noSource": 6,
+    "phraseMatches": 249,
+    "unchecked": 6,
+    "phraseMatchMeaning": "Expected text phrases were found. This is document identification evidence only, not legal citation, version, status, or interpretation verification.",
+    "newTextSnapshots": [
+      { "id": "in-dpdp-act", "status": "fetched", "sourceNote": "Retrieved via Internet Archive mirror of the MeitY PDF; phased commencement remains a separate legal-status question." },
+      { "id": "jp-appi", "status": "fetched", "sourceNote": "Current Japanese-language e-Gov Law API text; English translation is not authoritative." },
+      { "id": "au-privacy-act", "status": "fetched", "sourceNote": "Pinned Federal Register compilation 104 (C2026C00227), dated 2026-06-04." },
+      { "id": "sa-pdpl", "status": "fetched", "sourceNote": "SDAIA official English PDF; current amendments and implementing rules require separate review." },
+      { "id": "ae-difc-dpl", "status": "fetched", "sourceNote": "DIFC publisher consolidated July 2025 text, including Amendment Law No. 1 of 2025 per its face page." },
+      { "id": "ae-pdpl", "status": "blocked", "sourceNote": "A prior snapshot is retained but is not treated as verified current text." },
+      { "id": "ae-adgm-dpr", "status": "blocked", "sourceNote": "A prior snapshot is retained but is not treated as verified current text." }
+    ]
+  }
+}
