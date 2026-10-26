@@ -11,7 +11,12 @@ import {
   CheckCircle2,
   AlertTriangle,
   FlaskConical,
+  Network,
 } from 'lucide-react';
+import {
+  getLawsForCountry,
+  getCatalogueForCountry,
+} from '../../data/verified-examples';
 import type {
   CountryMetadata,
   LawMetadata,
@@ -29,6 +34,7 @@ export interface TopHeaderBarProps {
   onNavigateScreen: (screen: AppScreen) => void;
   onOpenFormalLegend: () => void;
   onOpenEnterpriseComparison: () => void;
+  onOpenDeonticEditor?: () => void;
   reducedMotion: boolean;
   onToggleReducedMotion: () => void;
 }
@@ -70,11 +76,24 @@ export const TopHeaderBar: React.FC<TopHeaderBarProps> = ({
   onNavigateScreen,
   onOpenFormalLegend,
   onOpenEnterpriseComparison,
+  onOpenDeonticEditor,
   reducedMotion,
   onToggleReducedMotion,
 }) => {
   const readiness = selectedProvision?.readiness ?? selectedLaw?.readiness;
   const readinessBadge = readiness ? getReadinessBadge(readiness) : null;
+
+  const verifiedCount = selectedCountry
+    ? getLawsForCountry(selectedCountry.code).length
+    : 0;
+  const catalogueCount = selectedCountry
+    ? getCatalogueForCountry(selectedCountry.code).length
+    : 0;
+  const totalSourcesCount = verifiedCount + catalogueCount;
+
+  const step1Complete = Boolean(selectedCountry);
+  const step2Complete = Boolean(selectedLaw);
+  const step3Complete = Boolean(selectedProvision && activeScreen === 'translation');
 
   return (
     <header
@@ -141,17 +160,33 @@ export const TopHeaderBar: React.FC<TopHeaderBarProps> = ({
                 : 'text-slate-300 hover:text-white hover:bg-slate-800/60 border border-transparent'
             }`}
           >
-            <Globe2 className="w-3.5 h-3.5 text-cyan-400 shrink-0" />
+            {step1Complete && activeScreen !== 'world' ? (
+              <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
+            ) : (
+              <Globe2 className="w-3.5 h-3.5 text-cyan-400 shrink-0" />
+            )}
             <span>1. Global Jurisdiction</span>
             {selectedCountry && (
               <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded bg-navy-800 text-slate-200 border border-slate-700 text-[11px]">
                 <span aria-hidden="true">{selectedCountry.flag}</span>
                 <span className="font-semibold">{selectedCountry.name}</span>
+                {totalSourcesCount > 0 && (
+                  <span
+                    className="ml-0.5 px-1 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30 font-mono text-[10px]"
+                    title={`${verifiedCount} verified GAM law pack(s), ${catalogueCount} catalogued legal source(s)`}
+                  >
+                    {verifiedCount > 0 ? `${verifiedCount}+${catalogueCount}` : catalogueCount}
+                  </span>
+                )}
               </span>
             )}
           </button>
 
-          <ChevronRight className="w-3.5 h-3.5 text-slate-600 mx-0.5 shrink-0" />
+          <ChevronRight
+            className={`w-3.5 h-3.5 mx-0.5 shrink-0 transition-colors ${
+              step1Complete ? 'text-cyan-500/60' : 'text-slate-600'
+            }`}
+          />
 
           {/* Step 2: Statutory Source */}
           <button
@@ -165,17 +200,32 @@ export const TopHeaderBar: React.FC<TopHeaderBarProps> = ({
                 : 'text-slate-300 hover:text-white hover:bg-slate-800/60 border border-transparent'
             }`}
           >
-            <BookOpen className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
+            {step2Complete && activeScreen !== 'law-selection' ? (
+              <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
+            ) : (
+              <BookOpen className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
+            )}
             <span>2. Statutory Source</span>
-            {selectedLaw && (
+            {selectedLaw ? (
               <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded bg-navy-800 text-emerald-200 border border-emerald-500/30 text-[11px] font-mono">
                 {selectedLaw.shortName}
                 {selectedProvision ? ` • ${selectedProvision.section}` : ''}
               </span>
+            ) : (
+              selectedCountry &&
+              catalogueCount > 0 && (
+                <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded bg-navy-800 text-slate-300 border border-slate-700 text-[10px] font-mono">
+                  {catalogueCount} catalogued
+                </span>
+              )
             )}
           </button>
 
-          <ChevronRight className="w-3.5 h-3.5 text-slate-600 mx-0.5 shrink-0" />
+          <ChevronRight
+            className={`w-3.5 h-3.5 mx-0.5 shrink-0 transition-colors ${
+              step2Complete ? 'text-emerald-500/60' : 'text-slate-600'
+            }`}
+          />
 
           {/* Step 3: Animated Law -> GAL Pipeline */}
           <button
@@ -189,7 +239,11 @@ export const TopHeaderBar: React.FC<TopHeaderBarProps> = ({
                 : 'text-slate-300 hover:text-white hover:bg-slate-800/60 border border-transparent'
             }`}
           >
-            <Cpu className="w-3.5 h-3.5 text-amber-400 shrink-0" />
+            {step3Complete ? (
+              <CheckCircle2 className="w-3.5 h-3.5 text-amber-400 shrink-0" />
+            ) : (
+              <Cpu className="w-3.5 h-3.5 text-amber-400 shrink-0" />
+            )}
             <span>3. Animated Law → GAL Pipeline</span>
             {readinessBadge && (
               <span
@@ -204,6 +258,20 @@ export const TopHeaderBar: React.FC<TopHeaderBarProps> = ({
 
         {/* Right: Quick Action Controls */}
         <div className="flex items-center gap-2">
+          {/* Interactive Deontic Editor Switcher */}
+          {onOpenDeonticEditor && (
+            <button
+              type="button"
+              data-testid="header-open-deontic-editor"
+              onClick={onOpenDeonticEditor}
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-400 hover:to-blue-500 text-white border border-cyan-300/40 shadow-sm shadow-cyan-500/20 transition-all"
+              title="Switch to the Interactive Deontic Logic & GAL Editor"
+            >
+              <Network className="w-3.5 h-3.5 text-white" />
+              <span>Deontic Editor</span>
+            </button>
+          )}
+
           {/* GAM Formalism Reference (Φ) */}
           <button
             type="button"

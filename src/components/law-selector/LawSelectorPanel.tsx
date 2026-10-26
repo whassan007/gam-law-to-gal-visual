@@ -4,7 +4,9 @@ import {
   BookOpen,
   Building2,
   Calendar,
+  Check,
   CheckCircle2,
+  Copy,
   Cpu,
   ExternalLink,
   FileText,
@@ -107,6 +109,15 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
   onBackToGlobe,
 }) => {
   const [processingMode, setProcessingMode] = useState<'curated' | 'live-pipeline'>('curated');
+  const [copiedPassage, setCopiedPassage] = useState(false);
+
+  const handleCopyVerbatimText = (text: string) => {
+    if (typeof navigator !== 'undefined' && navigator.clipboard) {
+      void navigator.clipboard.writeText(text);
+    }
+    setCopiedPassage(true);
+    setTimeout(() => setCopiedPassage(false), 2000);
+  };
 
   // State 1: No jurisdiction selected
   if (!country) {
@@ -226,6 +237,32 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
         </div>
 
         {/* Catalogued (untranslated) instruments for this jurisdiction */}
+        {catalogue.length > 0 && (
+          <div
+            data-testid="unsupported-catalogue-summary-banner"
+            className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 rounded-xl border border-cyan-500/40 bg-gradient-to-r from-cyan-950/40 via-navy-900/90 to-indigo-950/30 p-4 text-left shadow-lg"
+          >
+            <div className="flex items-start gap-3.5">
+              <div className="mt-0.5 flex h-10 w-10 shrink-0 items-center justify-center rounded-xl border border-cyan-500/40 bg-cyan-500/15 text-cyan-300">
+                <Cpu className="h-5 w-5" />
+              </div>
+              <div className="space-y-1">
+                <div className="flex flex-wrap items-center gap-2">
+                  <span className="inline-flex items-center gap-1.5 rounded-full border border-cyan-500/40 bg-cyan-500/15 px-2.5 py-0.5 font-mono text-xs font-semibold text-cyan-200">
+                    {catalogue.length} Legal {catalogue.length === 1 ? 'Instrument' : 'Instruments'} Catalogued for {country.name}
+                  </span>
+                </div>
+                <p className="text-xs leading-relaxed text-slate-300">
+                  Explore the verified statutory registry below: you can read bundled full texts directly in-app or click{' '}
+                  <strong className="font-semibold text-cyan-200">&ldquo;Translate excerpt → GAL&rdquo;</strong>{' '}
+                  on any bundled text to load it directly into the live{' '}
+                  <code className="rounded bg-slate-800/90 px-1.5 py-0.5 font-mono text-cyan-300">readLawToGAM</code>{' '}
+                  Deontic Editor!
+                </p>
+              </div>
+            </div>
+          </div>
+        )}
         <InstrumentCataloguePanel
           instruments={catalogue}
           onTranslateSourcePassage={onTranslateSourcePassage}
@@ -250,6 +287,17 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
   const relationCount = activeProvision ? activeProvision.curatedGalModel.relations.length : 0;
   const policyCount = activeProvision ? activeProvision.curatedGalModel.policies.length : 0;
   const unmappedCount = activeProvision?.unmappedClauses?.length ?? 0;
+
+  // Compute deontic modality breakdown across clauses and policies
+  const obligatoryCount = activeProvision
+    ? activeProvision.clauses.filter((c) => c.deonticModality === 'Obligatory').length
+    : 0;
+  const permittedCount = activeProvision
+    ? activeProvision.clauses.filter((c) => c.deonticModality === 'Permitted').length
+    : 0;
+  const prohibitedCount = activeProvision
+    ? activeProvision.clauses.filter((c) => c.deonticModality === 'Prohibited').length
+    : 0;
 
   return (
     <section
@@ -541,9 +589,35 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
 
             {/* Verbatim Statutory Passage Block */}
             <div className="relative rounded-xl border border-slate-800/90 bg-[#070b19] p-5">
-              <div className="mb-2 flex items-center justify-between text-[11px] font-mono uppercase tracking-wider text-slate-400">
+              <div className="mb-2 flex flex-wrap items-center justify-between gap-2 text-[11px] font-mono uppercase tracking-wider text-slate-400">
                 <span>Verbatim Legislative Text ({activeProvision.language})</span>
-                <span>{activeProvision.originalText.length} chars • Span [0..{activeProvision.originalText.length}]</span>
+                <div className="flex items-center gap-2.5">
+                  <span>
+                    {activeProvision.originalText.length} chars • Span [0..{activeProvision.originalText.length}]
+                  </span>
+                  <button
+                    type="button"
+                    data-testid="copy-verbatim-text-button"
+                    onClick={() => handleCopyVerbatimText(activeProvision.originalText)}
+                    className={`inline-flex items-center gap-1 rounded-md border px-2 py-0.5 text-[10px] font-medium normal-case tracking-normal transition ${
+                      copiedPassage
+                        ? 'border-emerald-500/40 bg-emerald-500/15 text-emerald-300'
+                        : 'border-slate-700 bg-slate-800/80 text-slate-300 hover:border-cyan-500/40 hover:bg-slate-800 hover:text-cyan-200'
+                    }`}
+                  >
+                    {copiedPassage ? (
+                      <>
+                        <Check className="h-3 w-3 text-emerald-400" />
+                        Copied!
+                      </>
+                    ) : (
+                      <>
+                        <Copy className="h-3 w-3 text-cyan-400" />
+                        Copy Verbatim Text
+                      </>
+                    )}
+                  </button>
+                </div>
               </div>
               <blockquote className="font-serif text-sm sm:text-base leading-relaxed text-slate-100 whitespace-pre-line selection:bg-cyan-500/30 selection:text-cyan-100">
                 {activeProvision.originalText}
@@ -585,7 +659,7 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
               </div>
 
               {/* Right: GAM Pre-Flight Summary Counts */}
-              <div className="rounded-lg border border-slate-800/80 bg-navy-900/60 p-3.5 text-xs space-y-2">
+              <div className="rounded-lg border border-slate-800/80 bg-navy-900/60 p-3.5 text-xs space-y-2.5">
                 <div className="font-semibold text-slate-200 flex items-center gap-1.5">
                   <Hash className="h-3.5 w-3.5 text-cyan-400" />
                   GAM Formalization Scope (Φ_L Preview)
@@ -616,7 +690,32 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
                     </span>
                   </div>
                 </div>
-                <div className="flex flex-wrap items-center justify-between pt-1 text-[11px] text-slate-400">
+
+                {/* Deontic Modality Balance Breakdown */}
+                <div
+                  data-testid="deontic-modality-breakdown"
+                  className="flex flex-wrap items-center justify-between gap-2 rounded-md border border-slate-800/90 bg-navy-950/70 px-2.5 py-1.5"
+                >
+                  <span className="text-[10px] font-semibold uppercase tracking-wider text-slate-400">
+                    Deontic Balance
+                  </span>
+                  <div className="flex flex-wrap items-center gap-1.5 text-[11px]">
+                    <span className="inline-flex items-center gap-1 rounded border border-cyan-500/30 bg-cyan-500/10 px-2 py-0.5 font-mono text-cyan-300">
+                      <span className="h-1.5 w-1.5 rounded-full bg-cyan-400" />
+                      Obligatory: <strong>{obligatoryCount}</strong>
+                    </span>
+                    <span className="inline-flex items-center gap-1 rounded border border-emerald-500/30 bg-emerald-500/10 px-2 py-0.5 font-mono text-emerald-300">
+                      <span className="h-1.5 w-1.5 rounded-full bg-emerald-400" />
+                      Permitted: <strong>{permittedCount}</strong>
+                    </span>
+                    <span className="inline-flex items-center gap-1 rounded border border-rose-500/30 bg-rose-500/10 px-2 py-0.5 font-mono text-rose-300">
+                      <span className="h-1.5 w-1.5 rounded-full bg-rose-400" />
+                      Prohibited: <strong>{prohibitedCount}</strong>
+                    </span>
+                  </div>
+                </div>
+
+                <div className="flex flex-wrap items-center justify-between pt-0.5 text-[11px] text-slate-400">
                   <span>
                     Relations: <strong className="text-slate-200">{relationCount}</strong> •
                     Deontic Policies: <strong className="text-slate-200">{policyCount}</strong>

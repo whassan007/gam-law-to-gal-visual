@@ -126,6 +126,7 @@ export const InteractiveGlobe: React.FC<InteractiveGlobeProps> = ({
   // Country selector sidebar state
   const [searchQuery, setSearchQuery] = useState<string>('');
   const [filterMode, setFilterMode] = useState<FilterMode>('all');
+  const [selectedRegion, setSelectedRegion] = useState<string>('all');
 
   // Drag interaction state
   const isDraggingRef = useRef<boolean>(false);
@@ -429,11 +430,23 @@ export const InteractiveGlobe: React.FC<InteractiveGlobeProps> = ({
     return countries.find((c) => c.supported) || countries[0] || null;
   }, [hoveredCountryCode, selectedCountryCode, countries]);
 
+  // Available regions for quick-filter chips
+  const availableRegions = useMemo(() => {
+    const regions = new Set<string>();
+    for (const c of countries) {
+      if (c.region) regions.add(c.region);
+    }
+    return Array.from(regions).sort();
+  }, [countries]);
+
   // Filtered countries for the keyboard-accessible Country Selector sidebar
   const filteredCountries = useMemo(() => {
     const q = searchQuery.trim().toLowerCase();
     return countries.filter((country) => {
       if (filterMode === 'supported' && !country.supported) {
+        return false;
+      }
+      if (selectedRegion !== 'all' && country.region !== selectedRegion) {
         return false;
       }
       if (!q) return true;
@@ -445,7 +458,7 @@ export const InteractiveGlobe: React.FC<InteractiveGlobeProps> = ({
         (country.legalTradition && country.legalTradition.toLowerCase().includes(q))
       );
     });
-  }, [countries, searchQuery, filterMode]);
+  }, [countries, searchQuery, filterMode, selectedRegion]);
 
   const supportedCount = useMemo(
     () => countries.filter((c) => c.supported).length,
@@ -522,7 +535,7 @@ export const InteractiveGlobe: React.FC<InteractiveGlobeProps> = ({
                 <Globe2 className="h-5 w-5" />
               </div>
               <div>
-                <div className="flex items-center gap-2">
+                <div className="flex flex-wrap items-center gap-2">
                   <h2 className="text-sm font-semibold tracking-wide text-slate-100 uppercase">
                     3D Orthographic Jurisdiction Globe
                   </h2>
@@ -592,6 +605,23 @@ export const InteractiveGlobe: React.FC<InteractiveGlobeProps> = ({
                 <span>Reset View</span>
               </button>
             </div>
+          </div>
+
+          {/* Global Coverage Summary Pill in Globe HUD */}
+          <div className="z-20 mb-2 flex flex-wrap items-center justify-between gap-2 rounded-lg border border-cyan-500/25 bg-slate-950/80 px-3 py-1.5 text-[11px] font-medium text-slate-300 shadow-inner">
+            <span
+              data-testid="globe-coverage-summary-pill"
+              className="inline-flex flex-wrap items-center gap-1.5 text-cyan-200/95"
+            >
+              <Sparkles className="h-3.5 w-3.5 text-emerald-400 shrink-0" />
+              <span>
+                6 GAM-Verified Jurisdictions · 29 Source-Catalogued Jurisdictions · 338 Legal Instruments · 247 Bundled Texts
+              </span>
+            </span>
+            <span className="hidden sm:inline-flex items-center gap-1.5 text-[10px] font-mono text-slate-400">
+              <span className="inline-block h-1.5 w-1.5 rounded-full bg-emerald-400" />
+              Φ_L Formalized + Primary Source Corpus
+            </span>
           </div>
 
           {/* Interactive 3D Globe Stage */}
@@ -908,7 +938,7 @@ export const InteractiveGlobe: React.FC<InteractiveGlobeProps> = ({
             </div>
 
             {/* Filter Mode Buttons */}
-            <div className="grid grid-cols-2 gap-2 mb-3" role="group" aria-label="Filter jurisdictions">
+            <div className="grid grid-cols-2 gap-2 mb-2.5" role="group" aria-label="Filter jurisdictions">
               <button
                 type="button"
                 onClick={() => setFilterMode('all')}
@@ -935,6 +965,43 @@ export const InteractiveGlobe: React.FC<InteractiveGlobeProps> = ({
               </button>
             </div>
 
+            {/* Region Quick-Filter Chips */}
+            <div
+              role="group"
+              aria-label="Filter by region"
+              className="flex items-center gap-1.5 overflow-x-auto pb-1.5 mb-2.5 scrollbar-thin"
+            >
+              <button
+                type="button"
+                onClick={() => setSelectedRegion('all')}
+                aria-pressed={selectedRegion === 'all'}
+                className={`shrink-0 rounded-full border px-2.5 py-1 text-[11px] font-medium transition-colors ${
+                  selectedRegion === 'all'
+                    ? 'border-cyan-500/50 bg-cyan-500/15 text-cyan-200'
+                    : 'border-slate-800 bg-slate-950/70 text-slate-400 hover:border-slate-700 hover:text-slate-200'
+                }`}
+              >
+                All Regions
+              </button>
+              {availableRegions.map((region) => (
+                <button
+                  key={region}
+                  type="button"
+                  onClick={() =>
+                    setSelectedRegion((prev) => (prev === region ? 'all' : region))
+                  }
+                  aria-pressed={selectedRegion === region}
+                  className={`shrink-0 rounded-full border px-2.5 py-1 text-[11px] font-medium transition-colors ${
+                    selectedRegion === region
+                      ? 'border-cyan-500/50 bg-cyan-500/15 text-cyan-200'
+                      : 'border-slate-800 bg-slate-950/70 text-slate-400 hover:border-slate-700 hover:text-slate-200'
+                  }`}
+                >
+                  {region}
+                </button>
+              ))}
+            </div>
+
             {/* Scrollable Country List */}
             <div
               role="listbox"
@@ -943,11 +1010,12 @@ export const InteractiveGlobe: React.FC<InteractiveGlobeProps> = ({
             >
               {filteredCountries.length === 0 ? (
                 <div className="rounded-lg border border-slate-800 bg-slate-950/60 p-6 text-center text-xs text-slate-400">
-                  No jurisdictions match &ldquo;{searchQuery}&rdquo;.
+                  No jurisdictions match &ldquo;{searchQuery || selectedRegion}&rdquo;.
                 </div>
               ) : (
                 filteredCountries.map((country) => {
                   const isSelected = country.code === selectedCountryCode;
+                  const catalogueCount = getCatalogueForCountry(country.code).length;
                   return (
                     <button
                       key={country.code}
@@ -993,21 +1061,33 @@ export const InteractiveGlobe: React.FC<InteractiveGlobeProps> = ({
                         </div>
                       </div>
 
-                      <div className="shrink-0 flex flex-col items-end">
+                      <div className="shrink-0 flex flex-col items-end gap-1">
                         {country.supported ? (
-                          <span className="inline-flex items-center gap-1 rounded-full bg-emerald-500/15 border border-emerald-500/35 px-2 py-0.5 text-[11px] font-medium text-emerald-300">
-                            <CheckCircle2 className="h-3 w-3 text-emerald-400" />
-                            {country.lawIds.length}{' '}
-                            {country.lawIds.length === 1 ? 'Law' : 'Laws'}
-                            {getCatalogueForCountry(country.code).length > 0 &&
-                              ` + ${getCatalogueForCountry(country.code).length} catalogued`}
-                          </span>
+                          <>
+                            <span className="inline-flex items-center gap-1 rounded-full bg-emerald-500/15 border border-emerald-500/35 px-2 py-0.5 text-[11px] font-semibold text-emerald-300">
+                              <CheckCircle2 className="h-3 w-3 text-emerald-400" />
+                              GAM Verified (Φ_L) · {country.lawIds.length}{' '}
+                              {country.lawIds.length === 1 ? 'Law' : 'Laws'}
+                            </span>
+                            {catalogueCount > 0 && (
+                              <span className="inline-flex items-center gap-1 rounded-full bg-cyan-500/10 border border-cyan-500/25 px-2 py-0.5 text-[10px] font-medium text-cyan-300">
+                                <BookMarked className="h-2.5 w-2.5 text-cyan-400" />
+                                Source Catalogue ({catalogueCount} texts)
+                              </span>
+                            )}
+                          </>
                         ) : (
-                          <span className="inline-flex items-center gap-1 rounded-full bg-slate-800 border border-slate-700 px-2 py-0.5 text-[11px] text-slate-400">
-                            {getCatalogueForCountry(country.code).length > 0 ? (
+                          <span
+                            className={`inline-flex items-center gap-1 rounded-full border px-2 py-0.5 text-[11px] font-medium ${
+                              catalogueCount > 0
+                                ? 'bg-cyan-500/10 border-cyan-500/30 text-cyan-200'
+                                : 'bg-slate-800 border-slate-700 text-slate-400'
+                            }`}
+                          >
+                            {catalogueCount > 0 ? (
                               <>
                                 <BookMarked className="h-3 w-3 text-cyan-400" />
-                                {getCatalogueForCountry(country.code).length} sources catalogued
+                                Source Catalogue ({catalogueCount} texts)
                               </>
                             ) : (
                               <>

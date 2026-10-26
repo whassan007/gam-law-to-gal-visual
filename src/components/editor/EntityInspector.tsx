@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
-import { ArrowLeftRight, Check, Link2, Trash2, X } from 'lucide-react';
+import { ArrowLeftRight, Check, Link2, Plus, Trash2, X } from 'lucide-react';
 import type { GamSort } from '../../types/contracts';
 import { useEditor, sortOf } from './editorState';
 import {
@@ -7,7 +7,7 @@ import {
   listEdges, noFamilyExplanation, operatorInfo, type DeonticOperator, type FamilyId,
 } from './deontic';
 import { getCanonicalDirectionNote, entitySort } from '../../engine/gam-adapter';
-import { OperatorBadge, SortChip, StatusPill, btn, btnPrimary, btnGhost, input } from './ui';
+import { OperatorBadge, SortChip, StatusPill, btn, btnPrimary, btnGhost, input, sortColors } from './ui';
 
 const SORTS: GamSort[] = ['Process', 'Activity', 'Role', 'User'];
 
@@ -79,7 +79,7 @@ const ClauseLink: React.FC<{ clauseId?: string }> = ({ clauseId }) => {
 };
 
 const NodeInspector: React.FC<{ id: string; focusSignal: number }> = ({ id, focusSignal }) => {
-  const { result, doc, issues, dispatch, readOnly } = useEditor();
+  const { result, doc, issues, dispatch, select, readOnly } = useEditor();
   const entity = result.galModel.entities.find((e) => e.id === id);
   const [name, setName] = useState(entity?.name ?? id);
   const nameRef = useRef<HTMLInputElement>(null);
@@ -92,6 +92,7 @@ const NodeInspector: React.FC<{ id: string; focusSignal: number }> = ({ id, focu
   const outgoing = edges.filter((r) => r.edge.source === id).map((r) => r.edge.id!);
   const concepts = doc.concepts.filter((c) => c.mappedEntityId === id);
   const mine = issues.filter((i) => i.entityIds.includes(id));
+  const otherEntities = result.galModel.entities.filter((e) => e.id !== id);
   const commit = () => dispatch({ type: 'rename-entity', id, name });
   return (
     <div data-testid="entity-inspector-node">
@@ -123,6 +124,26 @@ const NodeInspector: React.FC<{ id: string; focusSignal: number }> = ({ id, focu
       <div className="mt-2 border-t border-ed-border pt-1">
         <EdgeList title="Incoming relations" ids={incoming} />
         <EdgeList title="Outgoing relations" ids={outgoing} />
+        {!readOnly && otherEntities.length > 0 && (
+          <div className="mt-1.5 flex items-center gap-1.5">
+            <Plus className="h-3.5 w-3.5 shrink-0 text-ed-accent" />
+            <select
+              aria-label="Connect to entity"
+              className={input}
+              value=""
+              onChange={(e) => {
+                if (e.target.value) select({ kind: 'pending', source: id, target: e.target.value });
+              }}
+            >
+              <option value="">+ Connect to…</option>
+              {otherEntities.map((e) => (
+                <option key={e.id} value={e.id}>
+                  {e.name ?? e.id} ({entitySort(e) ?? e.type})
+                </option>
+              ))}
+            </select>
+          </div>
+        )}
       </div>
       {!readOnly && (
         <div className="mt-3 flex gap-2 border-t border-ed-border pt-3">
@@ -346,11 +367,84 @@ const ConceptInspector: React.FC<{ id: string }> = ({ id }) => {
   );
 };
 
+const ModelQuickSummary: React.FC = () => {
+  const { result, select } = useEditor();
+  const entities = result.galModel.entities;
+  const counts = useMemo(() => {
+    const map: Record<GamSort, number> = { Process: 0, Activity: 0, Role: 0, User: 0 };
+    for (const e of entities) {
+      const s = entitySort(e);
+      if (s && s in map) map[s] += 1;
+    }
+    return map;
+  }, [entities]);
+
+  return (
+    <div className="rounded-lg border border-ed-border bg-ed-sunken/50 p-2.5">
+      <div className="mb-2 flex items-center justify-between">
+        <h4 className="text-[11px] font-semibold uppercase tracking-wider text-ed-muted">Model Quick Summary</h4>
+        <span className="font-mono text-[10px] text-ed-subtle">{entities.length} entities</span>
+      </div>
+      <div className="grid grid-cols-4 gap-1.5">
+        {SORTS.map((s) => {
+          const c = sortColors(s);
+          return (
+            <div
+              key={s}
+              className="flex items-center gap-1.5 rounded-md border border-ed-border bg-ed-surface px-2 py-1"
+              title={`${s} count`}
+            >
+              <SortChip sort={s} />
+              <div className="min-w-0">
+                <div className="font-mono text-xs font-semibold leading-tight" style={{ color: c.stroke }}>{counts[s]}</div>
+                <div className="truncate text-[9px] text-ed-subtle">{s}</div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+      {entities.length > 0 && (
+        <div className="mt-2 flex flex-wrap gap-1 border-t border-ed-border pt-2">
+          {entities.map((e) => {
+            const s = entitySort(e);
+            return (
+              <button
+                key={e.id}
+                type="button"
+                onClick={() => select({ kind: 'node', id: e.id })}
+                className="inline-flex max-w-full items-center gap-1 rounded-full border border-ed-border bg-ed-surface px-2 py-0.5 text-[11px] text-ed-text transition-colors hover:border-ed-accent hover:bg-ed-accent-soft"
+                title={`Inspect ${e.name ?? e.id} (${s ?? e.type})`}
+              >
+                <SortChip sort={s ?? 'Unmapped'} />
+                <span className="truncate">{e.name ?? e.id}</span>
+              </button>
+            );
+          })}
+        </div>
+      )}
+    </div>
+  );
+};
+
 export const EntityInspector: React.FC<{ focusSignal?: number }> = ({ focusSignal = 0 }) => {
-  const { selection } = useEditor();
+  const { selection, select } = useEditor();
   return (
     <section aria-label="Entity inspector" className="min-w-0" data-testid="entity-inspector">
-      <h3 className="mb-2 text-[11px] font-semibold uppercase tracking-wider text-ed-muted">Inspector</h3>
+      <div className="mb-2 flex items-center justify-between gap-2">
+        <h3 className="text-[11px] font-semibold uppercase tracking-wider text-ed-muted">Inspector</h3>
+        {selection.kind !== 'none' && (
+          <button
+            type="button"
+            className={`${btnGhost} -my-1 text-[11px]`}
+            onClick={() => select({ kind: 'none' })}
+            aria-label="Clear selection and return to legend"
+            title="Clear / Back to legend"
+          >
+            <X className="h-3.5 w-3.5" />
+            <span>Back to legend</span>
+          </button>
+        )}
+      </div>
       {selection.kind === 'node' && <NodeInspector id={selection.id} focusSignal={focusSignal} />}
       {selection.kind === 'edge' && <EdgeInspector id={selection.id} />}
       {selection.kind === 'pending' && <NewRelationForm source={selection.source} target={selection.target} />}
@@ -359,6 +453,7 @@ export const EntityInspector: React.FC<{ focusSignal?: number }> = ({ focusSigna
       {selection.kind === 'none' && (
         <div className="space-y-3">
           <p className="text-xs text-ed-subtle">Select a node or relation in the graph, or a clause, concept or entity in the pipeline.</p>
+          <ModelQuickSummary />
           <OperatorLegend />
         </div>
       )}

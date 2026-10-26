@@ -424,6 +424,7 @@ export function App({ initialView = 'editor' }: { initialView?: 'editor' | 'clas
         onNavigateScreen={(screen) => setActiveScreen(screen)}
         onOpenFormalLegend={() => setIsLegendOpen(true)}
         onOpenEnterpriseComparison={() => setIsEnterpriseModalOpen(true)}
+        onOpenDeonticEditor={() => setShowEditor(true)}
         reducedMotion={a11y.reducedMotion}
         onToggleReducedMotion={a11y.toggleReducedMotion}
       />

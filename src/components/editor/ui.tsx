@@ -3,10 +3,10 @@ import { ChevronDown } from 'lucide-react';
 import type { GamSort } from '../../types/contracts';
 import { OPERATOR_META, type DeonticOperator } from './deontic';
 
-export const btn = 'inline-flex items-center justify-center gap-1.5 rounded-md border border-ed-border bg-ed-surface px-2.5 py-1.5 text-xs font-medium text-ed-text hover:border-ed-strong hover:bg-ed-sunken disabled:opacity-40 disabled:pointer-events-none transition-colors';
-export const btnPrimary = 'inline-flex items-center justify-center gap-1.5 rounded-md border border-ed-accent bg-ed-accent px-2.5 py-1.5 text-xs font-semibold text-ed-on-accent hover:opacity-90 disabled:opacity-40 disabled:pointer-events-none transition-opacity';
-export const btnGhost = 'inline-flex items-center gap-1 rounded px-1.5 py-1 text-xs text-ed-muted hover:text-ed-text hover:bg-ed-sunken disabled:opacity-40 disabled:pointer-events-none';
-export const input = 'w-full rounded-md border border-ed-border bg-ed-surface px-2 py-1 text-xs text-ed-text placeholder:text-ed-subtle focus:border-ed-accent focus:outline-none';
+export const btn = 'inline-flex items-center justify-center gap-1.5 rounded-md border border-ed-border bg-ed-surface px-2.5 py-1.5 text-xs font-medium text-ed-text shadow-[0_1px_1px_var(--color-shadow)] hover:border-ed-strong hover:bg-ed-sunken active:scale-[0.98] disabled:opacity-40 disabled:pointer-events-none transition-all';
+export const btnPrimary = 'inline-flex items-center justify-center gap-1.5 rounded-md border border-ed-accent bg-ed-accent px-2.5 py-1.5 text-xs font-semibold text-ed-on-accent shadow-[0_1px_2px_var(--color-shadow)] hover:opacity-90 active:scale-[0.98] disabled:opacity-40 disabled:pointer-events-none transition-all';
+export const btnGhost = 'inline-flex items-center gap-1 rounded px-1.5 py-1 text-xs text-ed-muted hover:text-ed-text hover:bg-ed-sunken active:scale-[0.98] disabled:opacity-40 disabled:pointer-events-none transition-all';
+export const input = 'w-full rounded-md border border-ed-border bg-ed-surface px-2 py-1 text-xs text-ed-text placeholder:text-ed-subtle focus:border-ed-accent focus:outline-none transition-colors';
 
 export const OperatorBadge: React.FC<{ operator: DeonticOperator | null; inferred?: boolean; className?: string }> = ({ operator, inferred, className = '' }) => {
   if (!operator) {
@@ -76,20 +76,36 @@ export const StageCard: React.FC<{
     <section
       data-testid={testId}
       aria-labelledby={`${testId}-title`}
-      className={`rounded-xl border bg-ed-surface shadow-[0_1px_2px_var(--color-shadow)] transition-colors ${active ? 'border-ed-accent' : 'border-ed-border'}`}
+      className={`ed-stage-card relative overflow-hidden rounded-xl border bg-ed-surface shadow-[0_1px_2px_var(--color-shadow)] transition-all ${
+        active ? 'border-ed-accent ring-1 ring-ed-accent/30' : 'border-ed-border'
+      }`}
     >
+      {active && (
+        <span
+          aria-hidden="true"
+          className="pointer-events-none absolute inset-y-0 left-0 w-1 bg-ed-accent"
+        />
+      )}
       <header className="flex items-start gap-3 border-b border-ed-border px-4 py-3">
         <span
-          className="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-lg text-xs font-bold text-ed-text"
+          className="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-lg text-xs font-bold text-ed-text shadow-[inset_0_0_0_1px_rgba(0,0,0,0.06)]"
           style={{ background: stageColor }}
           aria-hidden="true"
         >
           {index}
         </span>
         <div className="min-w-0 flex-1">
-          <h3 id={`${testId}-title`} className="text-[11px] font-semibold uppercase tracking-wider text-ed-muted">
-            Stage {index} · {title}
-          </h3>
+          <div className="flex flex-wrap items-center gap-2">
+            <h3 id={`${testId}-title`} className="text-[11px] font-semibold uppercase tracking-wider text-ed-muted">
+              Stage {index} · {title}
+            </h3>
+            {active && (
+              <span className="inline-flex items-center gap-1 rounded-full border border-ed-accent/40 bg-ed-accent-soft px-1.5 py-0.2 text-[10px] font-semibold uppercase tracking-wide text-ed-accent">
+                <span aria-hidden="true" className="h-1.5 w-1.5 rounded-full bg-ed-accent" />
+                Active
+              </span>
+            )}
+          </div>
           <p className="text-xs text-ed-subtle">{description}</p>
         </div>
         <div className="shrink-0">{status}</div>
@@ -133,7 +149,11 @@ export const HighlightedJson: React.FC<{ value: unknown; markIds?: Set<string>; 
     <pre data-testid={testId} className={`ed-json overflow-auto text-[11px] leading-[1.15rem] text-ed-text ${className}`}>
       {lines.map((line, i) => {
         const marked = markIds && markIds.size > 0 && [...markIds].some((id) => line.includes(`"${id}"`));
-        return <div key={i}>{marked ? <mark>{renderLine(line)}</mark> : renderLine(line)}</div>;
+        return (
+          <div key={i} data-line={i + 1} className="ed-json-line before:select-none before:text-ed-subtle/60">
+            {marked ? <mark>{renderLine(line)}</mark> : renderLine(line)}
+          </div>
+        );
       })}
     </pre>
   );

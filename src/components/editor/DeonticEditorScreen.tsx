@@ -78,6 +78,24 @@ function downloadText(filename: string, text: string, type: string) {
   URL.revokeObjectURL(url);
 }
 
+const STATUTE_PRESETS: Array<{ label: string; text: string; meta: { title: string; subtitle: string; lawId: string } }> = [
+  {
+    label: 'HIPAA Clinical Prohibition',
+    text: 'A covered entity shall not disclose protected health information of a patient to an external marketing agency unless the patient has signed a valid written authorization.',
+    meta: { title: '45 CFR § 164.508(a)(3)', subtitle: 'HIPAA Marketing Authorization Rule (United States)', lawId: 'preset-hipaa-marketing' },
+  },
+  {
+    label: 'GDPR Cross-Border Transfer',
+    text: 'A data controller shall transfer personal data to a third-country processor only if appropriate safeguards are provided and enforceable data subject rights are available.',
+    meta: { title: 'GDPR Article 46(1)', subtitle: 'Transfers Subject to Appropriate Safeguards (European Union)', lawId: 'preset-gdpr-art46' },
+  },
+  {
+    label: 'SOX Audit Separation',
+    text: 'A registered public accounting firm is prohibited from performing contemporaneous audit services and management consulting services for the same issuer.',
+    meta: { title: '15 U.S.C. § 78j-1(g)', subtitle: 'Sarbanes-Oxley Act § 201 Auditor Independence (United States)', lawId: 'preset-sox-201' },
+  },
+];
+
 const ReadinessPill: React.FC = () => {
   const { result, edited, readOnly } = useEditor();
   const label = { 'human-reviewed': 'Human-reviewed', 'actual-generated': 'Live generated', 'unverified-draft': 'Unverified draft', unsupported: 'Unsupported' }[result.readiness];
@@ -159,11 +177,21 @@ const EditorBody: React.FC<Omit<DeonticEditorScreenProps, 'seed' | 'initialDoc' 
     copy(url, shareReadOnly ? 'Read-only link copied' : 'Editable link copied');
   };
 
-  // Keyboard: undo/redo outside text fields.
+  // Keyboard: undo/redo, catalogue toggle (Cmd/Ctrl+K), and Escape to close catalogue modal.
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
-      const t = e.target as HTMLElement;
-      if (t.closest('input, textarea, select, [contenteditable="true"]')) return;
+      if (e.key === 'Escape' && catalogueOpen) {
+        e.preventDefault();
+        setCatalogueOpen(false);
+        return;
+      }
+      const t = e.target as HTMLElement | null;
+      if (t?.closest?.('input, textarea, select, [contenteditable="true"]')) return;
+      if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
+        e.preventDefault();
+        setCatalogueOpen((open) => !open);
+        return;
+      }
       if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'z') {
         e.preventDefault();
         dispatch({ type: e.shiftKey ? 'redo' : 'undo' });
@@ -171,7 +199,7 @@ const EditorBody: React.FC<Omit<DeonticEditorScreenProps, 'seed' | 'initialDoc' 
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [dispatch]);
+  }, [dispatch, catalogueOpen]);
 
   // On small screens, selecting something in the graph context opens the editor modal.
   useEffect(() => { if (!desktop && selection.kind === 'pending') setGraphModalOpen(true); }, [desktop, selection.kind]);
@@ -223,7 +251,7 @@ const EditorBody: React.FC<Omit<DeonticEditorScreenProps, 'seed' | 'initialDoc' 
                 </option>
               ))}
             </select>
-            {props.countryLaws.length > 0 && (
+            {props.countryLaws.length > 0 ? (
               <>
                 <select aria-label="Law" data-testid="editor-law-select" className={`${input} w-auto max-w-[11rem]`} value={props.law.id} onChange={(e) => { const l = props.countryLaws.find((x) => x.id === e.target.value); if (l) props.onSelectLaw(l); }}>
                   {props.countryLaws.map((l) => <option key={l.id} value={l.id}>{l.shortName}</option>)}
@@ -232,16 +260,26 @@ const EditorBody: React.FC<Omit<DeonticEditorScreenProps, 'seed' | 'initialDoc' 
                   {props.law.provisions.map((p) => <option key={p.id} value={p.id}>{p.section} — {p.title}</option>)}
                 </select>
               </>
+            ) : (
+              <button
+                type="button"
+                onClick={() => { setCatalogueScope('country'); setCatalogueOpen(true); }}
+                data-testid="editor-no-curated-pack-pill"
+                className="inline-flex items-center gap-1.5 rounded-full border border-ed-accent bg-ed-accent-soft px-2.5 py-1 text-xs font-medium text-ed-accent hover:opacity-90"
+              >
+                No curated GAM pack · Browse {countryCatalogue.length} catalogued laws →
+              </button>
             )}
             <button
               type="button"
               className={btn}
               onClick={() => setCatalogueOpen(true)}
               data-testid="editor-open-catalogue"
-              title="Browse all 338 catalogued legal instruments and 247 bundled source texts"
+              title="Browse all 338 catalogued legal instruments and 247 bundled source texts (⌘K / Ctrl+K)"
             >
               <BookMarked className="h-3.5 w-3.5 text-ed-accent" />
               <span>Catalogue ({countryCatalogue.length > 0 ? `${countryCatalogue.length}/${INSTRUMENT_CATALOGUE.length}` : INSTRUMENT_CATALOGUE.length})</span>
+              <kbd className="ml-0.5 rounded border border-ed-border bg-ed-sunken px-1 py-0.5 font-mono text-[10px] text-ed-subtle">(⌘K)</kbd>
             </button>
             <div role="radiogroup" aria-label="Translation source" className="flex rounded-md border border-ed-border p-0.5">
               {(['curated', 'live-pipeline'] as const).map((m) => (
@@ -278,10 +316,36 @@ const EditorBody: React.FC<Omit<DeonticEditorScreenProps, 'seed' | 'initialDoc' 
           <InputStatuteCard />
           {!readOnly && <details className="rounded-xl border border-ed-border bg-ed-surface px-4 py-3">
             <summary className="cursor-pointer text-xs font-medium text-ed-accent">Translate your own statute</summary>
-            <form className="mt-3 space-y-2" onSubmit={(e) => { e.preventDefault(); if (statuteDraft.trim()) props.onCustomText(statuteDraft.trim()); }}>
+            <form className="mt-3 space-y-2.5" onSubmit={(e) => { e.preventDefault(); if (statuteDraft.trim()) props.onCustomText(statuteDraft.trim()); }}>
+              <div className="flex flex-wrap items-center gap-1.5">
+                <span className="text-[11px] font-medium text-ed-subtle">Quick presets:</span>
+                {STATUTE_PRESETS.map((preset) => (
+                  <button
+                    key={preset.label}
+                    type="button"
+                    onClick={() => {
+                      setStatuteDraft(preset.text);
+                      props.onCustomText(preset.text, preset.meta);
+                    }}
+                    className="rounded-full border border-ed-border bg-ed-sunken px-2.5 py-0.5 text-[11px] font-medium text-ed-text hover:border-ed-accent hover:text-ed-accent"
+                  >
+                    {preset.label}
+                  </button>
+                ))}
+              </div>
               <label htmlFor="custom-statute" className="block text-xs text-ed-muted">Statute text</label>
               <textarea id="custom-statute" className={`${input} min-h-28 leading-relaxed`} value={statuteDraft} onChange={(e) => setStatuteDraft(e.target.value)} />
-              <button type="submit" className={btn} disabled={!statuteDraft.trim()}>Translate statute →</button>
+              <div className="flex flex-wrap items-center gap-2">
+                <button type="submit" className={btn} disabled={!statuteDraft.trim()}>Translate statute →</button>
+                <button
+                  type="button"
+                  className={btnGhost}
+                  disabled={!statuteDraft}
+                  onClick={() => setStatuteDraft('')}
+                >
+                  Clear
+                </button>
+              </div>
             </form>
           </details>}
           <PipelineStages {...handlers} />
@@ -328,6 +392,9 @@ const EditorBody: React.FC<Omit<DeonticEditorScreenProps, 'seed' | 'initialDoc' 
                 <p className="text-xs text-slate-400">
                   Read bundled full texts or load any statutory excerpt directly into the Deontic Editor via <span className="font-mono text-cyan-300">readLawToGAM</span>.
                 </p>
+                <div className="mt-1.5 inline-flex flex-wrap items-center gap-1.5 rounded-md border border-slate-700/80 bg-navy-950/80 px-2.5 py-1 text-[11px] font-medium text-cyan-200">
+                  338 Catalogued Instruments · 247 Bundled Full Texts · 29 Jurisdictions · 100% Content-Verified
+                </div>
               </div>
               <div className="flex items-center gap-2">
                 {countryCatalogue.length > 0 && (

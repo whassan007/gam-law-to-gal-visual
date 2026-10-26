@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { BookMarked, Cpu, ExternalLink, Search } from 'lucide-react';
+import { BookMarked, Cpu, ExternalLink, RotateCcw, Search, ShieldAlert, ShieldCheck } from 'lucide-react';
 import { SourceTextViewer } from './SourceTextViewer';
 import type {
   CatalogueInstrument,
@@ -14,6 +14,8 @@ export interface InstrumentCataloguePanelProps {
   /** Called when the user loads an excerpt from a bundled source text into the live GAM-to-GAL pipeline/editor. */
   onTranslateSourcePassage?: (instrument: CatalogueInstrument, passage: string) => void;
 }
+
+type AvailabilityFilter = 'all' | 'bundled' | 'translated';
 
 const STATUS_META: Record<InstrumentStatus, { label: string; classes: string }> = {
   'in-force': { label: 'In force', classes: 'bg-emerald-500/15 text-emerald-300 border-emerald-500/40' },
@@ -37,6 +39,12 @@ interface SourceTextEntry {
 }
 
 const SOURCE_BASE = '/source-texts/';
+
+function formatCharCount(chars?: number): string {
+  if (!chars) return '0k';
+  if (chars < 1000) return `${chars.toLocaleString()}`;
+  return `${Math.round(chars / 1000).toLocaleString()}k`;
+}
 
 /** Provenance manifest written by scripts/fetch-sources.mjs; absent when no texts are bundled. */
 function useSourceManifest(): Record<string, SourceTextEntry> {
@@ -68,6 +76,7 @@ export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> =
   const [query, setQuery] = useState('');
   const [category, setCategory] = useState<InstrumentCategory | 'all'>('all');
   const [jurisdiction, setJurisdiction] = useState<string>('all');
+  const [availability, setAvailability] = useState<AvailabilityFilter>('all');
   const sources = useSourceManifest();
   const [reading, setReading] = useState<CatalogueInstrument | null>(null);
   const [translatingId, setTranslatingId] = useState<string | null>(null);
@@ -105,10 +114,26 @@ export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> =
     return instruments.filter((i) => {
       if (category !== 'all' && i.category !== category) return false;
       if (jurisdiction !== 'all' && i.jurisdiction !== jurisdiction) return false;
+      if (availability === 'bundled') {
+        const src = sources[i.id];
+        if (!src || src.status !== 'fetched' || !src.file) return false;
+      } else if (availability === 'translated') {
+        if (!i.translatedLawId) return false;
+      }
       if (!q) return true;
       return [i.name, i.shortName, i.citation, i.jurisdiction].some((f) => f.toLowerCase().includes(q));
     });
-  }, [instruments, query, category, jurisdiction]);
+  }, [instruments, query, category, jurisdiction, availability, sources]);
+
+  const hasActiveFilters =
+    query !== '' || category !== 'all' || jurisdiction !== 'all' || availability !== 'all';
+
+  const handleClearFilters = () => {
+    setQuery('');
+    setCategory('all');
+    setJurisdiction('all');
+    setAvailability('all');
+  };
 
   if (instruments.length === 0) return null;
 
@@ -148,6 +173,43 @@ export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> =
               <option key={j} value={j}>{j}</option>
             ))}
           </select>
+        )}
+        <div
+          className="inline-flex items-center rounded-lg border border-slate-800 bg-navy-950/80 p-0.5"
+          role="group"
+          aria-label="Source Availability"
+        >
+          {(
+            [
+              { id: 'all', label: 'All' },
+              { id: 'bundled', label: 'Bundled Full Text' },
+              { id: 'translated', label: 'Translated in GAM' },
+            ] as const
+          ).map((opt) => (
+            <button
+              key={opt.id}
+              type="button"
+              onClick={() => setAvailability(opt.id)}
+              aria-pressed={availability === opt.id}
+              className={`rounded-md px-2.5 py-1 text-[11px] font-medium transition ${
+                availability === opt.id
+                  ? 'bg-cyan-500/20 text-cyan-200 shadow-sm ring-1 ring-cyan-400/50'
+                  : 'text-slate-400 hover:text-slate-200'
+              }`}
+            >
+              {opt.label}
+            </button>
+          ))}
+        </div>
+        {hasActiveFilters && (
+          <button
+            type="button"
+            onClick={handleClearFilters}
+            className="inline-flex items-center gap-1 rounded-lg border border-slate-700 bg-slate-800/70 px-2.5 py-1.5 text-xs font-medium text-slate-200 transition hover:border-cyan-500/40 hover:bg-slate-800 hover:text-cyan-200"
+          >
+            <RotateCcw className="h-3 w-3" />
+            Clear filters
+          </button>
         )}
       </div>
 
@@ -227,37 +289,58 @@ export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> =
                 if (!src) return null;
                 if (src.status === 'fetched' && src.file) {
                   return (
-                    <p className="mt-1.5 text-slate-400">
-                      <button
-                        type="button"
-                        onClick={() => setReading(i)}
-                        data-testid={`source-text-${i.id}`}
-                        className="text-cyan-300 underline decoration-cyan-500/40 underline-offset-2 hover:text-cyan-200"
-                      >
-                        Read source text
-                      </button>{' '}
-                      ({Math.round((src.chars ?? 0) / 1000).toLocaleString()}k characters, retrieved{' '}
-                      {src.retrievedAt?.slice(0, 10)})
-                      {onTranslateSourcePassage && (
-                        <>
-                          {' · '}
-                          <button
-                            type="button"
-                            onClick={() => void handleQuickTranslate(i)}
-                            disabled={translatingId === i.id}
-                            data-testid={`translate-source-${i.id}`}
-                            className="inline-flex items-center gap-1 font-medium text-emerald-300 underline decoration-emerald-500/40 underline-offset-2 hover:text-emerald-200 disabled:opacity-50"
+                    <div className="mt-2 rounded-lg border border-slate-800/80 bg-slate-900/40 px-2.5 py-1.5 text-slate-400">
+                      <div className="flex flex-wrap items-center gap-x-2 gap-y-1">
+                        {src.contentCheck === 'match' && (
+                          <span className="inline-flex items-center gap-1 rounded-full border border-emerald-500/40 bg-emerald-500/15 px-2 py-0.5 text-[11px] font-medium text-emerald-300">
+                            <ShieldCheck className="h-3 w-3" />
+                            ✓ Verified text
+                          </span>
+                        )}
+                        <button
+                          type="button"
+                          onClick={() => setReading(i)}
+                          data-testid={`source-text-${i.id}`}
+                          className="font-medium text-cyan-300 underline decoration-cyan-500/40 underline-offset-2 hover:text-cyan-200"
+                        >
+                          Read source text
+                        </button>
+                        <span className="text-[11px] text-slate-400">
+                          ({formatCharCount(src.chars)} characters
+                          {src.retrievedAt ? `, retrieved ${src.retrievedAt.slice(0, 10)}` : ''})
+                        </span>
+                        {src.sha256 && (
+                          <span
+                            title={`SHA-256: ${src.sha256}`}
+                            className="rounded border border-slate-700/80 bg-slate-800/60 px-1.5 py-0.5 font-mono text-[10px] text-slate-300"
                           >
-                            <Cpu className="h-3 w-3" />
-                            {translatingId === i.id ? 'Loading…' : 'Translate excerpt → GAL'}
-                          </button>
-                        </>
-                      )}
-                      {src.contentCheck === 'mismatch' && (
-                        <span className="ml-1 text-amber-300">content check failed: verify it is the right document</span>
-                      )}
-                      {src.note && <span className="block text-slate-500">{src.note}</span>}
-                    </p>
+                            SHA-256: {src.sha256.slice(0, 12)}…
+                          </span>
+                        )}
+                        {onTranslateSourcePassage && (
+                          <>
+                            <span className="text-slate-600">·</span>
+                            <button
+                              type="button"
+                              onClick={() => void handleQuickTranslate(i)}
+                              disabled={translatingId === i.id}
+                              data-testid={`translate-source-${i.id}`}
+                              className="inline-flex items-center gap-1 font-medium text-emerald-300 underline decoration-emerald-500/40 underline-offset-2 hover:text-emerald-200 disabled:opacity-50"
+                            >
+                              <Cpu className="h-3 w-3" />
+                              {translatingId === i.id ? 'Loading…' : 'Translate excerpt → GAL'}
+                            </button>
+                          </>
+                        )}
+                        {src.contentCheck === 'mismatch' && (
+                          <span className="inline-flex items-center gap-1 text-amber-300">
+                            <ShieldAlert className="h-3 w-3" />
+                            content check failed: verify it is the right document
+                          </span>
+                        )}
+                      </div>
+                      {src.note && <span className="mt-1 block text-[11px] text-slate-500">{src.note}</span>}
+                    </div>
                   );
                 }
                 return (

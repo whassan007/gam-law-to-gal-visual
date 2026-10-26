@@ -27,6 +27,15 @@ export interface ExportHandlers {
 
 // ─── Input statute ─────────────────────────────────────────────────────────────
 
+const modalityTone = (m: SegmentedClause['deonticModality']) =>
+  m === 'Prohibited'
+    ? 'var(--color-deontic-prohibit)'
+    : m === 'Obligatory'
+      ? 'var(--color-deontic-must)'
+      : m === 'Permitted'
+        ? 'var(--color-deontic-may)'
+        : 'var(--color-text-tertiary)';
+
 export const InputStatuteCard: React.FC = () => {
   const { seed, result, selection, select } = useEditor();
   const [open, setOpen] = useState(true);
@@ -68,6 +77,53 @@ export const InputStatuteCard: React.FC = () => {
       </button>
       {open && (
         <div className="border-t border-ed-border px-4 py-3">
+          <div className="mb-2.5 flex flex-wrap items-center justify-between gap-2 border-b border-ed-border pb-2 text-[11px] text-ed-subtle">
+            <div className="flex flex-wrap items-center gap-2">
+              <span className="rounded bg-ed-sunken px-1.5 py-0.5 font-mono text-ed-muted">
+                {text.length} chars
+              </span>
+              <span className="rounded bg-ed-sunken px-1.5 py-0.5 font-mono text-ed-muted">
+                {result.clauses.length} {result.clauses.length === 1 ? 'clause' : 'clauses'}
+              </span>
+              {result.clauses.length > 0 && (
+                <div className="flex flex-wrap items-center gap-1" role="group" aria-label="Clause quick jump">
+                  {result.clauses.map((c) => {
+                    const isSel = selectedClause?.id === c.id;
+                    return (
+                      <button
+                        key={c.id}
+                        type="button"
+                        onClick={() => select({ kind: 'clause', id: c.id })}
+                        aria-pressed={isSel}
+                        className={`inline-flex items-center gap-1 rounded-full border px-2 py-0.5 text-[11px] font-medium transition-colors ${
+                          isSel
+                            ? 'border-ed-accent bg-ed-accent-soft text-ed-text'
+                            : 'border-ed-border bg-ed-surface text-ed-muted hover:bg-ed-sunken hover:text-ed-text'
+                        }`}
+                        title={`${c.deonticModality}: ${c.text}`}
+                      >
+                        <span
+                          className="h-1.5 w-1.5 rounded-full"
+                          style={{ background: modalityTone(c.deonticModality) }}
+                          aria-hidden="true"
+                        />
+                        Clause {c.index + 1}
+                      </button>
+                    );
+                  })}
+                </div>
+              )}
+            </div>
+            {selection.kind === 'clause' && (
+              <button
+                type="button"
+                onClick={() => select({ kind: 'none' })}
+                className="inline-flex items-center gap-1 rounded-full border border-ed-accent bg-ed-accent-soft px-2 py-0.5 text-[11px] font-medium text-ed-accent transition-opacity hover:opacity-80"
+              >
+                Clear selection
+              </button>
+            )}
+          </div>
           <p className="whitespace-pre-wrap font-serif text-[13px] leading-relaxed text-ed-text" data-testid="editor-statute-text">
             {segments.map((s, i) =>
               s.clause ? (
@@ -80,6 +136,9 @@ export const InputStatuteCard: React.FC = () => {
                   className={`cursor-pointer rounded-sm transition-colors ${selectedClause?.id === s.clause.id ? 'bg-ed-accent-soft underline decoration-ed-accent decoration-2 underline-offset-2' : 'hover:bg-ed-sunken'}`}
                   title={`Clause ${s.clause.index + 1}`}
                 >
+                  <span aria-hidden="true" className="mr-1 select-none font-mono text-[10px] font-semibold text-ed-muted">
+                    [{s.clause.index + 1}]
+                  </span>
                   {s.text}
                 </span>
               ) : (
@@ -99,7 +158,6 @@ const Stage1: React.FC<{ active: boolean }> = ({ active }) => {
   const { result, selection, select } = useEditor();
   const { clauses, validation } = result;
   const mapped = validation.mappedClauseCount;
-  const modalityTone = (m: SegmentedClause['deonticModality']) => (m === 'Prohibited' ? 'var(--color-deontic-prohibit)' : m === 'Obligatory' ? 'var(--color-deontic-must)' : m === 'Permitted' ? 'var(--color-deontic-may)' : 'var(--color-text-tertiary)');
   return (
     <StageCard
       index={1}
@@ -364,9 +422,12 @@ const Stage3: React.FC<{ active: boolean }> = ({ active }) => {
         {(['Process', 'Activity', 'Role', 'User', 'Unmapped'] as const).map((sort) => {
           const items = nodes.filter((n) => n.sort === sort);
           if (sort === 'Unmapped' && !items.length) return null;
+          const sortLabel = sort === 'Unmapped' ? 'Untyped' : sort;
           return (
             <div key={sort} className="flex items-start gap-2">
-              <dt className="flex w-24 shrink-0 items-center gap-1.5 pt-0.5 text-ed-muted"><SortChip sort={sort} /> {sort === 'Unmapped' ? 'Untyped' : sort}</dt>
+              <dt className="flex w-28 shrink-0 items-center gap-1.5 pt-0.5 text-ed-muted">
+                <SortChip sort={sort} /> {sortLabel} <span className="font-mono text-[11px] text-ed-subtle">({items.length})</span>
+              </dt>
               <dd className="flex flex-wrap gap-1">
                 {items.length === 0 && <span className="text-ed-subtle">—</span>}
                 {items.map((n) => (
@@ -402,12 +463,16 @@ const Stage4: React.FC<{ active: boolean }> = ({ active }) => {
   const highlighted = highlightedIds(selection, doc, result.clauses).edges;
   const row = (r: (typeof refs)[number]) => {
     const info = operatorInfo(r, doc.annotations[r.edge.id!]);
+    const isSelected = selection.kind === 'edge' && selection.id === r.edge.id;
+    const sourceClause = r.edge.sourceSpan?.clauseId
+      ? result.clauses.find((c) => c.id === r.edge.sourceSpan?.clauseId)
+      : undefined;
     return (
       <li key={r.edge.id}>
         <button
           type="button"
           onClick={() => select({ kind: 'edge', id: r.edge.id! })}
-          aria-pressed={selection.kind === 'edge' && selection.id === r.edge.id}
+          aria-pressed={isSelected}
           className={`flex w-full flex-wrap items-center gap-1.5 rounded-md px-2 py-1 text-left text-xs ${highlighted.has(r.edge.id!) ? 'bg-ed-accent-soft' : 'hover:bg-ed-sunken'}`}
           data-testid={`stage4-edge-${r.edge.id}`}
         >
@@ -415,7 +480,21 @@ const Stage4: React.FC<{ active: boolean }> = ({ active }) => {
           <span className="text-ed-text">{name(r.edge.source)}</span>
           <span className="text-ed-subtle">→</span>
           <span className="text-ed-text">{name(r.edge.target)}</span>
-          <span className="ml-auto font-mono text-[10px] text-ed-subtle">{r.edge.type}</span>
+          <span className="ml-auto flex items-center gap-1.5">
+            {isSelected && (
+              <>
+                {sourceClause && (
+                  <span className="rounded bg-ed-surface px-1.5 py-0.5 font-mono text-[10px] text-ed-muted">
+                    Clause {sourceClause.index + 1}
+                  </span>
+                )}
+                <span className="rounded bg-ed-accent px-1.5 py-0.5 text-[10px] font-medium text-ed-on-accent">
+                  Selected
+                </span>
+              </>
+            )}
+            <span className="font-mono text-[10px] text-ed-subtle">{r.edge.type}</span>
+          </span>
         </button>
       </li>
     );
@@ -565,6 +644,9 @@ export const ValidationStatus: React.FC = () => {
   };
   const item = (i: EditorIssue) => (
     <li key={i.id} className="flex flex-wrap items-start gap-2 py-1.5 text-xs" data-testid={`issue-${i.rule}`}>
+      <span className="mt-0.5 shrink-0 rounded border border-ed-border bg-ed-sunken px-1.5 py-0.5 font-mono text-[10px] font-medium uppercase tracking-wide text-ed-muted">
+        {i.rule}
+      </span>
       <span className="min-w-0 flex-1 text-ed-text">{i.message}</span>
       <span className="flex flex-wrap gap-1">
         {(i.edgeIds[0] || i.entityIds[0]) && <button type="button" className={btnGhost} onClick={() => inspect(i)}>Inspect</button>}
@@ -584,7 +666,12 @@ export const ValidationStatus: React.FC = () => {
         </span>
       </header>
       <div className="px-4 py-2">
-        {issues.length === 0 && <p className="py-1 text-xs text-ed-success">No errors or warnings.</p>}
+        {issues.length === 0 && (
+          <div className="my-1 flex items-center gap-2 rounded-lg border border-ed-success bg-ed-success-soft px-3 py-2 text-xs font-medium text-ed-success">
+            <CheckCircle2 className="h-4 w-4 shrink-0" />
+            <span>✓ All formal GAM 2.0 structural, directionality, and closure checks passed</span>
+          </div>
+        )}
         {errors.length > 0 && (
           <div>
             <div className="flex items-center gap-1 pt-1 text-[11px] font-semibold text-ed-error"><XCircle className="h-3.5 w-3.5" /> Errors</div>

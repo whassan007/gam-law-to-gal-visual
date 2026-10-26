@@ -1,5 +1,5 @@
 import React, { useDeferredValue, useEffect, useMemo, useState } from 'react';
-import { ExternalLink, Play, Search, X } from 'lucide-react';
+import { Check, Copy, ExternalLink, Filter, Play, Search, X } from 'lucide-react';
 
 export interface SourceTextViewerProps {
   title: string;
@@ -15,6 +15,14 @@ export interface SourceTextViewerProps {
 
 const PAGE = 300;
 const NORMATIVE_CUE = /\b(shall|must|may|prohibited|forbidden|required|obligated|authorized|permitted|entitled|consent|personal|disclose|access|process|controller|organization)\b/i;
+
+type FontSize = 'text-xs' | 'text-sm' | 'text-base';
+
+const FONT_SIZE_OPTIONS: ReadonlyArray<{ label: string; value: FontSize; title: string }> = [
+  { label: 'A-', value: 'text-xs', title: 'Small font size' },
+  { label: 'A', value: 'text-sm', title: 'Default font size' },
+  { label: 'A+', value: 'text-base', title: 'Large font size' },
+];
 
 function pickRepresentativeExcerpt(lines: string[]): string {
   const candidates = lines.filter((l) => l.length >= 60 && l.length <= 700 && NORMATIVE_CUE.test(l));
@@ -38,6 +46,9 @@ export const SourceTextViewer: React.FC<SourceTextViewerProps> = ({
   const [error, setError] = useState<string | null>(null);
   const [shown, setShown] = useState(PAGE);
   const [query, setQuery] = useState('');
+  const [fontSize, setFontSize] = useState<FontSize>('text-sm');
+  const [copiedCitation, setCopiedCitation] = useState(false);
+  const [normativeOnly, setNormativeOnly] = useState(false);
 
   useEffect(() => {
     let live = true;
@@ -63,22 +74,47 @@ export const SourceTextViewer: React.FC<SourceTextViewerProps> = ({
     return () => window.removeEventListener('keydown', onKey);
   }, [onClose]);
 
+  const handleCopyCitation = async () => {
+    const text = `${title} (${citation})`;
+    try {
+      await navigator.clipboard?.writeText(text);
+    } catch {
+      // Fallback if clipboard API fails or is restricted
+    }
+    setCopiedCitation(true);
+    window.setTimeout(() => setCopiedCitation(false), 1800);
+  };
+
   // Keep typing responsive on large instruments; render matches for the latest
   // deferred query while the input itself remains immediate.
   const deferredQuery = useDeferredValue(query);
   const q = deferredQuery.trim().toLowerCase();
-  const normalizedLines = useMemo(() => lines?.map((line) => line.toLowerCase()) ?? null, [lines]);
-  const matches = useMemo(
-    () => {
-      if (!lines || !normalizedLines || !q) return [];
-      const found: Array<readonly [number, string]> = [];
-      for (let i = 0; i < normalizedLines.length; i++) {
-        if (normalizedLines[i].includes(q)) found.push([i, lines[i]]);
-      }
-      return found;
-    },
-    [lines, normalizedLines, q],
+
+  const totalChars = useMemo(
+    () => (lines ? lines.reduce((acc, l) => acc + l.length, 0) : 0),
+    [lines],
   );
+
+  const indexedLines = useMemo<ReadonlyArray<readonly [number, string]> | null>(() => {
+    if (!lines) return null;
+    const all = lines.map((line, i) => [i, line] as const);
+    return normativeOnly ? all.filter(([, line]) => NORMATIVE_CUE.test(line)) : all;
+  }, [lines, normativeOnly]);
+
+  const normalizedLines = useMemo(
+    () => indexedLines?.map(([i, line]) => [i, line.toLowerCase(), line] as const) ?? null,
+    [indexedLines],
+  );
+
+  const matches = useMemo(() => {
+    if (!normalizedLines || !q) return [];
+    const found: Array<readonly [number, string]> = [];
+    for (let k = 0; k < normalizedLines.length; k++) {
+      const [origIndex, lower, raw] = normalizedLines[k];
+      if (lower.includes(q)) found.push([origIndex, raw]);
+    }
+    return found;
+  }, [normalizedLines, q]);
 
   return (
     <div
@@ -131,19 +167,87 @@ export const SourceTextViewer: React.FC<SourceTextViewerProps> = ({
           </div>
         </div>
 
-        <label className="relative m-3 block">
-          <span className="sr-only">Find in text</span>
-          <Search className="pointer-events-none absolute left-2.5 top-2 h-3.5 w-3.5 text-slate-500" />
-          <input
-            type="search"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-            placeholder="Find in text"
-            className="w-full rounded-lg border border-slate-800 bg-navy-950/70 py-1.5 pl-8 pr-3 text-xs text-slate-200 placeholder:text-slate-500 focus:border-cyan-500/60 focus:outline-none"
-          />
-        </label>
+        <div className="m-3 flex flex-wrap items-center gap-2">
+          <label className="relative min-w-[200px] flex-1">
+            <span className="sr-only">Find in text</span>
+            <Search className="pointer-events-none absolute left-2.5 top-2 h-3.5 w-3.5 text-slate-500" />
+            <input
+              type="search"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              placeholder="Find in text"
+              className="w-full rounded-lg border border-slate-800 bg-navy-950/70 py-1.5 pl-8 pr-3 text-xs text-slate-200 placeholder:text-slate-500 focus:border-cyan-500/60 focus:outline-none"
+            />
+          </label>
 
-        <div className="flex-1 overflow-y-auto px-4 pb-4 font-serif text-sm leading-relaxed">
+          <button
+            type="button"
+            aria-pressed={normativeOnly}
+            onClick={() => {
+              setNormativeOnly((v) => !v);
+              setShown(PAGE);
+            }}
+            className={`inline-flex items-center gap-1.5 rounded-lg border px-2.5 py-1.5 text-xs font-medium transition ${
+              normativeOnly
+                ? 'border-cyan-500/60 bg-cyan-500/20 text-cyan-200'
+                : 'border-slate-800 bg-navy-950/70 text-slate-300 hover:border-slate-700 hover:bg-slate-800/60'
+            }`}
+          >
+            <Filter className="h-3 w-3" />
+            Normative clauses only (shall/must/may)
+          </button>
+
+          <div
+            role="group"
+            aria-label="Font size"
+            className="inline-flex items-center rounded-lg border border-slate-800 bg-navy-950/70 p-0.5 text-xs"
+          >
+            {FONT_SIZE_OPTIONS.map((opt) => (
+              <button
+                key={opt.label}
+                type="button"
+                title={opt.title}
+                aria-pressed={fontSize === opt.value}
+                onClick={() => setFontSize(opt.value)}
+                className={`rounded-md px-2 py-1 font-mono text-[11px] font-medium transition ${
+                  fontSize === opt.value
+                    ? 'bg-cyan-500/20 text-cyan-200'
+                    : 'text-slate-400 hover:text-slate-200'
+                }`}
+              >
+                {opt.label}
+              </button>
+            ))}
+          </div>
+
+          <button
+            type="button"
+            onClick={handleCopyCitation}
+            className="inline-flex items-center gap-1.5 rounded-lg border border-slate-800 bg-navy-950/70 px-2.5 py-1.5 text-xs text-slate-300 transition hover:border-slate-700 hover:bg-slate-800/60"
+          >
+            {copiedCitation ? (
+              <>
+                <Check className="h-3 w-3 text-emerald-400" />
+                <span className="text-emerald-300">Copied!</span>
+              </>
+            ) : (
+              <>
+                <Copy className="h-3 w-3 text-slate-400" />
+                <span>Copy citation</span>
+              </>
+            )}
+          </button>
+
+          {lines && (
+            <span className="inline-flex items-center gap-1.5 rounded-full border border-slate-800 bg-navy-950/70 px-2.5 py-1 font-mono text-[11px] text-slate-400">
+              <span>{lines.length.toLocaleString()} paragraphs</span>
+              <span className="text-slate-600">·</span>
+              <span>{totalChars.toLocaleString()} chars</span>
+            </span>
+          )}
+        </div>
+
+        <div className={`flex-1 overflow-y-auto px-4 pb-4 font-serif ${fontSize} leading-relaxed`}>
           {error && <p className="text-rose-300">Could not load the text ({error}).</p>}
           {!lines && !error && <p className="text-slate-500">Loading…</p>}
           {lines && q && (
@@ -169,9 +273,14 @@ export const SourceTextViewer: React.FC<SourceTextViewerProps> = ({
               ))}
             </>
           )}
-          {lines && !q && (
+          {lines && !q && indexedLines && (
             <>
-              {lines.slice(0, shown).map((l, i) => (
+              {normativeOnly && (
+                <p className="mb-2 font-sans text-xs text-cyan-300/80" aria-live="polite">
+                  Showing {indexedLines.length.toLocaleString()} of {lines.length.toLocaleString()} normative paragraphs
+                </p>
+              )}
+              {indexedLines.slice(0, shown).map(([i, l]) => (
                 <div key={i} className="group mb-1.5 flex items-start justify-between gap-2 rounded-lg p-1 hover:bg-slate-800/40">
                   <p className="whitespace-pre-wrap">{l}</p>
                   {onTranslatePassage && l.length >= 25 && (
@@ -186,13 +295,13 @@ export const SourceTextViewer: React.FC<SourceTextViewerProps> = ({
                   )}
                 </div>
               ))}
-              {shown < lines.length && (
+              {shown < indexedLines.length && (
                 <button
                   type="button"
                   onClick={() => setShown((n) => n + PAGE)}
                   className="mt-2 rounded-lg border border-slate-700 px-3 py-1.5 text-xs hover:bg-slate-800"
                 >
-                  Show more ({lines.length - shown} paragraphs remaining)
+                  Show more ({indexedLines.length - shown} paragraphs remaining)
                 </button>
               )}
             </>

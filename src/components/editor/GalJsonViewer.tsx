@@ -11,12 +11,21 @@ export const GalJsonViewer: React.FC<{ onCopy: (text: string) => void; defaultOp
   const phi = useMemo(() => projectPhi(result.galModel, doc.annotations), [result.galModel, doc.annotations]);
   const marks = highlightedIds(selection, doc, result.clauses);
   const value = tab === 'phi' ? phi : result.galModel;
+  const serialized = useMemo(() => JSON.stringify(value, null, 2), [value]);
+  const stats = useMemo(() => {
+    const lines = serialized.split('\n').length;
+    const bytes = new TextEncoder().encode(serialized).length;
+    const byteLabel = bytes >= 1024 ? `${(bytes / 1024).toFixed(1)} KB` : `${bytes} B`;
+    return { lines, byteLabel };
+  }, [serialized]);
+
   return (
     <section aria-label="GAL-JSON output" className="flex min-h-0 min-w-0 flex-col" data-testid="editor-gal-json-viewer">
       <div className="mb-2 flex items-center gap-1">
         <button type="button" className={btnGhost} aria-expanded={open} onClick={() => setOpen((v) => !v)}>
           <ChevronDown className={`h-3.5 w-3.5 transition-transform ${open ? '' : '-rotate-90'}`} />
           <span className="text-[11px] font-semibold uppercase tracking-wider text-ed-muted">Output</span>
+          <span className="text-[10px] font-normal text-ed-subtle">({open ? 'Collapse' : 'Expand'})</span>
         </button>
         <div role="tablist" aria-label="Output format" className="ml-1 flex rounded-md border border-ed-border p-0.5">
           {(['phi', 'gal'] as const).map((t) => (
@@ -32,9 +41,17 @@ export const GalJsonViewer: React.FC<{ onCopy: (text: string) => void; defaultOp
             </button>
           ))}
         </div>
-        <button type="button" className={`${btnGhost} ml-auto`} onClick={() => onCopy(JSON.stringify(value, null, 2))} aria-label={`Copy ${tab === 'phi' ? 'Φ tuple' : 'GAL-JSON'}`}>
-          <Copy className="h-3.5 w-3.5" /> Copy
-        </button>
+        <div className="ml-auto flex items-center gap-1.5">
+          <span
+            className="rounded border border-ed-border bg-ed-sunken px-1.5 py-0.5 font-mono text-[10px] text-ed-subtle"
+            title={`${stats.lines} lines · ${stats.byteLabel}`}
+          >
+            {stats.lines} lines · {stats.byteLabel}
+          </span>
+          <button type="button" className={btnGhost} onClick={() => onCopy(serialized)} aria-label={`Copy ${tab === 'phi' ? 'Φ tuple' : 'GAL-JSON'}`}>
+            <Copy className="h-3.5 w-3.5" /> Copy
+          </button>
+        </div>
       </div>
       {open && (
         <HighlightedJson

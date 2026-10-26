@@ -205,12 +205,52 @@ body {
   }
 }
 
-.law-editor ::-webkit-scrollbar-track { background: var(--color-bg-sunken); }
-.law-editor ::-webkit-scrollbar-thumb { background: var(--color-border-strong); }
+.law-editor ::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+.law-editor ::-webkit-scrollbar-track {
+  background: var(--color-bg-sunken);
+  border-radius: 4px;
+}
+
+.law-editor ::-webkit-scrollbar-thumb {
+  background: var(--color-border-strong);
+  border-radius: 4px;
+  border: 1px solid var(--color-bg-sunken);
+}
+
+.law-editor ::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-tertiary);
+}
 
 .law-editor :focus-visible {
   outline: 2px solid var(--color-accent);
   outline-offset: 2px;
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--color-accent) 18%, transparent);
+}
+
+.law-editor button,
+.law-editor input,
+.law-editor select,
+.law-editor textarea {
+  transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1),
+              border-color 150ms cubic-bezier(0.4, 0, 0.2, 1),
+              color 150ms cubic-bezier(0.4, 0, 0.2, 1),
+              box-shadow 150ms cubic-bezier(0.4, 0, 0.2, 1),
+              opacity 150ms cubic-bezier(0.4, 0, 0.2, 1),
+              transform 120ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.law-editor .ed-stage-card {
+  transition: border-color 180ms cubic-bezier(0.4, 0, 0.2, 1),
+              box-shadow 180ms cubic-bezier(0.4, 0, 0.2, 1),
+              transform 180ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.law-editor .ed-stage-card:hover {
+  box-shadow: 0 4px 12px -2px var(--color-shadow), 0 1px 3px var(--color-shadow);
 }
 
 /* Deontic operator badge: color carries meaning, label always present for accessibility. */
@@ -227,22 +267,55 @@ body {
   color: var(--op-color);
   background: color-mix(in srgb, var(--op-color) 12%, transparent);
   border: 1px solid color-mix(in srgb, var(--op-color) 40%, transparent);
+  transition: background-color 150ms ease, border-color 150ms ease, transform 120ms ease;
 }
 
-.ed-json { font-family: var(--font-mono); }
+.ed-json {
+  font-family: var(--font-mono);
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border-strong) var(--color-bg-sunken);
+}
+.ed-json .ed-json-line {
+  display: flex;
+  align-items: baseline;
+  border-radius: 2px;
+  padding-right: 0.25rem;
+}
+.ed-json .ed-json-line:hover {
+  background: color-mix(in srgb, var(--color-border) 35%, transparent);
+}
+.ed-json .ed-json-line::before {
+  content: attr(data-line);
+  display: inline-block;
+  width: 2.25rem;
+  padding-right: 0.65rem;
+  margin-right: 0.35rem;
+  text-align: right;
+  color: color-mix(in srgb, var(--color-text-tertiary) 60%, transparent);
+  user-select: none;
+  -webkit-user-select: none;
+  flex-shrink: 0;
+  border-right: 1px solid color-mix(in srgb, var(--color-border) 70%, transparent);
+}
 .ed-json .k { color: var(--color-code-key); }
 .ed-json .s { color: var(--color-code-string); }
 .ed-json .n { color: var(--color-code-number); }
 .ed-json .l { color: var(--color-code-literal); }
 .ed-json mark { background: color-mix(in srgb, var(--color-accent) 18%, transparent); color: inherit; border-radius: 2px; }
 
-.ed-graph-edge { transition: opacity 150ms ease; }
-.ed-print-report { display: none; }
+.ed-graph-edge {
+  transition: opacity 160ms ease, filter 160ms ease, stroke-width 160ms ease;
+}
+.ed-graph-edge:hover {
+  filter: drop-shadow(0 1px 3px var(--color-shadow));
+}
+.ed-print-report,
+.ed-print-only { display: none; }
 
 @media print {
   body { background: #fff !important; color: #000 !important; }
   .ed-print-hide, [data-testid="top-header-bar"] { display: none !important; }
-  .ed-print-report { display: block !important; color: #111; font-family: var(--font-sans); }
+  .ed-print-report, .ed-print-only { display: block !important; color: #111; font-family: var(--font-sans); }
   .ed-print-report section { break-inside: avoid; margin-bottom: 18px; }
   .ed-print-report pre { white-space: pre-wrap; font-size: 9px; border: 1px solid #ddd; padding: 8px; }
 }

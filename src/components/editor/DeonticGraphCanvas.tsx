@@ -14,6 +14,7 @@ import { entitySort } from '../../engine/gam-adapter';
 
 const R = 30;
 const LANE: Record<GamSort | 'Unmapped', number> = { User: 0, Role: 1, Activity: 2, Process: 3, Unmapped: 4 };
+const CANONICAL_SORTS: GamSort[] = ['User', 'Role', 'Activity', 'Process'];
 
 interface SimNode extends SimulationNodeDatum {
   id: string;
@@ -92,6 +93,14 @@ export const DeonticGraphCanvas = forwardRef<GraphCanvasHandle, {
   }), [model.entities]);
 
   const refs = useMemo(() => listEdges(model), [model]);
+  const sortCounts = useMemo(() => {
+    const counts: Record<GamSort, number> = { User: 0, Role: 0, Activity: 0, Process: 0 };
+    for (const n of nodes) {
+      if (n.sort !== 'Unmapped') counts[n.sort] = (counts[n.sort] ?? 0) + 1;
+    }
+    return counts;
+  }, [nodes]);
+  const hasHiddenOperators = Object.values(filter).some((v) => !v);
   const structureKey = useMemo(() => `${nodes.map((n) => `${n.id}:${n.sort}`).join(',')}|${refs.map((r) => `${r.edge.source}>${r.edge.target}`).join(',')}`, [nodes, refs]);
 
   useEffect(() => {
@@ -236,7 +245,7 @@ export const DeonticGraphCanvas = forwardRef<GraphCanvasHandle, {
   };
 
   const onKeyDown = (e: React.KeyboardEvent) => {
-    if (e.key === 'Escape') { setMode('select'); setDrag(null); if (selection.kind === 'pending') select({ kind: 'none' }); }
+    if (e.key === 'Escape') { setMode('select'); setDrag(null); if (selection.kind !== 'none') select({ kind: 'none' }); }
     if ((e.key === 'Delete' || e.key === 'Backspace') && selection.kind === 'edge' && !readOnly && !renaming) {
       e.preventDefault();
       dispatch({ type: 'delete-edge', edgeId: selection.id });
@@ -306,6 +315,15 @@ export const DeonticGraphCanvas = forwardRef<GraphCanvasHandle, {
         <span className="mx-1 h-4 w-px bg-ed-border" aria-hidden="true" />
         <button type="button" className={btnGhost} onClick={() => zoomBy(1.2)} aria-label="Zoom in"><ZoomIn className="h-3.5 w-3.5" /></button>
         <button type="button" className={btnGhost} onClick={() => zoomBy(1 / 1.2)} aria-label="Zoom out"><ZoomOut className="h-3.5 w-3.5" /></button>
+        <button
+          type="button"
+          className={`${btnGhost} min-w-[3.25rem] justify-center font-mono text-[11px] tabular-nums`}
+          onClick={fit}
+          title="Current zoom level — click to fit view"
+          aria-label={`Zoom ${Math.round(transform.k * 100)}%, click to fit view`}
+        >
+          {Math.round(transform.k * 100)}%
+        </button>
         <button type="button" className={btnGhost} onClick={fit} data-testid="graph-fit-view"><Maximize2 className="h-3.5 w-3.5" /> Fit</button>
         <button type="button" className={btnGhost} onClick={relayout}><Shuffle className="h-3.5 w-3.5" /> Auto-layout</button>
         <fieldset className="ml-auto flex flex-wrap items-center gap-1" aria-label="Filter by deontic operator">
@@ -316,10 +334,45 @@ export const DeonticGraphCanvas = forwardRef<GraphCanvasHandle, {
               {op}
             </label>
           ))}
+          {hasHiddenOperators && (
+            <button
+              type="button"
+              className="ml-0.5 rounded border border-ed-border bg-ed-surface px-1.5 py-0.5 text-[10.5px] font-medium text-ed-accent hover:border-ed-accent hover:bg-ed-accent-soft transition-colors"
+              onClick={() => onFilterChange(ALL_VISIBLE)}
+              title="Reset all operator filters"
+            >
+              Show all
+            </button>
+          )}
         </fieldset>
       </div>
 
       <div ref={wrapRef} className="relative min-h-[320px] flex-1 overflow-hidden bg-ed-bg">
+        {/* 4-Sort Ontological Swimlane Header Overlay */}
+        <div
+          className="pointer-events-none absolute inset-x-2 top-2 z-10 grid grid-cols-4 gap-1.5 rounded-md border border-ed-border/70 bg-ed-surface/85 px-2.5 py-1 text-[10.5px] shadow-sm backdrop-blur-xs"
+          aria-label="GAM Ontological Sort Lanes"
+        >
+          {CANONICAL_SORTS.map((sort) => {
+            const c = sortColors(sort);
+            return (
+              <div key={sort} className="flex items-center justify-between gap-1.5 border-r border-ed-border/50 pr-2 last:border-r-0 last:pr-0">
+                <span className="inline-flex items-center gap-1.5 font-semibold text-ed-muted">
+                  <span
+                    className="inline-block h-2 w-2 shrink-0 rounded-full border"
+                    style={{ background: c.fill, borderColor: c.stroke }}
+                    aria-hidden="true"
+                  />
+                  <span style={{ color: c.stroke }}>{sortLetter(sort)}</span>
+                  <span className="truncate text-ed-text">· {sort}</span>
+                </span>
+                <span className="rounded bg-ed-sunken px-1.5 py-0.2 font-mono text-[10px] font-medium text-ed-subtle">
+                  {sortCounts[sort]}
+                </span>
+              </div>
+            );
+          })}
+        </div>
         <svg
           ref={svgRef}
           data-testid="deontic-graph-svg"
@@ -482,6 +535,15 @@ export const DeonticGraphCanvas = forwardRef<GraphCanvasHandle, {
         <p className="pointer-events-none absolute bottom-2 left-2 rounded bg-ed-surface/90 px-2 py-1 text-[11px] text-ed-subtle shadow-sm">
           {mode === 'connect' ? 'Drag from a node to another node to create a relation · Esc to cancel' : 'Scroll to zoom · drag canvas to pan · double-click a node to rename · right-click to edit'}
         </p>
+        {selection.kind !== 'none' && (
+          <button
+            type="button"
+            onClick={() => select({ kind: 'none' })}
+            className="pointer-events-auto absolute bottom-2 right-2 z-10 inline-flex items-center gap-1 rounded-full border border-ed-border bg-ed-surface/95 px-2.5 py-1 text-[11px] font-medium text-ed-muted shadow-sm hover:border-ed-accent hover:text-ed-text transition-colors"
+          >
+            Clear selection (Esc)
+          </button>
+        )}
       </div>
     </div>
   );
