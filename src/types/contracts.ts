@@ -253,7 +253,7 @@ export interface ExtractedConceptToken {
     | 'Structure'
     | 'Ordering'
     | 'Unmapped';
-  sourceSpan: SourceSpan;
+  sourceSpan?: SourceSpan;
   clauseId: string;
   verified: boolean;
   mappedEntityId?: string;
@@ -326,8 +326,18 @@ export type InstrumentType =
   | 'Regulation'
   | 'Directive'
   | 'Decision'
+  | 'Treaty'
+  | 'Declaration / resolution'
+  | 'Ordinance'
   | 'Standard / guidance'
   | 'Bill / proposal';
+
+export type CatalogueLevel =
+  | LawMetadata['jurisdictionLevel']
+  | 'Municipal'
+  | 'Free zone'
+  | 'Regional'
+  | 'International';
 
 export type InstrumentStatus =
   | 'in-force'
@@ -344,9 +354,10 @@ export type InstrumentStatus =
  */
 export interface CatalogueInstrument {
   id: string;
-  countryCode: 'CA' | 'US' | 'EU';
+  /** App country code ('CA', 'JP', ...) or 'INT' for international and regional instruments. */
+  countryCode: string;
   jurisdiction: string;
-  jurisdictionLevel: LawMetadata['jurisdictionLevel'];
+  jurisdictionLevel: CatalogueLevel;
   name: string;
   shortName: string;
   citation: string;
@@ -357,6 +368,8 @@ export interface CatalogueInstrument {
   effectiveDate?: string;
   officialSourceUrl?: string;
   translatedLawId?: string;
+  /** True when the entry (and any link) came from a user-supplied reference list and was not independently checked. */
+  userSupplied?: boolean;
 }
 
 export type PipelineStageId =

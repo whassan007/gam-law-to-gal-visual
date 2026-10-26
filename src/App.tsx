@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useCallback } from 'react';
+import React, { useState, useMemo, useCallback, useEffect } from 'react';
 import {
   Globe2,
   BookOpen,
@@ -62,7 +62,13 @@ import type {
   SourceSpan,
 } from './types/contracts';
 
-export function App() {
+import { DeonticEditorScreen } from './components/editor/DeonticEditorScreen';
+import { decodeShare, type EditorDoc, type SharePayload } from './components/editor/editorState';
+
+export function App({ initialView = 'editor' }: { initialView?: 'editor' | 'classic' } = {}) {
+  const [showEditor, setShowEditor] = useState(initialView === 'editor');
+  const [shared, setShared] = useState<SharePayload | null>(null);
+  const [editableDoc, setEditableDoc] = useState<EditorDoc | undefined>();
   // Primary User Journey Screen State ('world' | 'law-selection' | 'translation')
   const [activeScreen, setActiveScreen] = useState<AppScreen>('world');
 
@@ -130,6 +136,30 @@ export function App() {
       translationMode === 'live-pipeline' ? 'live-pipeline' : 'curated'
     );
   }, [activeLaw, activeProvision, translationMode, customLegalText, selectedCountry]);
+
+  useEffect(() => {
+    let cancelled = false;
+    const restore = async () => {
+      const token = window.location.hash.match(/^#share=(.+)$/)?.[1];
+      if (!token) return;
+      const payload = await decodeShare(token);
+      if (cancelled || !payload) return;
+      const law = VERIFIED_LAWS.find((l) => l.id === payload.lawId);
+      const provision = law?.provisions.find((p) => p.id === payload.provisionId);
+      if (!law || !provision) return;
+      setSelectedCountry(COUNTRIES.find((c) => c.code === law.countryCode) ?? null);
+      setSelectedLaw(law);
+      setSelectedProvision(provision);
+      setTranslationMode(payload.mode);
+      if (payload.customText) setCustomLegalText(payload.customText);
+      setShared(payload);
+      setEditableDoc(undefined);
+      setShowEditor(true);
+    };
+    void restore();
+    window.addEventListener('hashchange', restore);
+    return () => { cancelled = true; window.removeEventListener('hashchange', restore); };
+  }, []);
 
   // Accessibility & Reduced Motion Preferences
   const a11y = useAccessibilityPreferences({
@@ -237,8 +267,10 @@ export function App() {
   const handleSelectConcept = useCallback(
     (concept: ExtractedConceptToken | null) => {
       setSelectedConcept(concept);
-      if (concept) {
+      if (concept?.sourceSpan) {
         setActiveSpan({ start: concept.sourceSpan.start, end: concept.sourceSpan.end });
+      } else {
+        setActiveSpan(null);
       }
     },
     []
@@ -346,11 +378,40 @@ export function App() {
     return null;
   }, [activeSpan, timeline.activeEvent]);
 
+  if (showEditor) {
+    const seed = {
+      key: `${activeLaw.id}:${activeProvision.id}:${translationMode}:${translationResult.sourceText}`,
+      lawId: activeLaw.id, provisionId: activeProvision.id,
+      title: `${activeLaw.shortName} · ${activeProvision.section}`,
+      subtitle: activeProvision.title, readiness: translationResult.readiness,
+      sourceText: translationResult.sourceText, clauses: translationResult.clauses,
+      concepts: translationResult.concepts, galModel: translationResult.galModel,
+      unmappedClauses: translationResult.validation.unmappedClauses.map((c) => ({ ...c, sourceSpan: translationResult.clauses.find((x) => x.id === c.clauseId)?.sourceSpan ?? { start: 0, end: 0 } })),
+      ambiguousInterpretations: translationResult.validation.ambiguousInterpretations.map((c) => ({ ...c, sourceSpan: translationResult.clauses.find((x) => x.id === c.clauseId)?.sourceSpan ?? { start: 0, end: 0 } })),
+    };
+    const leaveShared = () => { setShared(null); setEditableDoc(undefined); window.history.replaceState(null, '', window.location.pathname + window.location.search); };
+    return <DeonticEditorScreen
+      seed={seed} initialDoc={editableDoc ?? shared?.doc} readOnly={!!shared?.readOnly}
+      onCustomText={(text) => { leaveShared(); setCustomLegalText(text); setTranslationMode('custom'); }}
+      mode={translationMode} customText={customLegalText} countries={COUNTRIES}
+      countryLaws={countryLaws} selectedCountry={selectedCountry} law={activeLaw} provision={activeProvision}
+      reducedMotion={a11y.reducedMotion}
+      onSelectCountry={(c) => { leaveShared(); handleSelectCountry(c); }}
+      onSelectLaw={(l) => { leaveShared(); handleSelectLaw(l); }}
+      onSelectProvision={(p) => { leaveShared(); handleSelectProvision(p); }}
+      onChangeMode={(m) => { leaveShared(); setTranslationMode(m); }}
+      onBackToGlobe={() => { setShowEditor(false); setActiveScreen('world'); }}
+      onOpenClassic={() => { setShowEditor(false); setActiveScreen('translation'); }}
+      onMakeEditable={(doc) => { leaveShared(); setEditableDoc(structuredClone(doc)); }}
+    />;
+  }
+
   return (
     <div
       className="min-h-screen bg-[#070B14] text-slate-100 flex flex-col font-sans selection:bg-cyan-500/30 selection:text-cyan-100"
       data-testid="gam-law-to-gal-app"
     >
+      <button type="button" onClick={() => setShowEditor(true)} className="bg-blue-600 px-4 py-2 text-sm font-semibold text-white" data-testid="open-deontic-editor">Open interactive deontic editor →</button>
       {/* Top Global Navigation & Journey Header */}
       <TopHeaderBar
         activeScreen={activeScreen}

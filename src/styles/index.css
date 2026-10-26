@@ -49,3 +49,200 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(56, 189, 248, 0.45);
 }
+
+/* ==========================================================================
+   Deontic editor design system (light by default, KIBO-style).
+   Scoped to .law-editor so the existing dark screens are unaffected.
+   ========================================================================== */
+.law-editor {
+  /* Neutral palette */
+  --color-bg-primary: #FAFAFA;
+  --color-bg-secondary: #FFFFFF;
+  --color-bg-sunken: #F3F4F6;
+  --color-border: #E5E7EB;
+  --color-border-strong: #D1D5DB;
+  --color-shadow: rgba(0, 0, 0, 0.05);
+
+  /* Text */
+  --color-text-primary: #111827;
+  --color-text-secondary: #4B5563;
+  --color-text-tertiary: #6B7280;
+
+  /* Accent */
+  --color-accent: #2563EB;
+  --color-accent-soft: #EFF6FF;
+  --color-on-accent: #FFFFFF;
+
+  /* Status */
+  --color-error: #B91C1C;
+  --color-error-soft: #FEF2F2;
+  --color-warning: #A16207;
+  --color-warning-soft: #FEFCE8;
+  --color-success: #047857;
+  --color-success-soft: #ECFDF5;
+
+  /* Deontic operators (semantic colors) */
+  --color-deontic-must: #DC2626;
+  --color-deontic-shall: #EA580C;
+  --color-deontic-may: #2563EB;
+  --color-deontic-can: #059669;
+  --color-deontic-prohibit: #7C3AED;
+
+  /* GAM sorts (graph node fills / strokes) */
+  --color-sort-p-fill: #E0E7FF; --color-sort-p: #4338CA;
+  --color-sort-a-fill: #FEF9C3; --color-sort-a: #A16207;
+  --color-sort-r-fill: #DCFCE7; --color-sort-r: #15803D;
+  --color-sort-u-fill: #FCE7F3; --color-sort-u: #BE185D;
+  --color-sort-x-fill: #F3F4F6; --color-sort-x: #6B7280;
+
+  /* Stage indicators */
+  --color-stage-input: #DBEAFE;
+  --color-stage-extract: #FEF08A;
+  --color-stage-entity: #D1E7DD;
+  --color-stage-relation: #E2E8F0;
+  --color-stage-translate: #FCE7F3;
+  --color-stage-output: #E0E7FF;
+
+  /* JSON syntax */
+  --color-code-key: #1D4ED8;
+  --color-code-string: #047857;
+  --color-code-number: #B45309;
+  --color-code-literal: #7C3AED;
+
+  /* Typography */
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "Fira Code", "SFMono-Regular", Menlo, "Courier New", monospace;
+
+  color-scheme: light;
+  background: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  font-family: var(--font-sans);
+}
+
+.law-editor[data-theme="dark"] {
+  --color-bg-primary: #111827;
+  --color-bg-secondary: #1F2937;
+  --color-bg-sunken: #0B1220;
+  --color-border: #374151;
+  --color-border-strong: #4B5563;
+  --color-shadow: rgba(0, 0, 0, 0.35);
+  --color-text-primary: #F3F4F6;
+  --color-text-secondary: #D1D5DB;
+  --color-text-tertiary: #9CA3AF;
+  --color-accent: #60A5FA;
+  --color-accent-soft: #172554;
+  --color-on-accent: #0B1220;
+  --color-error: #F87171;
+  --color-error-soft: #3B1515;
+  --color-warning: #FACC15;
+  --color-warning-soft: #33290A;
+  --color-success: #34D399;
+  --color-success-soft: #0B2E22;
+  --color-deontic-must: #F87171;
+  --color-deontic-shall: #FB923C;
+  --color-deontic-may: #60A5FA;
+  --color-deontic-can: #34D399;
+  --color-deontic-prohibit: #A78BFA;
+  --color-sort-p-fill: #1E1B4B; --color-sort-p: #A5B4FC;
+  --color-sort-a-fill: #3A2E05; --color-sort-a: #FDE047;
+  --color-sort-r-fill: #052E16; --color-sort-r: #86EFAC;
+  --color-sort-u-fill: #3F0A26; --color-sort-u: #F9A8D4;
+  --color-sort-x-fill: #1F2937; --color-sort-x: #9CA3AF;
+  --color-stage-input: #1E3A5F;
+  --color-stage-extract: #4A3F0B;
+  --color-stage-entity: #14392A;
+  --color-stage-relation: #2A3342;
+  --color-stage-translate: #4A1D36;
+  --color-stage-output: #2A2F5C;
+  --color-code-key: #93C5FD;
+  --color-code-string: #6EE7B7;
+  --color-code-number: #FCD34D;
+  --color-code-literal: #C4B5FD;
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  .law-editor[data-theme="system"] {
+    --color-bg-primary: #111827;
+    --color-bg-secondary: #1F2937;
+    --color-bg-sunken: #0B1220;
+    --color-border: #374151;
+    --color-border-strong: #4B5563;
+    --color-shadow: rgba(0, 0, 0, 0.35);
+    --color-text-primary: #F3F4F6;
+    --color-text-secondary: #D1D5DB;
+    --color-text-tertiary: #9CA3AF;
+    --color-accent: #60A5FA;
+    --color-accent-soft: #172554;
+    --color-on-accent: #0B1220;
+    --color-error: #F87171;
+    --color-error-soft: #3B1515;
+    --color-warning: #FACC15;
+    --color-warning-soft: #33290A;
+    --color-success: #34D399;
+    --color-success-soft: #0B2E22;
+    --color-deontic-must: #F87171;
+    --color-deontic-shall: #FB923C;
+    --color-deontic-may: #60A5FA;
+    --color-deontic-can: #34D399;
+    --color-deontic-prohibit: #A78BFA;
+    --color-sort-p-fill: #1E1B4B; --color-sort-p: #A5B4FC;
+    --color-sort-a-fill: #3A2E05; --color-sort-a: #FDE047;
+    --color-sort-r-fill: #052E16; --color-sort-r: #86EFAC;
+    --color-sort-u-fill: #3F0A26; --color-sort-u: #F9A8D4;
+    --color-sort-x-fill: #1F2937; --color-sort-x: #9CA3AF;
+    --color-stage-input: #1E3A5F;
+    --color-stage-extract: #4A3F0B;
+    --color-stage-entity: #14392A;
+    --color-stage-relation: #2A3342;
+    --color-stage-translate: #4A1D36;
+    --color-stage-output: #2A2F5C;
+    --color-code-key: #93C5FD;
+    --color-code-string: #6EE7B7;
+    --color-code-number: #FCD34D;
+    --color-code-literal: #C4B5FD;
+    color-scheme: dark;
+  }
+}
+
+.law-editor ::-webkit-scrollbar-track { background: var(--color-bg-sunken); }
+.law-editor ::-webkit-scrollbar-thumb { background: var(--color-border-strong); }
+
+.law-editor :focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* Deontic operator badge: color carries meaning, label always present for accessibility. */
+.op-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.0625rem 0.4rem;
+  border-radius: 0.3rem;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.25rem;
+  white-space: nowrap;
+  color: var(--op-color);
+  background: color-mix(in srgb, var(--op-color) 12%, transparent);
+  border: 1px solid color-mix(in srgb, var(--op-color) 40%, transparent);
+}
+
+.ed-json { font-family: var(--font-mono); }
+.ed-json .k { color: var(--color-code-key); }
+.ed-json .s { color: var(--color-code-string); }
+.ed-json .n { color: var(--color-code-number); }
+.ed-json .l { color: var(--color-code-literal); }
+.ed-json mark { background: color-mix(in srgb, var(--color-accent) 18%, transparent); color: inherit; border-radius: 2px; }
+
+.ed-graph-edge { transition: opacity 150ms ease; }
+.ed-print-report { display: none; }
+
+@media print {
+  body { background: #fff !important; color: #000 !important; }
+  .ed-print-hide, [data-testid="top-header-bar"] { display: none !important; }
+  .ed-print-report { display: block !important; color: #111; font-family: var(--font-sans); }
+  .ed-print-report section { break-inside: avoid; margin-bottom: 18px; }
+  .ed-print-report pre { white-space: pre-wrap; font-size: 9px; border: 1px solid #ddd; padding: 8px; }
+}

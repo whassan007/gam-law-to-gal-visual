@@ -37,7 +37,7 @@ describe('Section 14: 16 Mandatory Acceptance Tests for LAW -> GAL Interactive V
   // Test 1: Globe Navigation
   // ---------------------------------------------------------------------------
   it('Test 1 — Globe Navigation: renders the interactive globe and selecting a country updates the active jurisdiction', () => {
-    render(<App />);
+    render(<App initialView="classic" />);
 
     // Verify Screen 1 (World View) renders
     const worldScreen = screen.getByTestId('screen-world-view');
@@ -56,7 +56,7 @@ describe('Section 14: 16 Mandatory Acceptance Tests for LAW -> GAL Interactive V
   // Test 2: Law Selection
   // ---------------------------------------------------------------------------
   it('Test 2 — Law Selection: selecting a supported country displays available laws with real source metadata', () => {
-    render(<App />);
+    render(<App initialView="classic" />);
 
     // Select European Union
     fireEvent.click(screen.getByTestId('country-option-EU'));
@@ -80,7 +80,7 @@ describe('Section 14: 16 Mandatory Acceptance Tests for LAW -> GAL Interactive V
   // Test 3: Unsupported Country Handling
   // ---------------------------------------------------------------------------
   it('Test 3 — Unsupported Country Handling: selecting a country without a validated law pack displays an honest unsupported state', () => {
-    render(<App />);
+    render(<App initialView="classic" />);
 
     const unsupportedCountries = COUNTRIES.filter((c) => !c.supported);
     expect(unsupportedCountries.length).toBeGreaterThan(0);
@@ -212,7 +212,7 @@ describe('Section 14: 16 Mandatory Acceptance Tests for LAW -> GAL Interactive V
   // Test 8: Playback Controls
   // ---------------------------------------------------------------------------
   it('Test 8 — Playback Controls: Process, Pause, Resume, Step, Replay, Speed and Reset controls work deterministically', () => {
-    render(<App />);
+    render(<App initialView="classic" />);
 
     // Click Process Legislation -> GAL on Screen 1
     fireEvent.click(screen.getByTestId('world-process-law-button'));
@@ -243,7 +243,7 @@ describe('Section 14: 16 Mandatory Acceptance Tests for LAW -> GAL Interactive V
   // Test 9: Source-to-GAL Traceability
   // ---------------------------------------------------------------------------
   it('Test 9 — Source-to-GAL Traceability: clicking a GAL entity or relation highlights its source legal span', () => {
-    render(<App />);
+    render(<App initialView="classic" />);
     fireEvent.click(screen.getByTestId('world-process-law-button'));
 
     // Switch right pane to GAL-JSON viewer
@@ -264,7 +264,7 @@ describe('Section 14: 16 Mandatory Acceptance Tests for LAW -> GAL Interactive V
   // Test 10: GAL Export
   // ---------------------------------------------------------------------------
   it('Test 10 — GAL Export: Copy GAL and Download GAL-JSON produce valid JSON matching the displayed model', () => {
-    render(<App />);
+    render(<App initialView="classic" />);
     fireEvent.click(screen.getByTestId('world-process-law-button'));
     fireEvent.click(screen.getByTestId('right-tab-gal-json'));
 
@@ -298,7 +298,7 @@ describe('Section 14: 16 Mandatory Acceptance Tests for LAW -> GAL Interactive V
       }
     }
 
-    render(<App />);
+    render(<App initialView="classic" />);
     fireEvent.click(screen.getByTestId('world-process-law-button'));
     fireEvent.click(screen.getByTestId('right-tab-formal-validation'));
 
@@ -373,7 +373,7 @@ describe('Section 14: 16 Mandatory Acceptance Tests for LAW -> GAL Interactive V
   it('Test 14 — Reduced Motion: enabling prefers-reduced-motion disables heavy motion while preserving all content and controls', () => {
     expect(typeof detectSystemReducedMotion()).toBe('boolean');
 
-    render(<App />);
+    render(<App initialView="classic" />);
     const toggleBtn = screen.getByTestId('toggle-reduced-motion');
     expect(toggleBtn).toBeInTheDocument();
 
@@ -394,7 +394,7 @@ describe('Section 14: 16 Mandatory Acceptance Tests for LAW -> GAL Interactive V
     expect(getViewportModeFromWidth(900)).toBe('tablet');
     expect(getViewportModeFromWidth(390)).toBe('mobile');
 
-    render(<App />);
+    render(<App initialView="classic" />);
     fireEvent.click(screen.getByTestId('world-process-law-button'));
 
     // Mobile/Tablet pane switcher is rendered in the DOM for viewports < 1024px

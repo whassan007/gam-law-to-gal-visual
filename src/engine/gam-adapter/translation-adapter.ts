@@ -5,7 +5,7 @@ import { ConsistencyChecker } from '../gam-core/consistency-checker.js';
 import { OntologyChecker } from '../gam-core/ontology-checker.js';
 import { emitAlloy } from '../gam-core/alloy-emitter.js';
 import { entitySort, normalizeEdgeDirections } from './direction-guard';
-import { buildTranslationTrace, extractLiveConcepts, segmentLegalText } from './trace-builder';
+import { buildTranslationTrace, extractLiveConcepts, segmentLegalText, type TraceInput } from './trace-builder';
 
 /** Use declared sorts and the known DepartmentRole alias; never coerce data/constraints into capabilities. */
 export function normalizeGamModel(input: GalJsonModel): GalJsonModel {
@@ -67,6 +67,33 @@ export function translateLawProvision(law: LawMetadata, provision: LawProvision,
 export function translateCustomPassage(text: string, jurisdiction = { country: 'OTHER', level: 'Federal', name: 'Custom passage' }): TranslationResult {
   // Fixed unknown date keeps output deterministic; custom text supplies no effective date.
   return liveTranslation(text, jurisdiction, '1970-01-01', 'custom', 'custom-passage');
+}
+
+/** Drop checks that prepareModel generated, so a re-prepared edited model does not keep checks for deleted entities. */
+export function stripGeneratedChecks(model: GalJsonModel): GalJsonModel {
+  const out = structuredClone(model);
+  const generated = new Set(((generateValidationChecks(model) as GalJsonModel['validation_checks']) ?? []).map(c => JSON.stringify(c)));
+  out.validation_checks = (out.validation_checks ?? []).filter(c => !generated.has(JSON.stringify(c)));
+  return out;
+}
+
+export interface EditedTranslationInput {
+  lawId: string;
+  provisionId: string;
+  readiness: TranslationResult['readiness'];
+  sourceText: string;
+  clauses: TraceInput['clauses'];
+  concepts: TraceInput['concepts'];
+  /** Authored model without generated checks (see stripGeneratedChecks). */
+  galModel: GalJsonModel;
+  unmappedClauses?: TraceInput['unmappedClauses'];
+  ambiguousInterpretations?: TraceInput['ambiguousInterpretations'];
+}
+
+/** Re-run the full trace (schema, closure/SAT consistency, ontology, directions, Alloy emission) over an edited model. */
+export function retranslateEditedModel(input: EditedTranslationInput): TranslationResult {
+  const { lawId, provisionId, readiness, galModel, ...trace } = input;
+  return { lawId, provisionId, readiness, sourceText: trace.sourceText, ...buildTranslationTrace({ ...trace, galModel: prepareModel(galModel) }) };
 }
 
 export function runEnterpriseComparison(comparisonCase: EnterpriseComparisonCase, useRemediated = false) {

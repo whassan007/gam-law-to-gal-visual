@@ -97,6 +97,29 @@ Three.js, D3-geo, TopoJSON, World-Atlas, and Lucide third-party notices.
 
 ## Instrument catalogue and source texts
 
-`src/data/verified-examples/instrument-catalogue.ts` catalogues privacy, data-protection, cybersecurity and cross-border instruments for Canada, the United States and the European Union. Entries are metadata only; only those linked by `translatedLawId` have curated GAL translations. Citations were compiled without machine verification.
+`src/data/verified-examples/instrument-catalogue.ts` and `instrument-catalogue-world.ts` catalogue privacy, data-protection, cybersecurity and cross-border instruments. Entries are metadata only; only those linked by `translatedLawId` have curated GAL translations. Many world-catalogue citations and links are candidate inventory and have not been independently verified.
 
-`npm run fetch:sources` downloads authoritative texts from the original publishers (Justice Laws, EU Publications Office, eCFR, GPO govinfo, provincial and state legislatures, NIST, ...) into `public/source-texts/`, with provenance in `manifest.json` (URL, retrieval time, SHA-256, content check). Sources that reject automated requests, or that cannot be verified, are recorded as `blocked` / `failed` with a reason; no access control is bypassed. Use `-- --only id1,id2` or `-- --missing` to limit a run. Source registry: `scripts/source-fetch/registry.mjs`.
+`npm run fetch:sources` retrieves text from the endpoints configured in `scripts/source-fetch/registry.mjs` and stores it in `public/source-texts/`, with URL, retrieval time, SHA-256, and a phrase-based content check in `manifest.json`. Publisher and text authority vary by entry; some sources are unofficial reproductions, archived copies, proposals, or guidance. A successful fetch or phrase match does **not** verify the legal citation, current status, effective date, or interpretation. Entries whose requests fail are recorded as `blocked` / `failed` with a reason; no access control is bypassed. Use `-- --only id1,id2` or `-- --missing` to limit a run.
+
+
+## Interactive deontic editor
+
+The app opens in a light, two-pane workspace: six translation stages on the left,
+and an editable deontic graph, entity inspector, and collapsible live output on the right.
+Use **Edit extraction** to rename, add, remove, or categorize concepts. Bound concept
+names update graph labels and GAL-JSON immediately. Select graph nodes or relations
+to inspect their source clauses, change operators, or remove them. The graph toolbar
+supports connecting nodes, filtering operators, zooming, and fitting the graph.
+
+Use **Translate your own statute** for custom input. Drafts are stored in this browser;
+undo/redo retains ten edits. Share buttons encode the current document into a URL
+fragment, with read-only links offering an editable-copy action. These links contain
+the model and are not an access-control mechanism. **Globe** and **Animated pipeline**
+open the existing research views; their editor button returns to this workspace.
+
+Exports include GAL-JSON, Alloy specifications, and a report through the browser's
+Print / Save as PDF dialog. Validation reruns schema, direction, and closure/SAT
+checks after edits. The Alloy Analyzer is not embedded: download the specification
+and run it with `alloy/gam_core.als` for Alloy verification. Publishing proposals to
+KIBO requires an authentication and ontology API integration, which this repository
+does not currently provide.
