@@ -1,0 +1,4012 @@
+© Published by Alberta King’s Printer
+Alberta King’s Printer
+Suite 700, Park Plaza
+10611 - 98 Avenue
+Edmonton, AB T5K 2P7
+Phone: 780-427-4952
+E-mail: kings-printer@gov.ab.ca
+Shop on-line at kings-printer.alberta.ca
+Province of Alberta
+Office Consolidation
+Revised Statutes of Alberta 2000
+Chapter H-5
+Current as of July 2, 2026
+HEALTH INFORMATION ACT
+Copyright and Permission Statement
+The Government of Alberta, through the Alberta King’s Printer, holds copyright
+for all Alberta legislation. Alberta King’s Printer permits any person to reproduce
+Alberta’s statutes and regulations without seeking permission and without charge,
+provided due diligence is exercised to ensure the accuracy of the materials
+produced, and copyright is acknowledged in the following format:
+© Alberta King’s Printer, 20__.*
+*The year of first publication of the legal materials is to be completed.
+Note
+All persons making use of this consolidation are reminded that it has no
+legislative sanction, that amendments have been embodied for convenience of
+reference only. The official Statutes and Regulations should be consulted for all
+purposes of interpreting and applying the law.
+Amendments Not in Force
+This consolidation incorporates only those amendments in force on the
+consolidation date shown on the cover. It does not include the following
+amendments:
+2020 c35 s15 amends s1(1); s57 repeals s56.51.
+2021 c25 s7 amends s1(1)(a)(vi).
+2025 c10 s25 amends s1(1).
+Regulations
+The following is a list of the regulations made under the Health Information Act
+that are filed as Alberta Regulations under the Regulations Act
+Alta. Reg. Amendments
+Health Information Act
+Alberta Electronic Health Record ..................118/2010 ......... 50/2015, 17/2018,
+220/2025, 112/2026
+Health Information .........................................70/2001 ........... 251/2001, 354/2003,
+8/2005, 105/2005,
+212/2005, 14/2007,
+35/2007, 68/2008,
+196/2008, 119/2010,
+155/2010, 31/2012,
+170/2012, 168/2013,
+49/2014, 20/2017,
+17/2018, 60/2018,
+206/2020, 60/2022,
+216/2022, 59/2023,
+125/2024, 216/2024,
+NOTE: AR 214/2025 s20 comes into force 158/2025, 214/2025,
+on the coming into force of s45(17) of the 291/2025, 113/2026,
+Health Statutes Amendment Act, 2025 119/2026
+Health Information (Ministerial) ....................106/2026 ......... 159/2026
+
+1
+HEALTH INFORMATION ACT
+Chapter H-5
+Table of Contents
+Part 1
+Introductory Matters
+1 Interpretation
+2 Purposes of Act
+3 Scope of Act
+4 Inconsistency or conflict with another enactment
+5 Application of Parts of Act
+6 Act binds custodian acting under another enactment
+Part 2
+Individual’s Right to Access
+Individual’s Health Information
+7 Right of individual to access individual’s health information
+8 How to make a request
+9 Abandoned request
+10 Duty to assist applicants
+11 Right to refuse access to health information
+12 Time limit for responding to a request for access
+13 Correction or amendment of health information
+14 Refusal to correct or amend information
+15 Extending time
+16 Request under s8 or s13 deemed to be a request under
+Access to Information Act or Protection of Privacy Act
+17 Existing procedures still available
+Part 3
+Collection of Health Information
+18 Prohibition re collection of health information
+19 Collection of non-identifying health information
+20 Collection of individually identifying health information
+21 Collection of personal health number
+RSA 2000
+Chapter H-5HEALTH INFORMATION ACT
+2
+21.1 Incidental collection of personal health number
+22 Duty to collect health information from subject individual
+23 Use of device to collect health information
+24 Collection of health information by affiliate
+Part 4
+Use of Health Information
+25 Prohibition re use of health information
+26 Use of non-identifying health information
+27 Use of individually identifying health information
+27.1 Maintaining information re automated system
+28 Use of health information by affiliate
+29 Confidentiality of non-recorded information
+30 Use of personal health number by non-custodian
+Part 5
+Disclosure of Health Information
+Division 1
+General Disclosure Rules
+31 Prohibition re disclosure of health information
+32 Disclosure of non-identifying health information
+33 Disclosure of information to individual who is subject of information
+34 Disclosure of individually identifying health information with consent
+35 Disclosure of diagnostic, treatment and care information
+36 Disclosure of registration information
+37.1 Disclosure to prevent or limit fraud or abuse of health services
+37.3 Disclosure to protect public health and safety
+38 Disclosure for purpose of storage
+38.1 Disclosure by public body re common or
+integrated program or service
+39 Disclosure by Minister and Department
+40 Disclosure to ministerial custodian
+41 Maintaining certain disclosure information
+42 Notification of purpose of and authority for disclosure
+43 Disclosure of health information by affiliate
+44 Confidentiality of non-recorded information
+45 Duty of custodian
+Division 2
+Disclosure for Health System Purposes
+46 Disclosure to Minister or Department
+47 Disclosure to other custodians
+RSA 2000
+Chapter H-5HEALTH INFORMATION ACT
+3
+Division 3
+Disclosure for Research Purposes
+49 Proposed research protocol
+50 Role of research ethics board
+50.1 Publication of response
+51 Bar to research
+52 Application for disclosure of health information or
+to perform data matching
+52.1 Research approved outside Alberta
+53 Conditions and consents
+54 Agreement between custodian and researcher
+54.1 Duties of researcher
+55 Consent for additional information
+56 Court order
+Part 5.1
+Shared Health Information and
+Alberta Electronic Health Record
+Division 1
+Interpretation
+56.2 Purpose
+56.201 Interaction with other Parts
+56.202 Where shared health information is made
+accessible via Alberta EHR
+Division 2
+Shared Health Information
+56.203 Making shared health information accessible
+56.204 Privacy impact assessment
+56.205 Consent not required
+56.206 Duties in making health information accessible
+to sharing custodians and authorized users
+56.207 Additional rules for certain custodians
+56.208 Use of shared health information
+56.209 Maintaining log of access
+56.2091 Disclosure of shared health information
+56.2092 Not collection, disclosure
+Division 3
+Alberta Electronic Health Record
+56.21 Department powers and duties re Alberta EHR
+56.22 Designation of authorized custodians
+RSA 2000
+Chapter H-5HEALTH INFORMATION ACT
+4
+56.3 Making health information accessible — regulated
+health services providers
+56.31 Making health information accessible — authorized custodians
+56.32 Making health information accessible — Minister’s direction
+56.33 Consent not required
+56.4 Duties in making health information accessible
+via Alberta EHR
+56.5 Use of health information accessible via the Alberta EHR
+56.6 Maintaining log of Alberta EHR access
+56.61 Access request for health information accessible
+via the Alberta EHR
+56.63 Disclosure of health information accessible via the Alberta EHR
+56.64 Not collection, disclosure
+Division 4
+General
+56.7 Multi-disciplinary data stewardship committee
+56.71 Termination of agreement and protocol
+56.8 Regulations
+56.9 Standards or guidelines
+Part 6
+Duties and Powers of Custodians
+Relating to Health Information
+Division 1
+General Duties and Powers
+57 Duty to collect, use or disclose health information
+with highest degree of anonymity possible
+58 Duty to collect, use or disclose health information
+in a limited manner
+60 Duty to protect health information
+60.01 Duty to comply with standards
+60.1 Duty to notify
+60.2 Duty re abandoned records
+61 Duty to ensure accuracy of health information
+62 Duty re affiliates
+63 Duty to establish privacy management program
+63.1 Power to prepare policies and procedures — health
+professional body
+64 Duty to prepare privacy impact assessment
+64.1 Privacy impact assessment re common or
+integrated program or service
+64.2 Power to prepare information security policy
+RSA 2000
+Chapter H-5HEALTH INFORMATION ACT
+5
+65 Power to transform health information
+66 Power to enter agreement with information manager
+67 Power to charge fees
+Division 2
+Data Matching
+68 Prohibition
+69 Data matching
+70 Data matching by custodians or health information repository
+71 Data matching by custodian or health information
+repository and non-custodian
+72 Data matching for research
+Part 6.1
+Health Information Repository
+72.1 Designation
+72.2 Disclosure of information
+72.3 Powers and duties of repository
+72.4 Correction or amendment of health information by repository
+72.5 Consultation with Commissioner
+Part 7
+Commissioner
+Division 1
+Reviews by Commissioner
+73 Right to ask for a review
+74 How to ask for a review
+75 Notifying others of review
+76 Mediation may be authorized
+77 Inquiry by Commissioner
+78 Refusal to conduct inquiry
+79 Burden of proof
+80 Commissioner’s orders
+81 No appeal
+82 Duty to comply with order
+Division 2
+Disclosure to Commissioner
+83 Disclosure to Commissioner
+Division 3
+Additional Powers and Duties of Commissioner
+84 General powers of Commissioner
+RSA 2000
+Chapter H-5HEALTH INFORMATION ACT
+6
+85 Power to resolve complaints
+85.1 Power to order notification under section 60.1
+86 Advice and recommendations
+87 Power to authorize a custodian to disregard requests
+88 Powers of Commissioner in conducting investigations or inquiries
+89 Statements made to Commissioner not admissible in evidence
+90 Privileged information
+91 Restrictions on disclosure of information by Commissioner
+and staff
+92 Immunity from suit
+93 Delegation by Commissioner
+94 Role of Ombudsman
+95 Annual report of Commissioner
+Division 4
+Conflict of Interest of Commissioner
+96 Adjudicator
+97 Powers, duties and functions of adjudicator
+98 Review where Commissioner in conflict
+99 How to ask for a review
+100 Notifying others of review
+101 Conduct and outcome of review
+Part 8
+General Provisions
+102 Oaths
+103 Manner of giving notice
+104 Exercise of rights by other persons
+105 Immunity from suit
+106 Protection of employee
+107 Offences and penalties
+108 Regulations
+108.1 Standards for the security and protection
+of health information
+109 Review of Act
+Part 9
+Consequential Amendments,
+Paramountcy and Coming into Force
+110-124 Consequential amendments
+125 Coming into force
+RSA 2000
+Section 1 Chapter H-5HEALTH INFORMATION ACT
+7
+HER MAJESTY, by and with the advice and consent of the
+Legislative Assembly of Alberta, enacts as follows:
+Part 1
+Introductory Matters
+Interpretation
+1(1) In this Act,
+(a) “affiliate”, in relation to a custodian, means
+(i) an individual employed by the custodian,
+(ii) a person who performs a service for the custodian as an
+appointee, volunteer or student or under a contract or
+agency relationship with the custodian,
+(iii) a health services provider who is exercising the right to
+admit and treat patients at an approved hospital under
+the Provincial Health Agencies Act,
+(iv) an information manager, and
+(v) a person who is designated under the regulations to be an
+affiliate,
+but does not include
+(vi) an agent as defined in the Health Insurance Premiums
+Act, or
+(vii) a health information repository other than a health
+information repository that is designated in the
+regulations as an affiliate;
+(a.1) “Alberta EHR” means the integrated electronic health
+information system established to provide access to the
+health information accessible via the Alberta EHR in a
+secure environment as may be further defined or described
+in the regulations;
+(b) “applicant” means an individual who makes a request for
+access to a record under section 8(1) or for a correction or
+amendment of health information under section 13(1);
+(c) “audit” means a financial, clinical or other formal or
+systematic examination or review of a program, activity or
+other matter under this Act;
+RSA 2000
+Section 1 Chapter H-5HEALTH INFORMATION ACT
+8
+(c.1) “authorized custodian” means a custodian of health
+information accessible via the Alberta EHR that is
+(i) a custodian referred to in section 1(1)(f)(iii) or (iv),
+(ii) a ministerial custodian,
+(iii) a departmental custodian, or
+(iv) any other custodian the Minister designates to be an
+authorized custodian in accordance with the regulations;
+(c.2) “authorized user” means a person, other than a custodian,
+authorized under Part 5.1 to use shared health information
+or to use health information accessible via the Alberta EHR;
+(c.3) “automated system” means any technology that assists or
+replaces the judgment of human decision makers using a
+rules-based system, regression analysis, predictive analytics,
+machine learning, deep learning, a neural network or
+another technique;
+(d) “collect” means to gather, acquire, receive or obtain health
+information;
+(e) “Commissioner” means the Information and Privacy
+Commissioner appointed under Part 2 of the Access to
+Information Act;
+(e.1) “common or integrated program or service” means a
+program or service
+(i) that is planned, administered, delivered or managed and,
+if applicable, monitored or evaluated by one or more
+public bodies and one or more custodians working
+collaboratively, and
+(ii) within which health services and any related well-being
+services are provided;
+(f) “custodian” means
+(i) a hospital operator of a health services sector in an
+approved hospital under the Provincial Health Agencies
+Act other than a hospital operator that is a provincial
+health agency, regional health authority or provincial
+health corporation under the Provincial Health Agencies
+Act;
+RSA 2000
+Section 1 Chapter H-5HEALTH INFORMATION ACT
+9
+(ii) the operator of a continuing care home as defined in the
+Continuing Care Act other than a continuing care home
+owned and operated by a provincial health agency,
+regional health authority or provincial health corporation
+under the Provincial Health Agencies Act;
+(ii.1) an ambulance operator as defined in the Emergency
+Health Services Act;
+(iii) a health services delivery organization as defined in the
+Provincial Health Agencies Act;
+(iv) a provincial health agency, regional health authority or
+provincial health corporation under the Provincial
+Health Agencies Act;
+(v) a community health council as defined in the Provincial
+Health Agencies Act;
+(vi) a subsidiary health corporation as defined in the
+Provincial Health Agencies Act;
+(vii) repealed 2008 cH-4.3 s18;
+(viii) a board, council, committee, commission, panel or
+agency that is created by a custodian referred to in
+subclauses (i) to (vi), if all or a majority of its members
+are appointed by, or on behalf of, that custodian, but
+does not include a committee that has as its primary
+purpose the carrying out of quality assurance activities
+within the meaning of section 9 of the Alberta Evidence
+Act;
+(ix) a health services provider who is designated in the
+regulations as a custodian, or who is within a class of
+health services providers that is designated in the
+regulations for the purpose of this subclause;
+(ix.1) the Health Quality Council of Alberta;
+(ix.2) the Canadian Centre of Recovery Excellence;
+(x) a licensed pharmacy as defined in the Pharmacy and
+Drug Act;
+(xi) repealed 2009 c25 s2;
+(xii) the Department;
+RSA 2000
+Section 1 Chapter H-5HEALTH INFORMATION ACT
+10
+(xii.1) the department administered by the Minister referred to
+in subclause (xiii.1);
+(xii.2) the department administered by the Minister referred to
+in subclause (xiii.2);
+(xii.3) the department administered by the Minister referred to
+in subclause (xiii.3);
+(xiii) the Minister;
+(xiii.1) the Minister responsible for the Mental Health Services
+Protection Act;
+(xiii.2) the Minister responsible for the Health Facilities Act;
+(xiii.3) the Minister responsible for the Continuing Care Act;
+(xiv) an individual or board, council, committee, commission,
+panel, agency, corporation or other entity designated in
+the regulations as a custodian,
+(xv) repealed 2008 cH-4.3 s18,
+(xvi) repealed 2013 cB-7.5 s11;
+(g) “data matching” means the creation of individually
+identifying health information by combining individually
+identifying health information or other individually
+identifying information from 2 or more electronic databases,
+without the consent of the individuals who are the subjects
+of the information;
+(h) “Department” means the Department administered by the
+Minister;
+(h.1) “departmental custodian” means a custodian referred to in
+clause (f)(xii), (xii.1), (xii.2) or (xii.3);
+(i) “diagnostic, treatment and care information” means
+information about any of the following:
+(i) the physical and mental health of an individual;
+(ii) a health service provided to an individual, including the
+following information respecting a health services
+provider who provides a health service to that individual:
+(A) name;
+RSA 2000
+Section 1 Chapter H-5HEALTH INFORMATION ACT
+11
+(B) business title;
+(C) business mailing address and business electronic
+address;
+(D) business telephone number and business facsimile
+number;
+(E) type of health services provider;
+(F) licence number or any other number assigned to the
+health services provider by a health professional
+body to identify that health services provider;
+(G) profession;
+(H) job classification;
+(I) employer;
+(J) municipality in which the health services provider’s
+practice is located;
+(K) provincial service provider identification number that
+is assigned to the health services provider by the
+Minister to identify the health services provider;
+(L) any other information specified in the regulations;
+(iii) the donation by an individual of a body part or bodily
+substance, including information derived from the
+testing or examination of a body part or bodily
+substance;
+(iv) a drug as defined in the Pharmacy and Drug Act
+provided to an individual;
+(v) a health care aid, device, product, equipment or other
+item provided to an individual pursuant to a prescription
+or other authorization;
+(vi) the amount of any benefit paid or payable under the
+Alberta Health Care Insurance Act or any other amount
+paid or payable in respect of a health service provided to
+an individual,
+and includes any other information about an individual that
+is collected for the purpose of providing a health service, but
+does not include information that is not written,
+RSA 2000
+Section 1 Chapter H-5HEALTH INFORMATION ACT
+12
+photographed, recorded or stored in some manner in a
+record;
+(j) repealed 2006 c18 s2;
+(k) “health information” means one or both of the following:
+(i) diagnostic, treatment and care information;
+(ii) registration information;
+(k.01) “health information accessible via the Alberta EHR” means
+the health information that is
+(i) in electronic form, and
+(ii) in the custody or control of 2 or more authorized
+custodians in accordance with Division 3 of Part 5.1;
+(k.1) “health information repository” means an agency,
+corporation or other entity designated by the Minister to act
+as a health information repository in accordance with Part
+6.1;
+(l) “health professional body” means a body that regulates the
+members of a health profession or health discipline pursuant
+to an Act;
+(m) “health service” means a service that is provided to an
+individual for any of the following purposes:
+(i) protecting, promoting or maintaining physical and
+mental health;
+(ii) preventing illness;
+(iii) diagnosing and treating illness;
+(iv) rehabilitation;
+(v) caring for the health needs of the ill, disabled, injured or
+dying,
+but does not include a service excluded by the regulations;
+(n) “health services provider” means an individual who
+provides health services;
+(o) repealed 2009 c25 s2;
+RSA 2000
+Section 1 Chapter H-5HEALTH INFORMATION ACT
+13
+(p) “individually identifying”, when used to describe
+information, including health information, means that the
+identity of the individual who is the subject of the
+information can be readily ascertained from the information;
+(p.1) “information manager” means a person or body that
+(i) processes, stores, retrieves or disposes of health
+information,
+(ii) in accordance with the regulations, strips, encodes or
+otherwise transforms individually identifying health
+information to create non-identifying health information,
+or
+(iii) provides information management or information
+technology services in a manner that requires the use of
+health information
+but does not include an individual employed by a custodian
+who performs any of the functions listed in clauses (i) to (iii);
+(q) “Minister” means the Minister of Primary and Preventative
+Health Services;
+(q.1) “ministerial custodian” means a custodian referred to in
+clause (f)(xiii), (xiii.1), (xiii.2) or (xiii.3);
+(r) “non-identifying”, when used to describe information,
+including health information, means that the identity of the
+individual who is the subject of the information cannot be
+readily ascertained from the information;
+(r.1) “out-of-province research ethics body” means a body
+outside Alberta that assesses and approves research
+proposals in accordance with out-of-province research ethics
+requirements;
+(r.2) “out-of-province research ethics requirements” means the
+research ethics requirements used by an out-of-province
+research ethics body to assess research proposals;
+(s) “personal health number” means the number assigned to an
+individual by the Department to uniquely identify the
+individual;
+(s.1) “personal information” means personal information as
+defined in the Protection of Privacy Act;
+RSA 2000
+Section 1 Chapter H-5HEALTH INFORMATION ACT
+14
+(s.2) “privacy management program” means a privacy
+management program established under section 63(1);
+(s.3) “public body” means a public body as defined in the
+Protection of Privacy Act;
+(t) “record” means a record of health information in any form
+and includes notes, images, audiovisual recordings, x-rays,
+books, documents, maps, drawings, photographs, letters,
+vouchers and papers and any other information that is
+written, photographed, recorded or stored in any manner,
+but does not include software or any mechanism that
+produces records;
+(u) “registration information” means information relating to an
+individual that falls within the following general categories
+and is more specifically described in the regulations:
+(i) demographic information, including the individual’s
+personal health number;
+(ii) location information;
+(iii) telecommunications information;
+(iv) residency information;
+(v) health service eligibility information;
+(vi) billing information,
+but does not include information that is not written,
+photographed, recorded or stored in some manner in a
+record;
+(u.1) “regulated health services provider” means a health services
+provider regulated under the Health Professions Act;
+(v) “research” means academic, applied or scientific research
+that necessitates the use of individually identifying health
+information;
+(v.1) “research ethics board” means a body designated by the
+regulations as a research ethics board;
+(v.2) “shared health information” means the health information
+that is
+(i) in electronic form, and
+RSA 2000
+Section 1 Chapter H-5HEALTH INFORMATION ACT
+15
+(ii) in the custody or under the control of 2 or more
+custodians in accordance with Part 5.1;
+(v.3) “sharing custodian” means a custodian that has custody or
+control of shared health information;
+(v.4) “team-based health service” means a health service provided
+or carried out by 2 or more regulated health services
+providers, at least one of whom is not a custodian, working
+collaboratively;
+(w) “use” means to apply health information for a purpose and
+includes reproducing the information, but does not include
+disclosing the information;
+(x) “well-being service” means a service relating to an
+individual’s health and well-being that is provided within a
+common or integrated program or service for the purpose of
+supporting health services.
+(2) Repealed 2025 c21 s7(2).
+(3) A custodian who is an affiliate of another custodian is deemed
+not to be a custodian while acting in the capacity of an affiliate.
+(3.1) For greater certainty, this Act
+(a) applies to a custodian even when the custodian
+(i) is employed by a person or entity that is not a custodian,
+or
+(ii) is acting as an appointee, volunteer or student or under a
+contract or agency relationship with a person or entity
+that is not a custodian,
+and
+(b) prohibits the collection, use or disclosure of health
+information unless the collection, use or disclosure is
+authorized by this Act.
+(4) For the purposes of this Act, the information specified in
+subsection (1)(i)(ii) respecting a health services provider is deemed
+to be individually identifying health information about the
+individual who received the health service from the health services
+provider and not individually identifying health information about
+the health services provider.
+RSA 2000 cH-5 s1;RSA 2000 cP-13 s47.1;2006 c18 s2;2006 c25 s24;
+2007 c18 s2;2008 cE-6.6 s52;2008 cH-4.3 s18;2009 c25 s2;2011 cH-7.2 s26;
+2013 cB-7.5 s11;2022 cC-26.7 s70;2023 c9 s11;2024 c10 s20;2024 c16 s8;
+2025 c10 s25;2025 c21 s7(2);AR 141/2025
+RSA 2000
+Section 2 Chapter H-5HEALTH INFORMATION ACT
+16
+Purposes of Act
+2 The purposes of this Act are
+(a) to establish strong and effective mechanisms to protect the
+privacy of individuals with respect to their health
+information and to protect the confidentiality of that
+information,
+(b) to enable health information to be shared and accessed,
+where appropriate, to provide health services and well-being
+services and to manage the health system,
+(c) to prescribe rules for the collection, use and disclosure of
+health information, which are to be carried out in the most
+limited manner and with the highest degree of anonymity
+that is possible in the circumstances,
+(d) to provide individuals with a right of access to health
+information about themselves, subject to limited and
+specific exceptions as set out in this Act,
+(e) to provide individuals with a right to request correction or
+amendment of health information about themselves,
+(f) to establish strong and effective remedies for contraventions
+of this Act, and
+(g) to provide for independent reviews of decisions made by
+custodians under this Act and the resolution of complaints
+under this Act. RSA 2000 cH-5 s2;2025 c21 s7(3)
+Scope of Act
+3 This Act
+(a) does not limit the information otherwise available by law to
+a party to legal proceedings,
+(b) does not affect the power of any court or tribunal in Canada
+to compel a witness to testify or to compel the production of
+documents, and
+(c) does not prohibit the transfer, storage or destruction of a
+record in accordance with an enactment of Alberta or
+Canada. RSA 2000 cH-5 s3;2006 c18 s3
+RSA 2000
+Section 4 Chapter H-5HEALTH INFORMATION ACT
+17
+Inconsistency or conflict with another enactment
+4 If a provision of this Act is inconsistent or in conflict with a
+provision of another Act or of a regulation, the provision of this
+Act prevails unless
+(a) another Act, or
+(b) a regulation under this Act
+expressly provides that the other Act or regulation, or a provision
+of it, prevails despite this Act. 1999 cH-4.8 s4
+Application of Parts of Act
+5(1) This Act, except Part 3, applies in respect of health
+information collected before or after the coming into force of this
+Act.
+(2) Part 3 of this Act applies only in respect of health information
+collected after the coming into force of this Act. 1999 cH-4.8 s5
+Act binds custodian acting under another enactment
+6 A custodian that collects, uses or discloses health information
+pursuant to another enactment must comply with this Act.
+1999 cH-4.8 s6
+Part 2
+Individual’s Right to Access
+Individual’s Health Information
+Right of individual to access individual’s health information
+7(1) Subject to section 56.61, an individual has a right of access to
+any record containing health information about the individual that
+is in the custody or under the control of a custodian.
+(2) The right of access to a record does not extend to information
+in respect of which a custodian is authorized or required to refuse
+access under section 11, but if that information can reasonably be
+severed from a record, an individual has a right of access to the
+remainder of the record.
+(3) The right of access to a record is subject to the payment of any
+fee required by the regulations. RSA 2000 cH-5 s7;2025 c21 s7(4)
+RSA 2000
+Section 8 Chapter H-5HEALTH INFORMATION ACT
+18
+How to make a request
+8(1) To obtain access to a record, an individual must make a
+request to the custodian that the individual believes has custody or
+control of the record.
+(2) A custodian that has received a request for access to a record
+under subsection (1) may require the applicant to submit the
+request in writing.
+(3) In a request, the applicant may ask
+(a) for a copy of the record, or
+(b) to examine the record. 1999 cH-4.8 s8
+Abandoned request
+9(1) Where a custodian contacts an applicant in writing respecting
+the applicant’s request, including
+(a) seeking further information from the applicant that is
+necessary to process the request, or
+(b) requesting the applicant to pay a fee or to agree to pay a fee,
+and the applicant fails to respond to the custodian, as requested by
+the custodian, within 30 days after being contacted, the custodian
+may, by notice in writing to the applicant, declare the request
+abandoned.
+(2) A notice declaring a request abandoned must state that the
+applicant may ask for a review of that decision by the
+Commissioner. 1999 cH-4.8 s9
+Duty to assist applicants
+10 A custodian that has received a request for access to a record
+under section 8(1)
+(a) must make every reasonable effort to assist the applicant
+and to respond to each applicant openly, accurately and
+completely,
+(b) must create a record for an applicant if
+(i) the record can be created from information that is in
+electronic form and is in the custody or under the control
+of the custodian, using its normal computer hardware
+and software and technical expertise, and
+RSA 2000
+Section 11 Chapter H-5HEALTH INFORMATION ACT
+19
+(ii) creating the record would not unreasonably interfere
+with the operations of the custodian,
+and
+(c) must provide, at the request of an applicant and if
+reasonably practicable, an explanation of any term, code or
+abbreviation used in the record. 1999 cH-4.8 s10
+Right to refuse access to health information
+11(1) A custodian may refuse to disclose health information to an
+applicant
+(a) if the disclosure could reasonably be expected
+(i) to result in immediate and grave harm to the applicant’s
+mental or physical health or safety,
+(ii) to threaten the mental or physical health or safety of
+another individual, or
+(iii) to pose a threat to public safety,
+(b) if the disclosure could reasonably lead to the identification
+of a person who provided health information to the
+custodian explicitly or implicitly in confidence and in
+circumstances in which it was appropriate that the name of
+the person who provided the information be kept
+confidential,
+(c) if the disclosure could reasonably be expected to reveal
+(i) advice, proposals, recommendations, analyses or policy
+options developed by or for a member of the Executive
+Council, or
+(ii) consultations or deliberations involving a member of the
+Executive Council or the member’s staff,
+(d) if the disclosure could reasonably be expected to reveal
+advice, proposals, recommendations, analyses or policy
+options developed by or for a custodian referred to in
+section 1(1)(f)(iii) or (iv), or
+(e) if the information relates to
+(i) procedures or techniques relating to audits to be
+conducted or diagnostic tests or assessments to be given,
+RSA 2000
+Section 11 Chapter H-5HEALTH INFORMATION ACT
+20
+(ii) details of specific audits to be conducted or of specific
+tests or assessments to be given, or
+(iii) standardized diagnostic tests or assessments used by a
+custodian, including intelligence tests,
+and disclosure of the information could reasonably be
+expected to prejudice the use or results of particular audits,
+diagnostic tests or assessments.
+(2) A custodian must refuse to disclose health information to an
+applicant
+(a) if the health information is about an individual other than
+the applicant, unless the health information was originally
+provided by the applicant in the context of a health service
+being provided to the applicant,
+(b) if the health information sets out procedures or contains
+results of an investigation, a discipline proceeding, a
+practice visit or an inspection relating to a health services
+provider,
+(c) if the health information would reveal the substance of
+deliberations of the Executive Council or any of its
+committees or of the Treasury Board or any of its
+committees, including any advice, recommendation, policy
+considerations or draft legislation or regulations submitted
+or prepared for submission to the Executive Council or any
+of its committees or to the Treasury Board or any of its
+committees, unless the health information
+(i) has been in existence for 15 years or more,
+(ii) is part of a record of a decision made by the Executive
+Council or any of its committees on an appeal under an
+Act, or
+(iii) is part of a record the purpose of which is to present
+background facts to the Executive Council or any of its
+committees or to the Treasury Board or any of its
+committees for consideration in making a decision
+where
+(A) the decision has been made public,
+(B) the decision has been implemented, or
+(C) 5 years or more have passed since the decision was
+made or considered,
+RSA 2000
+Section 12 Chapter H-5HEALTH INFORMATION ACT
+21
+or
+(d) if the disclosure is prohibited by another enactment of
+Alberta. RSA 2000 cH-5 s11;2020 c35 s38;2023 c9 s11
+Time limit for responding to a request for access
+12(1) A custodian must make every reasonable effort to respond to
+a request under section 8(1) within 30 days after receiving the
+request or within any extended period under section 15.
+(2) In a response under subsection (1), the custodian must tell the
+applicant
+(a) whether access to a record or part of it is granted or refused,
+(b) if access to the record or part of it is granted, where, when
+and how access will be given, and
+(c) if access to the record or part of it is refused,
+(i) the reasons for the refusal and the provision of this Act
+on which the refusal is based,
+(ii) the name, title, business address and business telephone
+number of an affiliate of the custodian who can answer
+the applicant’s questions about the refusal, and
+(iii) that the applicant may ask for a review of that decision
+by the Commissioner.
+(3) The failure of the custodian to respond to a request under
+section 8(1) within the 30-day period or any extended period
+referred to in subsection (1) is to be treated as a decision to refuse
+access to the record. 1999 cH-4.8 s12
+Correction or amendment of health information
+13(1) An individual who believes there is an error or omission in
+the individual’s health information may in writing request the
+custodian that has the information in its custody or under its control
+to correct or amend the information.
+(2) Within 30 days after receiving a request under subsection (1)
+or within any extended period under section 15, the custodian must
+decide whether it will make or refuse to make the correction or
+amendment.
+RSA 2000
+Section 14 Chapter H-5HEALTH INFORMATION ACT
+22
+(3) If the custodian agrees to make the correction or amendment,
+the custodian must within the 30-day period or any extended period
+referred to in subsection (2)
+(a) make the correction or amendment,
+(b) give written notice to the applicant that the correction or
+amendment has been made, and
+(c) notify any person to whom that information has been
+disclosed during the one-year period before the correction or
+amendment was requested that the correction or amendment
+has been made.
+(4) The custodian is not required to provide the notification
+referred to in subsection (3)(c) where
+(a) the custodian agrees to make the correction or amendment
+but believes that the applicant will not be harmed if the
+notification under subsection (3)(c) is not provided, and
+(b) the applicant agrees.
+(5) If the custodian refuses to make the correction or amendment,
+the custodian must within the 30-day period or any extended period
+referred to in subsection (2) give written notice to the applicant that
+the custodian refuses to make the correction or amendment and of
+the reasons for the refusal.
+(6) A custodian may refuse to make a correction or amendment
+that has been requested in respect of
+(a) a professional opinion or observation made by a health
+services provider about the applicant, or
+(b) a record that was not originally created by that custodian.
+(7) The failure of the custodian to respond to a request in
+accordance with this section within the 30-day period or any
+extended period referred to in subsection (2) is to be treated as a
+decision to refuse to make the correction or amendment.
+1999 cH-4.8 s13
+Refusal to correct or amend information
+14(1) Where a custodian refuses to make a correction or
+amendment under section 13, the custodian must tell the applicant
+that the applicant may elect to do either of the following, but may
+not elect both:
+RSA 2000
+Section 15 Chapter H-5HEALTH INFORMATION ACT
+23
+(a) ask for a review of the custodian’s decision by the
+Commissioner;
+(b) submit a statement of disagreement setting out in 500 words
+or less the requested correction or amendment and the
+applicant’s reasons for disagreeing with the decision of the
+custodian.
+(2) An applicant who elects to submit a statement of disagreement
+must submit the statement to the custodian within 30 days after the
+written notice of refusal has been given to the applicant under
+section 13(5) or within any extended period under section 15(3).
+(3) On receiving the statement of disagreement, the custodian must
+(a) if reasonably practicable, attach the statement to the record
+that is the subject of the requested correction or amendment,
+and
+(b) provide a copy of the statement of disagreement to any
+person to whom the custodian has disclosed the record in
+the year preceding the applicant’s request for the correction
+or amendment. 1999 cH-4.8 s14
+Extending time
+15(1) The custodian may extend the time for responding to a
+request under section 8(1) or 13(1) for an additional period of up to
+30 days or, with the Commissioner’s permission, for a longer
+period if
+(a) the request does not give enough detail to enable the
+custodian to identify the record that is requested or to be
+corrected or amended,
+(b) a large number of records are involved in the request and
+responding within the period set out in section 12(1) or
+13(2), as the case may be, would unreasonably interfere
+with the operations of the custodian, or
+(c) more time is needed to consult with another custodian
+before deciding whether to grant access to a record or to
+make the correction or amendment requested.
+(2) If the time is extended under subsection (1), the custodian must
+tell the applicant
+(a) the reason for the extension,
+(b) when a response can be expected, and
+RSA 2000
+Section 16 Chapter H-5HEALTH INFORMATION ACT
+24
+(c) that the applicant may make a complaint to the
+Commissioner about the extension.
+(3) The Commissioner may extend the time within which an
+applicant must submit the statement of disagreement under section
+14(2) if in the opinion of the Commissioner
+(a) it is unreasonable to expect the applicant to submit the
+statement within the period set out in section 14(2), or
+(b) it is fair to extend the time for any other reason.1999 cH-4.8 s15
+Request under s8 or s13 deemed to be a request under
+Access to Information Act or Protection of Privacy Act
+16(1) If a written request is made under section 8(1) for access to
+a record that contains information to which the Access to
+Information Act applies, the part of the request that relates to that
+information is deemed to be a request under section 7(1) of the
+Access to Information Act and that Act applies to that part of the
+request as if it had been made under section 7(1) of that Act.
+(2) If a written request is made under section 13(1) to correct or
+amend information to which the Protection of Privacy Act applies,
+the request is deemed to be a request under section 7(1) of the
+Protection of Privacy Act and that Act applies to the request as if it
+had been made under section 7(1) of that Act.
+(3) This section does not apply if the custodian that receives the
+request is not a public body as defined in the Protection of Privacy
+Act. RSA 2000 cH-5 s16;AR 141/2025
+Existing procedures still available
+17 An individual is not limited to the procedure set out in this Part
+to request access to health information about the individual if
+another procedure is available. 1999 cH-4.8 s17
+Part 3
+Collection of Health Information
+Prohibition re collection of health information
+18 No custodian shall collect health information except in
+accordance with this Act. 1999 cH-4.8 s18
+RSA 2000
+Section 19 Chapter H-5HEALTH INFORMATION ACT
+25
+Collection of non-identifying health information
+19 A custodian may collect non-identifying health information for
+any purpose. 1999 cH-4.8 s19
+Collection of individually identifying health information
+20 A custodian may collect individually identifying health
+information only
+(a) if the collection of that information is expressly authorized
+by an enactment of Alberta or Canada, or
+(b) if that information relates directly to and is necessary to
+enable the custodian to carry out a purpose that is authorized
+under section 27. RSA 2000 cH-5 s20;2025 c21 s7(5)
+Collection of personal health number
+21(1) Only the following have the right to require an individual to
+provide the individual’s personal health number:
+(a) custodians;
+(b) persons authorized by the regulations to do so.
+(2) When requesting a personal health number from an individual,
+the person referred to in subsection (1) must advise the individual
+of the person’s authority under subsection (1).
+(3) Subject to section 21.1(5), an individual may refuse to provide
+the individual’s personal health number where the person
+requesting it is not a person referred to in subsection (1).
+RSA 2000 cH-5 s21;2025 c21 s7(6)
+Incidental collection of personal health number
+21.1(1) In this section,
+(a) “identification card” means an identification card issued
+under Part 2 of Schedule 12 to the Government
+Organization Act;
+(b) “incidental collector” means a person, other than a person
+referred to in section 21(1), authorized to collect a personal
+health number under subsection (2);
+(c) “operator’s licence” means an operator’s licence as defined
+in the Traffic Safety Act.
+(2) A person may collect a personal health number displayed on an
+individual’s operator’s licence or identification card only if, for
+RSA 2000
+Section 22 Chapter H-5HEALTH INFORMATION ACT
+26
+purposes other than collecting the individual’s personal health
+number, the person
+(a) is authorized under another enactment to require the
+individual to
+(i) provide the individual’s operator’s licence or
+identification card, or
+(ii) establish the individual’s identity, address or other
+personal information, other than the individual’s
+personal health number, such that the individual is
+required to provide the individual’s operator’s licence or
+identification card,
+or
+(b) requests the individual voluntarily provide the individual’s
+operator’s licence or identification card.
+(3) An incidental collector must not use or disclose a personal
+health number displayed on an operator’s licence or identification
+card.
+(4) Section 21(1) does not limit the right of an incidental collector
+to exercise the authority described in subsection (2)(a).
+(5) Section 21(3) does not apply where an incidental collector
+requires an individual to provide the individual’s operator’s licence
+or identification card under the authority described in subsection
+(2)(a). 2025 c21 s7(7)
+Duty to collect health information from subject individual
+22(1) A custodian must collect individually identifying health
+information directly from the individual who is the subject of the
+information unless subsection (2) applies.
+(2) A custodian may collect individually identifying health
+information from a person other than the individual who is the
+subject of the information in the following circumstances:
+(a) where the individual who is the subject of the information
+authorizes collection of the information from someone else;
+(b) where the individual who is the subject of the information is
+unable to provide the information and the custodian collects
+the information from a person referred to in section
+104(1)(c) to (i) who is acting on behalf of that individual;
+RSA 2000
+Section 22 Chapter H-5HEALTH INFORMATION ACT
+27
+(c) where the custodian believes, on reasonable grounds, that
+collection from the individual who is the subject of the
+information would prejudice
+(i) the interests of the individual,
+(ii) the purposes of collection, or
+(iii) the safety of any other individual,
+or would result in the collection of inaccurate information;
+(d) where collection from the individual who is the subject of
+the information is not reasonably practicable;
+(e) where collection is for any of the following purposes:
+(i) assembling a family or genetic history where the
+information collected is to be used in the context of
+providing a health service to the individual who is the
+subject of the information;
+(ii) determining the eligibility of an individual to participate
+in a program of or to receive a benefit, product or health
+service from a custodian and the information is collected
+in the course of processing an application made by or for
+the individual who is the subject of the information;
+(iii) verifying the eligibility of an individual who is
+participating in a program of or receiving a benefit,
+product or health service from a custodian to participate
+in the program or to receive the benefit, product or
+service;
+(iv) informing the Public Trustee or a Public Guardian about
+clients or potential clients;
+(e.1) where use of the information is authorized by section
+27(1)(d);
+(e.2) where the custodian is conducting data matching for a
+purpose authorized under section 27;
+(f) where the information is available to the public;
+(g) where disclosure of the information is authorized under Part
+5;
+(h) where disclosure of the information is authorized by an
+enactment of Alberta or Canada.
+RSA 2000
+Section 23 Chapter H-5HEALTH INFORMATION ACT
+28
+(3) When collecting individually identifying health information
+about an individual directly from the individual, the custodian must
+take reasonable steps to inform the individual
+(a) of the purpose for which the information is collected,
+(b) of the specific legal authority for the collection,
+(c) of the title, business address and business telephone number
+of an affiliate of the custodian who can answer the
+individual’s questions about the collection, and
+(d) of the custodian’s intention, if any, at that time to input the
+information into an automated system.
+RSA 2000 cH-5 s22;2008 cA-4.2 s131;2009 c25 s3;2020 c35 s39;
+2025 c21 s7(8)
+Use of device to collect health information
+23 A custodian that collects health information from an individual
+using any device that may not be visible to the individual must,
+before collecting the health information, obtain the written consent
+of the individual to use the device. RSA 2000 cH-5 s23;2020 c35 s40
+Collection of health information by affiliate
+24 An affiliate of a custodian must not collect health information
+in any manner that is not in accordance with the affiliate’s duties to
+the custodian. 1999 cH-4.8 s24
+Part 4
+Use of Health Information
+Prohibition re use of health information
+25 No custodian shall use health information except in
+accordance with this Act. 1999 cH-4.8 s25
+Use of non-identifying health information
+26 A custodian may use non-identifying health information for
+any purpose. 1999 cH-4.8 s26
+Use of individually identifying health information
+27(1) Subject to sections 56.208 and 56.5, a custodian may use
+individually identifying health information in its custody or under
+its control only for the following purposes:
+(a) providing health services;
+RSA 2000
+Section 27 Chapter H-5HEALTH INFORMATION ACT
+29
+(a.1) subject to the regulations, planning, administering,
+delivering, managing, monitoring or evaluating a common
+or integrated program or service;
+(b) determining or verifying the eligibility of an individual to
+receive a health service;
+(c) conducting investigations, discipline proceedings, practice
+visits or inspections relating to the members of a health
+profession or health discipline;
+(c.1) responding to complaints made or legal actions taken
+against the custodian;
+(d) conducting research or performing data matching or other
+services to facilitate research if
+(i) the requirements in sections 49 to 52 and 53 to 56 have
+been met with respect to research described in section
+49, or
+(ii) the requirements in sections 52.1 to 56 have been met
+with respect to research described in section 52.1;
+(e) providing for health services provider education;
+(f) carrying out any purpose authorized by an enactment of
+Alberta or Canada;
+(g) for internal management purposes, including planning,
+resource allocation, policy development, quality assurance,
+quality improvement, monitoring, audit, evaluation,
+reporting, obtaining or processing payment for health
+services and human resource management.
+(1.1) A custodian that inputs individually identifying health
+information into or uses individually identifying health information
+in an automated system must do so in accordance with the
+regulations, if any.
+(2) Despite subsection (1), a custodian referred to in section
+1(1)(f)(iii), (iv), (ix.1) or (ix.2), a ministerial custodian or a
+departmental custodian may, in addition, use individually
+identifying health information in its custody or under its control to
+carry out the following functions within the geographic area in
+which the custodian has jurisdiction to promote the objectives for
+which the custodian is responsible:
+(a) planning and resource allocation;
+RSA 2000
+Section 27.1 Chapter H-5HEALTH INFORMATION ACT
+30
+(b) health system management;
+(c) public health surveillance;
+(d) health policy development.
+RSA 2000 cH-5 s27;2006 c18 s4;2009 c25 s4;2011 cH-7.2 s26;
+2020 c35 s41;2023 c9 s11;2024 c10 s20;2025 c10 s25;2025 c21 s7(9)
+Maintaining information re automated system
+27.1(1) A custodian that inputs health information into or uses
+health information in an automated system for a purpose authorized
+by section 27 with respect to an individual must record the
+following information:
+(a) the name or number that identifies the custodian that inputs
+or uses the health information in the automated system;
+(b) the name of the individual who is the subject of the health
+information;
+(c) the date and purpose for which the health information was
+input or used;
+(d) a description of the health information that was input or
+used.
+(2) The requirement under subsection (1) does not apply if, when
+the health information is input or used, an electronic system,
+including the automated system, automatically keeps an electronic
+log of the following information:
+(a) the name or number that identifies the custodian that inputs
+or uses the health information in the automated system;
+(b) the name of the individual who is the subject of the health
+information;
+(c) the date and time that the health information is input or
+used;
+(d) a description of the health information that is input or used.
+(3) The information recorded under subsection (1) or logged under
+subsection (2) must be retained by the custodian for at least one
+year following the date of input or use of the automated system.
+(4) An individual referred to in subsection (1)(b) or (2)(b) may ask
+a custodian for access to and a copy of the information recorded or
+logged, and Part 2 applies to the request. 2025 c21 s7(10)
+RSA 2000
+Section 28 Chapter H-5HEALTH INFORMATION ACT
+31
+Use of health information by affiliate
+28 An affiliate of a custodian must not use health information in
+any manner that is not in accordance with the affiliate’s duties to
+the custodian. 1999 cH-4.8 s28
+Confidentiality of non-recorded information
+29 A custodian that collects information described in section
+1(1)(i), (o) or (u) that is not written, photographed, recorded or
+stored in some manner in a record may use the information only for
+the purpose for which the information was provided to the
+custodian. 1999 cH-4.8 s29
+Use of personal health number by non-custodian
+30(1) A person who is authorized to require an individual to
+provide a personal health number pursuant to section 21(1)(b) may
+use that information only for the purpose for which the information
+was collected.
+(2) If there is an inconsistency or conflict between subsection (1)
+and a provision of the Personal Information Protection Act,
+subsection (1) prevails to the extent of that inconsistency or
+conflict. RSA 2000 cH-5 s30;2020 c35 s42;AR 141/2025
+Part 5
+Disclosure of Health Information
+Division 1
+General Disclosure Rules
+Prohibition re disclosure of health information
+31 No custodian shall disclose health information except in
+accordance with this Act. 1999 cH-4.8 s31
+Disclosure of non-identifying health information
+32(1) Subject to the regulations, a custodian may disclose
+non-identifying health information for any purpose.
+(2) If a custodian makes a disclosure under subsection (1) to a
+person that is not a custodian, the custodian must inform the person
+that it is an offence under the Act to knowingly transform
+non-identifying health information to create individually
+identifying health information or knowingly attempt to do so.
+RSA 2000 cH-5 s32;2025 c21 s7(11)
+RSA 2000
+Section 33 Chapter H-5HEALTH INFORMATION ACT
+32
+Disclosure of information to individual who is subject
+of information
+33 A custodian may disclose individually identifying health
+information to the individual who is the subject of the information
+or to a person referred to in section 104(1)(c) to (i) who is acting on
+behalf of that individual. 1999 cH-4.8 s33
+Disclosure of individually identifying
+health information with consent
+34(1) Subject to sections 35 to 40, a custodian may disclose
+individually identifying health information to a person other than
+the individual who is the subject of the information if the individual
+has consented to the disclosure in accordance with this section.
+(2) An individual’s consent referred to in subsection (1) is valid
+only if
+(a) the custodian provides the individual with the following
+information:
+(i) the individually identifying health information that the
+custodian is authorized to disclose;
+(ii) the purpose for which the individually identifying health
+information may be disclosed;
+(iii) the identity of the person to whom the individually
+identifying health information may be disclosed;
+(iv) the risks and benefits to the individual of consenting or
+refusing to consent;
+(v) the date the consent is effective and the date, if any, on
+which the consent expires;
+(vi) that the individual has the right to revoke the consent at
+any time,
+(b) the individual, in writing, electronically or orally,
+(i) authorizes the custodian to disclose the individually
+identifying health information, and
+(ii) acknowledges that they have been informed of the risks
+and benefits referred to in clause (a)(iv),
+(c) where consent is given in writing or electronically, the
+individual signs the consent,
+RSA 2000
+Section 35 Chapter H-5HEALTH INFORMATION ACT
+33
+(d) where consent is given orally, the custodian records, in
+writing or electronically, that
+(i) the information referred to in clause (a) was provided to
+the individual, and
+(ii) the individual gave the required authorization and
+acknowledgment under clause (b),
+and
+(e) any additional requirements set out in the regulations have
+been met.
+(3) A disclosure of individually identifying health information
+made under this section must be carried out in accordance with the
+terms of the consent.
+(4) An individual may revoke a consent
+(a) in writing, electronically or orally, regardless of the manner
+in which the consent was given, and
+(b) only if the revocation complies with requirements set out in
+the regulations, if any.
+(5) A custodian must record, in writing or electronically, the
+revocation of a consent. RSA 2000 cH-5 s34;2025 c21 s7(12)
+Disclosure of diagnostic, treatment and care information
+35(1) Subject to sections 56.2091(a) and 56.63(a), a custodian
+may disclose individually identifying diagnostic, treatment and
+care information without the consent of the individual who is the
+subject of the information
+(a) to another custodian for any or all of the purposes listed in
+section 27(1) or (2), as the case may be,
+(a.1) to the government of Canada or of another province or
+territory of Canada for that government’s use for health
+system planning and management and health policy
+development where
+(i) the individual is a resident of that other province or
+territory, or
+(ii) that government is otherwise responsible for payment
+for health services provided to the individual,
+RSA 2000
+Section 35 Chapter H-5HEALTH INFORMATION ACT
+34
+(a.2) to a regulated health services provider who is not a
+custodian and who is providing team-based health services
+to an individual,
+(a.3) to an officer or employee of a public body or to a member of
+the Executive Council if the disclosure is necessary for
+(i) planning, administering, delivering, managing,
+monitoring or evaluating a common or integrated
+program or service, and
+(ii) the performance of the duties of the officer, employee or
+member to whom the information is disclosed,
+(b) to a person who is responsible for providing continuing
+treatment and care to the individual,
+(c) to family members of the individual or to another person
+with whom the individual is believed to have a close
+personal relationship, if the information is given in general
+terms and concerns the presence, location, condition,
+diagnosis, progress and prognosis of the individual on the
+day on which the information is disclosed and the disclosure
+is not contrary to the express request of the individual,
+(d) where an individual is injured, ill or deceased, so that family
+members of the individual or another person with whom the
+individual is believed to have a close personal relationship
+or a friend of the individual can be contacted, if the
+disclosure is not contrary to the express request of the
+individual,
+(d.1) where an individual is deceased, to family members of the
+individual or to another person with whom the individual is
+believed to have had a close personal relationship, if the
+information relates to circumstances surrounding the death
+of the individual or to health services recently received by
+the individual and the disclosure is not contrary to the
+express request of the individual,
+(e) to an official of a penal or other custodial institution in
+which the individual is being lawfully detained if the
+purpose of the disclosure is to allow the provision of health
+services or continuing treatment and care to the individual,
+(f) to a person authorized to conduct an audit of the information
+if the person agrees in writing
+RSA 2000
+Section 35 Chapter H-5HEALTH INFORMATION ACT
+35
+(i) to destroy the information at the earliest opportunity
+after the audit is concluded, and
+(ii) not to disclose the information to any other person,
+except as required to accomplish the audit or to report
+unlawful or improper conduct by the custodian or a
+health services provider,
+(g) to a committee that has as its primary purpose the carrying
+out of quality assurance activities within the meaning of
+section 9 of the Alberta Evidence Act,
+(h) for the purpose of a court proceeding or a proceeding before
+a quasi-judicial body to which the custodian is a party,
+(i) for the purpose of complying with a subpoena, warrant or
+order issued or made by a court, person or body having
+jurisdiction in Alberta to compel the production of
+information or with a rule of court binding in Alberta that
+relates to the production of information,
+(j) repealed 2006 c18 s5;
+(k) to another custodian where the custodian disclosing the
+information has a reasonable expectation that disclosure will
+detect or prevent fraud, limit abuse in the use of health
+services or prevent the commission of an offence under an
+enactment of Alberta or Canada,
+(l) to an officer of the Legislature if the information is
+necessary for the performance of the officer’s duties,
+(m) to any person if the custodian believes, on reasonable
+grounds, that the disclosure will avert or minimize
+(i) a risk of harm to the health or safety of a minor, or
+(ii) a significant risk of harm to the health or safety of any
+person,
+(n) if that individual lacks the mental capacity to provide a
+consent and, in the opinion of the custodian, disclosure is in
+the best interests of the individual,
+(o) to a descendant of a deceased individual, a person referred
+to in section 104(1)(c) to (i) who is acting on behalf of the
+descendant or a person who is providing health services to
+the descendant if, in the custodian’s opinion,
+RSA 2000
+Section 35 Chapter H-5HEALTH INFORMATION ACT
+36
+(i) the disclosure is necessary to provide health services to
+the descendant, and
+(ii) the disclosure is restricted sufficiently to protect the
+privacy of the deceased individual,
+(p) if the disclosure is authorized or required by an enactment of
+Alberta or Canada,
+(q) to its successor where the successor is a custodian,
+(r) for the purpose of obtaining or processing payment for
+health services provided to the individual by a person that is
+required under a contract to pay for those services for that
+individual, or
+(s) to the College of Physicians and Surgeons of Alberta for the
+purpose of administering the Physician Prescribing Practices
+Program or any program to monitor prescribing practices
+that replaces it.
+(2) A committee to which health information is disclosed pursuant
+to subsection (1)(g) must not disclose the information to any other
+person except in accordance with subsection (3).
+(3) A committee referred to in subsection (2) may disclose
+non-identifying health information to another committee that has as
+its primary purpose the carrying out of quality assurance activities
+within the meaning of section 9 of the Alberta Evidence Act.
+(4) A custodian may disclose individually identifying diagnostic,
+treatment and care information to a health professional body for the
+purpose of an investigation, a discipline proceeding, a practice visit
+or an inspection if
+(a) the custodian has complied with any other enactment
+authorizing or requiring the custodian to disclose that
+information for that purpose, and
+(b) the health professional body agrees in writing
+(i) not to disclose the information to any other person
+except as authorized by or under the Act governing the
+health professional body, and
+(ii) repealed 2006 c18 s5.
+RSA 2000
+Section 36 Chapter H-5HEALTH INFORMATION ACT
+37
+(5) A custodian may disclose individually identifying diagnostic,
+treatment and care information to a health professional body for the
+purpose of lodging a complaint with the health professional body.
+RSA 2000 cH-5 s35;2003 c23 s2;2006 c18 s5;2009 c25 s5;
+2013 cC-12.5 s15;2016 c18 s8;2020 c35 s43;2025 c21 s7(13)
+Disclosure of registration information
+36 Subject to sections 56.2091(b) and 56.63(b), a custodian may
+disclose individually identifying registration information without
+the consent of the individual who is the subject of the information
+(a) for any of the purposes for which diagnostic, treatment and
+care information may be disclosed under section 35(1), (4)
+or (5),
+(b) to any person for the purpose of collecting or processing a
+fine or debt owing by the individual to the Government of
+Alberta or to a custodian,
+(c) to a person who is not a custodian if the disclosure is in
+accordance with the requirements set out in the regulations,
+or
+(d) to a foundation established or continued under the
+Provincial Health Agencies Act for the purposes of
+fundraising if the disclosure is in accordance with the
+requirements set out in the regulations.
+RSA 2000 cH-5 s36;2020 c35 s44;2025 c21 s7(14)
+37 Repealed 2009 c25 s6.
+Disclosure to prevent or limit fraud or abuse
+of health services
+37.1(1) A custodian may disclose individually identifying health
+information referred to in subsection (2) without the consent of the
+individual who is the subject of the information to a police service
+or the Minister of Justice where the custodian reasonably believes
+(a) that the information relates to the possible commission of an
+offence under a statute or regulation of Alberta or Canada,
+and
+(b) that the disclosure will detect or prevent fraud or limit abuse
+in the use of health services.
+(2) A custodian may disclose the following information under
+subsection (1):
+(a) the name of an individual;
+RSA 2000
+Section 37.3 Chapter H-5HEALTH INFORMATION ACT
+38
+(b) the date of birth of an individual;
+(c) the personal health number of an individual;
+(d) the nature of any injury or illness of an individual;
+(e) the date on which a health service was sought or received by
+an individual;
+(f) the location where an individual sought or received a health
+service;
+(g) the name of any drug, as defined in the Pharmacy and Drug
+Act, provided to or prescribed for an individual and the date
+the drug was provided or prescribed;
+(h) information specified in section 1(1)(i)(ii) about a health
+services provider who provided a health service to an
+individual referred to in subsection (1).
+(3), (4) Repealed 2009 c25 s7.
+RSA 2000 cP-13 s47.1;2006 c18 s7;2009 c25 s7;
+2013 c10 s34;2022 c21 s37
+37.2 Repealed 2009 c25 s8.
+Disclosure to protect public health and safety
+37.3(1) A custodian may disclose individually identifying health
+information referred to in subsection (2) without the consent of the
+individual who is the subject of the information to a police service
+or the Minister of Justice where the custodian reasonably believes
+(a) that the information relates to the possible commission of an
+offence under a statute or regulation of Alberta or Canada,
+and
+(b) that the disclosure will protect the health and safety of
+Albertans.
+(2) A custodian may disclose the following information under
+subsection (1):
+(a) the name of an individual;
+(b) the date of birth of an individual;
+(c) the nature of any injury or illness of an individual;
+(d) the date on which a health service was sought or received by
+an individual;
+RSA 2000
+Section 38 Chapter H-5HEALTH INFORMATION ACT
+39
+(e) the location where an individual sought or received a health
+service;
+(f) whether any samples of bodily substances were taken from
+an individual;
+(g) information specified in section 1(1)(i)(ii) about a health
+services provider who provided a health service to an
+individual referred to in subsection (1).
+(3), (4) Repealed 2009 c25 s9.
+2006 c18 s7;2009 c25 s9;2013 c10 s34;2022 c21 s37
+Disclosure for purpose of storage
+38 A custodian may disclose individually identifying health
+information without the consent of the individual who is the subject
+of the information to the Provincial Archives of Alberta or to any
+other archives that is subject to this Act, the Access to Information
+Act or the Protection of Privacy Act, for the purposes of permanent
+preservation and historical research if, in the opinion of the
+custodian, the information has enduring value.
+RSA 2000 cH-5 s38;AR 141/2025
+Disclosure by public body re common or
+integrated program or service
+38.1(1) A public body may disclose personal information to a
+custodian or other public body for the purpose of providing a
+common or integrated program or service to or in respect of an
+individual.
+(2) Individually identifying health information disclosed by a
+custodian to a public body for the purpose of providing a common
+or integrated program or service must not be disclosed by the
+public body for any other purpose unless
+(a) the individual who is the subject of the health information
+has consented to the disclosure, or
+(b) the public body is required by this Act, the regulations or
+another enactment to disclose the information. 2025 c21 s7(15)
+Disclosure by Minister and Department
+39(1) A ministerial custodian or departmental custodian may
+disclose individually identifying diagnostic, treatment and care
+information without the consent of the individual who is the subject
+of the information to another Minister of the Government of
+Alberta for the purpose of developing, assessing, monitoring or
+evaluating public policy.
+RSA 2000
+Section 40 Chapter H-5HEALTH INFORMATION ACT
+40
+(2) Subject to subsection (3), a ministerial custodian or
+departmental custodian may disclose individually identifying
+registration information without the consent of the individual who
+is the subject of the information to
+(a) another Minister of the Government of Alberta or a Minister
+of the Government of Canada or of any other province or
+territory, or
+(b) a person or entity in accordance with the regulations made
+under the Alberta Health Care Insurance Act.
+(3) A disclosure under subsection (2) may only be made if the
+ministerial custodian or departmental custodian enters into an
+agreement respecting the disclosure with the party referred to in
+subsection (2)(a) or (b) to whom the information will be disclosed.
+RSA 2000 cH-5 s39;2024 c10 s20;2025 c10 s25;2025 c21 s7(16)
+Disclosure to ministerial custodian
+40 A custodian other than a ministerial custodian may disclose
+individually identifying health information to a ministerial
+custodian without the consent of the individual who is the subject
+of the information if the disclosure is necessary or desirable in the
+opinion of the custodian to enable the ministerial custodian to carry
+out its duties. RSA 2000 cH-5 s40;2024 c10 s20;2025 c10 s25
+Maintaining certain disclosure information
+41(1) Subject to subsection (1.1), a custodian that discloses a
+record containing individually identifying diagnostic, treatment and
+care information under section 35(1), (4) or (5) must record the
+following information:
+(a) the name of the person to whom the custodian discloses the
+information;
+(b) the date and purpose of the disclosure;
+(c) a description of the information disclosed.
+(1.1) The requirement under subsection (1) does not apply to a
+custodian that discloses electronic health information under section
+35(1), (4) or (5) if, when the information is disclosed, the electronic
+system automatically keeps an electronic log of the following
+information:
+(a) a name or number that identifies the custodian to whom the
+information is disclosed;
+RSA 2000
+Section 42 Chapter H-5HEALTH INFORMATION ACT
+41
+(a.1) the name of the individual who is the subject of the
+information;
+(b) the date and time that the information is disclosed;
+(c) a description of the information that is disclosed.
+(2) The information referred to in subsections (1) and (1.1) must
+be retained by the custodian for a period of 10 years following the
+date of the disclosure.
+(3) An individual who is the subject of information referred to in
+subsection (1) or (1.1) may ask a custodian for access to and a copy
+of the information, and Part 2 applies to the request.
+RSA 2000 cH-5 s41;2006 c18 s8;2009 c25 s10;2016 c18 s8;2020 c35 s45;
+2025 c21 s7(17)
+Notification of purpose of and authority for disclosure
+42(1) A custodian that discloses individually identifying
+diagnostic, treatment and care information must inform the
+recipient in writing of the purpose of the disclosure and the
+authority under which the disclosure is made.
+(2) Subsection (1) does not apply where the disclosure is
+(a) to another custodian under section 35(1)(a),
+(b) to a ministerial custodian or departmental custodian under
+section 46,
+(c) to another custodian under section 47,
+(d) to a police service or the Minister of Justice under section
+37.1, 37.2 or 37.3, or
+(e) to the individual who is the subject of the information.
+RSA 2000 cH-5 s42;2006 c18 s9;2013 c10 s34;2022 c21 s37;
+2024 c10 s20;2025 c10 s25
+Disclosure of health information by affiliate
+43 An affiliate of a custodian must not disclose health
+information in any manner that is not in accordance with the
+affiliate’s duties to the custodian. 1999 cH-4.8 s43
+Confidentiality of non-recorded information
+44 A custodian that collects information described in section
+1(1)(i), (o) or (u) that is not written, photographed, recorded or
+stored in some manner in a record may disclose the information
+only for the purpose for which the information was provided to the
+custodian. 1999 cH-4.8 s44
+RSA 2000
+Section 45 Chapter H-5HEALTH INFORMATION ACT
+42
+Duty of custodian
+45 A custodian that discloses health information must make a
+reasonable effort to ensure that the person to whom the disclosure
+is made is the person intended and authorized to receive the
+information. 1999 cH-4.8 s45
+Division 2
+Disclosure for Health System Purposes
+Disclosure to Minister or Department
+46(1) A ministerial custodian or departmental custodian may
+request another custodian to disclose individually identifying health
+information to them for any of the purposes listed in section 27(2)
+if
+(a) the ministerial custodian or departmental custodian, as the
+case may be, is authorized by an enactment of Alberta or
+Canada to obtain the information from the other custodian,
+or
+(b) the information requested relates to a health service
+provided by the other custodian and
+(i) the health service is fully or partially paid for by the
+department of the ministerial custodian requesting the
+information or by the departmental custodian, as the case
+may be, or is provided using financial, physical or
+human resources provided, administered or paid for by
+the department of the ministerial custodian requesting
+the information or by the departmental custodian, as the
+case may be, or
+(ii) the information is prescribed in the regulations as
+information a ministerial custodian or departmental
+custodian may request under this section.
+(2) If the requirements of subsection (1) are met, the custodian
+must disclose the information to the ministerial custodian or
+departmental custodian, as the case may be.
+(3) Repealed 2009 c25 s11.
+(4) Individually identifying health information may be disclosed
+under this section without the consent of the individual who is the
+subject of the information.
+(5) Where health information is requested under subsection (1)(b),
+the departmental custodian must
+RSA 2000
+Section 47 Chapter H-5HEALTH INFORMATION ACT
+43
+(a) prepare a privacy impact assessment that, in addition to any
+applicable requirements set out in section 64, describes how
+disclosure of the health information may affect the privacy
+of the individuals who are the subject of the information,
+(b) submit the privacy impact assessment to the Commissioner
+for review and comment, and
+(c) consider the comments of the Commissioner, if any, made
+in response to the privacy impact assessment before
+disclosing the health information to a custodian referred to
+in section 1(1)(f)(iii) or (iv).
+RSA 2000 cH-5 s46;2006 c18 s10;2009 c25 s11;2024 c10 s20;
+2025 c10 s25;2025 c21 s7(18)
+Disclosure to other custodians
+47(1) A custodian referred to in section 1(1)(f)(iii) or (iv) may
+request another custodian to disclose to the requesting custodian
+individually identifying health information for any of the purposes
+listed in section 27(2)
+(a) if the requesting custodian is authorized by an enactment of
+Alberta or Canada to obtain the information from the other
+custodian, or
+(b) if the information requested relates to a health service
+provided by the other custodian
+(i) that is fully or partially paid for by the requesting
+custodian, or
+(ii) that is provided using financial, physical or human
+resources provided or administered by the requesting
+custodian.
+(2) Where a request relates to information described in subsection
+(1)(b), the custodian receiving the request may refuse to disclose
+the information if disclosure could reasonably be expected
+(a) to result in immediate and grave harm to the mental or
+physical health or safety of the individual who is the subject
+of the information,
+(b) to threaten the mental or physical health or safety of another
+individual, or
+(c) to pose a threat to public safety.
+(3) If a custodian refuses to disclose information in accordance
+with subsection (2),
+RSA 2000
+Section 49 Chapter H-5HEALTH INFORMATION ACT
+44
+(a) the custodian must provide the requesting custodian with
+non-identifying health information in the form requested by
+that custodian, and
+(b) the requesting custodian may ask for a review of that refusal
+by the Commissioner.
+(4) In making a decision on a review under subsection (3)(b), the
+Commissioner must, if the custodian is a member of a health
+professional body, inform the health professional body of the
+review and provide an opportunity for that body to make comments
+to the Commissioner relating to the review.
+(5) Repealed 2009 c25 s12.
+(6) Individually identifying health information may be disclosed
+under this section without the consent of the individual who is the
+subject of the information. RSA 2000 cH-5 s47;2009 c25 s12;2020 c35 s46
+Division 3
+Research
+48 Repealed 2009 c25 s13.
+Proposed research protocol
+49(1) Subject to subsection (2) and section 52.1, a person who
+intends to conduct research using individually identifying health
+information in the custody or under the control of a custodian or
+health information repository must submit a proposed research
+protocol to a research ethics board for review by that board
+containing
+(a) the information specified by the regulations, and
+(b) any other information required by the research ethics board.
+(2) The person intending to conduct the research may submit only
+one proposed research protocol notwithstanding that the research is
+to be conducted in multiple phases or stages.
+RSA 2000 cH-5 s49;2006 c18 s11;2009 c25 s14;2020 c35 s48;
+2025 c21 s7(19)
+Role of research ethics board
+50(1) The research ethics board must
+(a) consider whether the researcher should be required to obtain
+consents for the disclosure of the health information to be
+used in the research from the individuals who are the
+RSA 2000
+Section 50 Chapter H-5HEALTH INFORMATION ACT
+45
+subjects of the information and make a recommendation that
+the research ethics board considers appropriate, and
+(b) assess whether, in the opinion of the research ethics board,
+(i) the proposed research is of sufficient importance that the
+public interest in the proposed research outweighs to a
+substantial degree the public interest in protecting the
+privacy of the individuals who are the subjects of the
+health information to be used in the research,
+(ii) the researcher is qualified to carry out the research,
+(iii) adequate safeguards will be in place at the time the
+research will be carried out to protect the privacy of the
+individuals who are the subjects of the health
+information to be used in the research and the
+confidentiality of that information, and
+(iv) obtaining the consents referred to in clause (a) is
+unreasonable, impractical or not feasible.
+(2) In making an assessment under subsection (1)(b), the research
+ethics board must consider the degree to which the proposed
+research may contribute to
+(a) identification, prevention or treatment of illness or disease,
+(b) scientific understanding relating to health,
+(c) promotion and protection of the health of individuals and
+communities,
+(d) improved delivery of health services, or
+(e) improvements in health system management.
+(3) The research ethics board must prepare a response setting out
+(a) its recommendation under subsection (1)(a),
+(b) its assessment of the matters set out in subsection (1)(b), and
+(c) any conditions that the research ethics board considers
+should be imposed on the researcher.
+(4) The research ethics board must send a copy of the response
+required in subsection (3) to the Commissioner.
+RSA 2000 cH-5 s50;2006 c18 s12;2025 c21 s7(20)
+RSA 2000
+Section 50.1 Chapter H-5HEALTH INFORMATION ACT
+46
+Publication of response
+50.1 If the response of the research ethics board sent to the
+Commissioner under section 50(4) indicates that the research ethics
+board is satisfied as to the matters referred to in section 50(1)(b),
+the Commissioner may publish the response in any manner the
+Commissioner considers appropriate. 2006 c18 s13
+Bar to research
+51 If the research ethics board is not satisfied as to any of the
+matters referred to in section 50(1)(b), the researcher may not apply
+to a custodian or health information repository under section 52.
+RSA 2000 cH-5 s51;2006 c18 s14;2009 c25 s15
+Application for disclosure of health information or
+to perform data matching
+52 If the research ethics board is satisfied as to the matters
+referred to in section 50(1)(b), the researcher may forward to one
+or more custodians or health information repositories
+(a) the researcher’s research protocol referred to in section 49,
+(b) the response of the research ethics board to the researcher’s
+research protocol, and
+(c) a written application for one or more of the following:
+(i) disclosure of the health information to be used in the
+research;
+(ii) performance of data matching;
+(iii) performance of any other service to facilitate the
+research. RSA 2000 cH-5 s52;2006 c18 s14;2009 c25 s16;
+2020 c35 s49
+Research approved outside Alberta
+52.1(1) This section applies where
+(a) an out-of-province research ethics body has approved a
+research protocol in respect of research, and
+(b) a person intends to use health information in the custody or
+under the control of a custodian or health information
+repository to conduct the research.
+(2) A researcher to whom this section applies must submit an
+application to a research ethics board for a determination as to
+RSA 2000
+Section 52.1 Chapter H-5HEALTH INFORMATION ACT
+47
+whether the out-of-province research ethics requirements are
+substantially equivalent to Alberta research ethics requirements.
+(3) A researcher may not apply to a custodian or health
+information repository under subsection (5) unless the research
+ethics board determines that the out-of-province research ethics
+requirements are substantially equivalent to Alberta research ethics
+requirements.
+(4) The research ethics board
+(a) must consider any relevant criteria set out in the regulations,
+(b) must determine whether the requirements are substantially
+equivalent to Alberta research ethics requirements,
+(c) must, if it determines the requirements are not substantially
+equivalent, provide reasons for the determination,
+(d) may, as part of its determination, impose conditions on a
+researcher, and
+(e) must provide its determination in writing to the researcher
+and send a copy to the Commissioner.
+(5) If the research ethics board determines that the out-of-province
+research ethics requirements are substantially equivalent to Alberta
+research ethics requirements, the researcher may forward to one or
+more custodians or health information repositories
+(a) the researcher’s research protocol submitted to the
+out-of-province research ethics body,
+(b) the out-of-province research ethics body’s approval of the
+research protocol,
+(c) the research ethics board’s determination that the
+out-of-province research ethics requirements are
+substantially equivalent to Alberta requirements, and
+(d) a written application for one or more of the following:
+(i) disclosure of the health information to be used in the
+research;
+(ii) performance of data matching;
+(iii) performance of any other service to facilitate the
+research.
+RSA 2000
+Section 53 Chapter H-5HEALTH INFORMATION ACT
+48
+(6) If the determination sent to the Commissioner under subsection
+(4) indicates the out-of-province research ethics requirements are
+substantially equivalent to Alberta research ethics requirements, the
+Commissioner may publish the determination in any manner the
+Commissioner considers appropriate.
+(7) Sections 49 to 52 do not apply with respect to research
+approved by an out-of-province research ethics body. 2025 c21 s7(21)
+Conditions and consents
+53(1) A custodian who has received the documents referred to in
+section 52 or 52.1(5) may, but is not required to, disclose the health
+information or perform data matching or other services to facilitate
+the research.
+(2) If the custodian decides to disclose the health information or
+perform data matching or other services to facilitate the research,
+(a) the custodian
+(i) must impose on the researcher the conditions suggested
+by the research ethics board or out-of-province research
+ethics body, and
+(ii) may impose other conditions on the researcher,
+and
+(b) the researcher must, before the custodian discloses the
+health information or performs data matching or other
+services, obtain any consents
+(i) recommended by the research ethics board under section
+50(1)(a), or
+(ii) recommended or required by the out-of-province
+research ethics body.
+(3) A health information repository that has received the
+documents referred to in section 52 or 52.1(5) may disclose the
+health information or perform data matching or other services to
+facilitate the research only in accordance with the regulations.
+RSA 2000 cH-5 s53;2006 c18 s14;2009 c25 s17;2025 c21 s7(22)
+Agreement between custodian and researcher
+54(1) If a custodian decides to disclose health information to a
+researcher or perform data matching or other services to facilitate
+the research, the researcher must enter into an agreement with the
+custodian in which the researcher agrees
+RSA 2000
+Section 54 Chapter H-5HEALTH INFORMATION ACT
+49
+(a) to comply with
+(i) any conditions the custodian imposes relating to the use,
+protection, disclosure, return or disposal of the health
+information, and
+(ii) any requirement the custodian imposes to provide
+safeguards against the identification, direct or indirect,
+of an individual who is the subject of the health
+information,
+(b) to allow the custodian to access or inspect the researcher’s
+premises to confirm that the researcher is complying with
+the conditions and requirements referred to in clause (a), and
+(c) to pay the costs referred to in subsection (3).
+(2) When the parties enter into an agreement, the custodian may
+disclose to the researcher the health information requested under
+section 52 or 52.1(5) or perform data matching or other services to
+facilitate the research
+(a) with the consent of the individuals who are the subjects of
+the information where
+(i) the research ethics board recommends that consents be
+obtained, or
+(ii) the out-of-province research ethics body recommends or
+requires that consents be obtained,
+or
+(b) without the consent of the individuals who are the subjects
+of the information where the research ethics board or
+out-of-province research ethics body does not recommend
+or require that consents be obtained.
+(3) The custodian may set the costs of
+(a) preparing information for disclosure, or performing data
+matching or other services
+(b) making copies of health information, and
+(c) obtaining the consents referred to in section 55,
+which must not exceed the actual cost of providing that service.
+RSA 2000
+Section 54.1 Chapter H-5HEALTH INFORMATION ACT
+50
+(3.1) A researcher that enters into an agreement under this section
+must
+(a) comply with the agreement and, as applicable, the
+conditions
+(i) set out in the research ethics board’s response under
+section 50(3)(c) to the research protocol,
+(ii) imposed under section 52.1(4)(d), or
+(iii) set out in the out-of-province research ethics body’s
+approval,
+and
+(b) collect, use and disclose health information only in
+accordance with the agreement and the research protocol.
+(4) If a researcher contravenes or fails to comply with an
+agreement entered into under this section or the applicable
+conditions referred to in subsection (3.1)(a),
+(a) the agreement is cancelled, and
+(b) the researcher is no longer authorized to use the health
+information for any purpose and must destroy the health
+information or return it to the custodian.
+RSA 2000 cH-5 s54;2006 c18 s14;2009 c25 s18;2020 c35 s50;
+2025 c21 s7(23)
+Duties of researcher
+54.1 A researcher who enters into an agreement with a custodian
+under section 54 must, in respect of the health information
+disclosed by the custodian under the agreement,
+(a) comply with this Act and the regulations,
+(b) use the health information only for the purpose of
+conducting the research in accordance with the research
+protocol,
+(c) not publish the health information in a form that could
+reasonably enable the identity of an individual who is the
+subject of the information to be readily ascertained, and
+RSA 2000
+Section 55 Chapter H-5HEALTH INFORMATION ACT
+51
+(d) not make any attempt to contact an individual who is the
+subject of the health information to obtain additional health
+information unless the individual has provided the custodian
+with the consent referred to in section 55. 2025 c21 s7(24)
+Consent for additional information
+55 If the researcher wishes to contact the individuals who are the
+subjects of the information disclosed under section 54(2) to obtain
+additional health information, the custodian or an affiliate of the
+custodian must first obtain consents from those individuals to their
+being contacted for that purpose. 1999 cH-4.8 s55
+Court order
+56(1) If a researcher refuses to allow a custodian or health
+information repository to access or inspect its premises in
+accordance with the agreement referred to in section 54, the
+custodian or health information repository may apply to the Court
+of King’s Bench for an order under subsection (2).
+(2) If the Court is satisfied that there are reasonable and probable
+grounds to believe that access to premises or the production or
+removal of documents is necessary for the purpose of determining
+whether an agreement referred to in section 54 is being complied
+with, the Court may make any order it considers necessary to
+enforce compliance with the agreement.
+(3) Where authorized to do so by an order under subsection (2), a
+custodian or health information repository may
+(a) enter and search any premises of the researcher where the
+research is conducted,
+(b) operate or cause to be operated any computer system of the
+researcher to search any data contained in or available to the
+system and produce a document from the data, and
+(c) seize and make copies of any documents of the researcher
+that are or may be relevant to the investigation.
+(4) An application for an order under this section may be made ex
+parte unless the Court orders otherwise.
+(5) The custodian or health information repository must return any
+documents seized pursuant to a court order within 60 days after the
+conclusion of the investigation that gave rise to the seizure,
+including any hearing or appeal.
+RSA 2000
+Section 56.2 Chapter H-5HEALTH INFORMATION ACT
+52
+(6) In this section, “document” includes any correspondence,
+memorandum, book, plan, map, drawing, diagram, pictorial or
+graphic work, photograph, film, microfilm, sound recording,
+videotape, machine readable record or other material or thing,
+regardless of physical form or characteristics.
+RSA 2000 cH-5 s56;2009 c25 s19;2009 c53 s77;
+AR 217/2022
+Part 5.1
+Shared Health Information and
+Alberta Electronic Health Record
+Division 1
+Interpretation
+56.1 Repealed 2025 c21 s7(26).
+Purpose
+56.2 The purpose of this Part is
+(a) to enable sharing custodians and authorized users to use
+shared health information in accordance with this Part, and
+(b) to enable authorized custodians and authorized users to use
+health information accessible via the Alberta EHR in
+accordance with this Part.
+2009 c25 s20;2020 c35 s52;2025 c21 s7(27)
+Interaction with other Parts
+56.201 Unless otherwise specified, nothing in this Part affects the
+application or operation of any provision in another Part of this Act
+respecting collection, use or disclosure of health information.
+2020 c35 s52;2025 c21 s7(28)
+Where shared health information is made
+accessible via Alberta EHR
+56.202 Division 2 does not apply to health information accessible
+via the Alberta EHR to which Division 3 applies. 2025 c21 s7(28)
+Division 2
+Shared Health Information
+Making shared health information accessible
+56.203(1) Subject to this Part and the regulations, a sharing
+custodian may make health information in its custody or under its
+control accessible to another sharing custodian.
+RSA 2000
+Section 56.204 Chapter H-5HEALTH INFORMATION ACT
+53
+(2) A sharing custodian may make health information in its
+custody or under its control accessible to an authorized user in
+accordance with the regulations.
+(3) A sharing custodian may not authorize an authorized user to
+make any information accessible to sharing custodians or
+authorized users. 2025 c21 s7(28)
+Privacy impact assessment
+56.204(1) Subject to subsection (3), before becoming a sharing
+custodian, a custodian must
+(a) prepare a privacy impact assessment,
+(b) submit the privacy impact assessment to the Commissioner
+for review and comment, and
+(c) consider the comments of the Commissioner, if any, made
+in response to the privacy impact assessment.
+(2) The Minister may, by regulation, specify what, in addition to
+any applicable requirements set out in section 64, must be included
+in a privacy impact assessment under this section.
+(3) If a custodian is a sharing custodian on the coming into force
+of this section, the custodian must prepare and submit the privacy
+impact assessment described in subsection (1) no later than 2 years
+after the coming into force of this section. 2025 c21 s7(28)
+Consent not required
+56.205 The making of health information accessible to sharing
+custodians and authorized users under this Part does not require the
+consent of the individual who is the subject of the information.
+2025 c21 s7(28)
+Duties in making health information accessible
+to sharing custodians and authorized users
+56.206 In deciding how much health information to make
+accessible to sharing custodians and authorized users, a sharing
+custodian must consider as an important factor any expressed
+wishes of the individual who is the subject of the health
+information relating to the use of that information by sharing
+custodians or authorized users, together with any other factors the
+sharing custodian considers important. 2025 c21 s7(28)
+RSA 2000
+Section 56.207 Chapter H-5HEALTH INFORMATION ACT
+54
+Additional rules for certain custodians
+56.207(1) If at least one sharing custodian is a custodian referred
+to in section 1(1)(f)(iii), (iv), (ix.1) or (ix.2), a ministerial custodian
+or a departmental custodian, that sharing custodian and the other
+sharing custodians must comply with any restrictions or limitations
+imposed in the regulations.
+(2) Where the regulations referred to in subsection (1) apply, the
+Minister may in writing direct one or more of the sharing
+custodians to make health information in the custody or under the
+control of the sharing custodian accessible to the other sharing
+custodians or authorized users.
+(3) A sharing custodian must comply with a direction made under
+subsection (2). 2025 c21 s7(28)
+Use of shared health information
+56.208 Subject to the regulations,
+(a) a sharing custodian that is a custodian referred to in section
+1(1)(f)(iii), (iv), (ix.1) or (ix.2), a ministerial custodian or a
+departmental custodian may use individually identifying
+shared health information for all the purposes and functions
+for which that custodian may use health information under
+section 27, and
+(b) a sharing custodian that is not a custodian described in
+clause (a) may use individually identifying shared health
+information
+(i) for a purpose authorized by section 27(1)(a) to (f) only if
+the sharing custodian is providing or has provided a
+health service to the individual who is the subject of the
+information, and
+(ii) for a purpose authorized by section 27(1)(g).
+2025 c21 s7(28)
+Maintaining log of access
+56.209(1) A sharing custodian must keep an electronic log of the
+following information for each time the sharing custodian or an
+authorized user uses shared health information:
+(a) the name or number that identifies the sharing custodian or
+authorized user that uses the shared health information;
+(b) the name of the individual who is the subject of the shared
+health information;
+RSA 2000
+Section 56.2091 Chapter H-5HEALTH INFORMATION ACT
+55
+(c) the date and time that the shared health information was
+used;
+(d) a description of the shared health information that was used;
+(e) any other information prescribed in the regulations.
+(2) The information referred to in subsection (1) must be retained
+for a period of 10 years following the date of the use of the shared
+health information.
+(3) An individual who is the subject of the shared health
+information referred to in subsection (1) may ask a sharing
+custodian
+(a) for access to and a copy of the information, and Part 2
+applies to the request, or
+(b) for an explanation of the purpose for which the sharing
+custodian used the shared health information, and the
+sharing custodian must provide that explanation.
+2025 c21 s7(28)
+Disclosure of shared health information
+56.2091 Subject to the regulations, a sharing custodian that is not
+a custodian referred to in section 1(1)(f)(iii), (iv), (ix.1) or (ix.2), a
+ministerial custodian or a departmental custodian may only
+disclose
+(a) shared health information that is individually identifying
+diagnostic, treatment and care information under section
+35(1), other than section 35(1)(i) and (p), if the sharing
+custodian is providing or has provided a health service to
+the individual who is the subject of the information, and
+(b) shared health information that is individually identifying
+registration information under section 36(a) for any of the
+purposes for which diagnostic, treatment and care
+information may be disclosed under section 35(1), other
+than section 35(1)(i) and (p), if the sharing custodian is
+providing or has provided a health service to the individual
+who is the subject of the information. 2025 c21 s7(28)
+Not collection, disclosure
+56.2092(1) A sharing custodian’s or authorized user’s use of
+shared health information does not constitute collection or
+disclosure of that shared health information under this Act by any
+person.
+RSA 2000
+Section 56.21 Chapter H-5HEALTH INFORMATION ACT
+56
+(2) The making of health information accessible to sharing
+custodians or authorized users under this Part does not constitute a
+collection or disclosure of that information by any person.
+(3) A disclosure of shared health information by a sharing
+custodian is not a disclosure by any other sharing custodian.
+2025 c21 s7(28)
+Division 3
+Alberta Electronic Health Record
+Department powers and duties re Alberta EHR
+56.21(1) The Department shall manage and operate the Alberta
+EHR in accordance with this section and the regulations.
+(2) For the purpose of fulfilling the duties under subsection (1), the
+Department shall do all of the following:
+(a) take reasonable steps in accordance with the regulations to
+maintain administrative, technical and physical safeguards
+that will protect the confidentiality and security of health
+information accessible via the Alberta EHR and the privacy
+of the individuals who are the subjects of that information;
+(b) determine eligibility for access to the Alberta EHR, grant
+access to the Alberta EHR, and limit, revoke or prohibit
+access by authorized custodians and their affiliates and
+authorized users to the Alberta EHR and health information
+accessible via the Alberta EHR, in accordance with the
+regulations;
+(b.1) keep an electronic log required under section 56.6;
+(c) respond to access requests under section 56.6 or 56.61 for
+health information accessible via the Alberta EHR, in
+accordance with the regulations, if any;
+(d) provide reports to authorized custodians and authorized
+users related to their access to the Alberta EHR and to
+authorized custodians related to the access to the Alberta
+EHR by their affiliates.
+(3) For the purpose of fulfilling the duties under subsection (1), the
+Department may do any or all of the following:
+(a) in accordance with the regulations, audit and investigate
+matters relating to the Alberta EHR in respect of
+(i) unauthorized access to, use or disclosure of health
+information accessible via the Alberta EHR,
+RSA 2000
+Section 56.21 Chapter H-5HEALTH INFORMATION ACT
+57
+(ii) data integrity,
+(iii) patient safety, or
+(iv) other matters prescribed in the regulations;
+(b) subject to subsection (4) and in accordance with the
+regulations, provide access to the Alberta EHR to a medical
+examiner with the Office of the Chief Medical Examiner
+and staff working under the direction of a medical examiner;
+(c) provide access, in accordance with the regulations, to the
+Alberta EHR to a health services provider who provides a
+health service outside Alberta to a resident of Alberta for the
+purposes of providing continuing treatment and care;
+(d) exercise any other power, duty or function that the
+Department considers necessary in order to manage and
+operate the Alberta EHR.
+(4) The Department may provide a medical examiner with the
+Office of the Chief Medical Examiner and staff working under the
+direction of a medical examiner with access to the Alberta EHR for
+the purpose of conducting investigations under the Fatality
+Inquiries Act, only if
+(a) the Office of the Chief Medical Examiner has submitted a
+privacy impact assessment respecting the access to the
+Commissioner, and
+(b) the medical examiner with the Office of the Chief Medical
+Examiner and the staff working under the direction of a
+medical examiner meet all eligibility requirements and
+obligations imposed by the regulations.
+(4.1) The Department may not provide access to the Alberta EHR
+to any authorized user other than as provided in this Part and the
+regulations.
+(4.2) The Department may not authorize an authorized user to
+make any information accessible via the Alberta EHR.
+(4.3) Only the health information that is of a class or type
+prescribed by the regulations may be accessible via the Alberta
+EHR.
+(5) For greater certainty, the Department is not an information
+manager for authorized custodians by virtue of managing and
+operating the Alberta EHR. 2020 c35 s53;2025 c21 s7(29)
+RSA 2000
+Section 56.22 Chapter H-5HEALTH INFORMATION ACT
+58
+Designation of authorized custodians
+56.22 The Minister may, in accordance with the regulations,
+designate authorized custodians for the purposes of this Part.
+2025 c21 s7(30)
+Making health information accessible — regulated
+health services providers
+56.3(1) The health professional body of a regulated health
+services provider may in writing direct the regulated health services
+provider to make health information in the custody or under the
+control of the regulated health services provider accessible via the
+Alberta EHR in accordance with the regulations.
+(2) If
+(a) the Minister or the Minister referred to in section
+1(1)(f)(xiii.1) determines that it is in the public interest to
+have certain health information that is in the custody or
+under the control of one or more regulated health services
+providers made accessible via the Alberta EHR, and
+(b) the health professional body of the regulated health services
+providers has not directed the regulated health services
+providers to make that health information accessible via the
+Alberta EHR,
+the Minister or the Minister referred to in section 1(1)(f)(xiii.1)
+may, subject to subsection (3), in writing direct the regulated health
+services providers to make the health information accessible via the
+Alberta EHR in accordance with the regulations.
+(3) Before giving a direction under subsection (2), the Minister or
+the Minister referred to in section 1(1)(f)(xiii.1) must
+(a) consult with the health professional body referred to in
+subsection (2)(b),
+(b) prepare a privacy impact assessment that, in addition to any
+applicable requirements set out in section 64, describes how
+making the health information in the custody or under the
+control of the regulated health services providers accessible
+via the Alberta EHR may affect the privacy of the
+individuals who are the subject of the health information,
+(b.1) submit the privacy impact assessment to the Commissioner
+for review and comment, and
+(c) consider the comments of the Commissioner, if any, made
+in response to the privacy impact assessment.
+RSA 2000
+Section 56.31 Chapter H-5HEALTH INFORMATION ACT
+59
+(3.1) A regulated health services provider must comply with a
+direction made under subsection (1) or (2).
+(4) A failure by a regulated health services provider to comply
+with a direction of the health professional body under subsection
+(1) or of a Minister under subsection (2) constitutes unprofessional
+conduct by the regulated health services provider under the Health
+Professions Act.
+(5) to (7) Repealed 2025 c21 s7(31).
+2009 c25 s20;2016 c9 s26;2016 c18 s8;2020 c35 s54;2023 c9 s11;
+2024 c10 s20;2025 c21 s7(31)
+Making health information accessible — authorized custodians
+56.31 An authorized custodian may make the health information
+prescribed in the regulations that is in its custody or under its
+control accessible via the Alberta EHR in accordance with the
+regulations. 2009 c25 s20;2020 c35 s54;2025 c21 s7(32)
+Making health information accessible — Minister’s direction
+56.32(1) The Minister may in writing direct an authorized
+custodian other than a regulated health services provider to make
+the health information prescribed in the regulations that is in its
+custody or under its control accessible via the Alberta EHR in
+accordance with the regulations.
+(2) An authorized custodian must comply with a direction made
+under subsection (1).2009 c25 s20;2020 c35 s54;2024 c10 s20;2025 c21 s7(32)
+Consent not required
+56.33 The making of health information accessible to authorized
+custodians and authorized users via the Alberta EHR under this
+Part does not require the consent of the individual who is the
+subject of the information. 2009 c25 s20;2020 c35 s54;2025 c21 s7(32)
+Duties in making health information
+accessible via Alberta EHR
+56.4(1) Unless a direction is made under section 56.3 or 56.32, in
+deciding how much health information to make accessible via the
+Alberta EHR, a regulated health services provider or an authorized
+custodian must consider as an important factor any expressed
+wishes of the individual who is the subject of the health
+information relating to access to that information, together with any
+other factors the regulated health services provider or authorized
+custodian considers important.
+RSA 2000
+Section 56.5 Chapter H-5HEALTH INFORMATION ACT
+60
+(2) If a regulated health services provider or an authorized
+custodian decides to limit the health information that is to be made
+accessible via the Alberta EHR under subsection (1), it must
+impose the limitations in accordance with the regulations.
+2009 c25 s20;2020 c35 s55;2025 c21 s7(33)
+Use of health information accessible via the Alberta EHR
+56.5(1) Subject to the regulations, an authorized custodian may
+use health information accessible via the Alberta EHR for all the
+purposes and functions for which that authorized custodian may
+use health information under section 27.
+(2) A medical examiner with the Office of the Chief Medical
+Examiner and staff working under the direction of a medical
+examiner may access health information via the Alberta EHR only
+for the purpose of conducting investigations under the Fatality
+Inquiries Act.
+(2.1) A medical examiner with the Office of the Chief Medical
+Examiner and staff working under the direction of a medical
+examiner may not make any information accessible via the
+Alberta EHR.
+(3) to (5) Repealed 2025 c21 s7(34).
+2009 c25 s20;2020 c35 s56;2025 c21 s7(34)
+56.51 Repealed RSA 2000 cH-5 s56.51.
+Maintaining log of Alberta EHR access
+56.6(1) The Department must keep an electronic log of the
+following information for each time the Alberta EHR is accessed:
+(a) the name or number that identifies the authorized custodian
+or authorized user who accessed the Alberta EHR;
+(a.1) the name of the individual who is the subject of the health
+information;
+(b) the date and time that the Alberta EHR was accessed;
+(c) a description of the health information that was accessed;
+(d) any other information prescribed in the regulations.
+(2) The information referred to in subsection (1) must be retained
+by the Department for a period of 10 years following the date of the
+access.
+RSA 2000
+Section 56.61 Chapter H-5HEALTH INFORMATION ACT
+61
+(3) Subject to the regulations, an individual who is the subject of
+the information referred to in subsection (1) may ask the
+Department for access to and a copy of the information, and Part 2,
+other than section 11(1)(a), applies to the request.
+(4) If, pursuant to subsection (3), an individual asks the
+Department for access to and a copy of the information referred to
+in subsection (1), the Department must, in accordance with Part 2,
+provide that information in respect of all authorized custodians and
+authorized users who have accessed that individual’s health
+information pursuant to this Part.
+2009 c25 s20;2020 c35 s58;2025 c21 s7(35)
+Access request for health information
+accessible via the Alberta EHR
+56.61(1) Subject to the regulations, an individual has a right of
+access to health information accessible via the Alberta EHR about
+the individual from an authorized custodian that has provided a
+health service to the individual, and Part 2 applies to the request.
+(2) After making reasonable efforts to request access to the
+individual’s health information under subsection (1), the individual
+may request access to the information from the Department, and
+Part 2, other than section 11(1)(a), applies to the request.
+2020 c35 s59;2025 c21 s7(36)
+56.62 Repealed 2025 c21 s7(37).
+Disclosure of health information accessible via
+the Alberta EHR
+56.63 Subject to the regulations, an authorized custodian that is
+not a custodian referred to in section 1(1)(f)(iii), (iv), (ix.1) or
+(ix.2), a ministerial custodian or a departmental custodian may only
+disclose
+(a) health information accessible via the Alberta EHR that is
+individually identifying diagnostic, treatment and care
+information under section 35(1), other than section 35(1)(i)
+and (p), if the authorized custodian is providing or has
+provided a health service to the individual who is the subject
+of the information, and
+(b) health information accessible via the Alberta EHR that is
+individually identifying registration information under
+section 36(a) for any of the purposes for which diagnostic,
+treatment and care information may be disclosed under
+section 35(1), other than section 35(1)(i) and (p), if the
+authorized custodian is providing or has provided a health
+RSA 2000
+Section 56.64 Chapter H-5HEALTH INFORMATION ACT
+62
+service to the individual who is the subject of the
+information. 2025 c21 s7(38)
+Not collection, disclosure
+56.64(1) An authorized custodian’s or authorized user’s use of
+health information accessible via the Alberta EHR does not
+constitute collection or disclosure of that health information under
+this Act by any person.
+(2) The making of health information accessible to authorized
+custodians or authorized users via the Alberta EHR under this Part
+does not constitute a collection or disclosure of that information by
+any person.
+(3) A disclosure of health information accessible via the Alberta
+EHR by an authorized custodian is not a disclosure by any other
+authorized custodian.
+(4) For greater certainty, if the Department grants access to the
+Alberta EHR to authorized users outside Alberta, the accessing of
+health information via the Alberta EHR by an authorized user
+outside Alberta does not constitute disclosure of that information
+by any person. 2009 c25 s20;2020 c35 s56;2025 c21 s7(38)
+Division 4
+General
+Multi-disciplinary data stewardship committee
+56.7(1) The Minister shall establish a multi-disciplinary data
+stewardship committee.
+(1.1) The function of the multi-disciplinary data stewardship
+committee is to provide advice and make recommendations to the
+Minister and the Department respecting
+(a) sharing custodians and shared health information, and
+(b) authorized custodians and the Alberta EHR.
+(2) At least 2 members of the multi-disciplinary data stewardship
+committee must be members of the public.
+(3) Section 7(2) to (5) of the Government Organization Act apply
+with respect to the multi-disciplinary data stewardship committee.
+2009 c25 s20;2020 c35 s60;2025 c21 s7(39)
+RSA 2000
+Section 56.71 Chapter H-5HEALTH INFORMATION ACT
+63
+Termination of agreement and protocol
+56.71(1) Despite any other provision of this Act or regulations or
+any information manager agreements entered into under section
+3(1)(d) of the Alberta Electronic Health Record Regulation
+(AR 118/2010) or entered into with custodians described in section
+3(3) of that regulation or the Alberta Netcare Electronic Health
+Record Information Exchange Protocol referred to in those
+information manager agreements, the Department may access and
+use health information that is accessible via the Alberta EHR for
+any purpose or function that is authorized by section 27.
+(2) All information manager agreements entered into under section
+3(1)(d) of the Alberta Electronic Health Record Regulation
+(AR 118/2010) or entered into with custodians described in section
+3(3) of that regulation and the Alberta Netcare Electronic Health
+Record Information Exchange Protocol referred to in those
+information manager agreements are terminated effective on the
+coming into force of this subsection.
+(3) Subsection (1) is repealed on Proclamation. 2020 c35 s61
+Regulations
+56.8(1) The Lieutenant Governor in Council may make
+regulations
+(a) respecting the powers and duties of the Department under
+section 56.21, including regulations
+(i) respecting administrative, technical and physical
+safeguards of the Alberta EHR including interoperability
+specifications and standards,
+(ii) respecting eligibility for and granting access to the
+Alberta EHR,
+(iii) respecting limiting, revoking or prohibiting access to the
+Alberta EHR and the health information accessible via
+the Alberta EHR,
+(iv) respecting responding to access requests,
+(v) respecting the audit and investigation of matters relating
+to the Alberta EHR, including
+(A) setting out or establishing an auditing or
+investigation regime, and
+RSA 2000
+Section 56.8 Chapter H-5HEALTH INFORMATION ACT
+64
+(B) setting out powers and duties to be exercised
+concerning audits and investigations,
+and
+(vi) prescribing other matters that may be audited or
+investigated;
+(b) prescribing classes or types of health information that may
+or must be made accessible via the Alberta EHR;
+(c) respecting the designation of authorized custodians;
+(d) respecting the manner in which a regulated health services
+provider or authorized custodian may or must make health
+information prescribed in the regulations that is in its
+custody or under its control accessible via the Alberta EHR;
+(e) respecting the manner in which a regulated health services
+provider or an authorized custodian may limit the health
+information that is to be made accessible via the Alberta
+EHR;
+(f) respecting the purposes and functions for which an
+authorized custodian or authorized user may access and use
+health information via the Alberta EHR;
+(g) respecting the procedures, systems and safeguards that an
+authorized custodian must maintain in respect of health
+information that is accessible via the Alberta EHR;
+(h) respecting electronic logging for the purposes of section
+56.6 and reporting in respect of the logging;
+(i) prescribing additional information that must be kept in an
+electronic log;
+(j) respecting access requests under sections 56.6 and 56.61 for
+health information accessible via the Alberta EHR;
+(k) respecting the disclosure of health information accessible
+via the Alberta EHR;
+(l) respecting any other matter the Lieutenant Governor in
+Council considers necessary or advisable to carry out the
+intent of this Part.
+(1.1) The Minister may make regulations
+RSA 2000
+Section 56.8 Chapter H-5HEALTH INFORMATION ACT
+65
+(a) respecting sharing custodians making shared health
+information accessible to sharing custodians and authorized
+users;
+(b) respecting the manner for making shared health information
+accessible;
+(c) respecting the use and disclosure of shared health
+information;
+(d) respecting administrative, technical and physical safeguards
+to protect the confidentiality and security of shared health
+information;
+(e) respecting restrictions and limitations for the purposes of
+section 56.207;
+(f) respecting section 56.208, including
+(i) respecting the purposes for which sharing custodians
+may use shared health information,
+(ii) authorizing a custodian referred to in section 1(1)(f)(iii),
+(iv), (ix.1) and (ix.2), a ministerial custodian or a
+departmental custodian to designate who may become a
+sharing custodian of the shared health information,
+(iii) limiting, revoking or prohibiting access to shared health
+information,
+(iv) respecting additional requirements to protect shared
+health information from unauthorized access, use or
+disclosure, and
+(v) respecting additional requirements to log information;
+(g) respecting measures to protect shared health information,
+including auditing and logging requirements in addition to
+other applicable measures;
+(h) prescribing information to be recorded or logged for the
+purposes of section 56.209(1).
+(2) A regulation made under subsection (1) may incorporate,
+adopt or declare in force a code, standard, guideline, schedule or
+body of rules, including a code, standard, guideline, schedule or
+body of rules developed by the Minister, relating to any matter in
+respect of which a regulation may be made under subsection (1).
+(3) Where a code, standard, guideline, schedule or body of rules
+is incorporated, adopted or declared in force by a regulation made
+under subsection (1), the Minister shall ensure that a copy of the
+RSA 2000
+Section 56.9 Chapter H-5HEALTH INFORMATION ACT
+66
+code, standard, guideline, schedule or body of rules is readily
+available to the public.
+(4) The Regulations Act does not apply to a code, standard,
+guideline, schedule or body of rules incorporated, adopted or
+declared in force by a regulation made under subsection (1).
+(5) A code, standard, guideline, schedule or body of rules may be
+incorporated, adopted or declared in force by a regulation made
+under subsection (1)
+(a) in whole or in part or with modifications, and
+(b) as it reads on a specific day or as amended from time to
+time. 2009 c25 s20;2020 c35 s62;2025 c21 s7(40)
+Standards or guidelines
+56.9(1) The Minister may establish a standard, guideline, code,
+schedule or body of rules relating to any matter for which a
+regulation may be made under section 56.8.
+(2) The Regulations Act does not apply to a body of rules
+established under subsection (1) and, for greater certainty, does not
+apply to a standard, guideline or code established under that
+subsection.
+(3) As soon as practicable after establishing a standard, guideline,
+code, schedule or body of rules under this section, the Minister
+shall ensure that a copy of the standard, guideline, code, schedule
+or body of rules is readily available to the public.
+(4) A regulation made under section 56.8 supersedes a standard,
+guideline, code, schedule or body of rules established under this
+section to the extent of any conflict. 2025 c21 s7(41)
+Part 6
+Duties and Powers of Custodians
+Relating to Health Information
+Division 1
+General Duties and Powers
+Duty to collect, use or disclose health information
+with highest degree of anonymity possible
+57(1) In this section, “aggregate health information” means
+non-identifying health information about groups of individuals.
+RSA 2000
+Section 58 Chapter H-5HEALTH INFORMATION ACT
+67
+(2) A custodian that intends to collect, use or disclose health
+information must first consider whether collection, use or
+disclosure of aggregate health information is adequate for the
+intended purpose, and if so, the custodian must collect, use or
+disclose only aggregate health information.
+(3) If the custodian believes that collecting, using or disclosing
+aggregate health information is not adequate for the custodian’s
+intended purpose, the custodian must then consider whether
+collection, use or disclosure of other non-identifying health
+information is adequate for the intended purpose, and if so, the
+custodian may collect, use or disclose other non-identifying health
+information.
+(4) If the custodian believes that collecting, using or disclosing
+aggregate and other non-identifying health information is not
+adequate for the custodian’s intended purpose, the custodian may
+collect, use or disclose individually identifying health information
+if the collection, use or disclosure
+(a) is authorized by this Act, and
+(b) is carried out in accordance with this Act.
+(5) This section does not apply where the collection, use or
+disclosure is for the purpose of
+(a) providing health services, or
+(b) determining or verifying the eligibility of an individual to
+receive a health service. 1999 cH-4.8 s57
+Duty to collect, use or disclose health information
+in a limited manner
+58(1) When collecting, using or disclosing health information, a
+custodian must, in addition to complying with section 57, collect,
+use or disclose only the amount of health information that is
+essential to enable the custodian or the recipient of the information,
+as the case may be, to carry out the intended purpose.
+(2) In deciding how much health information to disclose, a
+custodian must consider as an important factor any expressed
+wishes of the individual who is the subject of the information
+relating to disclosure of the information, together with any other
+factors the custodian considers relevant. 1999 cH-4.8 s58
+59 Repealed 2003 c23 s3.
+RSA 2000
+Section 60 Chapter H-5HEALTH INFORMATION ACT
+68
+Duty to protect health information
+60(1) A custodian must take reasonable steps in accordance with
+the regulations to maintain administrative, technical and physical
+safeguards that will
+(a) protect the confidentiality of health information that is in its
+custody or under its control and the privacy of the
+individuals who are the subjects of that information,
+(b) protect the confidentiality of health information that is to be
+stored or used in a jurisdiction outside Alberta or that is to
+be disclosed by the custodian to a person in a jurisdiction
+outside Alberta and the privacy of the individuals who are
+the subjects of that information,
+(c) protect against any reasonably anticipated
+(i) threat or hazard to the security or integrity of the health
+information or of loss of the health information, or
+(ii) unauthorized use, disclosure or modification of the
+health information or unauthorized access to the health
+information,
+and
+(d) otherwise ensure compliance with this Act by the custodian
+and its affiliates.
+(2) The safeguards to be maintained under subsection (1) must
+include appropriate measures
+(a) for the security and confidentiality of records, which
+measures must address the risks associated with electronic
+health records, and
+(b) for the proper disposal of records to prevent any reasonably
+anticipated unauthorized use or disclosure of the health
+information or unauthorized access to the health information
+following its disposal.
+(3) In subsection (2)(a), “electronic health records” means records
+of health information in electronic form. RSA 2000 cH-5 s60;2003 c23 s4
+Duty to comply with standards
+60.01 A custodian must comply with
+(a) a standard, guideline, code, schedule or body of rules
+established under section 56.9, and
+RSA 2000
+Section 60.1 Chapter H-5HEALTH INFORMATION ACT
+69
+(b) a standard, code or body of rules established, adopted or
+incorporated by the Minister under section 108.1.
+2025 c21 s7(42)
+Duty to notify
+60.1(1) Subject to the regulations, an affiliate of a custodian must
+as soon as practicable notify the custodian in accordance with the
+regulations of any loss of individually identifying health
+information or any unauthorized access to or disclosure of
+individually identifying health information in the custody or under
+the control of the custodian.
+(2) Subject to the regulations, subsections (4) and (5) and section
+85.1, a custodian must as soon as practicable give notice in
+accordance with the regulations and subsection (3) of any loss of
+individually identifying health information or any unauthorized
+access to or disclosure of individually identifying health
+information in the custody or under the control of the custodian if
+there is a risk of harm to an individual as a result of the loss or
+unauthorized access or disclosure.
+(3) The notice required by subsection (2) must be given to
+(a) the Commissioner,
+(b) the Minister, and
+(c) the individual who is the subject of the individually
+identifying health information.
+(4) A custodian must consider all relevant factors, including the
+factors prescribed by the regulations, in assessing for the purposes
+of subsection (2) whether there is a risk of harm to an individual.
+(5) If a custodian considers that giving notice under subsection (2)
+to an individual who is the subject of individually identifying
+health information could reasonably be expected to result in a risk
+of harm to the individual’s mental or physical health, the custodian
+may decide not to give notice to the individual, in which case the
+custodian must immediately give notice to the Commissioner of the
+decision not to give notice to the individual, and the reasons for the
+decision, in accordance with the regulations. 2014 c8 s4;2025 c21 s7(43)
+Duty re abandoned records
+60.2(1) A person must notify the Minister as soon as practicable if
+the person
+(a) has custody or control of records containing health
+information,
+RSA 2000
+Section 61 Chapter H-5HEALTH INFORMATION ACT
+70
+(b) is not a custodian or an affiliate, and
+(c) either
+(i) reasonably believes that the records have been
+abandoned by a custodian, or
+(ii) is unable to identify or locate the responsible custodian.
+(2) The Minister may assume custody or control of the records
+referred to in subsection (1) or direct another person to assume
+custody or control of the records.
+(3) If the records referred to in subsection (1) were in the custody
+or under the control of a custodian or former custodian that is a
+member or former member of a health professional body, the
+Minister may direct the health professional body to assume custody
+or control of the records. 2025 c21 s7(44)
+Duty to ensure accuracy of health information
+61 Before using or disclosing health information that is in its
+custody or under its control, a custodian must make a reasonable
+effort to ensure that the information is accurate and complete.
+1999 cH-4.8 s61
+Duty re affiliates
+62(1) Each custodian must identify its affiliates that are
+responsible for complying with the requirements set out in
+subsection (2).
+(2) Each affiliate of a custodian must comply with
+(a) this Act and the regulations, and
+(b) the custodian’s privacy management program established
+under section 63(1).
+(3) Any collection, use or disclosure of health information by an
+affiliate of a custodian is considered to be collection, use or
+disclosure by the custodian.
+(4) Any disclosure of health information to an affiliate of a
+custodian is considered to be disclosure to the custodian.
+RSA 2000 cH-5 s62;2025 c21 s7(45)
+Duty to establish privacy management program
+63(1) A custodian must establish a privacy management program
+consisting of the policies and procedures the custodian establishes
+RSA 2000
+Section 63.1 Chapter H-5HEALTH INFORMATION ACT
+71
+or incorporates to facilitate the implementation of this Act and the
+regulations.
+(2) A custodian must, within 30 days after receiving a request from
+the Commissioner, submit the custodian’s privacy management
+program and, if applicable, a list of the custodian’s affiliates to the
+Commissioner.
+(3) A custodian must, at the request of the Minister or Department,
+provide the Minister or Department, as the case may be, with a
+copy of the custodian’s privacy management program.
+(4) A custodian referred to in section 1(1)(f)(ix) may incorporate
+some or all of the policies and procedures of the custodian’s health
+professional body into the custodian’s privacy management
+program. RSA 2000 cH-5 s63;2025 c21 s7(45)
+Power to prepare policies and procedures — health
+professional body
+63.1(1) A health professional body may prepare general policies
+and procedures relating to health information, which may be
+adopted by a custodian that is a member of the health professional
+body under section 63(4).
+(2) The health professional body may submit the policies and
+procedures to the Commissioner for review and comment.
+(3) If the Commissioner has commented on the policies and
+procedures, the health professional body must, on request of a
+custodian that is a member of the health professional body, provide
+the Commissioner’s comments to the custodian. 2025 c21 s7(45)
+Duty to prepare privacy impact assessment
+64(1) A custodian must prepare a privacy impact assessment and
+submit the privacy impact assessment to the Commissioner for
+review and comment
+(a) before introducing a new administrative practice or
+information system relating to the collection, use and
+disclosure of individually identifying health information,
+(b) before changing an existing administrative practice or
+information system relating to the collection, use and
+disclosure of individually identifying health information, or
+(c) as otherwise required under this Act.
+RSA 2000
+Section 64.1 Chapter H-5HEALTH INFORMATION ACT
+72
+(2) A privacy impact assessment for a new administrative practice
+or changes to an existing administrative practice must be prepared
+and submitted in accordance with the regulations, if any.
+(3) A privacy impact assessment for a new information system,
+changes to an existing information system or where a privacy
+impact assessment is otherwise required under this Act must be
+prepared and submitted in accordance with the regulations, if any,
+and must
+(a) identify and review risks associated with the collection, use
+and disclosure of health information,
+(b) identify measures that protect the privacy of the individuals
+who are the subjects of the individually identifying health
+information, and
+(c) address the security and confidentiality of that individually
+identifying health information.
+(4) A custodian must identify whether the privacy impact
+assessment incorporates all or any part of a privacy impact
+assessment of another custodian that the Commissioner has
+reviewed, and if so, must specify any modifications made in
+accordance with the regulations, if any.
+(5) A privacy impact assessment is not required to contain a
+description of the custodian’s privacy management program.
+(6) This section does not apply to custodians referred to in section
+1(1)(f)(iii), (iv), (ix.1) and (ix.2), ministerial custodians or
+departmental custodians with respect to the collection, use or
+disclosure of health information between or among the custodians
+for a purpose authorized by section 27(2), unless the custodians are
+introducing a new information system or changing an existing
+information system in conjunction with that collection, use or
+disclosure. RSA 2000 cH-5 s64;2020 c35 s63;2024 c10 s20;2025 c10 s25;
+2025 c21 s7(45)
+Privacy impact assessment re common or
+integrated program or service
+64.1 Subject to the regulations, before participating in a common
+or integrated program or service, a custodian must prepare a
+privacy impact assessment and submit the privacy impact
+assessment to the Commissioner for review and comment in
+accordance with section 64. 2025 c21 s7(45)
+RSA 2000
+Section 64.2 Chapter H-5HEALTH INFORMATION ACT
+73
+Power to prepare information security policy
+64.2(1) In this section,
+(a) “agreement” means an agreement entered into under section
+66;
+(b) “information security policy” means a policy described in
+subsection (3);
+(c) “prospective information manager” means a person who
+seeks to become an information manager.
+(2) An information manager or prospective information manager
+may prepare and submit to the Commissioner for review and
+comment an information security policy for use by a custodian that
+enters into an agreement with respect to the information system
+that is the subject of the information security policy.
+(3) An information security policy must address the general
+privacy, security and confidentiality risks of a new information
+system or changes to an existing information system and must
+contain a description of
+(a) the functions and capabilities of an information system,
+including technical specifications relevant to the safeguards
+referred to in clause (b), and
+(b) the information system’s safeguards with respect to
+(i) protecting the privacy of the individuals whose
+individually identifying health information is collected,
+used or disclosed by means of the information system,
+and
+(ii) ensuring the security and confidentiality of that
+individually identifying health information.
+(4) If the Commissioner has commented on an information
+security policy, the information manager or prospective
+information manager must, on request of a custodian described in
+subsection (2), provide the Commissioner’s comments to the
+custodian.
+(5) A custodian that enters into an agreement may incorporate
+some or all of the provisions of an information security policy into
+the custodian’s privacy impact assessment.
+(6) An information manager that enters into an agreement with a
+custodian but that has not prepared and submitted an information
+security policy must provide a description of the components listed
+RSA 2000
+Section 65 Chapter H-5HEALTH INFORMATION ACT
+74
+in subsection (3) to the custodian in plain language and in sufficient
+detail to enable the custodian to prepare a privacy impact
+assessment. 2025 c21 s7(45)
+Power to transform health information
+65(1) Subject to the regulations, a custodian may strip, encode or
+otherwise transform individually identifying health information to
+create non-identifying health information.
+(2) A sharing custodian may only exercise the power set out in
+subsection (1) with respect to shared health information the sharing
+custodian has authority to use under Part 5.1.
+(3) An authorized custodian may only exercise the power set out in
+subsection (1) with respect to health information accessible via the
+Alberta EHR the authorized custodian has authority to use under
+Part 5.1. RSA 2000 cH-5 s65;2025 c21 s7(46)
+Power to enter agreement with information manager
+66(1) Repealed 2025 c21 s7(47).
+(2) A custodian must enter into a written agreement with an
+information manager in accordance with the regulations for the
+provision of any or all of the services described in subsection (1).
+(3) A custodian that has entered into an agreement with an
+information manager may provide health information to the
+information manager without the consent of the individuals who
+are the subjects of the information for the purposes authorized by
+the agreement.
+(4) An information manager to which information is provided
+pursuant to subsection (3) may use or disclose that information
+only for the purposes authorized by the agreement.
+(5) An information manager must comply with
+(a) this Act and the regulations, and
+(b) the agreement entered into with a custodian
+in respect of information provided to it pursuant to subsection (3).
+(6) Despite subsection (5)(a), a custodian continues to be
+responsible for compliance with this Act and the regulations in
+respect of the information provided by the custodian to the
+information manager.
+RSA 2000
+Section 67 Chapter H-5HEALTH INFORMATION ACT
+75
+(7) A custodian that is an information manager for another
+custodian does not become a custodian of the health information
+provided to it in its capacity as an information manager, but
+nothing in this section prevents the custodian from otherwise
+collecting, using or disclosing that same health information in
+accordance with this Act.
+RSA 2000 cH-5 s66;2009 c25 s21;2020 c35 s64;2025 c21 s7(47)
+Power to charge fees
+67(1) A custodian may charge the fees provided for in the
+regulations for services provided under Part 2.
+(2) Subsection (1) does not permit a custodian to charge a fee in
+respect of a request for access to an applicant’s own health
+information, except for the cost of producing the copy.
+(3) A custodian must give an applicant an estimate of the total fee
+for its services before providing the services.
+(4) A custodian may excuse an applicant from paying all or part of
+a fee if, in the opinion of the custodian, the applicant cannot afford
+the fee or in any other circumstances provided for in the
+regulations.
+(5) If an applicant has requested a custodian to excuse the
+applicant from paying all or part of a fee and the custodian has
+refused the applicant’s request, the custodian must notify the
+applicant that the applicant may ask for a review by the
+Commissioner.
+(6) The fees referred to in subsection (1) must not exceed the
+actual cost of the services. 1999 cH-4.8 s67
+Division 2
+Data Matching
+Prohibition
+68 A custodian or health information repository must not
+(a) collect the health information to be used in data matching,
+or
+(b) use or disclose the health information to be used in data
+matching or created through data matching
+in contravention of this Act. RSA 2000 cH-5 s68;2009 c25 s26
+RSA 2000
+Section 69 Chapter H-5HEALTH INFORMATION ACT
+76
+Data matching
+69(1) Subject to subsections (2) and (3), a custodian or health
+information repository may perform data matching using
+information in its custody or under its control.
+(2) A sharing custodian may only exercise the power set out in
+subsection (1) with respect to shared health information the sharing
+custodian has authority to use under Part 5.1.
+(3) An authorized custodian may only exercise the power set out in
+subsection (1) with respect to health information accessible via the
+Alberta EHR the authorized custodian has authority to use under
+Part 5.1. RSA 2000 cH-5 s69;2009 c25 s26;2025 c21 s7(48)
+Data matching by custodians or health information repository
+70(1) A custodian or health information repository may perform
+data matching by combining information in its custody or under its
+control with information in the custody or under the control of
+another custodian or health information repository.
+(2) A sharing custodian may only exercise the power set out in
+subsection (1) with respect to shared health information that the
+sharing custodian has authority to use under Part 5.1.
+(3) An authorized custodian may only exercise the power set out in
+subsection (1) with respect to health information accessible via the
+Alberta EHR that the authorized custodian has authority to use
+under Part 5.1.
+(4) Before performing data matching under this section, the
+custodian or health information repository in whose custody or
+under whose control the information created through data matching
+will be stored must prepare a privacy impact assessment and
+submit the privacy impact assessment to the Commissioner for
+review and comment.
+(5) A privacy impact assessment referred to in subsection (4) must,
+in addition to any applicable requirements set out in section 64,
+(a) describe how the information to be used in the data
+matching is to be collected, and
+(b) set out how the information created through data matching
+is to be used or disclosed.
+RSA 2000 cH-5 s70;2009 c25 s26;2025 c21 s7(49)
+RSA 2000
+Section 71 Chapter H-5HEALTH INFORMATION ACT
+77
+Data matching by custodian or health information
+repository and non-custodian
+71(1) A custodian or health information repository may perform
+data matching by combining information in its custody or under its
+control with information in the custody or under the control of a
+person that is not a custodian or health information repository.
+(2) A sharing custodian may only exercise the power set out in
+subsection (1) with respect to shared health information the sharing
+custodian has authority to use under Part 5.1.
+(3) An authorized custodian may only exercise the power set out in
+subsection (1) with respect to health information accessible via the
+Alberta EHR that the authorized custodian has authority to use
+under Part 5.1.
+(4) Before performing data matching under this section, the
+custodian or health information repository must prepare a privacy
+impact assessment and submit the privacy impact assessment to the
+Commissioner for review and comment.
+(5) A privacy impact assessment referred to in subsection (4) must,
+in addition to any applicable requirements set out in section 64,
+meet the requirements set out in section 70(5).
+RSA 2000 cH-5 s71;2009 c25 s26;2025 c21 s7(50)
+Data matching for research
+72(1) If data matching is performed for the purpose of conducting
+research described in section 49, sections 49 to 56 must be
+complied with before the data matching is performed.
+(2) Despite subsection (1), where data matching is performed for
+the purpose of conducting research described in section 52.1,
+sections 52.1 to 56 must be complied with before the data matching
+is performed. RSA 2000 cH-5 s72;2025 c21 s7(51)
+Part 6.1
+Health Information Repository
+Designation
+72.1(1) The Minister may, in accordance with the regulations,
+designate an agency, corporation or other entity to act as a health
+information repository.
+(1.1) The Minister, or a Minister referred to in section
+1(1)(f)(xiii.1), (xiii.2) or (xiii.3), may, in accordance with the
+regulations, designate a department referred to in section
+1(1)(f)(xii), (xii.1), (xii.2) or (xii.3) to act as a health information
+repository.
+RSA 2000
+Section 72.2 Chapter H-5HEALTH INFORMATION ACT
+78
+(2) The Minister referred to in section 1(1)(f)(xiii.1) may, in
+accordance with the regulations, designate the Canadian Centre of
+Recovery Excellence to act as a health information repository.
+2009 c25 s22;2024 c10 s20;2025 c21 s7(52)
+Disclosure of information
+72.2 A custodian may, in accordance with the regulations,
+disclose individually identifying health information to a health
+information repository. 2009 c25 s22
+Powers and duties of repository
+72.3 A health information repository has the powers, duties and
+functions given to it by this Act and the regulations. 2009 c25 s22
+Correction or amendment of health
+information by repository
+72.4(1) Where a custodian has made a correction or amendment to
+health information pursuant to section 13, the custodian must notify
+a health information repository to which the custodian has
+disclosed the information that a correction or amendment has been
+made and advise the repository of the manner in which the health
+information must be corrected or amended.
+(2) A health information repository that is notified pursuant to
+subsection (1) must, within 30 days,
+(a) make the correction or amendment according to the advice
+of the custodian, and
+(b) provide written notice that the correction or amendment has
+been made to the custodian, and the custodian shall then
+notify the individual who is the subject of the health
+information.
+(3) An individual who is the subject of health information to which
+a correction or amendment is made pursuant to subsection (1) may
+ask the Commissioner to review a failure of a custodian to notify a
+health information repository of the correction or amendment or a
+failure of a health information repository to make the correction or
+amendment pursuant to subsection (2).
+(4) Sections 74 to 82 apply with all necessary modifications to a
+request to the Commissioner for a review under subsection (3).
+(5) For greater clarity, the duties and responsibilities of a custodian
+as outlined in sections 74 to 82 also apply to a health information
+repository for the purposes of this section. 2009 c25 s22
+RSA 2000
+Section 72.5 Chapter H-5HEALTH INFORMATION ACT
+79
+Consultation with Commissioner
+72.5(1) Subject to subsection (2), the Minister must consult with
+the Commissioner in the preparation of the regulations under this
+Part.
+(2) The Minister of Mental Health and Addiction must consult
+with the Commissioner in respect of the regulations under section
+72.1(2). 2009 c25 s22;2024 c10 s20
+Part 7
+Commissioner
+Division 1
+Reviews by Commissioner
+Right to ask for a review
+73(1) An individual who makes a request to a custodian for access
+to or for correction or amendment of health information may ask
+the Commissioner to review any decision, act or failure to act of
+the custodian that relates to the request.
+(2) An individual who believes that the individual’s own health
+information has been collected, used or disclosed in contravention
+of this Act may ask the Commissioner to review that matter.
+(3) A custodian may ask the Commissioner to review the decision
+of another custodian to refuse to disclose health information
+pursuant to section 47(2).
+(4) An individual or custodian who believes that a researcher has
+failed to comply with section 54.1 may ask the Commissioner to
+review the matter. RSA 2000 cH-5 s73;2025 c21 s7(53)
+How to ask for a review
+74(1) To ask for a review under this Division, a written request
+must be delivered to the Commissioner.
+(2) A request under section 73 for a review of a decision of a
+custodian must be delivered to the Commissioner within
+(a) sixty days after the person asking for the review is notified
+of the decision, or
+(b) any longer period allowed by the Commissioner.
+(3) The failure of a custodian to respond in time to a request for
+access to a record is to be treated as a decision to refuse access, but
+RSA 2000
+Section 75 Chapter H-5HEALTH INFORMATION ACT
+80
+the time limit in subsection (2)(a) for delivering a request for a
+review does not apply. 1999 cH-4.8 s74
+Notifying others of review
+75(1) On receiving a request for a review, the Commissioner must
+as soon as practicable
+(a) give a copy of the request
+(i) to the custodian concerned, and
+(ii) to any other person who in the opinion of the
+Commissioner is affected by the request,
+and
+(b) provide a summary of the review procedures and an
+anticipated date for a decision in respect of the review
+(i) to the person who asked for the review,
+(ii) to the custodian concerned, and
+(iii) to any other person who in the opinion of the
+Commissioner is affected by the request.
+(2) Despite subsection (1)(a), the Commissioner may sever any
+information in the request that the Commissioner considers
+appropriate before giving a copy of the request to the custodian or
+any other person affected by the request. 1999 cH-4.8 s75
+Mediation may be authorized
+76 The Commissioner may authorize a mediator to investigate
+and attempt to settle any matter that is the subject of a request for a
+review. 1999 cH-4.8 s76
+Inquiry by Commissioner
+77(1) Unless section 78 applies, if a matter is not settled under
+section 76, the Commissioner must conduct an inquiry and may
+decide all questions of fact and law arising in the course of the
+inquiry.
+(2) An inquiry under subsection (1) may be conducted in private.
+(3) The person who asked for the review, the custodian concerned
+and any other person given a copy of the request for the review
+must be given an opportunity to make representations to the
+RSA 2000
+Section 78 Chapter H-5HEALTH INFORMATION ACT
+81
+Commissioner during the inquiry, but no one is entitled to be
+present during, to have access to or to comment on representations
+made to the Commissioner by another person.
+(4) The Commissioner may decide whether the representations are
+to be made orally or in writing.
+(5) The person who asked for the review, the custodian concerned
+and any other person given a copy of the request for the review
+may be represented at the inquiry by counsel or an agent.
+(6) An inquiry under this section must be completed within 90
+days after the Commissioner receives the request for the review
+unless the Commissioner
+(a) notifies the person who asked for the review, the custodian
+concerned and any other person given a copy of the request
+for the review that the Commissioner is extending that
+period, and
+(b) provides an anticipated date for the completion of the
+review. 1999 cH-4.8 s77
+Refusal to conduct inquiry
+78 The Commissioner may refuse to conduct an inquiry pursuant
+to section 77 if in the opinion of the Commissioner
+(a) the subject of the request for a review under section 73 has
+been dealt with in an order or investigation report of the
+Commissioner, or
+(b) the circumstances warrant deciding not to conduct an
+inquiry. RSA 2000 cH-5 s78;2020 c35 s65
+Burden of proof
+79 If an inquiry relates to a decision to refuse access to all or part
+of a record, the onus is on the custodian to prove that the person
+asking for the review has no right of access to the record or part of
+the record. 1999 cH-4.8 s79
+Commissioner’s orders
+80(1) On completing an inquiry under section 77, the
+Commissioner must dispose of the issues by making an order under
+this section.
+RSA 2000
+Section 80 Chapter H-5HEALTH INFORMATION ACT
+82
+(2) If the inquiry relates to a decision to grant or to refuse access to
+all or part of a record, the Commissioner may, by order, do the
+following:
+(a) require the custodian to grant access to all or part of the
+record, if the Commissioner determines that the custodian is
+not authorized or required to refuse access;
+(b) either confirm the decision of the custodian or require the
+custodian to reconsider it, if the Commissioner determines
+that the custodian is authorized to refuse access;
+(c) require the custodian to refuse access to all or part of the
+record, if the Commissioner determines that the custodian is
+required to refuse access.
+(3) If the inquiry relates to any other matter, the Commissioner
+may, by order, do one or more of the following:
+(a) require that a duty imposed by this Act or the regulations be
+performed;
+(b) confirm or reduce the extension of a time limit under section
+15;
+(c) confirm or reduce a fee required to be paid under this Act or
+order a refund, in the appropriate circumstances, including if
+a time limit is not met;
+(d) confirm a decision not to correct or amend health
+information or specify how health information is to be
+corrected or amended;
+(e) require a person to stop collecting, using, disclosing or
+creating health information in contravention of this Act;
+(f) require a person to destroy health information collected or
+created in contravention of this Act.
+(4) The Commissioner may specify any terms or conditions in an
+order made under this section.
+(5) The Commissioner must give a copy of an order made under
+this section
+(a) to the person who asked for the review,
+(b) to the custodian concerned,
+RSA 2000
+Section 81 Chapter H-5HEALTH INFORMATION ACT
+83
+(c) to any other person given a copy of the request for the
+review, and
+(d) to the Minister.
+(6) A copy of an order made by the Commissioner under this
+section may be filed with a clerk of the Court of King’s Bench and,
+after filing, the order is enforceable as a judgment or order of that
+Court. RSA 2000 cH-5 s80;AR 217/2022
+No appeal
+81 An order made by the Commissioner under this Act is final.
+1999 cH-4.8 s81
+Duty to comply with order
+82(1) Subject to subsection (2), not later than 50 days after being
+given a copy of an order of the Commissioner, other than an order
+made under section 85.1, the custodian concerned must comply
+with the order.
+(2) A custodian must not take any steps to comply with a
+Commissioner’s order, other than an order made under section
+85.1, until the period for bringing an application for judicial review
+under subsection (3) ends.
+(3) An application for judicial review of a Commissioner’s order,
+other than an order made under section 85.1, must be made not
+later than 45 days after the person making the application is given a
+copy of the order.
+(4) If an application for judicial review is made pursuant to
+subsection (3), the Commissioner’s order is stayed until the
+application is dealt with by the Court of King’s Bench.
+(5) Despite subsection (3), the Court may, on application made
+either before or after the expiry of the period referred to in
+subsection (3), extend that period if it considers it appropriate to do
+so. RSA 2000 cH-5 s82;2014 c8 s4;AR 217/2022
+Division 2
+Disclosure to Commissioner
+Disclosure to Commissioner
+83(1) An affiliate of a custodian may disclose to the
+Commissioner any health information that the affiliate is required
+to keep confidential and that the affiliate, acting in good faith,
+RSA 2000
+Section 84 Chapter H-5HEALTH INFORMATION ACT
+84
+believes is being collected, used or disclosed in contravention of
+this Act.
+(2) The Commissioner must investigate and review any disclosure
+made under subsection (1).
+(3) If an affiliate makes a disclosure under subsection (1), the
+Commissioner must not disclose the identity of the affiliate to any
+person without the affiliate’s consent.
+(4) An affiliate is not liable to a prosecution for an offence under
+any Act for disclosing health information to the Commissioner
+unless the affiliate was acting in bad faith.
+(5) In carrying out an investigation and review under this section,
+the Commissioner has all of the powers and duties set out in
+sections 76, 77, 80(1) to (5), 88 and 91, and sections 89, 90, 92 and
+94 apply. 1999 cH-4.8 s83
+Division 3
+Additional Powers and Duties
+of Commissioner
+General powers of Commissioner
+84(1) In addition to the Commissioner’s powers and duties under
+Divisions 1 and 2 with respect to reviews, the Commissioner is
+generally responsible for monitoring how this Act is administered
+to ensure its purposes are achieved, and may
+(a) at the request of the Minister or otherwise, conduct
+investigations to ensure compliance with any provision of
+this Act or compliance with rules relating to the destruction
+of records set out in an enactment of Alberta,
+(b) make an order described in section 80 whether or not a
+review is requested,
+(c) inform the public about this Act,
+(d) receive comments from the public concerning the
+administration of this Act,
+(e) engage in or commission a study of anything affecting the
+achievement of the purposes of this Act,
+(f) comment on the implications for access to health
+information or for protection of health information of
+privacy impact assessments submitted to the Commissioner
+under section 46(5), 64, 70 or 71,
+RSA 2000
+Section 85 Chapter H-5HEALTH INFORMATION ACT
+85
+(f.1) request privacy management programs and lists of affiliates
+under section 63(2) and comment on the implications for
+access to health information or for protection of health
+information of privacy management programs,
+(f.2) review and comment on general policies and procedures
+submitted by health professional bodies under section
+63.1(2),
+(f.3) comment on the implications for protection of health
+information or information security policies submitted to the
+Commissioner under section 64.2(2),
+(g) comment on the implications for protection of health
+information of using or disclosing health information for the
+purpose of performing data matching,
+(h) give advice and recommendations of general application to a
+custodian on matters respecting the rights or obligations of
+custodians under this Act,
+(i) bring to the attention of a custodian any failure by the
+custodian to assist applicants under section 10, and
+(j) exchange information with an extra-provincial
+commissioner and enter into information sharing and other
+agreements with extra-provincial commissioners for the
+purpose of co-ordinating activities and handling complaints
+involving 2 or more jurisdictions.
+(2) For the purposes of subsection (1)(j), “extra-provincial
+commissioner” means a person who, in respect of Canada or in
+respect of another province or territory of Canada, has duties,
+powers and functions similar to those of the Commissioner.
+RSA 2000 cH-5 s84;2009 c25 s23;2025 c21 s7(54)
+Power to resolve complaints
+85 Without limiting section 84, the Commissioner may
+investigate and attempt to resolve a complaint that
+(a) a duty imposed by section 10 has not been performed,
+(b) an extension of time for responding to a request is not in
+accordance with section 15,
+(c) a fee charged under this Act is inappropriate,
+(d) a correction or amendment of health information requested
+under section 13 has been refused without justification, or
+RSA 2000
+Section 85.1 Chapter H-5HEALTH INFORMATION ACT
+86
+(e) health information has been collected, used, disclosed or
+created by a custodian in contravention of this Act.
+1999 cH-4.8 s85
+Power to order notification under section 60.1
+85.1(1) On receiving a notice under section 60.1(5), the
+Commissioner may require the custodian to provide any additional
+information the Commissioner considers necessary to determine
+whether to make an order under subsection (2)(b).
+(2) On considering the notice under section 60.1(5), the reasons
+the custodian provided for the decision not to notify the individual
+and any information provided under subsection (1), the
+Commissioner may
+(a) confirm the decision of the custodian, or
+(b) by order require the custodian to provide a notice that
+contains the information specified in the order, in the form,
+manner and within the time specified in the order.
+(3) The Commissioner may
+(a) specify any terms or conditions in an order made under
+subsection (2)(b), and
+(b) amend an order made under subsection (2)(b).
+(4) The custodian must comply with a requirement to provide
+information under subsection (1), and if the custodian does not
+comply, the Commissioner may apply to the Court of King’s Bench
+for an order to compel the custodian to provide the information.
+(5) On the application of the Commissioner under subsection (4),
+the Court of King’s Bench may make an order requiring the
+custodian to provide information to the Commissioner in
+accordance with a requirement under subsection (1).
+(6) The Commissioner must give a copy of an order made under
+subsection (2)(b)
+(a) to the custodian, and
+(b) to the Minister.
+(7) After being given a copy of an order under subsection (2)(b)
+the custodian must comply with the order.
+(8) An order under subsection (2)(b) may only be stayed by an
+order of the Court of King’s Bench.
+RSA 2000
+Section 86 Chapter H-5HEALTH INFORMATION ACT
+87
+(9) A copy of an order made by the Commissioner under
+subsection (2)(b) may be filed with a clerk of the Court of King’s
+Bench and, after filing, the order is enforceable as a judgment or
+order of that Court. 2014 c8 s4;AR 217/2022
+Advice and recommendations
+86(1) A custodian may ask the Commissioner to give advice and
+recommendations on any matter respecting any rights or duties
+under this Act.
+(2) The Commissioner may in writing provide the custodian with
+advice and recommendations that
+(a) state the material facts either expressly or by incorporating
+facts stated by the custodian,
+(b) are based on the facts referred to in clause (a), and
+(c) may be based on any other considerations the Commissioner
+considers appropriate. 1999 cH-4.8 s86
+Power to authorize a custodian to disregard requests
+87(1) At the request of a custodian, the Commissioner may
+authorize the custodian to disregard one or more requests under
+section 8(1) or 13(1) if
+(a) because of their repetitious or systematic nature, the
+requests would unreasonably interfere with the operations of
+the custodian or amount to an abuse of the right to make
+those requests, or
+(b) one or more of the requests are frivolous or vexatious.
+(2) The processing of a request under section 8(1) or 13(1) ceases
+when a custodian has made a request under subsection (1) and
+(a) if the Commissioner authorizes the custodian to disregard
+the request, does not resume;
+(b) if the Commissioner does not authorize the custodian to
+disregard the request, does not resume until the
+Commissioner advises the custodian of the Commissioner’s
+decision. RSA 2000 cH-5 s87;2006 c18 s15
+RSA 2000
+Section 88 Chapter H-5HEALTH INFORMATION ACT
+88
+Powers of Commissioner in conducting investigations
+or inquiries
+88(1) In conducting an inquiry under section 77 or an
+investigation under section 84(a) or in giving advice and
+recommendations under section 86, the Commissioner has all the
+powers, privileges and immunities of a commissioner under the
+Public Inquiries Act and the powers given by subsection (2) of this
+section.
+(2) The Commissioner may require any relevant record to be
+produced to the Commissioner and may examine any information
+in the record, whether or not the record is subject to the provisions
+of this Act.
+(3) Despite any other enactment or any privilege of the law of
+evidence, a custodian must produce to the Commissioner within 10
+days any record or a copy of any record required under subsection
+(1) or (2).
+(4) If a custodian is required to produce a record under subsection
+(1) or (2) and it is not practical to make a copy of the record, the
+custodian may require the Commissioner to examine the original at
+its site.
+(5) After completing a review or investigating a complaint, the
+Commissioner must return any record or any copy of any record
+produced. 1999 cH-4.8 s88
+Statements made to Commissioner not admissible
+in evidence
+89(1) A statement made or an answer given by a person to the
+Commissioner under section 85.1 or during an investigation or
+inquiry by the Commissioner is inadmissible in evidence in court
+or in any other proceeding, except
+(a) in a prosecution for perjury in respect of sworn testimony,
+(b) in a prosecution for an offence under this Act,
+(c) in an application for judicial review or an appeal from a
+decision with respect to that application, or
+(d) in an application for a stay of an order made under section
+85.1(2)(b).
+(2) Subsection (1) applies also in respect of evidence of the
+existence of proceedings conducted before the Commissioner.
+RSA 2000 cH-5 s89;2014 c8 s4
+RSA 2000
+Section 90 Chapter H-5HEALTH INFORMATION ACT
+89
+Privileged information
+90 Anything said, any information supplied or any record
+produced by a person to the Commissioner under section 85.1 or
+during an investigation or inquiry by the Commissioner is
+privileged in the same manner as if the matter, investigation or
+inquiry were a proceeding in a court. RSA 2000 cH-5 s90;2014 c8 s4
+Restrictions on disclosure of information by
+Commissioner and staff
+91(1) The Commissioner and anyone acting for or under the
+direction of the Commissioner must not disclose any information
+obtained in performing their duties, powers and functions under
+this Act, except as provided in subsections (2) to (5) and section
+50.1.
+(2) The Commissioner may disclose, or may authorize anyone
+acting for or under the direction of the Commissioner to disclose,
+information that is necessary
+(a) to conduct an investigation or inquiry under this Act, or
+(b) to establish the grounds for findings and recommendations
+contained in a report under this Act.
+(3) In conducting an investigation or inquiry under this Act and in
+a report under this Act, the Commissioner and anyone acting for or
+under the direction of the Commissioner must take every
+reasonable precaution to avoid disclosing and must not disclose
+(a) any health information a custodian would be required or
+authorized to refuse to disclose if it were contained in a
+record requested under section 8(1), or
+(b) whether health information exists, if a custodian in refusing
+to grant access does not indicate whether the information
+exists.
+(3.1) The Commissioner may disclose any information to a
+ministerial custodian if in the opinion of the Commissioner the
+disclosure is necessary to enable the ministerial custodian to
+exercise the powers or carry out the duties and functions of the
+ministerial custodian in respect of any matter under that Minister’s
+administration.
+(3.2) The Commissioner may disclose any information to any
+person where the Commissioner reasonably believes the disclosure
+of the information to that person
+RSA 2000
+Section 92 Chapter H-5HEALTH INFORMATION ACT
+90
+(a) is necessary to protect the privacy, health or safety of an
+individual, or
+(b) is in the public interest.
+(4) The Commissioner may disclose to the Minister of Justice
+information relating to the commission of an offence under an
+enactment of Alberta or Canada if the Commissioner considers
+there is evidence of an offence.
+(5) The Commissioner may disclose, or may authorize anyone
+acting for or under the direction of the Commissioner to disclose,
+information in the course of a prosecution, application or appeal
+referred to in section 89(1).
+RSA 2000 cH-5 s91;2006 c18 s16;2013 c10 s34;2014 c8 s4;
+2022 c21 s37;2024 c10 s20;2025 c10 s25
+Immunity from suit
+92 No action lies and no proceeding may be brought against the
+Commissioner, or against a person acting for or under the direction
+of the Commissioner, for anything done, reported or said in good
+faith in the exercise or performance or the intended exercise or
+performance of a duty, power or function under this Part.
+1999 cH-4.8 s92
+Delegation by Commissioner
+93(1) The Commissioner may delegate to any person any duty,
+power or function of the Commissioner under this Act except the
+power to delegate.
+(2) A delegation under subsection (1) must be in writing and may
+contain any conditions or restrictions the Commissioner considers
+appropriate. 1999 cH-4.8 s93
+Role of Ombudsman
+94 The Ombudsman may not investigate any matter that the
+Commissioner has the power to investigate or review under this
+Part unless the Commissioner agrees. 1999 cH-4.8 s94
+Annual report of Commissioner
+95(1) The Commissioner must report annually to the Speaker of
+the Legislative Assembly on
+(a) the work of the Commissioner’s office, and
+(b) any other matters relating to the protection of health
+information that the Commissioner considers appropriate.
+RSA 2000
+Section 96 Chapter H-5HEALTH INFORMATION ACT
+91
+(2) On receiving a report from the Commissioner, the Speaker
+must lay the report before the Legislative Assembly
+(a) as soon as possible, if the Legislature is then sitting, or
+(b) if the Legislature is not then sitting, within 15 days after the
+commencement of the next sitting. 1999 cH-4.8 s95
+Division 4
+Conflict of Interest of Commissioner
+Adjudicator
+96(1) The Lieutenant Governor in Council may designate a judge
+of the Court of King’s Bench of Alberta to act as an adjudicator
+(a) to investigate complaints respecting any matter referred to in
+section 85 made against a custodian where the
+Commissioner has been a member, employee or
+administrator of that custodian or where, in the
+Commissioner’s opinion, the Commissioner has a conflict
+with respect to that custodian;
+(b) to review, if requested under section 98, a decision, act or
+failure to act of a custodian where the Commissioner has
+been a member, employee or administrator of that custodian
+or where, in the Commissioner’s opinion, the Commissioner
+has a conflict with respect to that custodian.
+(2) An adjudicator must not review an order of the Commissioner
+made under this Act.
+(3) An adjudicator may retain the services of any persons
+necessary to assist in performing the adjudicator’s functions under
+this Act.
+(4) The Government of Alberta may pay out of the General
+Revenue Fund
+(a) to an adjudicator, the expenses a judge is entitled to receive
+under section 57(3) of the Judges Act (Canada) while acting
+as an adjudicator, and
+(b) to a person whose services are retained under subsection (3),
+remuneration for those services. RSA 2000 cH-5 s96;AR 217/2022
+RSA 2000
+Section 97 Chapter H-5HEALTH INFORMATION ACT
+92
+Powers, duties and functions of adjudicator
+97(1) For the purposes of section 96, an adjudicator has the
+powers, duties and functions given to the Commissioner by
+sections 85(a) to (d), 87, 88 and 91(1), (2)(a) and (3) to (5).
+(2) Sections 89, 90, 92 and 94 apply for the purposes of an
+investigation, inquiry or review by an adjudicator. 1999 cH-4.8 s97
+Review where Commissioner in conflict
+98(1) This section applies where the Commissioner is asked under
+section 73 to review a decision, act or failure to act of a custodian
+and the Commissioner had been a member, employee or
+administrator of that custodian or, in the Commissioner’s opinion,
+the Commissioner has a conflict with respect to that custodian.
+(2) An individual who makes a request to a custodian for access to
+or for correction or amendment of health information may ask an
+adjudicator to review any decision, act or failure to act of the
+custodian that relates to the request.
+(3) An individual who believes that the individual’s own health
+information has been collected, used or disclosed in contravention
+of this Act may ask an adjudicator to review that matter.
+(4) A custodian may ask an adjudicator to review the decision of
+another custodian to refuse to disclose health information pursuant
+to section 47(2). 1999 cH-4.8 s98
+How to ask for a review
+99(1) To ask for a review under this Division, a written request
+must be delivered to the Minister.
+(2) A request for a review of a decision must be delivered to the
+Minister within
+(a) sixty days after the person asking for the review is notified
+of the decision, or
+(b) any longer period allowed by the adjudicator. 1999 cH-4.8 s99
+Notifying others of review
+100 On receiving a request for a review, the Minister must as
+soon as practicable
+(a) give the request to an adjudicator,
+(b) give a copy of the request
+RSA 2000
+Section 101 Chapter H-5HEALTH INFORMATION ACT
+93
+(i) to the Commissioner, and
+(ii) to any other person who in the opinion of the Minister is
+affected by the request,
+and
+(c) provide a summary of the review procedures
+(i) to the person who asked for the review,
+(ii) to the Commissioner, and
+(iii) to any other person who in the opinion of the Minister is
+affected by the request. 1999 cH-4.8 s100
+Conduct and outcome of review
+101(1) An adjudicator has the powers and duties given to the
+Commissioner by sections 76 and 77(1) and (2), and sections 77(3)
+to (6) and 79 apply to an inquiry conducted by an adjudicator.
+(2) On completing an inquiry, an adjudicator has the same duty to
+dispose of the issues, the same power to make orders and the same
+duty to notify others of those orders as the Commissioner has under
+section 80(1) to (5).
+(3) An adjudicator must give a copy of an order made by the
+adjudicator under this Act to the Commissioner.
+(4) A copy of an order made by an adjudicator under this Act may
+be filed with a clerk of the Court of King’s Bench and, after filing,
+the order is enforceable as a judgment or order of that Court.
+(5) Section 82 applies to an order of an adjudicator.
+(6) An order made by an adjudicator under this Act is final.
+RSA 2000 cH-5 s101;AR 217/2022
+Part 8
+General Provisions
+Oaths
+102(1) Before beginning to perform duties under this Act, the
+Commissioner must take an oath to faithfully and impartially
+perform the duties of the Commissioner under this Act and not to
+disclose any information received by the office of the
+Commissioner under this Act, except as provided for in this Act.
+RSA 2000
+Section 103 Chapter H-5HEALTH INFORMATION ACT
+94
+(2) Every person employed or engaged by the office of the
+Commissioner must, before beginning to perform duties under this
+Act, take an oath not to disclose any information received by that
+person under this Act, except as provided for in this Act.
+(3) The oath referred to
+(a) in subsection (1) must be administered by the Speaker of the
+Legislative Assembly or the Clerk of the Legislative
+Assembly, and
+(b) in subsection (2) must be administered by the
+Commissioner. 1999 cH-4.8 s102
+Manner of giving notice
+103 Where this Act requires any notice or other document to be
+given to a person, it is to be given
+(a) by sending it to that person by prepaid mail to the last
+known address of that person,
+(b) by personal service,
+(c) by substitutional service if so authorized by the
+Commissioner, or
+(d) by means of a machine or device that electronically
+transmits a copy of a document, picture or other printed
+material by means of a telecommunications system.
+1999 cH-4.8 s103
+Exercise of rights by other persons
+104(1) Any right or power conferred on an individual by this Act
+may be exercised
+(a) if the individual is 18 years of age or older, by the
+individual,
+(b) if the individual is under 18 years of age and understands
+the nature of the right or power and the consequences of
+exercising the right or power, by the individual,
+(c) if the individual is under 18 years of age but does not meet
+the criterion in clause (b), by the guardian of the individual,
+(d) if the individual is deceased,
+(i) by the individual’s nearest relative as defined in the
+Personal Directives Act, or
+RSA 2000
+Section 105 Chapter H-5HEALTH INFORMATION ACT
+95
+(ii) by the individual’s personal representative if the exercise
+of the right or power relates to the administration of the
+individual’s estate,
+(e) if a guardian or trustee has been appointed for the individual
+under the Adult Guardianship and Trusteeship Act, by the
+guardian or trustee if the exercise of the right or power
+relates to the powers and duties of the guardian or trustee,
+(f) if an agent has been designated under a personal directive
+under the Personal Directives Act, by the agent if the
+directive so authorizes,
+(g) if a power of attorney has been granted by the individual, by
+the attorney if the exercise of the right or power relates to
+the powers and duties conferred by the power of attorney,
+(h) by the individual’s nearest relative as defined in the Mental
+Health Act if the exercise of the right or power is necessary
+to carry out the obligations of the nearest relative under that
+Act, or
+(i) by any person with written authorization from the individual
+to act on the individual’s behalf.
+(2) Any notice required to be given to an individual under this Act
+may be given to the person entitled to exercise the individual’s
+rights or powers referred to in subsection (1).
+RSA 2000 cH-5 s104;2003 c23 s5;2007 c35 s25;2008 cA-4.2 s131;
+2020 c35 s66;2025 c21 s7(55)
+Immunity from suit
+105 No action lies and no proceeding may be brought against the
+Crown, a custodian or any person acting for or under the direction
+of a custodian for damages resulting from anything done or not
+done by that person in good faith while carrying out duties or
+exercising powers under this Act. RSA 2000 cH-5 s105;2020 c35 s67
+Protection of employee
+106(1) A custodian or a person acting on behalf of a custodian
+must not take any action against its affiliate to negatively affect its
+status as an affiliate of the custodian because the affiliate, acting in
+good faith,
+(a) has exercised or may exercise a right under section 83, or
+(b) has properly disclosed information in accordance with this
+Act.
+RSA 2000
+Section 107 Chapter H-5HEALTH INFORMATION ACT
+96
+(1.1) A person that is not a custodian, or a person acting on behalf
+of that person, that employs or engages a custodian or provides
+health information to a custodian must not take any action against
+the custodian because the custodian has, acting in good faith and
+for a purpose authorized by section 27, collected, used or disclosed
+health information in accordance with this Act or otherwise
+complied with this Act.
+(2) A person who contravenes subsection (1) or (1.1) is guilty of
+an offence and liable to a fine of not more than $10 000.
+RSA 2000 cH-5 s106;2025 c21 s7(56)
+Offences and penalties
+107(1) No custodian or affiliate of a custodian shall knowingly
+(a) alter, falsify or conceal any record, or direct another person
+to do so, with the intent to evade a request for access to the
+record, or
+(b) destroy any record that is subject to this Act, or direct
+another person to do so, with the intent to evade a request
+for access to the record.
+(1.1) No custodian shall
+(a) fail to take reasonable steps in accordance with the
+regulations to maintain administrative, technical and
+physical safeguards that will protect against any reasonably
+anticipated threat or hazard to the security or integrity of
+health information or of loss of health information,
+(b) fail to comply with section 60.1(2), (3), (4) or (5), or
+(c) fail to comply with an order made by the Commissioner
+under section 85.1(2)(b).
+(1.2) No affiliate of a custodian shall fail to comply with section
+60.1(1).
+(2) No person shall knowingly
+(a) collect, use, disclose or create health information in
+contravention of this Act,
+(b) gain or attempt to gain access to health information in
+contravention of this Act,
+(c) make a false statement to, or mislead or attempt to mislead,
+the Commissioner or another person performing the duties,
+RSA 2000
+Section 107 Chapter H-5HEALTH INFORMATION ACT
+97
+powers or functions of the Commissioner or other person
+under this Act,
+(d) obstruct the Commissioner or another person in the
+performance of the duties, powers or functions of the
+Commissioner or other person under this Act,
+(e) fail to comply with an order made by the Commissioner
+under section 80 or by an adjudicator under section 101, or
+(f) use individually identifying health information to market
+any service for a commercial purpose or to solicit money
+unless the individual who is the subject of the health
+information has specifically consented to its use for that
+purpose.
+(3) No researcher shall knowingly breach the terms and conditions
+of an agreement entered into with a custodian pursuant to section
+54.
+(4) No information manager shall knowingly breach the terms and
+conditions of an agreement entered into with a custodian pursuant
+to section 66.
+(5) No person to whom non-identifying health information is
+disclosed and who intends to use the information to perform data
+matching shall fail to comply with section 32(2).
+(5.01) No person to whom non-identifying health information is
+disclosed shall knowingly transform the non-identifying health
+information to create individually identifying health information or
+knowingly attempt to do so.
+(5.1) No person shall knowingly disclose health information to
+which this Act applies pursuant to a subpoena, warrant or order
+issued or made by a court, person or body having no jurisdiction in
+Alberta to compel the production of information or pursuant to a
+rule of court that is not binding in Alberta.
+(5.2) No person, including the personal representative of a
+deceased custodian, shall knowingly fail to comply with section
+60.2(1).
+(6) A person who contravenes this section is guilty of an offence
+and is liable
+(a) in the case of an individual, to a fine of not more than
+$200 000, and
+RSA 2000
+Section 108 Chapter H-5HEALTH INFORMATION ACT
+98
+(b) in the case of any other person, to a fine of not more than
+$1 000 000.
+(6.1), (7), (8) Repealed 2020 c35 s68.
+(9) A prosecution for an offence under this section may be
+commenced within 2 years after the day on which evidence of the
+alleged offence first came to the attention of the Commissioner, but
+not afterwards.
+(10) In respect of offences other than those under subsection
+(1.1)(b) or (c) or (1.2), subsection (9) applies to offences
+committed after this subsection comes into force.
+(11) In respect of offences other than those under subsection
+(1.1)(b) or (c) or (1.2), notwithstanding the repeal of subsection (8),
+subsection (8) continues in effect and applies to offences
+committed before this subsection comes into force.
+RSA 2000 cH-5 s107;2006 c18 s17;2009 c25 s24;2014 c8 s4;
+2020 c35 s68;2025 c21 s7(57)
+Regulations
+108(1) The Lieutenant Governor in Council may make regulations
+(a) respecting the designation of an affiliate for the purposes of
+section 1(1)(a)(v);
+(b) designating a health information repository as an affiliate
+for the purposes of section 1(1)(a)(vii);
+(c) repealed 2025 c21 s7(58);
+(d) designating individuals, boards, councils, committees,
+commissions, panels, agencies, corporations or other entities
+as custodians for the purposes of section 1(1)(f)(xiv);
+(e) repealed 2025 c21 s7(58);
+(f) specifying information respecting a health services provider
+for the purposes of section 1(1)(i)(ii)(L);
+(g) excluding a service from the definition of health service for
+the purposes of section 1(1)(m);
+(h) describing registration information for the purposes of
+section 1(1)(u);
+(i) for the purposes of section 4, expressly providing that
+another Act or a regulation, or a provision of it, prevails
+despite this Act;
+RSA 2000
+Section 108 Chapter H-5HEALTH INFORMATION ACT
+99
+(j) authorizing persons other than custodians to require
+individuals to provide their personal health numbers;
+(j.1) respecting the planning, administering, delivering,
+managing, monitoring or evaluating of a common or
+integrated program or service;
+(j.2) respecting the input and use of individually identifying
+health information in an automated system;
+(j.3) respecting automated systems and related procedures,
+systems and safeguards for health information contained in
+automated systems;
+(j.4) respecting the building and training of automated systems;
+(j.5) respecting the disclosure of non-identifying health
+information;
+(k) establishing requirements for a consent or the revocation of
+a consent to be valid for the purposes of section 34(2)(e) and
+(4)(b);
+(l) repealed 2025 c21 s7(58);
+(l.1) respecting requirements for a public body to disclose
+individually identifying health information for the purposes
+of section 38.1(2)(b);
+(m) prescribing information for the purposes of section
+46(1)(b)(ii);
+(n) respecting the disclosure of health information or the
+performance of data matching or other services by a health
+information repository under section 53(3);
+(o) respecting the retention, disposal and archival storage of
+records for the purposes of section 60;
+(p) respecting the administrative, technical and physical
+safeguards that a custodian must maintain in respect of
+health information pursuant to section 60;
+(p.1) respecting the duty to give notice and the giving of notice
+under section 60.1, including, without limitation, regulations
+(i) respecting which custodian is obligated to give notice
+with respect to individually identifying health
+information that is or was in the custody or under the
+control of more than one custodian,
+RSA 2000
+Section 108 Chapter H-5HEALTH INFORMATION ACT
+100
+(ii) prescribing the factors that must be considered for the
+purposes of section 60.1(4),
+(iii) respecting the form and contents of notices under section
+60.1(1), (2) and (5);
+(q) repealed 2025 c21 s7(58);
+(r) respecting an agreement referred to in section 66;
+(s) respecting the designation of an agency, corporation or other
+entity as a health information repository;
+(s.1) respecting the designation of a department as a health
+information repository;
+(s.2) respecting the designation of the Canadian Centre of
+Recovery Excellence as a health information repository;
+(t) respecting the disclosure of individually identifying health
+information by a custodian to a health information
+repository under section 72.2;
+(u) respecting the powers, duties and functions of a health
+information repository;
+(v) respecting fees payable for services provided under Part 2
+and providing for circumstances in which applicants may be
+excused from paying all or part of a fee;
+(w) defining terms and phrases that are used but not defined in
+this Act.
+(2) The Minister may make regulations
+(a) further defining or describing the Alberta EHR;
+(b) designating a health services provider as a custodian, or a
+class of health services providers, the members of which are
+to be custodians, for the purposes of section 1(1)(f)(ix);
+(c) respecting the requirements for disclosure of individually
+identifying registration information for the purposes of
+section 36(c) or (d);
+(d) designating bodies as research ethics boards;
+(e) specifying the information to be included in a proposed
+research protocol under section 49;
+RSA 2000
+Section 108.1 Chapter H-5HEALTH INFORMATION ACT
+101
+(f) respecting relevant criteria for the purposes of section
+52.1(4)(a);
+(g) respecting privacy impact assessments, including
+regulations respecting
+(i) the preparation and submission of privacy impact
+assessments,
+(ii) criteria relating to the risk described in section 64(3),
+(iii) the establishment and application of specific
+requirements relating to privacy impact assessments for
+a common or integrated program or service, a sharing
+custodian, authorized custodian or authorized user, and
+(iv) the incorporation of a privacy impact assessment of
+another custodian;
+(h) respecting the stripping, encoding or other transformation of
+individually identifying health information to create
+non-identifying health information for the purposes of
+section 65;
+(i) identifying safeguards and technical standards respecting the
+security and protection of health information;
+(j) establishing guidelines or standards respecting the
+determination of whether information is readily
+ascertainable;
+(k) requiring custodians to comply with guidelines, safeguards
+or standards.
+RSA 2000 cH-5 s108;2006 c18 s18;2009 c25 s25;2014 c8 s4;
+2020 c35 s69;2025 c21 s7(58)
+Standards for the security and protection
+of health information
+108.1(1) The Minister may establish standards respecting the
+security and protection of health information to prevent
+unauthorized disclosure.
+(2) The Minister may adopt in whole or in part, or with
+modifications, a standard, code or body of rules that relates to the
+security and protection of information if the standard, code or body
+of rules has been published and is available to the public.
+(3) The Regulations Act does not apply to a body of rules adopted
+under subsection (2) and, for greater certainty, does not apply to a
+RSA 2000
+Section 109 Chapter H-5HEALTH INFORMATION ACT
+102
+standard established under subsection (1) or a standard or code
+adopted under subsection (2).
+(4) As soon as practicable after establishing or adopting a
+standard, code or body of rules, the Minister shall ensure that a
+copy of the standard, code or body of rules is readily available to
+the public.
+(5) A regulation made under section 108 supersedes a standard,
+code or body of rules established or adopted under this section to
+the extent of any conflict. 2025 c21 s7(59)
+Review of Act
+109(1) The Minister must begin a comprehensive review of this
+Act and the regulations
+(a) within 6 years after section 7(60) of the Health Statutes
+Amendment Act, 2025 (No. 2) comes into force, and
+(b) every 6 years after the date of the previous review.
+(2) The Minister must consult with the Commissioner when
+conducting a review under subsection (1).
+RSA 2000 cH-5 s109;2025 c21 s7(60);AR 141/2025
+Part 9
+Consequential Amendments,
+Paramountcy and Coming into Force
+110 to 124 (These sections make consequential amendments to
+other Acts. The amendments have been incorporated in those Acts.)
+Coming into force
+125 This Act comes into force on Proclamation. 1999 cH-4.8 s125
+(NOTE: Proclaimed in force April 25, 2001.)
+
+Printed on Recycled Paper
+*9780779864140*

@@ -1,0 +1,2254 @@
+II
+(Acts whose publication is not obligatory)
+COMMISSION
+COMMISSION DECISION
+of 26 July 2000
+pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate
+protection of personal data provided in Switzerland
+(notified under document number C(2000) 2304)
+(Text with EEA relevance)
+(2000/518/EC)
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European
+Community,
+Having regard to Directive 95/46/EC of the European
+Parliament and of the Council of 24 October 1995 on the
+protection of individuals with regard to the processing of
+personal data and on the free movement of such data (1), and
+in particular Article 25(6) thereof,
+Whereas:
+(1) Pursuant to Directive 95/46/EC Member States are
+required to provide that the transfer of personal data to
+a third country may take place only if the third country
+in question ensures an adequate level of protection and
+if the Member State's laws implementing other
+provisions of the Directive are complied with prior to
+the transfer.
+(2) The Commission may find that a third country ensures
+an adequate level of protection. In that case, personal
+data may be transferred from the Member States without
+additional guarantees being necessary.
+(3) Pursuant to Directive 95/46/EC the level of data
+protection should be assessed in the light of all the
+circumstances surrounding a data transfer operation or a
+set of data transfer operations, and in respect of given
+conditions. The Working Party on Protection of
+Individuals with regard to the processing of Personal
+Data established under that Directive has issued guidance
+on the making of such assessments (2).
+(4) Given the different approaches to data protection in
+third countries, the adequacy assessment should be
+carried out and any decision based on Article 25(6) of
+Directive 95/46/EC should be enforced in a way that
+does not arbitrarily or unjustifiably discriminate against
+or between third countries where like conditions prevail
+nor constitute a disguised barrier to trade, regard being
+had to the Community's present international
+commitments.
+(5) As regards the Swiss Confederation, the legal standards
+on the protection of personal data have binding legal
+effect at both Federal and cantonal level.
+(6) The Federal Constitution, which was amended by
+referendum on 18 April 1999 and which entered into
+force on 1 January 2000, gives every person the right to
+have his privacy respected and, in particular, to be
+protected from the misuse of data concerning him. The
+Federal Court has, on the basis of the previous
+Constitution, which did not contain any such provision,
+developed a case-law laying down the general principles
+applicable to the processing of personal data concerning,
+(1) OJ L 281, 23.11.1995, p. 31.
+(2) Opinion 12/98, adopted by the Working Party on 24.7.1998:
+ëTransfers of personal data to third countries. Applying Articles 25
+and 26 of the EU Data Protection Directiveí (DG MARKT
+D/5025/98), available on Europa, the website hosted by the
+European Commission: http://europa. eu.int/comm/internal_market/
+en/media/dataprot/wpdocs/index.htm.
+25.8.2000 L 215/1Official Journal of the European CommunitiesEN
+in particular, the quality of the data processed, the right
+of access of the persons concerned, and the right to
+request the correction or destruction of data. These
+principles are binding both on the Federation and on
+each canton.
+(7) The Swiss Data Protection Act of 19 June 1992 entered
+into force on 1 July 1993. The implementing rules for
+certain provisions of the Act concerning, in particular,
+the right of access of the persons concerned, the
+notification of processing operations to the independent
+supervisory authority, and the transfer of data to a
+foreign country were laid down by order of the Federal
+Council. The Act applies to the processing of personal
+data by Federal bodies and by the entire private sector,
+and to processing operations carried out by cantonal
+bodies pursuant to Federal law, where such processing is
+not subject to cantonal provisions on data protection.
+(8) Most of the cantons have adopted legislation on data
+protection for the areas for which they are competent, in
+particular public hospitals, education, direct cantonal
+taxes and the police. In the remaining cantons, such data
+processing is governed by regulatory acts or by the
+principles of cantonal case-law. Whatever the source and
+content of the cantonal provisions, or even if no
+cantonal provisions exist, cantons must adhere to the
+constitutional principles. In their field of responsibility,
+the cantonal authorities may have to transfer personal
+data to public authorities in neighbouring countries,
+mainly for the purpose of mutual assistance to safeguard
+important public interests or, in the case of public
+hospitals, to protect the vital interest of the persons
+concerned.
+(9) On 2 October 1997, Switzerland ratified the Council of
+Europe Convention on the Protection of Individuals with
+regard to Automatic Processing of Personal Data
+(Convention No 108) (3), which aims to reinforce the
+protection of personal data and to ensure free circulation
+between the contracting parties, subject to any
+exceptions which these parties may provide for. Without
+being directly applicable, the Convention lays down the
+international commitments of both the Federation and
+the cantons. These commitments concern not only the
+basic principles of protection which each contracting
+party must implement in its internal law but also the
+mechanisms of cooperation between the contracting
+parties. In particular, the competent Swiss authorities
+must provide the authorities of the other contracting
+parties which so request with any information on the
+law and administrative practice regarding data
+protection, and with information on any specific
+instance of automatic processing of data. They must also
+assist any person residing abroad in exercising his right
+to be informed about the existence of processing
+operations on data concerning him, the right to access
+his data or to ask for them to be corrected or deleted,
+and the right of judicial remedy.
+(10) The legal standards applicable in Switzerland cover all
+the basic principles necessary for an adequate level of
+protection for natural persons, even if exceptions and
+limitations are also provided for in order to safeguard
+important public interests. The application of these
+standards is guaranteed by judicial remedy and by
+independent supervision carried out by the authorities,
+such as the Federal Commissioner invested with powers
+of investigation and intervention. Furthermore, the
+provisions of Swiss law regarding civil liability apply in
+the event of unlawful processing which is prejudicial to
+the persons concerned.
+(11) In the interests of transparency and in order to safeguard
+the ability of the competent authorities in the Member
+States to ensure the protection of individuals as regards
+the processing of their personal data, it is necessary to
+specify in this Decision the exceptional circumstances in
+which the suspension of specific data flows may be
+justified, notwithstanding the finding of adequate
+protection.
+(12) The Working Party on Protection of Individuals with
+regard to the processing of Personal Data established
+under Article 29 of Directive 95/46/EC has delivered
+Opinions on the level of protection provided by Swiss
+law which have been taken into account in the
+preparation of this Decision (4).
+(13) The measures provided for in this Decision are in
+accordance with the opinion of the Committee
+established under Article 31 of Directive 95/46/EC,
+HAS ADOPTED THIS DECISION:
+Article 1
+For the purposes of Article 25(2) of Directive 95/46/EC, for all
+the activities falling within the scope of that Directive,
+Switzerland is considered as providing an adequate level of
+protection for personal data transferred from the Community.
+Article 2
+This Decision concerns only the adequacy of protection
+provided in Switzerland with a view to meeting the
+(3) Available on website: http://conventions.coe.int/treaty/EN/
+cadreintro.htm.
+(4) Opinion 5/99 adopted by the Working Party on 7.6.1999 (DG
+MARKT 5054/99), available on the Europa website cited in
+footnote 2.
+L 215/2 25.8.2000Official Journal of the European CommunitiesEN
+requirements of Article 25(1) of Directive 95/46/EC and does
+not affect other conditions or restrictions implementing other
+provisions of that Directive that pertain to the processing of
+personal data within the Member States.
+Article 3
+1. Without prejudice to their powers to take action to
+ensure compliance with national provisions adopted pursuant
+to provisions other than Article 25 of Directive 95/46/EC, the
+competent authorities in Member States may exercise their
+existing powers to suspend data flows to a recipient in
+Switzerland in order to protect individuals with regard to the
+processing of their personal data in cases where:
+(a) a competent Swiss authority has determined that the
+recipient is in breach of the applicable standards of
+protection; or
+(b) there is a substantial likelihood that the standards of
+protection are being infringed; there are reasonable
+grounds for believing that the competent Swiss authority is
+not taking or will not take adequate and timely steps to
+settle the case at issue; the continuing transfer would
+create an imminent risk of grave harm to data subjects and
+the competent authorities in the Member State have made
+reasonable efforts in the circumstances to provide the party
+responsible for processing established in Switzerland with
+notice and an opportunity to respond.
+The suspension shall cease as soon as the standards of
+protection are assured and the competent authority concerned
+in the Community is notified thereof.
+2. Member States shall inform the Commission without
+delay when measures are adopted on the basis of paragraph 1.
+3. The Member States and the Commission shall also
+inform each other of cases where the action of bodies
+responsible for ensuring compliance with the standards of
+protection in Switzerland fails to secure such compliance.
+4. If the information collected under paragraphs 1, 2 and 3
+provides evidence that any body responsible for ensuring
+compliance with the standards of protection in Switzerland is
+not effectively fulfilling its role, the Commission shall inform
+the competent Swiss authority and, if necessary, present draft
+measures in accordance with the procedure under Article 31
+of Directive 95/46/EC with a view to repealing or suspending
+this Decision or limiting its scope.
+Article 4
+1. This Decision may be amended at any time in the light
+of experience with its functioning or of changes in Swiss
+legislation.
+The Commission shall evaluate the functioning of this Decision
+on the basis of available information, three years after its
+notification to the Member States and report any pertinent
+findings to the Committee established under Article 31 of
+Directive 95/46/EC, including any evidence that could affect
+the finding in Article 1 of this Decision that protection in
+Switzerland is adequate within the meaning of Article 25 of
+Directive 95/46/EC and any evidence that this Decision is
+being implemented in a discriminatory way.
+2. The Commission shall, if necessary, present draft
+measures in accordance with the procedure established by
+Article 31 of Directive 95/46/EC.
+Article 5
+Member States shall take all the measures necessary to comply
+with this Decision at the latest at the end of a period of 90
+days from the date of its notification to the Member States.
+Article 6
+This Decision is addressed to the Member States.
+Done at Brussels, 26 July 2000.
+For the Commission
+Frederik BOLKESTEIN
+Member of the Commission
+25.8.2000 L 215/3Official Journal of the European CommunitiesEN
+
+
+────────────────────────────────────────
+
+1.2.2011
+
+|
+
+EN
+
+|
+
+Official Journal of the European Union
+
+|
+
+L 27/39
+
+|
+
+COMMISSION DECISION
+
+of 31 January 2011
+
+pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data by the State of Israel with regard to automated processing of personal data
+
+(notified under document C(2011) 332)
+
+(Text with EEA relevance)
+
+(2011/61/EU)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data, (1) and in particular Article 25(6) thereof,
+
+After consulting the European Data Protection Supervisor,
+
+Whereas:
+
+(1)
+
+|
+
+Pursuant to Directive 95/46/EC, Member States are required to provide that the transfer of personal data to a third country may take place only if the third country in question ensures an adequate level of protection and if the Member States’ laws implementing other provisions of the Directive are complied with prior to the transfer.
+
+|
+
+(2)
+
+|
+
+The Commission may find that a third country ensures an adequate level of protection. In that case, personal data may be transferred from the Member States without additional guarantees being necessary.
+
+|
+
+(3)
+
+|
+
+Pursuant to Directive 95/46/EC the level of data protection should be assessed in the light of all the circumstances surrounding a data transfer operation or a set of data transfer operations and giving particular consideration to a number of elements relevant for the transfer and listed in Article 25 thereof.
+
+|
+
+(4)
+
+|
+
+Given the different approaches to data protection in third countries, the adequacy assessment should be carried out, and any decision based on Article 25(6) of Directive 95/46/EC should be made and enforced in a way that does not arbitrarily or unjustifiably discriminate against or between third countries where like conditions prevail, nor constitute a disguised barrier to trade, regard being had to the European Union’s present international commitments.
+
+|
+
+(5)
+
+|
+
+The State of Israel’s legal system has no written constitution but constitutional status has been conferred on certain ‘Basic Laws’ by the Supreme Court of the State of Israel. Those ‘Basic Laws’ are complemented by a large body of case law, as the Israeli legal system adheres to a great extent to common law principles. The right to privacy is included in the ‘Basic Law: Human Dignity and Liberty’ under section 7.
+
+|
+
+(6)
+
+|
+
+The legal standards for the protection of personal data in the State of Israel are largely based on the standards set out in Directive 95/46/EC and are laid down in the Privacy Protection Act 5741-1981, lastly amended in 2007 in order to establish new processing requirements for personal data and the detailed organization of the supervisory authority.
+
+|
+
+(7)
+
+|
+
+That data protection legislation is further complemented by governmental decisions on the implementation of the Privacy Protection Act 5741-1981 and on the organisation and functioning of the supervisory authority, largely based upon recommendations formulated in the Report to the Ministry of Justice by the Committee for the Examination of Legislation relating to Databases (Schoffman Report).
+
+|
+
+(8)
+
+|
+
+Data protection provisions are also contained in a number of legal instruments regulating different sectors, such as financial sector legislation, health regulations and public registries.
+
+|
+
+(9)
+
+|
+
+The legal data protection standards applicable in the State of Israel cover all the basic principles necessary for an adequate level of protection for natural persons in relation to the processing of personal data in automated databases. Chapter 2 of Privacy Protection Act 5741-1981, which lays down the principles for the processing of personal data, does not apply to the processing of personal data in non-automated databases (manual databases).
+
+|
+
+(10)
+
+|
+
+The application of the legal data protection standards is guaranteed by administrative and judicial remedies and by independent supervision carried out by the supervisory authority, the Israeli Law, Information and Technology Authority (ILITA), which is invested with powers of investigation and intervention, and which acts completely independently.
+
+|
+
+(11)
+
+|
+
+Israeli data protection authorities have provided explanations and assurances as to how the Israeli law is to be interpreted, and have given assurances that the Israeli data protection legislation is implemented in accordance with such interpretation. This Decision takes account of these explanations and assurances, and is therefore conditional upon them.
+
+|
+
+(12)
+
+|
+
+The State of Israel should therefore be regarded as providing an adequate level of protection for personal data as referred to in Directive 95/46/EC with regard to automated international transfers of personal data from the European Union to the State of Israel or, where those transfers are not automated, they are subject to further automated processing in the State of Israel. Conversely, international transfers of personal data from the EU to the State of Israel whereby the transfer itself as well as the subsequent data processing is carried out exclusively through non-automated means should not be covered by this Decision.
+
+|
+
+(13)
+
+|
+
+In the interest of transparency and in order to safeguard the ability of the competent authorities in the Member States to ensure the protection of individuals as regards the processing of their personal data, it is necessary to specify the exceptional circumstances in which the suspension of specific data flows may be justified, notwithstanding the finding of adequate protection.
+
+|
+
+(14)
+
+|
+
+The adequacy findings pertaining to this Decision refer to the State of Israel, as defined in accordance with international law. Further onward transfers to a recipient outside the State of Israel, as defined in accordance with international law, should be considered as transfers of personal data to a third country.
+
+|
+
+(15)
+
+|
+
+The Working Party on the protection of individuals with regard to the processing of personal data established under Article 29 of Directive 95/46/EC has delivered a favourable opinion on the level of adequacy as regards protection of personal data in relation to automated international transfers of personal data from the European Union or, whether they are non-automated they are subject to further automated processing in the State of Israel. In its favourable opinion, the Working Party has encouraged the Israeli authorities to adopt further provisions which extend the application of Israeli legislation to manual databases, which expressly recognise the application of the proportionality principle to personal data processing in the private sector and which interpret the exemptions in international data transfers as in accordance with the criteria set out in its ‘Working document on a common interpretation of Article 26(1) of Directive 95/46/EC’ (2). This opinion has been taken into account in the preparation of this Decision (3).
+
+|
+
+(16)
+
+|
+
+The Committee established under Article 31(1) of Directive 95/46/EC did not deliver an opinion within the time limit laid down by its Chairman,
+
+|
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+1. For the purposes of Article 25(2) of Directive 95/46/EC, the State of Israel is considered as providing an adequate level of protection for personal data transferred from the European Union in relation to automated international transfers of personal data from the European Union or, where they are not automated, they are subject to further automated processing in the State of Israel.
+
+2. The competent supervisory authority of the State of Israel for the application of the legal data protection standards in the State of Israel is the ‘Israeli Law, Information and Technology Authority (ILITA)’, referred to in the Annex to this Decision.
+
+Article 2
+
+1. This Decision concerns only the adequacy of protection provided in the State of Israel, as defined in accordance with international law, with a view to meeting the requirements of Article 25(1) of Directive 95/46/EC and does not affect other conditions or restrictions implementing other provisions of that Directive that pertain to the processing of personal data within the Member States.
+
+2. This Decision shall be applied in accordance with international law. It is without prejudice to the status of the Golan Heights, the Gaza Strip and the West Bank, including East Jerusalem, under the terms of international law.
+
+Article 3
+
+1. Without prejudice to their powers to take action to ensure compliance with national provisions adopted pursuant to provisions other than Article 25 of Directive 95/46/EC, the competent authorities in Member States may exercise their existing powers to suspend data flows to a recipient in the State of Israel in order to protect individuals with regard to the processing of their personal data in the following cases:
+
+(a)
+
+|
+
+where a competent Israeli authority has determined that the recipient is in breach of the applicable standards of protection; or
+
+|
+
+(b)
+
+|
+
+where there is a substantial likelihood that the standards of protection are being infringed, there are reasonable grounds for believing that the competent Israeli authority is not taking or will not take adequate and timely steps to settle the case at issue, the continuing transfer would create an imminent risk of grave harm to data subjects and the competent authorities in the Member State have made reasonable efforts in the circumstances to provide the party responsible for processing established in the State of Israel with notice and an opportunity to respond.
+
+|
+
+2. The suspension shall cease as soon as the standards of protection are assured and the competent authority of the Member States concerned is notified thereof.
+
+Article 4
+
+1. Member States shall inform the Commission without delay when measures are adopted on the basis of Article 3.
+
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standards of protection in the State of Israel fails to secure such compliance.
+
+3. If the information collected under Article 3 and under paragraphs 1 and 2 of this Article provides evidence that any body responsible for ensuring compliance with the standards of protection in the State of Israel is not effectively fulfilling its role, the Commission shall inform the competent Israeli authority and, if necessary, present draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.
+
+Article 5
+
+The Commission shall monitor the functioning of this Decision and report any pertinent findings to the Committee established under Article 31 of Directive 95/46/EC, including any evidence that could affect the finding in Article 1 of this Decision, that protection in the State of Israel is adequate within the meaning of Article 25 of Directive 95/46/EC and any evidence that this Decision is being implemented in a discriminatory way. In particular, it shall monitor the processing of personal data in manual databases.
+
+Article 6
+
+Member States shall take all the measures necessary to comply with the Decision within three months of the date of its notification.
+
+Article 7
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 31 January 2011.
+
+For the Commission
+
+Viviane REDING
+
+Vice-President
+
+(1)
+OJ L 281, 23.11.1995, p. 31.
+
+(2) Document WP114 of 25 November 2005. Available at http://ec.europa.eu/justice_home/fsj/privacy/docs/wpdocs/2005/wp114_en.pdf
+
+(3) Opinion 6/2009/EC on the level of protection of personal data in Israel. Available at http://ec.europa.eu/justice_home/fsj/privacy/docs/wpdocs/2009/wp165_en.pdf
+
+ANNEX
+
+Competent supervisory authority referred to in Article 1(2) of this Decision:
+
+The Israeli Law, Information and Technology Authority
+
+|
+
+The Government Campus
+
+|
+
+9th floor
+
+|
+
+125 Begin Rd
+
+|
+
+Tel Aviv
+
+|
+
+Israel
+
+|
+
+Mailing address:
+
+PO Box 7360
+
+|
+
+Tel Aviv, 61072
+
+|
+
+Tel. + 972-3-7634050
+
+|
+
+Fax + 972-2-6467064
+
+|
+
+E-mail: ILITA@justice.gov.il
+
+|
+
+Website: http://www.justice.gov.il/MOJEng/RashutTech/default.htm
+
+|
+
+
+────────────────────────────────────────
+
+II
+(Acts whose publication is not obligatory)
+COMMISSION
+COMMISSION DECISION
+of 30 June 2003
+pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate
+protection of personal data in Argentina
+(Text with EEA relevance)
+(2003/490/EC)
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European Community,
+Having regard to Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995
+on the protection of individuals with regard to the processing of personal data and on the free movement
+of such data (1), and in particular Article 25(6) thereof,
+Whereas:
+(1) Pursuant to Directive 95/46/EC Member States are required to provide that the transfer of personal
+data to a third country may take place only if the third country in question ensures an adequate
+level of protection and if the Member States' laws implementing other provisions of the Directive
+are complied with prior to the transfer.
+(2) The Commission may find that a third country ensures an adequate level of protection. In that case,
+personal data may be transferred from the Member States without additional guarantees being neces-
+sary.
+(3) Pursuant to Directive 95/46/EC the level of data protection should be assessed in the light of all the
+circumstances surrounding a data transfer operation or a set of data transfer operations, and giving
+particular consideration to a number of elements relevant for the transfer and listed in Article 25(2)
+thereof. The Working Party on Protection of Individuals with regard to the processing of Personal
+Data, established under Article 29 of Directive 95/46/EC, issued guidance on the making of such
+assessments (2).
+(4) Given the different approaches to data protection in third countries, the adequacy assessment should
+be carried out, and any decision based on Article 25(6) of Directive 95/46/EC should be made and
+enforced in a way that does not arbitrarily or unjustifiably discriminate against or between third
+countries where like conditions prevail, nor constitute a disguised barrier to trade, regard being had
+to the Community's present international commitments.
+5.7.2003 L 168/19Official Journal of the European UnionEN
+(1) OJ L 281, 23.11.1995, p. 31.
+(2) Opinion 12/98, adopted by the Working Party on 24 July 1998: Transfers of personal data to third countries:
+applying Articles 25 and 26 of the EU Data Protection Directive (DG MARKT D/5025/98), available on Europa, the
+website hosted by the European Commission:
+http://europa.eu.int/comm/internal_market/en/dataprot/wpdocs/wpdocs_98.htm.
+(5) As regards Argentina, the legal standards on the protection of personal data have been provided for
+in general and sector-specific rules. Both of them have binding legal effect.
+(6) General rules are laid down in the Constitution, the Personal Data Protection Act No 25.326 and
+the Regulation approved by Decree No 1558/2001 (hereinafter ‘Argentine Law’).
+(7) The Argentine Constitution provides for a special judicial remedy for the protection of personal
+data, known as ‘habeas data’. This is a subcategory of the procedure enshrined in the Constitution
+for the protection of constitutional rights and therefore makes the protection of personal data a
+fundamental right. According to Article 43.3 of the Constitution any person is entitled, under the
+‘habeas data’ rule, to know the content and purpose of all the data pertaining to him or her
+contained in public records or data banks, or in private ones whose purpose is to provide reports.
+According to that Article in case of falsehood of information or its use for discriminatory purposes,
+a person will be able to demand the deletion, correction, confidentiality or update of the data
+contained in the above records. The Article will not affect the secrecy of journalistic information
+sources. Argentine jurisprudence has recognised ‘habeas data’ as a fundamental and directly applic-
+able right.
+(8) The Personal Data Protection Act No 25.326 of 4 October 2000 (hereinafter ‘the Act’) develops and
+widens the Constitutional provisions. It contains provisions relating to general data protection prin-
+ciples, the rights of data subjects, the obligations of data controllers and data users, the supervisory
+authority or controlling body, sanctions, and rules of procedure in seeking ‘habeas data’ as a judicial
+remedy.
+(9) The Regulation, approved by Decree No 1558/2001 of 3 December 2001 (hereinafter ‘the Regula-
+tion’), lays down rules for the enactment of the Act, supplements its provisions, and clarifies points
+of the Act that may be subject to diverging interpretation.
+(10) Argentine Law covers the protection of personal data recorded in data files, registers, data banks or
+other technical means, which are public; and the protection of personal data recorded in data files,
+registers, data banks or other technical means which are private, whose purpose is to provide
+reports. This includes those which go beyond an exclusively personal use, and those which are
+intended for the assignment or transfer of personal data, irrespective of whether the circulation of
+the data or information produced is performed for payment or free of charge.
+(11) Certain provisions of the Act apply uniformly throughout Argentina. They include general provi-
+sions and provisions concerning general data protection principles, rights of the data subjects, obli-
+gations of data controllers and users of data files, registers and data banks, criminal sanctions, and
+the existence and main features of the ‘habeas data’ judicial remedy as established in the Constitu-
+tion.
+(12) Other provisions of the Act apply to registers, data files, databases or data banks which are intercon-
+nected through networks at inter-jurisdictional (meaning ‘interprovincial’), national or international
+level, and which are considered as falling within federal jurisdiction. They concern the control exer-
+cised by the supervisory authority, sanctions imposed by the supervisory authority, and the rules of
+procedure concerning the ‘habeas data’ judicial remedy. Other kinds of registers, data files, databases
+or data banks should be regarded as falling under provincial jurisdiction. The provinces may issue
+legal provisions on these matters.
+(13) Data protection provisions are also contained in a number of legal instruments regulating different
+sectors, such as credit card transactions, statistics, banking or health.
+5.7.2003L 168/20 Official Journal of the European UnionEN
+(14) Argentine Law covers all the basic principles necessary for an adequate level of protection for
+natural persons, even if exceptions and limitations are also provided in order to safeguard important
+public interests. The application of these standards is guaranteed by a special, simplified and quick
+judicial remedy for the protection of personal data, known as ‘habeas data’, along with the general
+judicial remedies. The Act provides for the establishment of a data protection controlling body
+charged with taking all actions necessary for compliance with the objectives and provisions of the
+Act and endowed with powers of investigation and intervention. Pursuant to the Regulation, the
+National Directorate for the Protection of Personal Data was established as the controlling body.
+Argentine Law provides for effective dissuasive sanctions, of both an administrative and a criminal
+nature. Furthermore, the provisions of Argentine law regarding civil liability (both contractual and
+extra-contractual) apply in the event of unlawful processing which is prejudicial to the persons
+concerned.
+(15) The Argentine government has provided explanations and assurances as to how the Argentine law
+is to be interpreted, and has given assurances that the Argentine data protection rules are imple-
+mented in accordance with such interpretation. This Decision is based on these explanations and
+assurances, and is therefore conditional upon them. In particular, this decision relies on the explana-
+tions and assurances given by the Argentine authorities as to how the Argentine law is to be inter-
+preted as regards which situations fall within the scope of the Argentine law in data protection.
+(16) Argentina should therefore be regarded as providing an adequate level of protection for personal
+data as referred to in Directive 95/46/EC.
+(17) In the interest of transparency and in order to safeguard the ability of the competent authorities in
+the Member States to ensure the protection of individuals as regards the processing of their personal
+data, it is necessary to specify the exceptional circumstances in which the suspension of specific data
+flows may be justified, notwithstanding the finding of adequate protection.
+(18) The Working Party on Protection of Individuals with regard to the processing of Personal Data
+established under Article 29 of Directive 95/46/EC has delivered an opinion on the level of protec-
+tion of personal data in Argentina (1), which has been taken into account in the preparation of this
+Decision.
+(19) The measures provided for in this Decision are in accordance with the opinion of the Committee
+established under Article 31(1) of Directive 95/46/EC,
+HAS ADOPTED THIS DECISION:
+Article 1
+For the purposes of Article 25(2) of Directive 95/46/EC, Argentina is regarded as providing an adequate
+level of protection for personal data transferred from the Community.
+Article 2
+This Decision concerns only the adequacy of protection provided in Argentina with a view to meeting the
+requirements of Article 25(1) of Directive 95/46/EC and does not affect other conditions or restrictions
+implementing other provisions of that Directive that pertain to the processing of personal data within the
+Member States.
+5.7.2003 L 168/21Official Journal of the European UnionEN
+(1) Opinion 4/2002 on the level of protection of personal data in Argentina — WP 63 of 3 October 2002 available at
+http://europa.eu.int/comm/internal_market/en/dataprot/wpdocs/index.htm.
+Article 3
+1. Without prejudice to their powers to take action to ensure compliance with national provisions
+adopted pursuant to provisions other than Article 25 of Directive 95/46/EC, the competent authorities in
+Member States may exercise their existing powers to suspend data flows to a recipient in Argentina in
+order to protect individuals with regard to the processing of their personal data in cases where:
+(a) a competent Argentine authority has determined that the recipient is in breach of the applicable stan-
+dards of protection; or
+(b) there is a substantial likelihood that the standards of protection are being infringed; there are reason-
+able grounds for believing that the competent Argentine authority is not taking or will not take
+adequate and timely steps to settle the case at issue; the continuing transfer would create an imminent
+risk of grave harm to data subjects and the competent authorities in the Member State have made
+reasonable efforts in the circumstances to provide the party responsible for processing established in
+Argentina with notice and an opportunity to respond.
+The suspension shall cease as soon as the standards of protection are assured and the competent authority
+concerned in the Community is notified thereof.
+2. Member States shall inform the Commission without delay when measures are adopted on the basis
+of paragraph 1.
+3. The Member States and the Commission shall inform each other of cases where the action of bodies
+responsible for ensuring compliance with the standards of protection in Argentina fails to secure such
+compliance.
+4. If the information collected under paragraphs 1, 2 and 3 provides evidence that any body responsible
+for ensuring compliance with the standards of protection in Argentina is not effectively fulfilling its role,
+the Commission shall inform the competent Argentine authority and, if necessary, present draft measures
+in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to
+repealing or suspending this Decision or limiting its scope.
+Article 4
+1. This Decision may be amended at any time in the light of experience with its functioning or of
+changes in Argentine legislation, its implementation and interpretation.
+The Commission shall monitor the functioning of this Decision and report any pertinent findings to the
+Committee established under Article 31 of Directive 95/46/EC, including any evidence that could affect the
+finding in Article 1 of this Decision that protection in Argentina is adequate within the meaning of Article
+25 of Directive 95/46/EC and any evidence that this Decision is being implemented in a discriminatory
+way.
+2. The Commission shall, if necessary, present draft measures in accordance with the procedure referred
+to in Article 31(2) of Directive 95/46/EC.
+Article 5
+Member States shall take all the measures necessary to comply with this Decision at the latest at the end of
+a period of 120 days from the date of its notification to the Member States.
+Article 6
+This Decision is addressed to the Member States.
+Done at Brussels, 30 June 2003.
+For the Commission
+Frederik BOLKESTEIN
+Member of the Commission
+5.7.2003L 168/22 Official Journal of the European UnionEN
+
+
+────────────────────────────────────────
+
+23.8.2012
+
+|
+
+EN
+
+|
+
+Official Journal of the European Union
+
+|
+
+L 227/11
+
+|
+
+COMMISSION IMPLEMENTING DECISION
+
+of 21 August 2012
+
+pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data by the Eastern Republic of Uruguay with regard to automated processing of personal data
+
+(notified under document C(2012) 5704)
+
+(Text with EEA relevance)
+
+(2012/484/EU)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (1), and in particular Article 25(6) thereof,
+
+After consulting the European Data Protection Supervisor (2),
+
+Whereas:
+
+(1)
+
+|
+
+Pursuant to Directive 95/46/EC, Member States are required to provide that the transfer of personal data to a third country may take place only if the third country in question ensures an adequate level of protection and if the Member States’ laws implementing other provisions of the Directive are complied with prior to the transfer.
+
+|
+
+(2)
+
+|
+
+The Commission may find that a third country ensures an adequate level of protection. In that case, personal data may be transferred from the Member States without additional guarantees being necessary.
+
+|
+
+(3)
+
+|
+
+Pursuant to Directive 95/46/EC the level of data protection should be assessed in the light of all the circumstances surrounding a data transfer operation or a set of data transfer operations and giving particular consideration to a number of elements relevant for the transfer and listed in Article 25 thereof.
+
+|
+
+(4)
+
+|
+
+Given the different approaches to data protection in third countries, the adequacy assessment should be carried out, and any decision based on Article 25(6) of Directive 95/46/EC should be made and enforced in a way that does not arbitrarily or unjustifiably discriminate against or between third countries where like conditions prevail, nor constitute a disguised barrier to trade, regard being had to the European Union’s present international commitments.
+
+|
+
+(5)
+
+|
+
+The Political Constitution of the Eastern Republic of Uruguay, passed in 1967, does not expressly recognise the rights to privacy and the protection of personal data. However, the catalogue of fundamental rights is not a closed list since Article 72 of the Constitution provides that the listing of rights, obligations and guarantees made by the Constitution does not exclude others that are inherent to the human personality or that derive from the republican form of government. Article 1 of Act No 18.331 on the Protection of Personal Data and ‘Habeas Data’ Action of 11 August 2008 (Ley No 18.331 de Protección de Datos Personales y Acción de ‘Habeas Data’) expressly sets out that ‘the right to the protection of personal data is inherent to the human being and it is therefore included in Article 72 of the Constitution of the Republic’. Article 332 of the Constitution provides that the application of the provisions of this Constitution that acknowledge individuals’ rights as well as those awarding rights and imposing obligations on public authorities, shall not be impaired by of the lack of specific regulation; rather, it shall be based, through recourse to the underlying principles of similar laws, on the general principles of the law and generally accepted doctrines.
+
+|
+
+(6)
+
+|
+
+The legal standards for the protection of personal data in the Eastern Republic of Uruguay are largely based on the standards set out in Directive 95/46/EC and are laid down in Act No 18.331 on the Protection of Personal Data and ‘Habeas Data’ Action (Ley No 18.331 de Protección de Datos Personales y de Acción de ‘Habeas Data’) of 11 August 2008. It covers natural persons and legal persons.
+
+|
+
+(7)
+
+|
+
+This Act is further complemented by Decree No 414/009 of 31 August 2009, adopted in order to clarify several aspects of the Act and to lay down the detailed regulation of the organisation, powers and functioning of the data protection supervisory authority; The Preamble of the Decree sets out that it is appropriate to adjust the national legal system on this matter to the most accepted comparable legal regime, essentially that established by European countries through Directive 95/46/EC.
+
+|
+
+(8)
+
+|
+
+Data protection provisions are also contained in a number of special acts that create and regulate databases, namely, acts regulating certain public registries (public deeds, industrial property and trade marks, personal acts, real estate, mining or credit reporting). Act No 18.331 applies additionally to these acts in relation to those issues that are not governed by these specific legal instruments, pursuant to Article 332 of the Constitution.
+
+|
+
+(9)
+
+|
+
+The legal data protection standards applicable in the Eastern Republic of Uruguay cover all the basic principles necessary for an adequate level of protection for natural persons, and also provide for exceptions and limitations in order to safeguard important public interests. These legal data protection standards and the exceptions reflect the principles laid down by Directive 95/46/EC.
+
+|
+
+(10)
+
+|
+
+The application of the legal data protection standards is guaranteed by administrative and judicial remedies, in particular, by the ‘habeas data’ action, which enables a data subject to take a data controller to court in order to enforce his right of access, rectification and deletion, and by independent supervision carried out by the supervisory authority, the Unit for the Regulation and Control of Personal Data (Unidad Reguladora y de Control de Datos Personales (URCDP)), which is invested with powers of investigation, intervention and sanction in line with Article 28 of Directive 95/46/EC, and which acts completely independently. Moreover, any interested party is entitled to seek judicial redress for compensation for damages suffered as a result of the unlawful processing of his personal data.
+
+|
+
+(11)
+
+|
+
+Uruguayan data protection authorities have provided explanations and assurances as to how the Uruguayan law is to be interpreted, and have given assurances that the Uruguayan data protection legislation is implemented in accordance with such interpretation. In particular, Uruguayan data protection authorities have explained that, pursuant to Article 332 of the Constitution, Act No 18.331 applies additionally to special acts that create and regulate specific databases in relation to those issues that are not governed by these specific legal instruments. They have also clarified that, regarding the lists referred to in Article 9 C) of Act No 18.331, and which do not require the consent of the data subject for the processing, the Act also applies, namely the principles of proportionality and finality, the rights of data subjects and that they are subject to the supervision by the data protection authority. With regard to the transparency principle, the Uruguayan data protection authorities have informed that the obligation to provide the data subject with the necessary information applies in all cases. Regarding the right of access, the data protection authority has clarified that it is sufficient for a data subject to prove its identity when making a request. The Uruguayan data protection authorities have clarified that the exceptions relating to the principle on international transfers laid down in Article 23(1) of Act No 18.331 cannot be understood as having a broader application than that of Article 26(1) of Directive 95/46/EC.
+
+|
+
+(12)
+
+|
+
+This Decision takes into account these explanations and assurances and it is based upon them.
+
+|
+
+(13)
+
+|
+
+The Eastern Republic of Uruguay is also party to the American Convention of Human Rights (‘Pact of San José de Costa Rica) of 22 November 1969, and in force since 18 July 1978 (3). Article 11 of this Convention lays down the right to privacy and Article 30 sets out that restrictions that, pursuant to this Convention, may be placed on the enjoyment or exercise of the rights or freedoms recognised by the Convention may not be applied except in accordance with laws enacted for reasons of general interest and in accordance with the purpose for which such restrictions have been established (Article 30). Moreover the Eastern Republic of Uruguay has accepted the jurisdiction of the Inter-American Court of Human Rights. Furthermore at the 1118th meeting of the Ministers’ Deputies of the Council of Europe held on 6 July 2011, the Deputies invited the Eastern Republic of Uruguay to accede the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data (ETS No 108) and to its Additional Protocol (ETS No 118), after a favourable opinion of the relevant Consultative Committee (4).
+
+|
+
+(14)
+
+|
+
+The Eastern Republic of Uruguay should therefore be regarded as providing an adequate level of protection for personal data as referred to in Directive 95/46/EC.
+
+|
+
+(15)
+
+|
+
+This Decision should concern the adequacy of protection provided in the Eastern Republic of Uruguay with a view to meeting the requirements of Article 25(1) of Directive 95/46/EC. It should not affect other conditions or restrictions implementing other provisions of that Directive that pertain to the processing of personal data within the Member States.
+
+|
+
+(16)
+
+|
+
+In the interest of transparency and in order to safeguard the ability of the competent authorities in the Member States to ensure the protection of individuals as regards the processing of their personal data, it is necessary to specify the exceptional circumstances in which the suspension of specific data flows may be justified, notwithstanding the finding of adequate protection.
+
+|
+
+(17)
+
+|
+
+The Commission should monitor the functioning of the Decision and report any pertinent findings to the Committee established under Article 31 of Directive 95/46/EC. Such monitoring should cover, inter alia, the Eastern Republic of Uruguay’s regime applicable to transfers in the framework of international treaties.
+
+|
+
+(18)
+
+|
+
+The Working Party on the protection of individuals with regard to the processing of personal data established under Article 29 of Directive 95/46/EC has delivered a favourable opinion on the level of adequacy as regards protection of personal data which has been taken into account in the preparation of this Decision (5).
+
+|
+
+(19)
+
+|
+
+The measures provided for in this Decision are in accordance with the opinion of the Committee established under Article 31(1) of Directive 95/46/EC,
+
+|
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+1. For the purposes of Article 25(2) of Directive 95/46/EC, the Eastern Republic of Uruguay is considered as ensuring an adequate level of protection for personal data transferred from the European Union.
+
+2. The competent supervisory authority of the Eastern Republic of Uruguay for the application of the legal data protection standards in the Eastern Republic of Uruguay is set out in the Annex to this Decision.
+
+Article 2
+
+1. Without prejudice to their powers to take action to ensure compliance with national provisions adopted pursuant to provisions other than Article 25 of Directive 95/46/EC, the competent authorities in Member States may exercise their existing powers to suspend data flows to a recipient in the Eastern Republic of Uruguay in order to protect individuals with regard to the processing of their personal data in the following cases:
+
+(a)
+
+|
+
+where a competent Uruguayan authority has determined that the recipient is in breach of the applicable standards of protection; or
+
+|
+
+(b)
+
+|
+
+where there is a substantial likelihood that the standards of protection are being infringed, there are reasonable grounds for believing that the competent Uruguayan authority is not taking or will not take adequate and timely steps to settle the case at issue, the continuing transfer would create an imminent risk of grave harm to data subjects and the competent authorities in the Member State have made reasonable efforts in the circumstances to provide the party responsible for processing established in the Eastern Republic of Uruguay with notice and an opportunity to respond.
+
+|
+
+2. The suspension shall cease as soon as the standards of protection are assured and the competent authority of the Member States concerned is notified thereof.
+
+Article 3
+
+1. Member States shall inform the Commission without delay when measures are adopted on the basis of Article 2.
+
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standards of protection in the Eastern Republic of Uruguay fails to secure such compliance.
+
+3. Where the information collected under Article 2 and under paragraphs 1 and 2 of this Article provides evidence that any body responsible for ensuring compliance with the standards of protection in the Eastern Republic of Uruguay is not effectively fulfilling its role, the Commission shall inform the competent Uruguayan authority and, if necessary, present draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.
+
+Article 4
+
+The Commission shall monitor the functioning of this Decision and report any pertinent findings to the Committee established under Article 31 of Directive 95/46/EC, including any evidence that could affect the finding in Article 1 of this Decision, that protection in the Eastern Republic of Uruguay is adequate within the meaning of Article 25 of Directive 95/46/EC and any evidence that this Decision is being implemented in a discriminatory way.
+
+Article 5
+
+Member States shall take all the measures necessary to comply with the Decision within three months of the date of its notification.
+
+Article 6
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 21 August 2012.
+
+For the Commission
+
+Viviane REDING
+
+Vice-President
+
+(1)
+OJ L 281, 23.11.1995, p. 31.
+
+(2) Letter of 31 August 2011.
+
+(3) Organisation of American States; OAS, Treaty Series, No 36, 1144 UNTS 123. http://www.oas.org/juridico/english/treaties/b-32.html
+
+(4) Council of Europe: https://wcd.coe.int/wcd/ViewDoc.jsp?Ref=CM/Del/Dec(2011)1118/10.3&Language=lanEnglish&Ver=original&Site=CM&BackColorInternet=DBDCF2&BackColorIntranet=FDC864&BackColorLogged=FDC864
+
+(5) Opinion 6/2010 on the level of protection of personal data in the Eastern Republic of Uruguay. Available at http://ec.europa.eu/justice/policies/privacy/docs/wpdocs/2010/wp177_en.pdf
+
+ANNEX
+
+Competent supervisory authority referred to in Article 1(2) of this Decision:
+
+Unidad Reguladora y de Control de Datos Personales (URCDP)
+
+|
+
+Andes 1365, Piso 8
+
+|
+
+Tel. + 598 2901 2929 Int. 1352
+
+|
+
+11.100 Montevideo
+
+|
+
+URUGUAY
+
+|
+
+Contact e-mail: http://www.datospersonales.gub.uy/sitio/contactenos.aspx
+
+Online complaints: http://www.datospersonales.gub.uy/sitio/denuncia.aspx
+
+Website: http://www.datospersonales.gub.uy/sitio/index.aspx
+
+
+────────────────────────────────────────
+
+30.1.2013
+
+|
+
+EN
+
+|
+
+Official Journal of the European Union
+
+|
+
+L 28/12
+
+|
+
+COMMISSION IMPLEMENTING DECISION
+
+of 19 December 2012
+
+pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data by New Zealand
+
+(notified under document C(2012) 9557)
+
+(Text with EEA relevance)
+
+(2013/65/EU)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (1), and in particular Article 25(6) thereof,
+
+After consulting the European Data Protection Supervisor
+
+Whereas:
+
+(1)
+
+|
+
+Pursuant to Directive 95/46/EC, Member States are required to provide that the transfer of personal data to a third country may take place only if the third country in question ensures an adequate level of protection and if the Member States’ laws implementing other provisions of the Directive are complied with prior to the transfer.
+
+|
+
+(2)
+
+|
+
+The Commission may find that a third country ensures an adequate level of protection. In that case, personal data may be transferred from the Member States without additional guarantees being necessary.
+
+|
+
+(3)
+
+|
+
+Pursuant to Directive 95/46/EC the level of data protection should be assessed in the light of all the circumstances surrounding a data transfer operation or a set of data transfer operations and giving particular consideration to certain specified elements relevant for the transfer.
+
+|
+
+(4)
+
+|
+
+Given the different approaches to data protection in third countries, the adequacy assessment should be carried out, and any decision based on Directive 95/46/EC should be made and enforced in a way that does not arbitrarily or unjustifiably discriminate against or between third countries where like conditions prevail, nor constitute a disguised barrier to trade, regard being had to the Union’s present international commitments.
+
+|
+
+(5)
+
+|
+
+New Zealand is a former British colony. It became an independent Dominion in 1907, but did not formally sever its constitutional ties with Great Britain until 1947. New Zealand is a unitary State and does not have a written constitution in the conventional sense of an entrenched constitutive document. The country is a constitutional monarchy and parliamentary democracy on the Westminster model, with the Queen of New Zealand as the Head of State.
+
+|
+
+(6)
+
+|
+
+New Zealand operates on the principle of Parliamentary sovereignty. Nevertheless, by convention there are a number of statutes that are of particular constitutional importance and are regarded as ‘higher law’. This is in the sense that they form part of the constitutional background or landscape by informing government practice and the enactment of other legislation. Moreover, cross-political consensus would be expected in the event of amendment or repeal of this legislation. Several of these statutes — the Bill of Rights Act of 28 August 1990 (Public Act No 109 of 1990), the Human Rights Act of 10 August 1993 (Public Act No 82 of 1993), and the Privacy Act of 17 May 1993 (Public Act No 28 of 1993) — are relevant to data protection. The constitutional importance of this legislation is reflected by the convention that they must be taken into account when developing or proposing new legislation.
+
+|
+
+(7)
+
+|
+
+The legal standards for the protection of personal data in New Zealand are primarily set out in the Privacy Act, as amended by the Privacy (Cross-border Information) Ammendement Act of 7 September 2010 (Public Act No 113 of 2010). It predates Directive 95/46/EC, and is not limited to automatically processed data or structured data in a filing system, but covers all personal information in whatever shape or form. It covers the entire public and private sectors, with a few specific public interest exceptions that one would expect in a democratic society.
+
+|
+
+(8)
+
+|
+
+There are a number of regulatory frameworks in New Zealand for dealing with privacy issues in terms of policy, rules, or complaints jurisdictions. Some are statutory while others are self-regulating industry bodies, including media regulation, direct marketing, unsolicited electronic messages, market research, health and disability, banking and insurance and savings.
+
+|
+
+(9)
+
+|
+
+In addition to legislation enacted by the New Zealand Parliament, there exists a considerable body of common law whose roots stem from English common law, embodying common law principles and rules that are relevant to data protection. Among the fundamental common law principles is the principle that the dignity of the individual is a paramount concern of the law. This common law principle is a key element in the background context to judicial decision-making generally in New Zealand. New Zealand case-law based on common law also contains a number of other aspects of privacy including invasion of privacy, breach of confidence and incidental protection in the context of defamation, nuisance, harassment, malicious falsehood, negligence and others.
+
+|
+
+(10)
+
+|
+
+The legal data protection standards applicable in New Zealand cover all the basic principles necessary for an adequate level of protection for natural persons, and also provide for exceptions and limitations in order to safeguard important public interests. These legal data protection standards and the exceptions reflect the principles laid down in Directive 95/46/EC.
+
+|
+
+(11)
+
+|
+
+The application of the legal data protection standards is guaranteed by administrative and judicial remedies, and by independent supervision carried out by the supervisory authority, the Privacy Commissioner, who is endowed with the kinds of powers set out in Article 28 of Directive 95/46/EC, and who acts independently. Moreover, any interested party is entitled to seek judicial redress for compensation for damages suffered as a result of the unlawful processing of his personal data.
+
+|
+
+(12)
+
+|
+
+New Zealand should therefore be regarded as providing an adequate level of protection for personal data as referred to in Directive 95/46/EC.
+
+|
+
+(13)
+
+|
+
+This decision should concern the adequacy of protection provided in New Zealand with a view to meeting the requirements of Article 25(1) of Directive 95/46/EC. It should not affect other conditions or restrictions implementing other provisions of the Directive that pertain to the processing of personal data within Member States.
+
+|
+
+(14)
+
+|
+
+In the interest of transparency and in order to safeguard the ability of the competent authorities in the Member States to ensure the protection of individuals as regards the processing of their personal data, it is necessary to specify the exceptional circumstances in which the suspension of specific data flows may be justified, notwithstanding the finding of adequate protection.
+
+|
+
+(15)
+
+|
+
+The Working Party on the protection of individuals with regard to the processing of personal data established under Article 29 of Directive 95/46/EC has delivered a favourable opinion on the level of adequacy as regards protection of personal data in New Zealand (2), which has been taken into account in the preparation of this Implementing Decision.
+
+|
+
+(16)
+
+|
+
+The measures provided for in this Decision are in accordance with the opinion of the Committee established under Article 31(1) of Directive 95/46/EC,
+
+|
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+1. For the purposes of Article 25(2) of Directive 95/46/EC, New Zealand is considered as ensuring an adequate level of protection for personal data transferred from the Union.
+
+2. The competent supervisory authority for the application of the legal data protection standards in New Zealand is set out in the Annex to this Decision.
+
+Article 2
+
+1. Without prejudice to their powers to take action to ensure compliance with national provisions adopted pursuant to provisions other than Article 25 of Directive 95/46/EC, the competent authorities in Member States may exercise their existing powers to suspend data flows to a recipient in New Zealand in order to protect individuals with regard to the processing of their personal data in the following cases:
+
+(a)
+
+|
+
+where a competent New Zealand authority has determined that the recipient is in breach of the applicable standards of protection; or
+
+|
+
+(b)
+
+|
+
+where there is a substantial likelihood that the standards of protection are being infringed, there are reasonable grounds for believing that the competent New Zealand authority is not taking or will not take adequate and timely steps to settle the case at issue, the continuing transfer would create an imminent risk of grave harm to data subjects and the competent authorities in the Member State have made reasonable efforts in the circumstances to provide the party responsible for processing established in New Zealand with notice and an opportunity to respond.
+
+|
+
+2. The suspension shall cease as soon as the standards of protection are assured and the competent authority of the Member States concerned is notified thereof.
+
+Article 3
+
+1. Member States shall inform the Commission without delay when measures are adopted on the basis of Article 2.
+
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standards of protection in New Zealand fails to ensure such compliance.
+
+3. Where information gathered under Article 2(1) and under paragraphs 1 and 2 of this Article provides evidence that any body responsible for ensuring compliance with the standards of protection in New Zealand is not effectively fulfilling its role, the Commission shall inform the competent New Zealand authority and, if necessary, present draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.
+
+Article 4
+
+The Commission shall monitor the functioning of this Decision and report any pertinent findings to the Committee established under Article 31 of Directive 95/46/EC, including any evidence that could affect the finding in Article 1 of this Decision, that protection in New Zealand is adequate within the meaning of Article 25 of Directive 95/46/EC and any evidence that this Decision is being implemented in a discriminatory manner.
+
+Article 5
+
+Member States shall take all the measures necessary to comply with this Decision until 20 March 2013.
+
+Article 6
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 19 December 2012.
+
+For the Commission
+
+Viviane REDING
+
+Vice-President
+
+(1)
+OJ L 281, 23.11.1995, p. 31.
+
+(2) Opinion 11/2011 dated 4 April 2011 on the level of protection of personal data in New Zealand. Available at http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2011/wp182_en.pdf
+
+ANNEX
+
+Competent supervisory authority referred to in Article 1(2) of this Decision:
+
+Privacy Commissioner:
+
+|
+
+Te Mana Matapono Matatapu
+
+|
+
+Level 4
+
+|
+
+109-111 Featherston Street
+
+|
+
+Wellington 6143
+
+|
+
+New Zealand
+
+|
+
+Tel: +64-4-474 7590
+
+|
+
+Contact e-mail: enquiries@privacy.org.nz
+
+|
+
+Website: http://privacy.org.nz/
+
+|
+
+
+────────────────────────────────────────
+
+21.10.2010
+
+|
+
+EN
+
+|
+
+Official Journal of the European Union
+
+|
+
+L 277/27
+
+|
+
+COMMISSION DECISION
+
+of 19 October 2010
+
+pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data in Andorra
+
+(notified under document C(2010) 7084)
+
+(Text with EEA relevance)
+
+(2010/625/EU)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (1), and in particular Article 25(6) thereof,
+
+After consulting the European Data Protection Supervisor,
+
+Whereas:
+
+(1)
+
+|
+
+Pursuant to Directive 95/46/EC, Member States are required to provide that the transfer of personal data to a third country may take place only if the third country in question ensures an adequate level of protection and if the Member States’ laws implementing other provisions of the Directive are complied with prior to the transfer.
+
+|
+
+(2)
+
+|
+
+The Commission may find that a third country ensures an adequate level of protection. In that case, personal data may be transferred from the Member States without additional guarantees being necessary.
+
+|
+
+(3)
+
+|
+
+Pursuant to Directive 95/46/EC the level of data protection should be assessed in the light of all the circumstances surrounding a data transfer operation or a set of data transfer operations and giving particular consideration to a number of elements relevant for the transfer and listed in Article 25 thereof.
+
+|
+
+(4)
+
+|
+
+Given the different approaches to data protection in third countries, the adequacy assessment should be carried out, and any decision based on Article 25(6) of Directive 95/46/EC should be made and enforced in a way that does not arbitrarily or unjustifiably discriminate against or between third countries where like conditions prevail, nor constitute a disguised barrier to trade, regard being had to the European Union’s present international commitments.
+
+|
+
+(5)
+
+|
+
+Andorra is a State with a system of Parliamentary Co-Principality with the President of the French Republic and the Archbishop of Urgell being Co-Princes.
+
+|
+
+(6)
+
+|
+
+The right to privacy is enshrined in Article 14 of the Constitution of the Principality of Andorra (Constitució del Principat d’Andorra), as approved by popular referendum on 14 March 1993.
+
+|
+
+(7)
+
+|
+
+The legal rules for the protection of personal data in Andorra are largely based on the standards set out in Directive 95/46/EC and are laid down in the Qualified Law 15/2003 of 18 December on the protection of personal data (Llei qualificada de protecció de dades personals) (LQPDP). This data protection legislation is further complemented by Decree of 1 July 2004, establishing the Public Register for the Inscription of Personal Data Files and by Decree of 9 June 2010 approving the Regulations of the Andorra Data Protection Agency. This latter instrument clarifies several issues raised by the Working Party on the protection of individuals with regard to the processing of personal data established under Article 29 of Directive 95/46/EC in its Opinion of 1 December 2009 (2).
+
+|
+
+(8)
+
+|
+
+Data protection provisions are also contained in a number of legal instruments regulating different sectors, such as financial sector legislation, health regulations and public registries.
+
+|
+
+(9)
+
+|
+
+Andorra has ratified the Council of Europe Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data of 28 January 1981, and the Additional Protocol to the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data regarding supervisory authorities and transborder data flows of 8 November 2001 as well as the Council of Europe Convention for the Protection of Human Rights and Fundamental Freedoms of 4 November 1950, in Andorra in force since 22 January 1996, and the Covenant on Civil and Political Rights of 16 December 1966, in Andorra in force since 19 July 2006.
+
+|
+
+(10)
+
+|
+
+The legal data protection standards applicable in Andorra cover all the basic principles necessary for an adequate level of protection for natural persons, and also provides for exceptions and limitations in order to safeguard important public interests The application of these legal data protection standards is guaranteed by administrative and judicial remedies and by an independent supervision carried out by the supervisory authority, the Andorran Data Protection Agency, which is invested with powers of investigation and intervention and which acts completely independently.
+
+|
+
+(11)
+
+|
+
+Andorran data protection authorities have provided explanations and assurances as to how the Andorran law is to be interpreted, and has given assurances that the Andorran data protection legislation is implemented in accordance with such interpretation. This Decision takes account of those explanations and assurances, and is therefore conditional upon them.
+
+|
+
+(12)
+
+|
+
+Andorra should therefore be regarded as providing an adequate level of protection for personal data as referred to in Directive 95/46/EC.
+
+|
+
+(13)
+
+|
+
+In the interest of transparency and in order to safeguard the ability of the competent authorities in the Member States to ensure the protection of individuals as regards the processing of their personal data, it is necessary to specify the exceptional circumstances in which the suspension of specific data flows may be justified, notwithstanding the finding of adequate protection.
+
+|
+
+(14)
+
+|
+
+The Working Party on the protection of individuals with regard to the processing of personal data established under Article 29 of Directive 95/46/EC has delivered a favourable opinion on the level of adequacy as regards protection of personal data, which has been taken into account in the preparation of this Decision (3). In its favourable opinion, the Working Party has encouraged the Andorran authorities in the ongoing process of adopting further provisions which will extend the application of Andorran legislation to automated individual decisions, as this is currently not expressly recognised by the Andorran Qualified Law on the protection of personal data.
+
+|
+
+(15)
+
+|
+
+The measures provided for in this Decision are in accordance with the opinion of the Committee established under Article 31(1) of Directive 95/46/EC,
+
+|
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+For the purposes of Article 25(2) of Directive 95/46/EC, Andorra is considered as providing an adequate level of protection for personal data transferred from the European Union.
+
+Article 2
+
+This Decision concerns the adequacy of protection provided in Andorra with a view to meeting the requirements of Article 25(1) of Directive 95/46/EC and does not affect other conditions or restrictions implementing other provisions of that Directive that pertain to the processing of personal data within the Member States.
+
+Article 3
+
+1. Without prejudice to their powers to take action to ensure compliance with national provisions adopted pursuant to provisions other than Article 25 of Directive 95/46/EC, the competent authorities in Member States may exercise their existing powers to suspend data flows to a recipient in Andorra in order to protect individuals with regard to the processing of their personal data in the following cases:
+
+(a)
+
+|
+
+where a competent Andorran authority has determined that the recipient is in breach of the applicable standards of protection; or
+
+|
+
+(b)
+
+|
+
+where there is a substantial likelihood that the standards of protection are being infringed, there are reasonable grounds for believing that the competent Andorran authority is not taking or will not take adequate and timely steps to settle the case at issue, the continuing transfer would create an imminent risk of grave harm to data subjects and the competent authorities in the Member State have made reasonable efforts in the circumstances to provide the party responsible for processing established in Andorra with notice and an opportunity to respond.
+
+|
+
+2. The suspension shall cease as soon as the standards of protection are assured and the competent authority of the Member States concerned is notified thereof.
+
+Article 4
+
+1. Member States shall inform the Commission without delay when measures are adopted on the basis of Article 3.
+
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standards of protection in Andorra fails to secure such compliance.
+
+3. If the information collected under Article 3 and under paragraphs 1 and 2 of this Article provides evidence that any body responsible for ensuring compliance with the standards of protection in Andorra is not effectively fulfilling its role, the Commission shall inform the competent Andorran authority and, if necessary, present draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.
+
+Article 5
+
+The Commission shall monitor the functioning of this Decision and report any pertinent findings to the Committee established under Article 31 of Directive 95/46/EC, including any evidence that could affect the finding in Article 1 of this Decision, that protection in Andorra is adequate within the meaning of Article 25 of Directive 95/46/EC and any evidence that this Decision is being implemented in a discriminatory way.
+
+Article 6
+
+Member States shall take all the measures necessary to comply with the Decision by 1 January 2011.
+
+Article 7
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 19 October 2010.
+
+For the Commission
+
+Viviane REDING
+
+Vice-President
+
+(1)
+OJ L 281, 23.11.1995, p. 31.
+
+(2) Opinion 7/2009 of 1 December 2009, available at: http://ec.europa.eu/justice_home/fsj/privacy/docs/wpdocs/2009/wp166_en.pdf
+
+(3) Opinion 7/2009 of 1 December 2009, available at: http://ec.europa.eu/justice_home/fsj/privacy/docs/wpdocs/2009/wp166_en.pdf
+
+
+────────────────────────────────────────
+
+9.3.2010
+
+|
+
+EN
+
+|
+
+Official Journal of the European Union
+
+|
+
+L 58/17
+
+|
+
+COMMISSION DECISION
+
+of 5 March 2010
+
+pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection provided by the Faeroese Act on processing of personal data
+
+(notified under document C(2010) 1130)
+
+(Text with EEA relevance)
+
+(2010/146/EU)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (1), and in particular Article 25(6) thereof,
+
+After consulting the Working Party on Protection of Individuals with regard to the processing of personal data (2),
+
+Whereas:
+
+(1)
+
+|
+
+Pursuant to Directive 95/46/EC, Member States are required to provide that the transfer of personal data to a third country may take place only if the third country in question ensures an adequate level of protection and if the Member States' laws implementing other provisions of the Directive are complied with prior to the transfer.
+
+|
+
+(2)
+
+|
+
+The Commission may find that a third country ensures an adequate level of protection. In that case, personal data may be transferred from the Member States without additional guarantees being necessary.
+
+|
+
+(3)
+
+|
+
+Pursuant to Directive 95/46/EC the level of data protection should be assessed in the light of all the circumstances surrounding a data transfer operation or a set of data transfer operations and giving particular consideration to a number of elements relevant for the transfer and listed in Article 25(2) thereof.
+
+|
+
+(4)
+
+|
+
+Given the different approaches to data protection in third countries, the adequacy assessment should be carried out, and any decision based on Article 25(6) of Directive 95/46/EC should be made and enforced in a way that does not arbitrarily or unjustifiably discriminate against or between third countries where like conditions prevail, nor constitute a disguised barrier to trade, regard being had to the Community’s present international commitments.
+
+|
+
+(5)
+
+|
+
+The Faeroe Islands are a self-governing community within the Kingdom of Denmark. When Denmark joined the European Community in 1973, the Faeroe Islands did not. They are therefore to be considered as a third country within the meaning of Directive 95/46/EC.
+
+|
+
+(6)
+
+|
+
+The Home Rule Act of the Faeroe Islands divides all policy areas into two main groups, whereby Special Faeroese Affairs are the responsibility of the Faeroese Government’s administration and legislation and Joint Concerns are the responsibility of the Kingdom of Denmark. This Decision only covers transfer of personal data from the Community to recipients in the Faeroe Islands who are subject to the Act on Processing of Personal Data (3) (‘the Faeroese Act’). The Faeroese Act does not apply to the processing of personal data in the course of an activity carried out by authorities of the Kingdom of Denmark, namely, the High Commissioner of the Faeroe Islands (Rigsombudsmanden), the Court of the Faeroe Islands (Sorenskriveren), the Commissioner of the Faeroe Islands (Politimesteren på Færøerne), the Prison and Probation Service of the Faeroe Islands (Kriminalforsorgens afdeling), the Island Command Faeroes (Færøernes Kommando) and the Chief Medical Officer of the Faeroe Islands (Landslægen).
+
+|
+
+(7)
+
+|
+
+The Faeroese Act is based on the standards set out in Directive 95/46/EC and accordingly it covers all the basic principles necessary for an adequate level of protection of the right of natural persons to privacy with respect to the processing of personal data. The application of these standards is guaranteed by judicial remedy and by independent supervision carried out by the supervisory authority, the Data Protection Commissioner, who is invested with powers of investigation and intervention.
+
+|
+
+(8)
+
+|
+
+In the interest of transparency and in order to safeguard the ability of the competent authorities in the Member States to ensure the protection of individuals as regards the processing of their personal data, it is necessary to specify the exceptional circumstances in which the suspension of specific data flows may be justified, notwithstanding the finding of adequate protection.
+
+|
+
+(9)
+
+|
+
+The measures provided for in this Decision are in accordance with the opinion of the Committee established under Article 31(1) of Directive 95/46/EC,
+
+|
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+For the purposes of Article 25(2) of Directive 95/46/EC, the Faeroe Islands are considered as providing an adequate level of protection for personal data transferred from the European Union to recipients subject to the Act on Processing of Personal Data (‘the Faeroese Act’).
+
+Article 2
+
+This Decision concerns only the adequacy of protection provided in the Faeroe Islands by the Faeroese Act with a view to meeting the requirements of Article 25(1) of Directive 95/46/EC and does not affect other conditions or restrictions implementing other provisions of that Directive that pertain to the processing of personal data within the Member States.
+
+Article 3
+
+1. Without prejudice to their powers to take action to ensure compliance with national provisions adopted pursuant to provisions other than Article 25 of Directive 95/46/EC, the competent authorities in Member States may exercise their existing powers to suspend data flows to a recipient in the Faeroe Islands whose activities fall within the scope of the Faeroese Act in order to protect individuals with regard to the processing of their personal data in the following cases:
+
+(a)
+
+|
+
+where a competent Faeroese authority has determined that the recipient is in breach of the applicable standards of protection; or
+
+|
+
+(b)
+
+|
+
+where there is a substantial likelihood that the standards of protection are being infringed, there are reasonable grounds for believing that the competent Faeroese authority is not taking or will not take adequate and timely steps to settle the case at issue, the continuing transfer would create an imminent risk of grave harm to data subjects and the competent authorities in the Member State have made reasonable efforts in the circumstances to provide the party responsible for processing established in the Faeroe Islands with notice and an opportunity to respond.
+
+|
+
+2. The suspension shall cease as soon as the standards of protection are assured and the competent authority of the Member States concerned is notified thereof.
+
+Article 4
+
+1. Member States shall inform the Commission without delay when measures are adopted on the basis of Article 3(1).
+
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standards of protection in the Faeroe Islands fails to secure such compliance.
+
+3. If the information collected under Article 3 and under paragraphs 1 and 2 of this Article provides evidence that any body responsible for ensuring compliance with the standards of protection in the Faeroe Islands is not effectively fulfilling its role, the Commission shall inform the competent Faeroese authority and, if necessary, present draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.
+
+Article 5
+
+The Commission shall monitor the functioning of this Decision and report any pertinent findings to the Committee established under Article 31 of Directive 95/46/EC, including any evidence that could affect the finding in Article 1 of this Decision, that protection in the Faeroe Islands is adequate within the meaning of Article 25 of Directive 95/46/EC and any evidence that this Decision is being implemented in a discriminatory way.
+
+Article 6
+
+Member States shall take all the measures necessary to comply with the Decision by the end of a period of 90 days from the date of its notification to the Member States at the latest.
+
+Article 7
+
+This Decision shall apply from 15 June 2010.
+
+Article 8
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 5 March 2010.
+
+For the Commission
+
+Viviane REDING
+
+Vice-President
+
+(1)
+OJ L 281, 23.11.1995, p. 31.
+
+(2) Opinion 9/2007 on the level of protection of personal data in Faeroe Islands, adopted on 9 October 2007, available at http://ec.europa.eu/justice_home/fsj/privacy/workinggroup/wpdocs/2007_en.htm
+
+(3) Act No 73 of 8 May 2001 on Processing of Personal Data, available at http://www.datueftirlitid.fo/Default.asp?sida = 2878
+
+
+────────────────────────────────────────
+
+COMMISSION DECISION
+of 21 November 2003
+on the adequate protection of personal data in Guernsey
+(notified under document number C(2003) 4309)
+(Text with EEA relevance)
+(2003/821/EC)
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+Having regard to the Treaty establishing the European
+Community,
+Having regard to Directive 95/46/EC of the European Parlia-
+ment and of the Council of 24 October 1995 on the protection
+of individuals with regard to the processing of personal data
+and on the free movement of such data (1), and in particular
+Article 25(6) thereof,
+After consulting the Working Party on Protection of Individuals
+with regard to the processing of personal data (2),
+Whereas:
+(1) Pursuant to Directive 95/46/EC, Member States are
+required to provide that the transfer of personal data to
+a third country may take place only if the third country
+in question ensures an adequate level of protection and
+if the Member States' laws implementing other provi-
+sions of the Directive are complied with prior to the
+transfer.
+(2) The Commission may find that a third country ensures
+an adequate level of protection. In that case, personal
+data may be transferred from the Member States without
+additional guarantees being necessary.
+(3) Pursuant to Directive 95/46/EC the level of data protec-
+tion should be assessed in the light of all the circum-
+stances surrounding a data transfer operation or a set of
+data transfer operations, and giving particular considera-
+tion to a number of elements relevant for the transfer
+and listed in Article 25(2) thereof.
+(4) Given the different approaches to data protection in
+third countries, the adequacy assessment should be
+carried out, and any decision based on Article 25(6) of
+Directive 95/46/EC should be made and enforced in a
+way that does not arbitrarily or unjustifiably discriminate
+against or between third countries where like conditions
+prevail, nor constitute a disguised barrier to trade, regard
+being had to the Community's present international
+commitments.
+(5) The Bailiwick of Guernsey is one of the dependencies of
+the British Crown (being neither part of the United
+Kingdom nor a colony) that enjoys full independence,
+except for international relations and defence which are
+the responsibility of the United Kingdom Government.
+The Bailiwick of Guernsey should therefore be consid-
+ered as a third country within the meaning of the Direc-
+tive.
+(6) With effect from August 1987, the United Kingdom's
+ratification of the Council of Europe Convention on the
+Protection of Individuals with regard to automatic
+processing of personal data (Convention No 108) was
+extended to the Bailiwick of Guernsey.
+(7) As regards the Bailiwick of Guernsey, the legal standards
+on the protection of personal data based on the stan-
+dards set out in Directive 95/46/EC have been provided
+for in the Data Protection (Bailiwick of Guernsey) Law
+2001, which entered into force on 1 August 2002.
+(8) Sixteen statutory instruments (orders) have also been
+adopted in Guernsey in 2002, laying down specific rules
+concerning issues such as subject access, processing of
+sensitive data and notification to the data protection
+authority. These instruments complement the law.
+(9) The legal standards applicable in Guernsey cover all the
+basic principles necessary for an adequate level of
+protection for natural persons. The application of these
+standards is guaranteed by judicial remedy and by inde-
+pendent supervision carried out by the authorities, such
+as the Data Protection Commissioner invested with
+powers of investigation and intervention.
+(10) Guernsey should therefore be regarded as providing an
+adequate level of protection for personal data as referred
+to in Directive 95/46/EC.
+(11) In the interest of transparency and in order to safeguard
+the ability of the competent authorities in the Member
+States to ensure the protection of individuals as regards
+the processing of their personal data, it is necessary to
+specify the exceptional circumstances in which the
+suspension of specific data flows may be justified,
+notwithstanding the finding of adequate protection.
+25.11.2003 L 308/27Official Journal of the European UnionEN
+(1) OJ L 281, 23.11.1995, p. 31.
+(2) Opinion 5/2003 on the level of protection of personal data in
+Guernsey, adopted by the Working Party on 13 June 2003, available
+at http://europa.eu.int/comm/internal_market/privacy/workingroup/
+wp2003/wpdocs03_en.htm
+(12) The measures provided for in this Decision are in accor-
+dance with the opinion of the Committee established
+under Article 31(1) of Directive 95/46/EC,
+HAS ADOPTED THIS DECISION:
+Article 1
+For the purposes of Article 25(2) of Directive 95/46/EC, the
+Bailiwick of Guernsey is considered as providing an adequate
+level of protection for personal data transferred from the
+Community.
+Article 2
+This Decision concerns the adequacy of protection provided in
+Guernsey with a view to meeting the requirements of Article
+25(1) of Directive 95/46/EC and does not affect other condi-
+tions or restrictions implementing other provisions of that
+Directive that pertain to the processing of personal data within
+the Member States.
+Article 3
+1. Without prejudice to their powers to take action to
+ensure compliance with national provisions adopted pursuant
+to provisions other than Article 25 of Directive 95/46/EC, the
+competent authorities in Member States may exercise their
+existing powers to suspend data flows to a recipient in
+Guernsey in order to protect individuals with regard to the
+processing of their personal data in the following cases:
+(a) where a competent Guernsey authority has determined that
+the recipient is in breach of the applicable standards of
+protection; or
+(b) where there is a substantial likelihood that the standards of
+protection are being infringed, there are reasonable grounds
+for believing that the competent Guernsey authority is not
+taking or will not take adequate and timely steps to settle
+the case at issue, the continuing transfer would create an
+imminent risk of grave harm to data subjects and the
+competent authorities in the Member State have made
+reasonable efforts in the circumstances to provide the party
+responsible for processing established in Guernsey with
+notice and an opportunity to respond.
+2. The suspension shall cease as soon as the standards of
+protection are assured and the competent authority of the
+Member States concerned is notified thereof.
+Article 4
+1. Member States shall inform the Commission without
+delay when measures are adopted on the basis of Article 3.
+2. The Member States and the Commission shall inform
+each other of cases where the action of bodies responsible for
+ensuring compliance with the standards of protection in
+Guernsey fails to secure such compliance.
+3. If the information collected under Article 3 and under
+paragraphs 1 and 2 of this Article provides evidence that any
+body responsible for ensuring compliance with the standards of
+protection in Guernsey is not effectively fulfilling its role, the
+Commission shall inform the competent Guernsey authority
+and, if necessary, present draft measures in accordance with the
+procedure referred to in Article 31(2) of Directive 95/46/EC
+with a view to repealing or suspending this Decision or limiting
+its scope.
+Article 5
+The Commission shall monitor the functioning of this Decision
+and report any pertinent findings to the Committee established
+under Article 31 of Directive 95/46/EC, including any evidence
+that could affect the finding in Article 1 of this Decision, that
+protection in Guernsey is adequate within the meaning of
+Article 25 of Directive 95/46/EC and any evidence that this
+Decision is being implemented in a discriminatory way.
+Article 6
+Member States shall take all the measures necessary to comply
+with the Decision within four months of the date of its notifica-
+tion.
+Article 7
+This Decision is addressed to the Member States.
+Done at Brussels, 21 November 2003.
+For the Commission
+Frederik BOLKESTEIN
+Member of the Commission
+25.11.2003L 308/28 Official Journal of the European UnionEN
+
+
+────────────────────────────────────────
+
+28.5.2008
+
+|
+
+EN
+
+|
+
+Official Journal of the European Union
+
+|
+
+L 138/21
+
+|
+
+COMMISSION DECISION
+
+of 8 May 2008
+
+pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data in Jersey
+
+(notified under document number C(2008) 1746)
+
+(Text with EEA relevance)
+
+(2008/393/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (1), and in particular Article 25(6) thereof,
+
+After consulting the Working Party on Protection of Individuals with regard to the processing of personal data (2),
+
+Whereas:
+
+(1)
+
+|
+
+Pursuant to Directive 95/46/EC, Member States are required to provide that the transfer of personal data to a third country may take place only if the third country in question ensures an adequate level of protection and if the Member States' laws implementing other provisions of the Directive are complied with prior to the transfer.
+
+|
+
+(2)
+
+|
+
+The Commission may find that a third country ensures an adequate level of protection. In that case, personal data may be transferred from the Member States without additional guarantees being necessary.
+
+|
+
+(3)
+
+|
+
+Pursuant to Directive 95/46/EC the level of data protection should be assessed in the light of all the circumstances surrounding a data transfer operation or a set of data transfer operations, and giving particular consideration to a number of elements relevant for the transfer and listed in Article 25(2) thereof.
+
+|
+
+(4)
+
+|
+
+Given the different approaches to data protection in third countries, the adequacy assessment should be carried out, and any decision based on Article 25(6) of Directive 95/46/EC should be made and enforced in a way that does not arbitrarily or unjustifiably discriminate against or between third countries where like conditions prevail, nor constitute a disguised barrier to trade, regard being had to the Community's present international commitments.
+
+|
+
+(5)
+
+|
+
+The Bailiwick of Jersey is one of the dependencies of the British Crown (being neither part of the United Kingdom nor a colony) that enjoys full independence, except for international relations and defense which are the responsibility of the United Kingdom Government. The Bailiwick of Jersey is therefore to be considered as a third country within the meaning of Directive 95/46/EC.
+
+|
+
+(6)
+
+|
+
+With effect from 1951 and 1987 respectively, the United Kingdom's ratification of the European Convention on Human Rights and the Council of Europe Convention on the Protection of Individuals with regard to automatic processing of personal data (Convention No 108) were extended to the Bailiwick of Jersey.
+
+|
+
+(7)
+
+|
+
+As regards the Bailiwick of Jersey, the legal standards on the protection of personal data largely based on the standards set out in Directive 95/46/EC have been provided for in the Data Protection (Jersey) Law 1987, which entered into force on 11 November 1987 and two ancillary laws, the Data Protection (Amendment) (Jersey) Law 2005, and the Data Protection (Jersey) Law 2005 (Appointed Day) Act 2005.
+
+|
+
+(8)
+
+|
+
+Secondary legislation has also been adopted under the authority of the Data Protection (Jersey) Law, in 2005, laying down specific rules concerning issues such as subject access, processing of sensitive data and notification to the data protection authority (3).
+
+|
+
+(9)
+
+|
+
+The legal standards applicable in Jersey cover all the basic principles necessary for an adequate level of protection for natural persons. The application of these standards is guaranteed by judicial remedy and by independent supervision carried out by the authority, the Data Protection Commissioner, who is invested with powers of investigation and intervention.
+
+|
+
+(10)
+
+|
+
+Jersey should therefore be regarded as providing an adequate level of protection for personal data as referred to in Directive 95/46/EC.
+
+|
+
+(11)
+
+|
+
+In the interest of transparency and in order to safeguard the ability of the competent authorities in the Member States to ensure the protection of individuals as regards the processing of their personal data, it is necessary to specify the exceptional circumstances in which the suspension of specific data flows may be justified, notwithstanding the finding of adequate protection.
+
+|
+
+(12)
+
+|
+
+The measures provided for in this Decision are in accordance with the opinion of the Committee established under Article 31(1) of Directive 95/46/EC,
+
+|
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+For the purposes of Article 25(2) of Directive 95/46/EC, the Bailiwick of Jersey is considered as providing an adequate level of protection for personal data transferred from the Community.
+
+Article 2
+
+This Decision concerns the adequacy of protection provided in Jersey with a view to meeting the requirements of Article 25(1) of Directive 95/46/EC and does not affect other conditions or restrictions implementing other provisions of that Directive that pertain to the processing of personal data within the Member States.
+
+Article 3
+
+1. Without prejudice to their powers to take action to ensure compliance with national provisions adopted pursuant to provisions other than Article 25 of Directive 95/46/EC, the competent authorities in Member States may exercise their existing powers to suspend data flows to a recipient in Jersey in order to protect individuals with regard to the processing of their personal data in the following cases:
+
+(a)
+
+|
+
+where a competent Jersey authority has determined that the recipient is in breach of the applicable standards of protection; or
+
+|
+
+(b)
+
+|
+
+where there is a substantial likelihood that the standards of protection are being infringed, there are reasonable grounds for believing that the competent Jersey authority is not taking or will not take adequate and timely steps to settle the case at issue, the continuing transfer would create an imminent risk of grave harm to data subjects and the competent authorities in the Member State have made reasonable efforts in the circumstances to provide the party responsible for processing established in Jersey with notice and an opportunity to respond.
+
+|
+
+2. The suspension shall cease as soon as the standards of protection are assured and the competent authority of the Member States concerned is notified thereof.
+
+Article 4
+
+1. Member States shall inform the Commission without delay when measures are adopted on the basis of Article 3.
+
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standards of protection in Jersey fails to secure such compliance.
+
+3. If the information collected under Article 3 and under paragraphs 1 and 2 of this Article provides evidence that any body responsible for ensuring compliance with the standards of protection in Jersey is not effectively fulfilling its role, the Commission shall inform the competent Jersey authority and, if necessary, present draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.
+
+Article 5
+
+The Commission shall monitor the functioning of this Decision and report any pertinent findings to the Committee established under Article 31 of Directive 95/46/EC, including any evidence that could affect the finding in Article 1 of this Decision, that protection in Jersey is adequate within the meaning of Article 25 of Directive 95/46/EC and any evidence that this Decision is being implemented in a discriminatory way.
+
+Article 6
+
+Member States shall take all the measures necessary to comply with the Decision within four months of the date of its notification.
+
+Article 7
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 8 May 2008.
+
+For the Commission
+
+Jacques BARROT
+
+Vice-President
+
+(1)
+OJ L 281, 23.11.1995, p. 31. Directive as amended by Regulation (EC) No 1882/2003 (OJ L 284, 31.10.2003, p. 1).
+
+(2) Opinion No 8/2007 on the level of protection of personal data in Jersey, adopted on 9 October 2007, available at http://ec.europa.eu/justice_home/fsj/privacy/workinggroup/wpdocs/2007_en.htm
+
+(3) These are the Data Protection (Corporate Finance Exemption) (Jersey) Regulations 2005, the Data Protection (Credit Reference Agency) (Jersey) Regulations 2005, the Data Protection (Fair Processing) (Jersey) Regulations 2005, the Data Protection (International Cooperation) (Jersey) Regulations 2005, the Data Protection (Notification) (Jersey) Regulations 2005, the Data Protection (Sensitive Personal Data) (Jersey) Regulations 2005, the Data Protection (Subject Access Exemptions) (Jersey) Regulations 2005, the Data Protection (Subject Access Miscellaneous) (Jersey) Regulations 2005, the Data Protection (Subject Access Modification — (Education) (Jersey) Regulations 2005, the Data Protection (Subject Access Modification — (Health) (Jersey) Regulations 2005, the Data Protection (Subject Access Modification — (Social Work) (Jersey) Regulations 2005, and the Data Protection (Transfer in Substantial Public Interest) (Jersey) Regulations 2005.
+
+
+────────────────────────────────────────
+
+30.4.2004
+
+|
+
+EN
+
+|
+
+Official Journal of the European Communities
+
+|
+
+L 151/48
+
+|
+
+COMMISSION DECISION
+
+of 28 April 2004
+
+on the adequate protection of personal data in the Isle of Man
+
+(notified under document number C(2004) 1556)
+
+(Text with EEA relevance)
+
+(2004/411/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+having regard to the Treaty establishing the European Community,
+
+having regard to Directive 9 5/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (1), and in particular Article 25(6) thereof,
+
+After consulting the Working Party on the Protection of Individuals with regard to the processing of Personal Data (2),
+
+whereas:
+
+(1)
+
+|
+
+Pursuant to Directive 95/46/EC Member States are required to provide that the transfer of personal data to a third country may take place only if the third country in question ensures an adequate level of protection and if the Member States' laws implementing other provisions of the Directive are complied with prior to the transfer.
+
+|
+
+(2)
+
+|
+
+The Commission may find that a third country ensures an adequate level of protection. In that case, personal data may be transferred from the Member States without additional guarantees being necessary.
+
+|
+
+(3)
+
+|
+
+Pursuant to Directive 95/46/EC the level of data protection should be assessed in the light of all the circumstances surrounding a data transfer operation or a set of data transfer operations, and giving particular consideration to a number of elements relevant for the transfer and listed in Article 25(2) thereof.
+
+|
+
+(4)
+
+|
+
+Given the different approaches to data protection in third countries, the adequacy assessment should be carried out, and any decision based on Article 25(6) of Directive 95/46/EC should be made and enforced in a way that does not arbitrarily or unjustifiably discriminate against or between third countries where like conditions prevail, nor constitute a disguised barrier to trade, regard being had to the Community's present international commitments.
+
+|
+
+(5)
+
+|
+
+The Isle of Man is one of the dependencies of the British Crown (being neither part of the United Kingdom nor a colony) that enjoys full independence, except for international relations and defense which are the responsibility of the United Kingdom Government The Isle of Man should therefore be considered as a third country within the meaning of the Directive.
+
+|
+
+(6)
+
+|
+
+At the island's request, with effect from May 1993, the United Kingdom's ratification of the Council of Europe Convention on the Protection of Individuals with regard to Automatic Processing of Personal Data (Convention No 108) was extended to the Isle of Man.
+
+|
+
+(7)
+
+|
+
+As regards the Isle of Man, the legal standards on the protection of personal data based on the standards set out in Directive 95/46/EC have been provided for in the Data Protection Act 2002 (”the Act”), which entered into force on 1 April 2003. This Act repeals and replaces the Data Protection Act 1986 (”the 1986 Act”).
+
+|
+
+(8)
+
+|
+
+Other laws which impact or are likely to impact upon data protection include the Human Rights Act 2001, which was passed by Parliament on 16th January 2001 and is not yet fully in force and the Access to Health Records and Reports Act 1993.
+
+|
+
+(9)
+
+|
+
+The legal standards applicable in the Isle of Man cover all the basic principles necessary for an adequate level of protection for natural persons. The application of these standards is guaranteed by judicial remedy and by independent supervision carried out by the authorities, such as the Data Protection Commissioner invested with powers of investigation and intervention.
+
+|
+
+(10)
+
+|
+
+The Isle of Man should therefore be regarded as providing an adequate level of protection for personal data as referred to in Directive 95/46/EC.
+
+|
+
+(11)
+
+|
+
+In the interest of transparency and in order to safeguard the ability of the competent authorities in the Member States to ensure the protection of individuals as regards the processing of their personal data, it is necessary to specify the exceptional circumstances in which the suspension of specific data flows may be justified, notwithstanding the finding of adequate protection.
+
+|
+
+(12)
+
+|
+
+The measures provided for in this Decision are in accordance with the opinion of the Committee established under Article 31(1) of Directive 95/46/EC,
+
+|
+
+HAS ADOPTED THIS DECISION:
+
+Article 1
+
+For the purposes of Article 25(2) of Directive 95/46/EC, the Isle of Man is considered as providing an adequate level of protection for personal data transferred from the Community.
+
+Article 2
+
+This Decision concerns the adequacy of protection provided in the Isle of Man with a view to meeting the requirements of Article 25(1) of Directive 95/46/EC and does not affect other conditions or restrictions implementing other provisions of that Directive that pertain to the processing of personal data within the Member States.
+
+Article 3
+
+1. Without prejudice to their powers to take action to ensure compliance with national provisions adopted pursuant to provisions other than Article 25 of Directive 95/46/EC, the competent authorities in Member States may exercise their existing powers to suspend data flows to a recipient in the Isle of Man in order to protect individuals with regard to the processing of their personal data in the following cases:
+
+(a)
+
+|
+
+where a competent Isle of Man authority has determined that the recipient is in breach of the applicable standards of protection; or
+
+|
+
+(b)
+
+|
+
+where there is a substantial likelihood that the standards of protection are being infringed, there are reasonable grounds for believing that the competent Isle of Man authority is not taking or will not take adequate and timely steps to settle the case at issue, the continuing transfer would create an imminent risk of grave harm to data subjects and the competent authorities in the Member State have made reasonable efforts in the circumstances to provide the party responsible for processing established in the Isle of Man with notice and an opportunity to respond.
+
+|
+
+2. The suspension shall cease as soon as the standards of protection are assured and the competent authority of the Member States concerned is notified thereof.
+
+Article 4
+
+1. Member States shall inform the Commission without delay when measures, are adopted on the basis of Article 3.
+
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standards of protection in the Isle of Man fails to secure such compliance.
+
+3. If the information collected under Article 3 and under paragraphs 1 and 2 of this Article provides evidence that any body responsible for ensuring compliance with the standards of protection in the Isle of Man is not effectively fulfilling its role, the Commission shall inform the competent Isle of Man authority and, if necessary, present draft measures in accordance with the procedure referred to in Article 31 (2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.
+
+Article 5
+
+The Commission shall monitor the functioning of this Decision and report any pertinent findings to the Committee established under Article 31 of Directive 95/46/EC, including any evidence that could affect the finding in Article 1 of this Decision that protection in the Isle of Man is adequate within the meaning of Article 25 of Directive 95/46/EC and any evidence that this Decision is being implemented in a discriminatory way.
+
+Article 6
+
+Member States shall take all the measures necessary to comply with the Decision within four months of the date of its notification.
+
+Article 7
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 28 April 2004.
+
+For the Commission
+
+Frederik BOLKESTEIN
+
+Member of the Commission
+
+(1)
+OJ L 281, 23.11.1995, p. 31
+
+(2) Opinion 6/2003 on the level of protection of personal data in the Isle of Man, adopted by the Working Party on 21 November 2003, available at http://europa.eu.int/comm/internal_market/privacy/workingroup/wp 2003/wpdocs03_en.htm

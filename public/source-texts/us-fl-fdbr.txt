@@ -1,0 +1,1792 @@
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 1 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+1
+An act relating to technology transparency; creating2
+s. 112.23, F.S.; defining terms; prohibiting officers3
+or salaried employees of governmental entities from4
+using their positions or state resources to make5
+certain requests of social media platforms;6
+prohibiting governmental entities from initiating or7
+maintaining agreements or working relationships with8
+social media platforms under a specified circumstance;9
+providing exceptions; creating s. 501.1735, F.S.;10
+providing definitions; prohibiting certain conduct by11
+an online platform that provides online services,12
+products, games, or features likely to be13
+predominantly accessed by children; providing14
+exceptions; providing for enforcement; providing15
+construction; authorizing the department to bring an16
+action under the Florida Deceptive and Unfair Trade17
+Practices Act; providing for civil penalties;18
+providing that the department may grant an online19
+platform a timeframe to cure any violations; providing20
+jurisdiction; providing directives to the Division of21
+Law Revision; creating s. 501.701, F.S.; providing a22
+short title; creating s. 501.702, F.S.; defining23
+terms; creating s. 501.703, F.S.; providing24
+applicability; creating s. 501.704, F.S.; providing25
+exemptions; creating s. 501.705, F.S.; providing that26
+a consumer may submit requests to controllers to27
+exercise specified rights; requiring controllers to28
+comply with certain authenticated consumer requests;29
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 2 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+prohibiting certain devices from being used for30
+surveillance purposes without the express31
+authorization of the consumer under certain32
+circumstances; creating s. 501.706, F.S.; providing33
+timeframes within which controllers must respond to34
+consumer requests; providing notice requirements for35
+controllers that cannot take action regarding a36
+consumer’s request; providing that controllers are not37
+required to comply with certain consumer requests;38
+providing notice requirements for controllers’39
+compliance with consumer requests; requiring responses40
+to consumer requests to be made free of charge;41
+providing exceptions; specifying the methods by which42
+controllers may be considered to be in compliance with43
+consumer requests for the controller to delete their44
+personal data; creating s. 501.707, F.S.; requiring45
+controllers to establish a process for consumers to46
+appeal the controller’s refusal to take action on the47
+consumer’s request within a specified timeframe;48
+providing requirements for such process; creating s.49
+501.708, F.S.; providing that contracts or agreements50
+that waive or limit specified consumer rights are void51
+and unenforceable; creating s. 501.709, F.S.;52
+requiring controllers to establish methods for53
+submitting consumer requests; prohibiting controllers54
+from requiring consumers to create new accounts to55
+exercise their consumer rights; requiring controllers56
+to provide a certain mechanism on their websites for57
+consumers to submit certain requests; creating s.58
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 3 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+501.71, F.S.; requiring controllers to limit the59
+collection of personal data according to certain60
+parameters; requiring controllers to establish,61
+implement, and maintain specified practices regarding62
+personal data; prohibiting controllers from taking63
+certain actions regarding a consumer’s personal data;64
+prohibiting controllers from discriminating against65
+consumers exercising their consumer rights; providing66
+construction; requiring a controller that operates a67
+search engine to make certain information available on68
+its webpage; creating s. 501.711, F.S.; requiring69
+controllers to provide consumers with privacy notices70
+that meet certain requirements; requiring controllers71
+that engage in the sale of sensitive or biometric72
+personal data to provide notices that meet certain73
+requirements; requiring controllers that sell personal74
+data or process personal data for targeted advertising75
+to disclose certain information; prohibiting76
+controllers from collecting additional categories of77
+personal information or using such information for78
+additional purposes without providing specified79
+notice; creating s. 501.712, F.S.; requiring80
+processors to adhere to controller instructions and to81
+assist the controller in meeting or complying with82
+certain requirements; providing requirements for83
+contracts between controllers and processors regarding84
+data processing procedures; providing construction;85
+providing that the determination of whether a person86
+is acting as a controller or processor is a fact-based87
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 4 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+determination; creating s. 501.713, F.S.; requiring88
+controllers to conduct and document data protection89
+assessments of specified processing activities90
+involving personal data; providing requirements for91
+such assessments; providing applicability; creating s.92
+501.714, F.S.; requiring controllers in possession of93
+deidentified data to take certain actions; providing94
+construction; providing that specified consumer rights95
+and controller duties do not apply to pseudonymous96
+data or aggregate consumer information under certain97
+circumstances; requiring controllers that disclose98
+pseudonymous data, deidentified data, or aggregate99
+consumer information to exercise reasonable oversight100
+and take appropriate steps to address breaches of101
+contractual agreements; creating s. 501.715, F.S.;102
+requiring certain persons to receive consumer consent103
+before engaging in the sale of sensitive personal104
+data; requiring a specified notice; providing for105
+penalties; creating s. 501.716, F.S.; providing106
+exemptions for specified controller or processor uses107
+of consumer personal data; providing that controllers108
+or processors may provide personal data concerning a109
+consumer to certain covered persons; creating s.110
+501.717, F.S.; authorizing controllers and processors111
+to collect, use, or retain data for specified112
+purposes; providing that certain requirements do not113
+apply if such compliance would violate certain laws;114
+creating s. 501.718, F.S.; providing circumstances115
+under which processors are not in violation of this116
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 5 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+act for the disclosure of personal data to a third-117
+party controller or processor; providing that third-118
+party controllers or processors that comply with this119
+part are not liable for violations committed by120
+controllers or processors from whom they receive121
+personal data; creating s. 501.719, F.S.; providing122
+requirements for the processing of certain personal123
+data by controllers; requiring controllers and124
+processors to adopt and implement a retention schedule125
+that meets certain requirements; requiring controllers126
+or processors that process certain personal data to127
+demonstrate that such processing qualifies for a128
+specified exemption; creating s. 501.72, F.S.;129
+authorizing the Department of Legal Affairs to bring130
+an action under the Florida Deceptive and Unfair Trade131
+Practices Act for violations of the act; providing for132
+civil penalties; providing for enhanced civil133
+penalties for certain violations; authorizing the134
+department to grant a specified timeframe within which135
+an alleged violation may be cured; providing an136
+exception; providing certain factors the department137
+may take into consideration; requiring the department138
+to make a report regarding certain enforcement actions139
+publicly available on the department’s website;140
+providing requirements for the report; requiring the141
+department to adopt rules; authorizing the department142
+to collaborate and cooperate with specified143
+enforcement authorities; specifying that the act does144
+not create a private cause of action; authorizing the145
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 6 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+department to employ or use outside legal counsel for146
+specified purposes; providing for jurisdiction;147
+creating s. 501.721, F.S.; declaring that the act is a148
+matter of statewide concern; preempting the149
+collection, processing, sharing, and sale of consumer150
+personal data to the state; amending s. 501.171, F.S.;151
+revising the definition of the term “personal152
+information”; amending s. 16.53, F.S.; revising the153
+purpose of the Legal Affairs Revolving Trust Fund;154
+requiring that certain attorney fees, costs, and155
+penalties recovered by the Attorney General be156
+deposited in the trust fund; providing effective157
+dates.158
+159
+Be It Enacted by the Legislature of the State of Florida:160
+161
+Section 1. Effective July 1, 2023, section 112.23, Florida162
+Statutes, is created to read:163
+112.23 Government-directed content moderation of social164
+media platforms prohibited.—165
+(1) As used in this section, the term:166
+(a) “Governmental entity” means any officer or employee of167
+a state, county, district, authority, municipality, department,168
+agency, division, board, bureau, commission, or other separate169
+unit of government created or established by law, and includes170
+any other public or private entity acting on behalf of such171
+governmental entity.172
+(b) “Social media platform” means a form of electronic173
+communication through which users create online communities or174
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 7 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+groups to share information, ideas, personal messages, and other175
+content.176
+(2) A governmental entity may not communicate with a social177
+media platform to request that it remove content or accounts178
+from the social media platform.179
+(3) A governmental entity may not initiate or maintain any180
+agreements or working relationships with a social media platform181
+for the purpose of content moderation.182
+(4) Subsections (2) and (3) do not apply if the183
+governmental entity or an officer or an employee acting on184
+behalf of a governmental entity is acting as part of any of the185
+following:186
+(a) Routine account management of the governmental entity’s187
+account, including, but not limited to, the removal or revision188
+of the governmental entity’s content or account or189
+identification of accounts falsely posing as a governmental190
+entity, officer, or salaried employee.191
+(b) An attempt to remove content that pertains to the192
+commission of a crime or violation of this state’s public193
+records law.194
+(c) An attempt to remove an account that pertains to the195
+commission of a crime or violation of this state’s public196
+records law.197
+(d) An investigation or inquiry related to an effort to198
+prevent imminent bodily harm, loss of life, or property damage.199
+Section 2. Section 501.1735, Florida Statutes, is created200
+to read:201
+501.1735 Protection of children in online spaces.—202
+(1) DEFINITIONS.—As used in this section, the term:203
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 8 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+(a) “Child” or “children” means a consumer or consumers who204
+are under 18 years of age.205
+(b) “Collect” means to buy, rent, gather, obtain, receive,206
+save, store, or access any personal information pertaining to a207
+child.208
+(c) “Dark pattern” means a user interface designed or209
+manipulated with the substantial effect of subverting or210
+impairing user autonomy, decision-making, or choice and211
+includes, but is not limited to, any practice the Federal Trade212
+Commission refers to as a dark pattern.213
+(d) “Department” means the Department of Legal Affairs.214
+(e) “Online platform” means a social media platform as215
+defined in s. 112.23(1), online game, or online gaming platform.216
+(f) “Personal information” means information that is linked217
+or reasonably linkable to an identified or identifiable child,218
+including biometric information and unique identifiers to the219
+child.220
+(g) “Precise geolocation data” means information identified221
+through technology which enables the online platform to collect222
+specific location data which directly identifies the specific223
+location of a child with precision and accuracy within a radius224
+of 1,750 feet.225
+(h) “Processing” means any operation or set of operations226
+performed on personal information or on sets of personal227
+information, regardless of whether by automated means.228
+(i) “Profile” or “profiling” means any form of automated229
+processing performed on personal information to evaluate,230
+analyze, or predict personal aspects relating to the economic231
+situation, health, personal preferences, interests, reliability,232
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 9 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+behavior, location, or movements of a child.233
+(j) “Sell” means to sell, rent, release, disclose,234
+disseminate, make available, transfer, or otherwise communicate235
+orally, in writing, or by electronic or other means, a child’s236
+personal information or information that relates to a group or237
+category of children by an online platform to another online238
+platform or an affiliate or third party for monetary or other239
+valuable consideration.240
+(k) “Share” means to share, rent, release, disclose,241
+disseminate, make available, transfer, or access a child’s242
+personal information for advertising or marketing. The term243
+includes:244
+1. Allowing a third party to advertise or market based on a245
+child’s personal information without disclosure of the personal246
+information to the third party.247
+2. Monetary transactions, nonmonetary transactions, and248
+transactions for other valuable consideration between an online249
+platform and a third party for advertising or marketing.250
+(l) “Substantial harm or privacy risk to children” means251
+the processing of personal information in a manner that may252
+result in any reasonably foreseeable substantial physical253
+injury, economic injury, or offensive intrusion into the privacy254
+expectations of a reasonable child under the circumstances,255
+including:256
+1. Mental health disorders or associated behaviors,257
+including the promotion or exacerbation of self-harm, suicide,258
+eating disorders, and substance abuse disorders;259
+2. Patterns of use that indicate or encourage addictive260
+behaviors;261
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 10 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+3. Physical violence, online bullying, and harassment;262
+4. Sexual exploitation, including enticement, sex263
+trafficking, and sexual abuse and trafficking of online sexual264
+abuse material;265
+5. Promotion and marketing of tobacco products, gambling,266
+alcohol, or narcotic drugs as defined in s. 102 of the267
+Controlled Substances Act, 21 U.S.C. 802; or268
+6. Predatory, unfair, or deceptive marketing practices or269
+other financial harms.270
+(2) PROHIBITIONS.—An online platform that provides an271
+online service, product, game, or feature likely to be272
+predominantly accessed by children may not:273
+(a) Process the personal information of any child if the274
+online platform has actual knowledge of or willfully disregards275
+that the processing may result in substantial harm or privacy276
+risk to children.277
+(b) Profile a child unless both of the following criteria278
+are met:279
+1. The online platform can demonstrate it has appropriate280
+safeguards in place to protect children.281
+2.a. Profiling is necessary to provide the online service,282
+product, or feature requested for the aspects of the online283
+service, product, or feature with which the child is actively284
+and knowingly engaged; or285
+b. The online platform can demonstrate a compelling reason286
+that profiling does not pose a substantial harm or privacy risk287
+to children.288
+(c) Collect, sell, share, or retain any personal289
+information that is not necessary to provide an online service,290
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 11 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+product, or feature with which a child is actively and knowingly291
+engaged unless the online platform can demonstrate a compelling292
+reason that collecting, selling, sharing, or retaining the293
+personal information does not pose a substantial harm or privacy294
+risk to children.295
+(d) Use personal information of a child for any reason296
+other than the reason for which the personal information was297
+collected, unless the online platform can demonstrate a298
+compelling reason that the use of the personal information does299
+not pose a substantial harm or privacy risk to children.300
+(e) Collect, sell, or share any precise geolocation data of301
+children unless the collection of the precise geolocation data302
+is strictly necessary for the online platform to provide the303
+service, product, or feature requested and then only for the304
+limited time that the collection of the precise geolocation data305
+is necessary to provide the service, product, or feature.306
+(f) Collect any precise geolocation data of a child without307
+providing an obvious sign to the child for the duration of the308
+collection that the precise geolocation data is being collected.309
+(g) Use dark patterns to lead or encourage children to310
+provide personal information beyond what personal information311
+would otherwise be reasonably expected to be provided for that312
+online service, product, game, or feature; to forego privacy313
+protections; or to take any action that the online platform has314
+actual knowledge of or willfully disregards that may result in315
+substantial harm or privacy risk to children.316
+(h) Use any personal information collected to estimate age317
+or age range for any other purpose or retain that personal318
+information longer than necessary to estimate age. The age319
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 12 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+estimate must be proportionate to the risks and data practice of320
+an online service, product, or feature.321
+(3) BURDEN OF PROOF.—If an online platform processes322
+personal information pursuant to subsection (2), the online323
+platform bears the burden of demonstrating that such processing324
+does not violate subsection (2).325
+(4) ENFORCEMENT AND IMPLEMENTATION BY THE DEPARTMENT.—326
+(a) Any violation of subsection (2) is an unfair and327
+deceptive trade practice actionable under part II of chapter 501328
+solely by the department against an online platform. If the329
+department has reason to believe that an online platform is in330
+violation of subsection (2), the department, as the enforcing331
+authority, may bring an action against such online platform for332
+an unfair or deceptive act or practice. For the purpose of333
+bringing an action pursuant to this section, ss. 501.211 and334
+501.212 do not apply. In addition to other remedies under part335
+II of chapter 501, the department may collect a civil penalty of336
+up to $50,000 per violation of this section. Civil penalties may337
+be tripled for any violation involving a Florida child who the338
+online platform has actual knowledge is under 18 years of age.339
+(b) After the department has notified an online platform in340
+writing of an alleged violation, the department may in its341
+discretion grant a 45-day period to cure the alleged violation.342
+If the violation is cured to the satisfaction of the department343
+and proof of such cure is provided to the department, the344
+department may not bring an action for the alleged violation but345
+in its discretion may issue a letter of guidance that indicates346
+that the online platform will not be offered a 45-day cure347
+period for any future violations. If the online platform fails348
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 13 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+to cure the violation within 45 calendar days, the department349
+may bring an action against the online platform for the alleged350
+violation.351
+(c) Any action brought by the department may be brought352
+only on behalf of a Florida child.353
+(d) The department may adopt rules to implement this354
+section.355
+(e) Liability for a tort, contract claim, or consumer356
+protection claim that is unrelated to an action brought under357
+this subsection does not arise solely from the failure of an358
+online platform to comply with this section.359
+(f) This section does not establish a private cause of360
+action.361
+(5) JURISDICTION.—For purposes of bringing an action362
+pursuant to this section, any person who meets the definition of363
+online platform which operates an online service, product, game,364
+or feature likely to be predominantly accessed by children and365
+accessible by Florida children located in this state is366
+considered to be both engaged in substantial and not isolated367
+activities within this state and operating, conducting, engaging368
+in, or carrying on a business, and doing business in this state,369
+and is therefore subject to the jurisdiction of the courts of370
+this state.371
+Section 3. The Division of Law Revision is directed to:372
+(1) Redesignate current parts V, VI, and VII of chapter373
+501, Florida Statutes, as parts VI, VII, and VIII of chapter374
+501, Florida Statutes, respectively; and375
+(2) Create a new part V of chapter 501, Florida Statutes,376
+consisting of ss. 501.701-501.721, Florida Statutes, entitled377
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 14 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+“Data Privacy and Security.”378
+Section 4. Section 501.701, Florida Statutes, is created to379
+read:380
+501.701 Short title.—This part may be cited as the “Florida381
+Digital Bill of Rights.”382
+Section 5. Section 501.702, Florida Statutes, is created to383
+read:384
+501.702 Definitions.—As used in this part, the term:385
+(1) “Affiliate” means a legal entity that controls, is386
+controlled by, or is under common control with another legal387
+entity or that shares common branding with another legal entity.388
+For purposes of this subsection, the term “control” or389
+“controlled” means any of the following:390
+(a) The ownership of, or power to vote, more than 50391
+percent of the outstanding shares of any class of voting392
+security of a company.393
+(b) The control in any manner over the election of a394
+majority of the directors or of individuals exercising similar395
+functions.396
+(c) The power to exercise controlling influence over the397
+management of a company.398
+(2) “Aggregate consumer information” means information that399
+relates to a group or category of consumers, from which the400
+identity of an individual consumer has been removed and is not401
+reasonably capable of being directly or indirectly associated or402
+linked with any consumer, household, or device. The term does403
+not include information about a group or category of consumers404
+used to facilitate targeted advertising or the display of ads405
+online. The term does not include personal information that has406
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 15 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+been deidentified.407
+(3) “Authenticate” or “authenticated” means to verify or408
+the state of having been verified, respectively, through409
+reasonable means that the consumer who is entitled to exercise410
+the consumer’s rights under s. 501.705 is the same consumer411
+exercising those consumer rights with respect to the personal412
+data at issue.413
+(4) “Biometric data” means data generated by automatic414
+measurements of an individual’s biological characteristics. The415
+term includes fingerprints, voiceprints, eye retinas or irises,416
+or other unique biological patterns or characteristics used to417
+identify a specific individual. The term does not include418
+physical or digital photographs, video or audio recordings or419
+data generated from video or audio recordings, or information420
+collected, used, or stored for health care treatment, payment,421
+or operations under the Health Insurance Portability and422
+Accountability Act of 1996, 42 U.S.C. ss. 1320d et seq.423
+(5) “Business associate” has the same meaning as in 45424
+C.F.R. s. 160.103 and the Health Insurance Portability and425
+Accountability Act of 1996, 42 U.S.C. ss. 1320d et seq.426
+(6) “Child” means an individual younger than 18 years of427
+age.428
+(7) “Consent,” when referring to a consumer, means a clear429
+affirmative act signifying a consumer’s freely given, specific,430
+informed, and unambiguous agreement to process personal data431
+relating to the consumer. The term includes a written statement,432
+including a statement written by electronic means, or any other433
+unambiguous affirmative act. The term does not include any of434
+the following:435
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 16 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+(a) Acceptance of a general or broad terms of use or436
+similar document that contains descriptions of personal data437
+processing along with other, unrelated information.438
+(b) Hovering over, muting, pausing, or closing a given439
+piece of content.440
+(c) Agreement obtained through the use of dark patterns.441
+(8) “Consumer” means an individual who is a resident of or442
+is domiciled in this state acting only in an individual or443
+household context. The term does not include an individual444
+acting in a commercial or employment context.445
+(9) “Controller” means:446
+(a) A sole proprietorship, partnership, limited liability447
+company, corporation, association, or legal entity that meets448
+the following requirements:449
+1. Is organized or operated for the profit or financial450
+benefit of its shareholders or owners;451
+2. Conducts business in this state;452
+3. Collects personal data about consumers, or is the entity453
+on behalf of which such information is collected;454
+4. Determines the purposes and means of processing personal455
+data about consumers alone or jointly with others;456
+5. Makes in excess of $1 billion in global gross annual457
+revenues; and458
+6. Satisfies at least one of the following:459
+a. Derives 50 percent or more of its global gross annual460
+revenues from the sale of advertisements online, including461
+providing targeted advertising or the sale of ads online;462
+b. Operates a consumer smart speaker and voice command463
+component service with an integrated virtual assistant connected464
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 17 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+to a cloud computing service that uses hands-free verbal465
+activation. For purposes of this sub-subparagraph, a consumer466
+smart speaker and voice command component service does not467
+include a motor vehicle or speaker or device associated with or468
+connected to a vehicle which is operated by a motor vehicle469
+manufacturer or a subsidiary or affiliate thereof; or470
+c. Operates an app store or a digital distribution platform471
+that offers at least 250,000 different software applications for472
+consumers to download and install.473
+(b) Any entity that controls or is controlled by a474
+controller. As used in this paragraph, the term “control” means:475
+1. Ownership of, or the power to vote, more than 50 percent476
+of the outstanding shares of any class of voting security of a477
+controller;478
+2. Control in any manner over the election of a majority of479
+the directors, or of individuals exercising similar functions;480
+or481
+3. The power to exercise a controlling influence over the482
+management of a company.483
+(10) “Covered entity” has the same meaning as in 45 C.F.R.484
+s. 160.103 and the Health Insurance Portability and485
+Accountability Act of 1996, 42 U.S.C. ss. 1320d et seq.486
+(11) “Dark pattern” means a user interface designed or487
+manipulated with the effect of substantially subverting or488
+impairing user autonomy, decisionmaking, or choice. The term489
+includes any practice the Federal Trade Commission refers to as490
+a dark pattern.491
+(12) “Decision that produces a legal or similarly492
+significant effect concerning a consumer” means a decision made493
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 18 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+by a controller which results in the provision or denial by the494
+controller of any of the following:495
+(a) Financial and lending services.496
+(b) Housing, insurance, or health care services.497
+(c) Education enrollment.498
+(d) Employment opportunities.499
+(e) Criminal justice.500
+(f) Access to basic necessities, such as food and water.501
+(13) “Deidentified data” means data that cannot reasonably502
+be linked to an identified or identifiable individual or a503
+device linked to that individual.504
+(14) “Health care provider” has the same meaning as in 45505
+C.F.R. s. 160.103 and the Health Insurance Portability and506
+Accountability Act of 1996, 42 U.S.C. ss. 1320d et seq.507
+(15) “Health record” means any written, printed, or508
+electronically recorded material maintained by a health care509
+provider in the course of providing health care services to an510
+individual which concerns the individual and the services511
+provided. The term includes any of the following:512
+(a) The substance of any communication made by an513
+individual to a health care provider in confidence during or in514
+connection with the provision of health care services.515
+(b) Information otherwise acquired by the health care516
+provider about an individual in confidence and in connection517
+with health care services provided to the individual.518
+(16) “Identified or identifiable individual” means a519
+consumer who can be readily identified, directly or indirectly.520
+(17) “Known child” means a child under circumstances of521
+which a controller has actual knowledge of, or willfully522
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 19 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+disregards, the child’s age.523
+(18) “Nonprofit organization” means any of the following:524
+(a) An organization exempt from federal taxation under s.525
+501(a) of the Internal Revenue Code of 1986 by virtue of being526
+listed as an exempt organization under s. 501(c)(3), s.527
+501(c)(4), s. 501(c)(6), or s. 501(c)(12) of that code.528
+(b) A political organization.529
+(19) “Personal data” means any information, including530
+sensitive data, which is linked or reasonably linkable to an531
+identified or identifiable individual. The term includes532
+pseudonymous data when the data is used by a controller or533
+processor in conjunction with additional information that534
+reasonably links the data to an identified or identifiable535
+individual. The term does not include deidentified data or536
+publicly available information.537
+(20) “Political organization” means a party, a committee,538
+an association, a fund, or any other organization, regardless of539
+whether incorporated, organized and operated primarily for the540
+purpose of influencing or attempting to influence any of the541
+following:542
+(a) The selection, nomination, election, or appointment of543
+an individual to a federal, state, or local public office or an544
+office in a political organization, regardless of whether the545
+individual is selected, nominated, elected, or appointed.546
+(b) The election of a presidential or vice-presidential547
+elector, regardless of whether the elector is selected,548
+nominated, elected, or appointed.549
+(21) “Postsecondary education institution” means a Florida550
+College System institution, state university, or nonpublic551
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 20 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+postsecondary education institution that receives state funds.552
+(22) “Precise geolocation data” means information derived553
+from technology, including global positioning system level554
+latitude and longitude coordinates or other mechanisms, which555
+directly identifies the specific location of an individual with556
+precision and accuracy within a radius of 1,750 feet. The term557
+does not include the content of communications or any data558
+generated by or connected to an advanced utility metering559
+infrastructure system or to equipment for use by a utility.560
+(23) “Process” or “processing” means an operation or set of561
+operations performed, whether by manual or automated means, on562
+personal data or on sets of personal data, such as the563
+collection, use, storage, disclosure, analysis, deletion, or564
+modification of personal data.565
+(24) “Processor” means a person who processes personal data566
+on behalf of a controller.567
+(25) “Profiling” means any form of solely automated568
+processing performed on personal data to evaluate, analyze, or569
+predict personal aspects related to an identified or570
+identifiable individual’s economic situation, health, personal571
+preferences, interests, reliability, behavior, location, or572
+movements.573
+(26) “Protected health information” has the same meaning as574
+in 45 C.F.R. s. 160.103 and the Health Insurance Portability and575
+Accountability Act of 1996, 42 U.S.C. ss. 1320d et seq.576
+(27) “Pseudonymous data” means any information that cannot577
+be attributed to a specific individual without the use of578
+additional information, provided that the additional information579
+is kept separately and is subject to appropriate technical and580
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 21 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+organizational measures to ensure that the personal data is not581
+attributed to an identified or identifiable individual.582
+(28) “Publicly available information” means information583
+lawfully made available through government records, or584
+information that a business has a reasonable basis for believing585
+is lawfully made available to the general public through widely586
+distributed media, by a consumer, or by a person to whom a587
+consumer has disclosed the information, unless the consumer has588
+restricted the information to a specific audience.589
+(29) “Sale of personal data” means the sharing, disclosing,590
+or transferring of personal data for monetary or other valuable591
+consideration by the controller to a third party. The term does592
+not include any of the following:593
+(a) The disclosure of personal data to a processor who594
+processes the personal data on the controller’s behalf.595
+(b) The disclosure of personal data to a third party for596
+purposes of providing a product or service requested by the597
+consumer.598
+(c) The disclosure of information that the consumer:599
+1. Intentionally made available to the general public600
+through a mass media channel; and601
+2. Did not restrict to a specific audience.602
+(d) The disclosure or transfer of personal data to a third603
+party as an asset that is part of a merger or an acquisition.604
+(30) “Search engine” means technology and systems that use605
+algorithms to sift through and index vast third-party websites606
+and content on the Internet in response to search queries607
+entered by a user. The term does not include the license of608
+search functionality for the purpose of enabling the licensee to609
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 22 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+operate a third-party search engine service in circumstances610
+where the licensee does not have legal or operational control of611
+the search algorithm, the index from which results are612
+generated, or the ranking order in which the results are613
+provided.614
+(31) “Sensitive data” means a category of personal data615
+which includes any of the following:616
+(a) Personal data revealing an individual’s racial or617
+ethnic origin, religious beliefs, mental or physical health618
+diagnosis, sexual orientation, or citizenship or immigration619
+status.620
+(b) Genetic or biometric data processed for the purpose of621
+uniquely identifying an individual.622
+(c) Personal data collected from a known child.623
+(d) Precise geolocation data.624
+(32) “State agency” means any department, commission,625
+board, office, council, authority, or other agency in the626
+executive branch of state government created by the State627
+Constitution or state law. The term includes a postsecondary628
+education institution.629
+(33) “Targeted advertising” means displaying to a consumer630
+an advertisement selected based on personal data obtained from631
+that consumer’s activities over time across affiliated or632
+unaffiliated websites and online applications used to predict633
+the consumer’s preferences or interests. The term does not634
+include an advertisement that is:635
+(a) Based on the context of a consumer’s current search636
+query on the controller’s own website or online application; or637
+(b) Directed to a consumer search query on the controller’s638
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 23 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+own website or online application in response to the consumer’s639
+request for information or feedback.640
+(34) “Third party” means a person, other than the consumer,641
+the controller, the processor, or an affiliate of the controller642
+or processor.643
+(35) “Trade secret” has the same meaning as in s. 812.081.644
+(36) “Voice recognition feature” means the function of a645
+device which enables the collection, recording, storage,646
+analysis, transmission, interpretation, or other use of spoken647
+words or other sounds.648
+Section 6. Section 501.703, Florida Statutes, is created to649
+read:650
+501.703 Applicability.—651
+(1) This part applies only to a person who:652
+(a) Conducts business in this state or produces a product653
+or service used by residents of this state; and654
+(b) Processes or engages in the sale of personal data.655
+(2) This part does not apply to any of the following:656
+(a) A state agency or a political subdivision of the state.657
+(b) A financial institution or data subject to Title V,658
+Gramm-Leach-Bliley Act, 15 U.S.C. ss. 6801 et seq.659
+(c) A covered entity or business associate governed by the660
+privacy, security, and breach notification regulations issued by661
+the United States Department of Health and Human Services, 45662
+C.F.R. parts 160 and 164, established under the Health Insurance663
+Portability and Accountability Act of 1996, 42 U.S.C. ss. 1320d664
+et seq., and the Health Information Technology for Economic and665
+Clinical Health Act, Division A, Title XIII and Division B,666
+Title IV, Pub. L. No. 111-5.667
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 24 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+(d) A nonprofit organization.668
+(e) A postsecondary education institution.669
+(f) The processing of personal data:670
+1. By a person in the course of a purely personal or671
+household activity.672
+2. Solely for measuring or reporting advertising673
+performance, reach, or frequency.674
+(3) A controller or processor that complies with the675
+authenticated parental consent requirements of the Children’s676
+Online Privacy Protection Act, 15 U.S.C. ss. 6501 et seq., with677
+respect to data collected online, is considered to be in678
+compliance with any requirement to obtain parental consent under679
+this part.680
+Section 7. Section 501.704, Florida Statutes, is created to681
+read:682
+501.704 Exemptions.—All of the following information is683
+exempt from this part:684
+(1) Protected health information under the Health Insurance685
+Portability and Accountability Act of 1996, 42 U.S.C. ss. 1320d686
+et seq.687
+(2) Health records.688
+(3) Patient identifying information for purposes of 42689
+U.S.C. s. 290dd-2.690
+(4) Identifiable private information:691
+(a) For purposes of the federal policy for the protection692
+of human subjects under 45 C.F.R. part 46;693
+(b) Collected as part of human subjects research under the694
+good clinical practice guidelines issued by the International695
+Council for Harmonisation of Technical Requirements for696
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 25 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+Pharmaceuticals for Human Use or the protection of human697
+subjects under 21 C.F.R. parts 50 and 56; or698
+(c) That is personal data used or shared in research699
+conducted in accordance with this part or other research700
+conducted in accordance with applicable law.701
+(5) Information and documents created for purposes of the702
+Health Care Quality Improvement Act of 1986, 42 U.S.C. ss. 11101703
+et seq.704
+(6) Patient safety work product for purposes of the Patient705
+Safety and Quality Improvement Act of 2005, 42 U.S.C. ss. 299b-706
+21 et seq.707
+(7) Information derived from any of the health-care-related708
+information listed in this section which is deidentified in709
+accordance with the requirements for deidentification under the710
+Health Insurance Portability and Accountability Act of 1996, 42711
+U.S.C. ss. 1320d et seq.712
+(8) Information originating from, and intermingled to be713
+indistinguishable with, or information treated in the same714
+manner as, information exempt under this section which is715
+maintained by a covered entity or business associate as defined716
+by the Health Insurance Portability and Accountability Act of717
+1996, 42 U.S.C. ss. 1320d et seq. or by a program or a qualified718
+service organization as defined by 42 U.S.C. s. 290dd-2.719
+(9) Information included in a limited data set as described720
+by 45 C.F.R. s. 164.514(e), to the extent that the information721
+is used, disclosed, and maintained in the manner specified by 45722
+C.F.R. s. 164.514(e).723
+(10) Information used only for public health activities and724
+purposes as described in 45 C.F.R. s. 164.512.725
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 26 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+(11) Information collected or used only for public health726
+activities and purposes as authorized by the Health Insurance727
+Portability and Accountability Act of 1996, 42 U.S.C. ss. 1320d728
+et seq.729
+(12) The collection, maintenance, disclosure, sale,730
+communication, or use of any personal data bearing on a731
+consumer’s creditworthiness, credit standing, credit capacity,732
+character, general reputation, personal characteristics, or mode733
+of living by a consumer reporting agency or furnisher that734
+provides information for use in a consumer report, or by a user735
+of a consumer report, but only to the extent that the activity736
+is regulated by and authorized under the Fair Credit Reporting737
+Act, 15 U.S.C. ss. 1681 et seq.738
+(13) Personal data collected, processed, sold, or disclosed739
+in compliance with the Driver’s Privacy Protection Act of 1994,740
+18 U.S.C. ss. 2721 et seq.741
+(14) Personal data regulated by the Family Educational742
+Rights and Privacy Act of 1974, 20 U.S.C. s. 1232g.743
+(15) Personal data collected, processed, sold, or disclosed744
+in compliance with the Farm Credit Act of 1971, 12 U.S.C. ss.745
+2001 et seq.746
+(16) Data processed or maintained in the course of an747
+individual applying to, being employed by, or acting as an agent748
+or independent contractor of a controller, processor, or third749
+party, to the extent that the data is collected and used within750
+the context of that role.751
+(17) Data processed or maintained as the emergency contact752
+information of an individual under this part which is used for753
+emergency contact purposes.754
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 27 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+(18) Data that is processed or maintained and that is755
+necessary to retain to administer benefits for another756
+individual which relates to an individual described in757
+subsection (16) and which is used for the purposes of758
+administering those benefits.759
+(19) Personal data collected and transmitted which is760
+necessary for the sole purpose of sharing such personal data761
+with a financial service provider solely to facilitate short-762
+term, transactional payment processing for the purchase of763
+products or services.764
+(20) Personal data collected, processed, sold, or disclosed765
+in relation to price, route, or service as those terms are used766
+in the Airline Deregulation Act, 49 U.S.C. ss. 40101 et seq., by767
+entities subject to that act, to the extent the provisions of768
+this act are preempted by 49 U.S.C. s. 41713.769
+(21) Personal data shared between a manufacturer of a770
+tangible product and authorized third-party distributors or771
+vendors of the product, as long as such personal data is used772
+solely for advertising, marketing, or servicing the product that773
+is acquired directly through such manufacturer and such774
+authorized third-party distributors or vendors. Such personal775
+data may not be sold or shared unless otherwise authorized under776
+this part.777
+Section 8. Section 501.705, Florida Statutes, is created to778
+read:779
+501.705 Consumer rights.—780
+(1) A consumer is entitled to exercise the consumer rights781
+authorized by this section at any time by submitting a request782
+to a controller which specifies the consumer rights that the783
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 28 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+consumer wishes to exercise. With respect to the processing of784
+personal data belonging to a known child, a parent or legal785
+guardian of the child may exercise these rights on behalf of the786
+child.787
+(2) A controller shall comply with an authenticated788
+consumer request to exercise any of the following rights:789
+(a) To confirm whether a controller is processing the790
+consumer’s personal data and to access the personal data.791
+(b) To correct inaccuracies in the consumer’s personal792
+data, taking into account the nature of the personal data and793
+the purposes of the processing of the consumer’s personal data.794
+(c) To delete any or all personal data provided by or795
+obtained about the consumer.796
+(d) To obtain a copy of the consumer’s personal data in a797
+portable and, to the extent technically feasible, readily usable798
+format if the data is available in a digital format.799
+(e) To opt out of the processing of the personal data for800
+purposes of:801
+1. Targeted advertising;802
+2. The sale of personal data; or803
+3. Profiling in furtherance of a decision that produces a804
+legal or similarly significant effect concerning a consumer.805
+(f) To opt out of the collection of sensitive data,806
+including precise geolocation data, or the processing of807
+sensitive data.808
+(g) To opt out of the collection of personal data collected809
+through the operation of a voice recognition or facial810
+recognition feature.811
+(3) A device that has a voice recognition feature, a facial812
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 29 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+recognition feature, a video recording feature, an audio813
+recording feature, or any other electronic, visual, thermal, or814
+olfactory feature that collects data may not use those features815
+for the purpose of surveillance by the controller, processor, or816
+affiliate of a controller or processor when such features are817
+not in active use by the consumer, unless otherwise expressly818
+authorized by the consumer.819
+Section 9. Section 501.706, Florida Statutes, is created to820
+read:821
+501.706 Controller response to consumer requests.—822
+(1) Except as otherwise provided by this part, a controller823
+shall comply with a request submitted by a consumer to exercise824
+the consumer’s rights pursuant to s. 501.705, as provided in825
+this section.826
+(2) A controller shall respond to the consumer request827
+without undue delay, which may not be later than 45 days after828
+the date of receipt of the request. The controller may extend829
+the response period once by an additional 15 days when830
+reasonably necessary, taking into account the complexity and831
+number of the consumer’s requests, so long as the controller832
+informs the consumer of the extension within the initial 45-day833
+response period, together with the reason for the extension.834
+(3) If a controller cannot take action regarding the835
+consumer’s request, the controller must inform the consumer836
+without undue delay, which may not be later than 45 days after837
+the date of receipt of the request, of the justification for the838
+inability to take action on the request and provide instructions839
+on how to appeal the decision in accordance with s. 501.707. A840
+controller is not required to comply with a consumer request841
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 30 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+submitted under s. 501.705 if the controller cannot authenticate842
+the request. However, the controller must make a reasonable843
+effort to request that the consumer provide additional844
+information reasonably necessary to authenticate the consumer845
+and the consumer’s request. If a controller maintains a self-846
+service mechanism to allow a consumer to correct certain847
+personal data, the controller may deny the consumer’s request848
+and require the consumer to correct his or her own personal data849
+through such mechanism.850
+(4) A controller must provide the consumer with notice851
+within 60 days after the request is received that the controller852
+has complied with the consumer’s request as required in this853
+section.854
+(5) A controller shall provide information or take action855
+in response to a consumer request free of charge, at least twice856
+annually per consumer. If a request from a consumer is857
+manifestly unfounded, excessive, or repetitive, the controller858
+may charge the consumer a reasonable fee to cover the859
+administrative costs of complying with the request or may860
+decline to act on the request. The controller bears the burden861
+of demonstrating for purposes of this subsection that a request862
+is manifestly unfounded, excessive, or repetitive.863
+(6) A controller who has obtained personal data about a864
+consumer from a source other than the consumer is considered in865
+compliance with a consumer’s request to delete that personal866
+data pursuant to s. 501.705(2)(c), by doing any of the867
+following:868
+(a) Deleting the personal data, retaining a record of the869
+deletion request and the minimum data necessary for the purpose870
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 31 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+of ensuring that the consumer’s personal data remains deleted871
+from the business’s records, and not using the retained data for872
+any other purpose under this part.873
+(b) Opting the consumer out of the processing of that874
+personal data for any purpose other than a purpose exempt under875
+this part.876
+Section 10. Section 501.707, Florida Statutes, is created877
+to read:878
+501.707 Appeal.—879
+(1) A controller shall establish a process for a consumer880
+to appeal the controller’s refusal to take action on a request881
+within a reasonable period of time after the consumer’s receipt882
+of the decision under s. 501.706(3).883
+(2) The appeal process must be conspicuously available and884
+similar to the process for initiating action to exercise885
+consumer rights by submitting a request under s. 501.705.886
+(3) A controller shall inform the consumer in writing of887
+any action taken or not taken in response to an appeal under888
+this section within 60 days after the date of receipt of the889
+appeal, including a written explanation of the reason or reasons890
+for the decision.891
+Section 11. Section 501.708, Florida Statutes, is created892
+to read:893
+501.708 Waiver or limitation of consumer rights894
+prohibited.—Any provision of a contract or agreement which895
+waives or limits in any way a consumer right described by s.896
+501.705, s. 501.706, or s. 501.707 is contrary to public policy897
+and is void and unenforceable.898
+Section 12. Section 501.709, Florida Statutes, is created899
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 32 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+to read:900
+501.709 Submitting consumer requests.—901
+(1) A controller shall establish two or more methods to902
+enable consumers to submit a request to exercise their consumer903
+rights under this part. The methods must be secure, reliable,904
+and clearly and conspicuously accessible. The methods must take905
+all of the following into account:906
+(a) The ways in which consumers normally interact with the907
+controller.908
+(b) The necessity for secure and reliable communications of909
+these requests.910
+(c) The ability of the controller to authenticate the911
+identity of the consumer making the request.912
+(2) A controller may not require a consumer to create a new913
+account to exercise the consumer’s rights under this part but914
+may require a consumer to use an existing account.915
+(3) A controller shall provide a mechanism on its website916
+for a consumer to submit a request for information required to917
+be disclosed under this part. A controller that operates918
+exclusively online and has a direct relationship with a consumer919
+from whom the controller collects personal data may also provide920
+an e-mail address for the submission of requests.921
+Section 13. Section 501.71, Florida Statutes, is created to922
+read:923
+501.71 Controller duties.—924
+(1) A controller shall:925
+(a) Limit the collection of personal data to data that is926
+adequate, relevant, and reasonably necessary in relation to the927
+purposes for which it is processed, as disclosed to the928
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 33 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+consumer; and929
+(b) For purposes of protecting the confidentiality,930
+integrity, and accessibility of personal data, establish,931
+implement, and maintain reasonable administrative, technical,932
+and physical data security practices appropriate to the volume933
+and nature of the personal data at issue.934
+(2) A controller may not do any of the following:935
+(a) Except as otherwise provided by this part, process936
+personal data for a purpose that is neither reasonably necessary937
+nor compatible with the purpose for which the personal data is938
+processed, as disclosed to the consumer, unless the controller939
+obtains the consumer’s consent.940
+(b) Process personal data in violation of state or federal941
+laws that prohibit unlawful discrimination against consumers.942
+(c) Discriminate against a consumer for exercising any of943
+the consumer rights contained in this part, including by denying944
+goods or services, charging different prices or rates for goods945
+or services, or providing a different level of quality of goods946
+or services to the consumer. A controller may offer financial947
+incentives, including payments to consumers as compensation, for948
+processing of personal data if the consumer gives the controller949
+prior consent that clearly describes the material terms of the950
+financial incentive program and provided that such incentive951
+practices are not unjust, unreasonable, coercive, or usurious in952
+nature. The consent may be revoked by the consumer at any time.953
+(d) Process the sensitive data of a consumer without954
+obtaining the consumer’s consent, or, in the case of processing955
+the sensitive data of a known child, without processing that956
+data with the affirmative authorization for such processing by a957
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 34 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+known child who is between 13 and 18 years of age or in958
+accordance with the Children’s Online Privacy Protection Act, 15959
+U.S.C. ss. 6501 et seq. for a known child under the age of 13.960
+(3) Paragraph (2)(c) may not be construed to require a961
+controller to provide a product or service that requires the962
+personal data of a consumer which the controller does not963
+collect or maintain or to prohibit a controller from offering a964
+different price, rate, level, quality, or selection of goods or965
+services to a consumer, including offering goods or services for966
+no fee, if the consumer has exercised the consumer’s right to967
+opt out under s. 501.705(2) or the offer is related to a968
+consumer’s voluntary participation in a bona fide loyalty,969
+rewards, premium features, discounts, or club card program.970
+(4) A controller that operates a search engine shall make971
+available, in an easily accessible location on the webpage which972
+does not require a consumer to log in or register to read, an973
+up-to-date plain language description of the main parameters974
+that are individually or collectively the most significant in975
+determining ranking and the relative importance of those main976
+parameters, including the prioritization or deprioritization of977
+political partisanship or political ideology in search results.978
+Algorithms are not required to be disclosed nor is any other979
+information that, with reasonable certainty, would enable980
+deception of or harm to consumers through the manipulation of981
+search results.982
+Section 14. Section 501.711, Florida Statutes, is created983
+to read:984
+501.711 Privacy notices.—985
+(1) A controller shall provide consumers with a reasonably986
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 35 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+accessible and clear privacy notice, updated at least annually,987
+that includes all of the following information:988
+(a) The categories of personal data processed by the989
+controller, including, if applicable, any sensitive data990
+processed by the controller.991
+(b) The purpose of processing personal data.992
+(c) How consumers may exercise their rights under s.993
+501.705(2), including the process by which a consumer may appeal994
+a controller’s decision with regard to the consumer’s request.995
+(d) If applicable, the categories of personal data that the996
+controller shares with third parties.997
+(e) If applicable, the categories of third parties with998
+whom the controller shares personal data.999
+(f) A description of the methods specified in s. 501.709,1000
+by which consumers can submit requests to exercise their1001
+consumer rights under this part.1002
+(2) If a controller engages in the sale of personal data1003
+that is sensitive data, the controller must provide the1004
+following notice: “NOTICE: This website may sell your sensitive1005
+personal data.” The notice must be posted in accordance with1006
+subsection (1).1007
+(3) If a controller engages in the sale of personal data1008
+that is biometric data, the controller must provide the1009
+following notice: “NOTICE: This website may sell your biometric1010
+personal data.” The notice must be posted in accordance with1011
+subsection (1).1012
+(4) If a controller sells personal data to third parties or1013
+processes personal data for targeted advertising, the controller1014
+must clearly and conspicuously disclose that process and the1015
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 36 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+manner in which a consumer may exercise the right to opt out of1016
+that process.1017
+(5) A controller may not collect additional categories of1018
+personal information or use personal information collected for1019
+additional purposes without providing the consumer with notice1020
+consistent with this section.1021
+Section 15. Section 501.712, Florida Statutes, is created1022
+to read:1023
+501.712 Duties of processor.—1024
+(1) A processor shall adhere to the instructions of a1025
+controller and shall assist the controller in meeting or1026
+complying with the controller’s duties under this section and1027
+the requirements of this part, including the following:1028
+(a) Assisting the controller in responding to consumer1029
+rights requests submitted pursuant to ss. 501.705 and 501.709,1030
+by using appropriate technical and organizational measures, as1031
+reasonably practicable, taking into account the nature of1032
+processing and the information available to the processor.1033
+(b) Assisting the controller with regard to complying with1034
+the requirement relating to the security of processing personal1035
+data and to the notification of a breach of security of the1036
+processor’s system under s. 501.171, taking into account the1037
+nature of processing and the information available to the1038
+processor.1039
+(c) Providing necessary information to enable the1040
+controller to conduct and document data protection assessments1041
+under s. 501.713.1042
+(2) A contract between a controller and a processor governs1043
+the processor’s data processing procedures with respect to1044
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 37 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+processing performed on behalf of the controller. The contract1045
+must include all of the following information:1046
+(a) Clear instructions for processing data.1047
+(b) The nature and purpose of processing.1048
+(c) The type of data subject to processing.1049
+(d) The duration of processing.1050
+(e) The rights and obligations of both parties.1051
+(f) A requirement that the processor:1052
+1. Ensure that each person processing personal data is1053
+subject to a duty of confidentiality with respect to the data;1054
+2. At the controller’s direction, delete or return all1055
+personal data to the controller as requested after the provision1056
+of the service is completed, unless retention of the personal1057
+data is required by law;1058
+3. Make available to the controller, upon reasonable1059
+request, all information in the processor’s possession necessary1060
+to demonstrate the processor’s compliance with this part;1061
+4. Allow, and cooperate with, reasonable assessments by the1062
+controller or the controller’s designated assessor; and1063
+5. Engage any subcontractor pursuant to a written contract1064
+that requires the subcontractor to meet the requirements of the1065
+processor with respect to the personal data.1066
+(3) Notwithstanding subparagraph (2)(f)4., a processor may1067
+arrange for a qualified and independent assessor to conduct an1068
+assessment of the processor’s policies and technical and1069
+organizational measures in support of the requirements under1070
+this part using an appropriate and accepted control standard or1071
+framework and assessment procedure. The processor shall provide1072
+a report of the assessment to the controller upon request.1073
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 38 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+(4) This section may not be construed to relieve a1074
+controller or a processor from the liabilities imposed on the1075
+controller or processor by virtue of its role in the processing1076
+relationship as described by this part.1077
+(5) A determination as to whether a person is acting as a1078
+controller or processor with respect to a specific processing of1079
+data is a fact-based determination that depends on the context1080
+in which personal data is to be processed. A processor that1081
+continues to adhere to a controller’s instructions with respect1082
+to a specific processing of personal data remains in the role of1083
+a processor.1084
+Section 16. Section 501.713, Florida Statutes, is created1085
+to read:1086
+501.713 Data protection assessments.—1087
+(1) A controller shall conduct and document a data1088
+protection assessment of each of the following processing1089
+activities involving personal data:1090
+(a) The processing of personal data for purposes of1091
+targeted advertising.1092
+(b) The sale of personal data.1093
+(c) The processing of personal data for purposes of1094
+profiling if the profiling presents a reasonably foreseeable1095
+risk of:1096
+1. Unfair or deceptive treatment of or unlawful disparate1097
+impact on consumers;1098
+2. Financial, physical, or reputational injury to1099
+consumers;1100
+3. A physical or other intrusion on the solitude or1101
+seclusion, or the private affairs or concerns, of consumers, if1102
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 39 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+the intrusion would be offensive to a reasonable person; or1103
+4. Other substantial injury to consumers.1104
+(d) The processing of sensitive data.1105
+(e) Any processing activities involving personal data which1106
+present a heightened risk of harm to consumers.1107
+(2) A data protection assessment conducted under subsection1108
+(1) must do all of the following:1109
+(a) Identify and weigh the direct or indirect benefits that1110
+may flow from the processing to the controller, the consumer,1111
+other stakeholders, and the public against the potential risks1112
+to the rights of the consumer associated with that processing,1113
+as mitigated by safeguards that can be employed by the1114
+controller to reduce such risks.1115
+(b) Factor into the assessment:1116
+1. The use of deidentified data;1117
+2. The reasonable expectations of consumers;1118
+3. The context of the processing; and1119
+4. The relationship between the controller and the consumer1120
+whose personal data will be processed.1121
+(3) The disclosure of a data protection assessment in1122
+compliance with a request from the Attorney General pursuant to1123
+s. 501.72 does not constitute a waiver of attorney-client1124
+privilege or work product protection with respect to the1125
+assessment and any information contained in the assessment.1126
+(4) A single data protection assessment may address a1127
+comparable set of processing operations which include similar1128
+activities.1129
+(5) A data protection assessment conducted by a controller1130
+for the purpose of compliance with any other law or regulation1131
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 40 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+may constitute compliance with the requirements of this section1132
+if the assessment has a reasonably comparable scope and effect.1133
+(6) This section applies only to processing activities1134
+generated on or after July 1, 2023.1135
+Section 17. Section 501.714, Florida Statutes, is created1136
+to read:1137
+501.714 Deidentified data, pseudonymous data, and aggregate1138
+consumer information.—1139
+(1) A controller in possession of deidentified data shall1140
+do all of the following:1141
+(a) Take reasonable measures to ensure that the data cannot1142
+be associated with an individual.1143
+(b) Maintain and use the data in deidentified form. A1144
+controller may not attempt to reidentify the data, except that1145
+the controller may attempt to reidentify the data solely for the1146
+purpose of determining whether its deidentification processes1147
+satisfy the requirements of this section.1148
+(c) Contractually obligate any recipient of the1149
+deidentified data to comply with this part.1150
+(d) Implement business processes to prevent the inadvertent1151
+release of deidentified data.1152
+(2) This part may not be construed to require a controller1153
+or processor to do any of the following:1154
+(a) Reidentify deidentified data or pseudonymous data.1155
+(b) Maintain data in an identifiable form or obtain,1156
+retain, or access any data or technology for the purpose of1157
+allowing the controller or processor to associate a consumer1158
+request with personal data.1159
+(c) Comply with an authenticated consumer rights request1160
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 41 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+under s. 501.705 if the controller:1161
+1. Is not reasonably capable of associating the request1162
+with the personal data or it would be unreasonably burdensome1163
+for the controller to associate the request with the personal1164
+data;1165
+2. Does not use the personal data to recognize or respond1166
+to the specific consumer who is the subject of the personal data1167
+or associate the personal data with other personal data about1168
+the same specific consumer; and1169
+3. Does not sell the personal data to a third party or1170
+otherwise voluntarily disclose the personal data to a third1171
+party other than a processor, except as otherwise authorized by1172
+this section.1173
+(3) The consumer rights enumerated under s. 501.705(2), and1174
+controller duties imposed under s. 501.71, do not apply to1175
+pseudonymous data or aggregate consumer information in cases in1176
+which the controller is able to demonstrate that any information1177
+necessary to identify the consumer is kept separate and is1178
+subject to effective technical and organizational controls that1179
+prevent the controller from accessing the information.1180
+(4) A controller that discloses pseudonymous data,1181
+deidentified data, or aggregate consumer information shall1182
+exercise reasonable oversight to monitor compliance with any1183
+contractual commitments to which the data or information is1184
+subject and shall take appropriate steps to address any breach1185
+of the contractual commitments.1186
+Section 18. Section 501.715, Florida Statutes, is created1187
+to read:1188
+501.715 Requirements for sensitive data.—1189
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 42 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+(1) A person who meets the requirements of s.1190
+501.702(9)(a)1., (a)2., and (a)3. for the definition of a1191
+controller may not engage in the sale of personal data that is1192
+sensitive data without receiving prior consent from the consumer1193
+or, if the sensitive data is of a known child, without1194
+processing that data with the affirmative authorization for such1195
+processing by a known child who is between 13 and 18 years of1196
+age or in accordance with the Children’s Online Privacy1197
+Protection Act, 15 U.S.C. ss. 6501 et seq. for a known child1198
+under the age of 13.1199
+(2) A person in subsection (1) who engages in the sale of1200
+personal data that is sensitive data must provide the following1201
+notice: “NOTICE: This website may sell your sensitive personal1202
+data.”1203
+(3) A person who violates this section is subject to the1204
+penalty imposed under s. 501.72.1205
+Section 19. Section 501.716, Florida Statutes, is created1206
+to read:1207
+501.716 Exemptions for certain uses of consumer personal1208
+data.—1209
+(1) This part may not be construed to restrict a1210
+controller’s or processor’s ability to do any of the following:1211
+(a) Comply with federal or state laws, rules, or1212
+regulations.1213
+(b) Comply with a civil, criminal, or regulatory inquiry,1214
+investigation, subpoena, or summons by federal, state, local, or1215
+other governmental authorities.1216
+(c) Investigate, establish, exercise, prepare for, or1217
+defend legal claims.1218
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 43 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+(d) Provide a product or service specifically requested by1219
+a consumer or the parent or guardian of a child, perform a1220
+contract to which the consumer is a party, including fulfilling1221
+the terms of a written warranty, or take steps at the request of1222
+the consumer before entering into a contract.1223
+(e) Take immediate steps to protect an interest that is1224
+essential for the life or physical safety of the consumer or of1225
+another individual and in which the processing cannot be1226
+manifestly based on another legal basis.1227
+(f) Prevent, detect, protect against, or respond to1228
+security incidents, identity theft, fraud, harassment, malicious1229
+or deceptive activities, or any illegal activity.1230
+(g) Preserve the integrity or security of systems or1231
+investigate, report, or prosecute those responsible for breaches1232
+of system security.1233
+(h) Engage in public or peer-reviewed scientific or1234
+statistical research in the public interest which adheres to all1235
+other applicable ethics and privacy laws and is approved,1236
+monitored, and governed by an institutional review board or1237
+similar independent oversight entity that determines:1238
+1. Whether the deletion of the information is likely to1239
+provide substantial benefits that do not exclusively accrue to1240
+the controller;1241
+2. Whether the expected benefits of the research outweigh1242
+the privacy risks; and1243
+3. Whether the controller has implemented reasonable1244
+safeguards to mitigate privacy risks associated with research,1245
+including any risks associated with reidentification.1246
+(i) Assist another controller, processor, or third party in1247
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 44 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+complying with the requirements of this part.1248
+(j) Disclose personal data disclosed when a consumer uses1249
+or directs the controller to intentionally disclose information1250
+to a third party or uses the controller to intentionally1251
+interact with a third party. An intentional interaction occurs1252
+when the consumer intends to interact with the third party, by1253
+one or more deliberate interactions. Hovering over, muting,1254
+pausing, or closing a given piece of content does not constitute1255
+a consumer’s intent to interact with a third party.1256
+(k) Transfer personal data to a third party as an asset1257
+that is part of a merger, an acquisition, a bankruptcy, or other1258
+transaction in which the third party assumes control of all or1259
+part of the controller, provided that the information is used or1260
+shared in a manner consistent with this part. If a third party1261
+materially alters how it uses or shares the personal data of a1262
+consumer in a manner that is materially inconsistent with the1263
+commitments or promises made at the time of collection, it must1264
+provide prior notice of the new or changed practice to the1265
+consumer. The notice must be sufficiently prominent and robust1266
+to ensure that consumers can easily exercise choices consistent1267
+with this part.1268
+(2) This part may not be construed to prevent a controller1269
+or processor from providing personal data concerning a consumer1270
+to a person covered by an evidentiary privilege under the laws1271
+of this state as part of a privileged communication.1272
+(3) This part may not be construed as imposing a1273
+requirement on controllers and processors which adversely1274
+affects the rights or freedoms of any person, including the1275
+right of free speech.1276
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 45 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+(4) This part may not be construed as requiring a1277
+controller, processor, third party, or consumer to disclose a1278
+trade secret.1279
+Section 20. Section 501.717, Florida Statutes, is created1280
+to read:1281
+501.717 Collection, use, or retention of data for certain1282
+purposes.—1283
+(1) The requirements imposed on controllers and processors1284
+under this part may not restrict a controller’s or processor’s1285
+ability to collect, use, or retain data to do any of the1286
+following:1287
+(a) Conduct internal research to develop, improve, or1288
+repair products, services, or technology.1289
+(b) Effect a product recall.1290
+(c) Identify and repair technical errors that impair1291
+existing or intended functionality.1292
+(d) Perform internal operations that are:1293
+1. Reasonably aligned with the expectations of the1294
+consumer;1295
+2. Reasonably anticipated based on the consumer’s existing1296
+relationship with the controller; or1297
+3. Otherwise compatible with processing data in furtherance1298
+of the provision of a product or service specifically requested1299
+by a consumer or the performance of a contract to which the1300
+consumer is a party.1301
+(2) A requirement imposed on a controller or processor1302
+under this part does not apply if compliance with the1303
+requirement by the controller or processor, as applicable, would1304
+violate an evidentiary privilege under the laws of this state.1305
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 46 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+Section 21. Section 501.718, Florida Statutes, is created1306
+to read:1307
+501.718 Disclosure of personal data to third-party1308
+controller or processor.—1309
+(1) A controller or processor that discloses personal data1310
+to a third-party controller or processor in compliance with the1311
+requirements of this part does not violate this part if the1312
+third-party controller or processor that receives and processes1313
+that personal data violates this part, provided that, at the1314
+time of the data’s disclosure, the disclosing controller or1315
+processor could not have reasonably known that the recipient1316
+intended to commit a violation.1317
+(2) A third-party controller or processor receiving1318
+personal data from a controller or processor in compliance with1319
+the requirements of this part may not be held liable for1320
+violations of this part committed by the controller or processor1321
+from which the third-party controller or processor receives the1322
+personal data.1323
+Section 22. Section 501.719, Florida Statutes, is created1324
+to read:1325
+501.719 Processing of certain personal data by controller1326
+or other person.—1327
+(1) Personal data processed by a controller pursuant to ss.1328
+501.716, 501.717, and 501.718 may not be processed for any1329
+purpose other than those specified in those sections. Personal1330
+data processed by a controller pursuant to ss. 501.716, 501.717,1331
+and 501.718 may be processed to the extent that the processing1332
+of the data is:1333
+(a) Reasonably necessary and proportionate to the purposes1334
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 47 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+specified in ss. 501.716, 501.717, and 501.718;1335
+(b) Adequate, relevant, and limited to what is necessary in1336
+relation to the purposes specified in ss. 501.716, 501.717, and1337
+501.718; and1338
+(c) Done to assist another controller, processor, or third1339
+party with any of the purposes specified in s. 501.716, s.1340
+501.717, or s. 501.718.1341
+(2) A controller or processor that collects, uses, or1342
+retains personal data for the purposes specified in s.1343
+501.717(1) must take into account the nature and purpose of such1344
+collection, use, or retention. Such personal data is subject to1345
+reasonable administrative, technical, and physical measures to1346
+protect its confidentiality, integrity, and accessibility and to1347
+reduce reasonably foreseeable risks of harm to consumers1348
+relating to the collection, use, or retention of personal data.1349
+(3) A controller or processor shall adopt and implement a1350
+retention schedule that prohibits the use or retention of1351
+personal data not subject to an exemption by the controller or1352
+processor after the satisfaction of the initial purpose for1353
+which such information was collected or obtained, after the1354
+expiration or termination of the contract pursuant to which the1355
+information was collected or obtained, or 2 years after the1356
+consumer’s last interaction with the controller or processor.1357
+This subsection does not apply to personal data reasonably used1358
+or retained to do any of the following:1359
+(a) Provide a good or service requested by the consumer, or1360
+reasonably anticipate the request of such good or service within1361
+the context of a controller’s ongoing business relationship with1362
+the consumer.1363
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 48 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+(b) Debug to identify and repair errors that impair1364
+existing intended functionality.1365
+(c) Enable solely internal uses that are reasonably aligned1366
+with the expectations of the consumer based on the consumer’s1367
+relationship with the controller or that are compatible with the1368
+context in which the consumer provided the information.1369
+(4) A controller or processor that processes personal data1370
+pursuant to ss. 501.716, 501.717, and 501.718 bears the burden1371
+of demonstrating that the processing of the personal data1372
+qualifies for the exemption and complies with the requirements1373
+of this section.1374
+Section 23. Section 501.72, Florida Statutes, is created to1375
+read:1376
+501.72 Enforcement and implementation by the Department of1377
+Legal Affairs.—1378
+(1) A violation of this part is an unfair and deceptive1379
+trade practice actionable under part II of this chapter solely1380
+by the Department of Legal Affairs. If the department has reason1381
+to believe that a person is in violation of this section, the1382
+department may, as the enforcing authority, bring an action1383
+against such person for an unfair or deceptive act or practice.1384
+For the purpose of bringing an action pursuant to this section,1385
+ss. 501.211 and 501.212 do not apply. In addition to other1386
+remedies under part II of this chapter, the department may1387
+collect a civil penalty of up to $50,000 per violation. Civil1388
+penalties may be tripled for any of the following violations:1389
+(a) A violation involving a Florida consumer who is a known1390
+child. A controller that willfully disregards the consumer’s age1391
+is deemed to have actual knowledge of the consumer’s age.1392
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 49 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+(b) Failure to delete or correct the consumer’s personal1393
+data pursuant to this section after receiving an authenticated1394
+consumer request or directions from a controller to delete or1395
+correct such personal data, unless an exception to the1396
+requirements to delete or correct such personal data under this1397
+section applies.1398
+(c) Continuing to sell or share the consumer’s personal1399
+data after the consumer chooses to opt out under this part.1400
+(2) After the department has notified a person in writing1401
+of an alleged violation, the department may grant a 45-day1402
+period to cure the alleged violation and issue a letter of1403
+guidance. The 45-day cure period does not apply to an alleged1404
+violation of paragraph (1)(a). The department may consider the1405
+number and frequency of violations, the substantial likelihood1406
+of injury to the public, and the safety of persons or property1407
+in determining whether to grant 45 calendar days to cure and the1408
+issuance of a letter of guidance. If the alleged violation is1409
+cured to the satisfaction of the department and proof of such1410
+cure is provided to the department, the department may not bring1411
+an action for the alleged violation but in its discretion may1412
+issue a letter of guidance that indicates that the person will1413
+not be offered a 45-day cure period for any future violations.1414
+If the person fails to cure the alleged violation within 451415
+calendar days, the department may bring an action against such1416
+person for the alleged violation.1417
+(3) Any action brought by the department may be brought1418
+only on behalf of a Florida consumer.1419
+(4) By February 1 of each year, the department shall make a1420
+report publicly available on the department’s website describing1421
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 50 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+any actions taken by the department to enforce this section. The1422
+report must include statistics and relevant information1423
+detailing all of the following:1424
+(a) The number of complaints received and the categories or1425
+types of violations alleged by the complainant.1426
+(b) The number and type of enforcement actions taken and1427
+the outcomes of such actions, including the amount of penalties1428
+issued and collected.1429
+(c) The number of complaints resolved without the need for1430
+litigation.1431
+(d) For the report due February 1, 2024, the status of the1432
+development and implementation of rules to implement this1433
+section.1434
+(5) The department shall adopt rules to implement this1435
+section, including standards for authenticated consumer1436
+requests, enforcement, data security, and authorized persons who1437
+may act on a consumer’s behalf.1438
+(6) The department may collaborate and cooperate with other1439
+enforcement authorities of the Federal Government or other state1440
+governments concerning consumer data privacy issues and consumer1441
+data privacy investigations if such enforcement authorities have1442
+restrictions governing confidentiality at least as stringent as1443
+the restrictions provided in this section.1444
+(7) Liability for a tort, contract claim, or consumer1445
+protection claim unrelated to an action brought under this1446
+section does not arise solely from the failure of a person to1447
+comply with this part.1448
+(8) This part does not establish a private cause of action.1449
+(9) The department may employ or use the legal services of1450
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 51 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+outside counsel and the investigative services of outside1451
+personnel to fulfill the obligations of this section.1452
+(10) For purposes of bringing an action pursuant to this1453
+section, any person who meets the definition of controller as1454
+defined in this part who collects, shares, or sells the personal1455
+data of Florida consumers is considered to be engaged in both1456
+substantial and not isolated activities within this state and1457
+operating, conducting, engaging in, or carrying on a business,1458
+and doing business in this state, and is, therefore, subject to1459
+the jurisdiction of the courts of this state.1460
+Section 24. Section 501.721, Florida Statutes, is created1461
+to read:1462
+501.721 Preemption.—This part is a matter of statewide1463
+concern and supersedes all rules, regulations, codes,1464
+ordinances, and other laws adopted by a city, county, city and1465
+county, municipality, or local agency regarding the collection,1466
+processing, sharing, or sale of consumer personal data by a1467
+controller or processor. The regulation of the collection,1468
+processing, sharing, or sale of consumer personal data by a1469
+controller or processor is preempted to the state.1470
+Section 25. Paragraph (g) of subsection (1) of section1471
+501.171, Florida Statutes, is amended to read:1472
+501.171 Security of confidential personal information.—1473
+(1) DEFINITIONS.—As used in this section, the term:1474
+(g)1. “Personal information” means either of the following:1475
+a. An individual’s first name or first initial and last1476
+name in combination with any one or more of the following data1477
+elements for that individual:1478
+(I) A social security number;1479
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 52 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+(II) A driver license or identification card number,1480
+passport number, military identification number, or other1481
+similar number issued on a government document used to verify1482
+identity;1483
+(III) A financial account number or credit or debit card1484
+number, in combination with any required security code, access1485
+code, or password that is necessary to permit access to an1486
+individual’s financial account;1487
+(IV) Any information regarding an individual’s medical1488
+history, mental or physical condition, or medical treatment or1489
+diagnosis by a health care professional; or1490
+(V) An individual’s health insurance policy number or1491
+subscriber identification number and any unique identifier used1492
+by a health insurer to identify the individual;1493
+(VI) An individual’s biometric data as defined in s.1494
+501.702; or1495
+(VII) Any information regarding an individual’s1496
+geolocation.1497
+b. A user name or e-mail address, in combination with a1498
+password or security question and answer that would permit1499
+access to an online account.1500
+2. The term does not include information about an1501
+individual that has been made publicly available by a federal,1502
+state, or local governmental entity. The term also does not1503
+include information that is encrypted, secured, or modified by1504
+any other method or technology that removes elements that1505
+personally identify an individual or that otherwise renders the1506
+information unusable.1507
+Section 26. Subsection (1) of section 16.53, Florida1508
+ENROLLED
+2023 Legislature CS for CS for SB 262, 2nd Engrossed
+2023262er
+Page 53 of 53
+CODING: Words stricken are deletions; words underlined are additions.
+Statutes, is amended, and subsection (8) is added to that1509
+section, to read:1510
+16.53 Legal Affairs Revolving Trust Fund.—1511
+(1) There is created in the State Treasury the Legal1512
+Affairs Revolving Trust Fund, from which the Legislature may1513
+appropriate funds for the purpose of funding investigation,1514
+prosecution, and enforcement by the Attorney General of the1515
+provisions of the Racketeer Influenced and Corrupt Organization1516
+Act, the Florida Deceptive and Unfair Trade Practices Act, the1517
+Florida False Claims Act, or state or federal antitrust laws, s.1518
+501.1735, or part V of chapter 501.1519
+(8) All moneys recovered by the Attorney General for1520
+attorney fees, costs, and penalties in an action for a violation1521
+of s. 501.1735 or part V of chapter 501 must be deposited in the1522
+fund.1523
+Section 27. Except as otherwise expressly provided in this1524
+act and except for this section, which shall take effect upon1525
+this act becoming a law, this act shall take effect July 1,1526
+2024.1527

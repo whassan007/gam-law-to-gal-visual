@@ -20,6 +20,7 @@ import {
   MapPin,
 } from 'lucide-react';
 import type { CountryMetadata } from '../../types/contracts';
+import { getCatalogueForCountry } from '../../data/verified-examples';
 
 export interface InteractiveGlobeProps {
   countries: CountryMetadata[];
@@ -840,6 +841,8 @@ export const InteractiveGlobe: React.FC<InteractiveGlobeProps> = ({
                         <CheckCircle2 className="h-3.5 w-3.5 text-emerald-400 shrink-0" />
                         {activeCountry.lawIds.length} verified GAM statutory translation
                         {activeCountry.lawIds.length > 1 ? 's' : ''} available
+                        {getCatalogueForCountry(activeCountry.code).length > 0 &&
+                          ` + ${getCatalogueForCountry(activeCountry.code).length} catalogued`}
                       </span>
                     ) : (
                       <span className="inline-flex items-center gap-1.5 text-amber-300">
@@ -995,6 +998,8 @@ export const InteractiveGlobe: React.FC<InteractiveGlobeProps> = ({
                             <CheckCircle2 className="h-3 w-3 text-emerald-400" />
                             {country.lawIds.length}{' '}
                             {country.lawIds.length === 1 ? 'Law' : 'Laws'}
+                            {getCatalogueForCountry(country.code).length > 0 &&
+                              ` + ${getCatalogueForCountry(country.code).length} catalogued`}
                           </span>
                         ) : (
                           <span className="inline-flex items-center gap-1 rounded-full bg-slate-800 border border-slate-700 px-2 py-0.5 text-[11px] text-slate-400">

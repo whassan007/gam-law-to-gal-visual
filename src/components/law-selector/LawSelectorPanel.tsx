@@ -276,6 +276,19 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
           </div>
         </div>
 
+        <div className="flex items-center gap-2">
+        {catalogue.length > 0 && (
+          <button
+            type="button"
+            data-testid="jump-to-catalogue"
+            onClick={() =>
+              document.getElementById('instrument-catalogue-anchor')?.scrollIntoView?.({ behavior: 'smooth', block: 'start' })
+            }
+            className="inline-flex items-center gap-1.5 rounded-lg border border-cyan-500/40 bg-cyan-500/10 px-3 py-1.5 text-xs font-medium text-cyan-200 transition hover:bg-cyan-500/20"
+          >
+            {catalogue.length} catalogued instruments ↓
+          </button>
+        )}
         {onBackToGlobe && (
           <button
             type="button"
@@ -286,6 +299,7 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
             Globe View
           </button>
         )}
+        </div>
       </div>
 
       {/* Main Scrollable Content Area */}
@@ -598,6 +612,7 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
         )}
 
         {/* Catalogue of further instruments (metadata only) */}
+        <div id="instrument-catalogue-anchor" />
         <InstrumentCataloguePanel
           instruments={catalogue}
           onOpenTranslatedLaw={(id) => {

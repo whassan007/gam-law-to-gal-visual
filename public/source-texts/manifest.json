@@ -1,0 +1,3354 @@
+{
+ "entries": {
+  "ca-qc-law25": {
+   "status": "blocked",
+   "note": "Légis Québec rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "ca-fed-pipeda": {
+   "status": "fetched",
+   "file": "ca-fed-pipeda.txt",
+   "chars": 111217,
+   "sha256": "cf256b9f58a346f35b6a5cfbce0e7e2e60807e46df07bfb176ff8ae4976ae15c",
+   "retrievedAt": "2026-10-26T00:20:02.941Z",
+   "sources": [
+    {
+     "url": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/",
+     "kind": "justice"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-bc-pipa": {
+   "status": "fetched",
+   "file": "ca-bc-pipa.txt",
+   "chars": 73311,
+   "sha256": "a175d4e1af29575a9b568fa990ecbc10b72c450c13a2b065b5dca92ef7ab6a83",
+   "retrievedAt": "2026-10-26T00:20:01.963Z",
+   "sources": [
+    {
+     "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03063_01",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-privacy-act": {
+   "status": "fetched",
+   "file": "us-fed-privacy-act.txt",
+   "chars": 86331,
+   "sha256": "9d64feafa3a952b9203ba6bb01673296fef932b0b23cbb69741ca063fc119d8c",
+   "retrievedAt": "2026-10-26T00:20:02.308Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/5/552a",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-gdpr": {
+   "status": "fetched",
+   "file": "eu-gdpr.txt",
+   "chars": 355720,
+   "sha256": "62652280e81f1cc9b482df528a88340d0d5d1dd1e3d0ecc9d46df2d0446954d7",
+   "retrievedAt": "2026-10-26T00:20:03.528Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-hipaa-privacy": {
+   "status": "fetched",
+   "file": "us-fed-hipaa-privacy.txt",
+   "chars": 353374,
+   "sha256": "f3cc2273b87f5e6ad8daa745c8d1cecbfb16fbcd3a4fbde1a79df259f2a8744b",
+   "retrievedAt": "2026-10-26T00:20:07.950Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-45/part-160",
+     "kind": "ecfr"
+    },
+    {
+     "url": "https://www.ecfr.gov/current/title-45/part-164",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Parts 160 and 164 in full (all subparts)."
+  },
+  "us-fed-hbnr": {
+   "status": "fetched",
+   "file": "us-fed-hbnr.txt",
+   "chars": 19511,
+   "sha256": "25c74a2455282300dd9049286d6ea36a237a85bd91d099bb3b1db82a35ea5648",
+   "retrievedAt": "2026-10-26T00:20:12.643Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-16/part-318",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-qc-private-sector-act": {
+   "status": "blocked",
+   "note": "Légis Québec rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "ca-qc-access-act": {
+   "status": "blocked",
+   "note": "Légis Québec rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "ca-qc-it-framework": {
+   "status": "blocked",
+   "note": "Légis Québec rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "ca-qc-health-info-act": {
+   "status": "blocked",
+   "note": "Légis Québec rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "ca-qc-info-resources-act": {
+   "status": "blocked",
+   "note": "Légis Québec rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "ca-qc-charter": {
+   "status": "blocked",
+   "note": "Légis Québec rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "ca-on-phipa": {
+   "status": "blocked",
+   "note": "Ontario e-Laws is a script-rendered site behind bot protection; automated retrieval is not possible. Use the official link."
+  },
+  "ca-on-fippa": {
+   "status": "blocked",
+   "note": "Ontario e-Laws is behind bot protection; use the official link."
+  },
+  "ca-on-mfippa": {
+   "status": "blocked",
+   "note": "Ontario e-Laws is behind bot protection; use the official link."
+  },
+  "ca-bc-fippa": {
+   "status": "fetched",
+   "file": "ca-bc-fippa.txt",
+   "chars": 7045,
+   "sha256": "ae998c372e2ae33c5b4e583a5197cf9c0984be3d15e124171905467da36df6d0",
+   "retrievedAt": "2026-10-26T00:20:02.490Z",
+   "sources": [
+    {
+     "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-egov-208": {
+   "status": "fetched",
+   "file": "us-fed-egov-208.txt",
+   "chars": 201381,
+   "sha256": "364ee381a550bd2ce1c36e1d14578af05d3e494cf709e0bfcf73461e79e27a66",
+   "retrievedAt": "2026-10-26T00:20:02.604Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ347/html/PLAW-107publ347.htm",
+     "kind": "plaw"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-foia": {
+   "status": "fetched",
+   "file": "us-fed-foia.txt",
+   "chars": 146970,
+   "sha256": "e44f4be468423e1de2902c11ee3612b4e0717533f5504baa92039db73e3e827c",
+   "retrievedAt": "2026-10-26T00:20:02.871Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/5/552",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-bc-privacy-act": {
+   "status": "fetched",
+   "file": "ca-bc-privacy-act.txt",
+   "chars": 6377,
+   "sha256": "c0307764b44c1acda2e52cc05e3bd9783a25eb92598ae4f7bf950885035d3b9d",
+   "retrievedAt": "2026-10-26T00:20:03.583Z",
+   "sources": [
+    {
+     "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96373_01",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-eprivacy": {
+   "status": "fetched",
+   "file": "eu-eprivacy.txt",
+   "chars": 56858,
+   "sha256": "97477281b20b3bd64f6bc4db3c958f518b41455bc01fc8c28891fe287de95aa2",
+   "retrievedAt": "2026-10-26T00:23:17.575Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0058",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-hipaa": {
+   "status": "fetched",
+   "file": "us-fed-hipaa.txt",
+   "chars": 464489,
+   "sha256": "29f2ddd0a19c5ad86645fa4bb67a9c65f488290944af690ef22af220b167ec72",
+   "retrievedAt": "2026-10-26T00:20:03.877Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-104publ191/html/PLAW-104publ191.htm",
+     "kind": "plaw"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-fed-privacy-act": {
+   "status": "fetched",
+   "file": "ca-fed-privacy-act.txt",
+   "chars": 123938,
+   "sha256": "e71df8e3e0b8156c5d9ec6a1ce3d1259e9e46b41620acaab7f0ac03b84cdd40c",
+   "retrievedAt": "2026-10-26T00:20:04.402Z",
+   "sources": [
+    {
+     "url": "https://laws-lois.justice.gc.ca/eng/acts/P-21/",
+     "kind": "justice"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-bc-ehealth-act": {
+   "status": "fetched",
+   "file": "ca-bc-ehealth-act.txt",
+   "chars": 34405,
+   "sha256": "ad7a8c221f96ac49812d39469fe9ae32fc7b97b2c7353322cc6eafba8c7831cf",
+   "retrievedAt": "2026-10-26T00:20:04.551Z",
+   "sources": [
+    {
+     "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/08038_01",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-fed-pipeda-breach-regs": {
+   "status": "fetched",
+   "file": "ca-fed-pipeda-breach-regs.txt",
+   "chars": 4758,
+   "sha256": "93824ed79e32cd41e5831b1c49eb102d4b23f1a76ff2c228a497c4db22e53427",
+   "retrievedAt": "2026-10-26T00:20:04.551Z",
+   "sources": [
+    {
+     "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2018-64/",
+     "kind": "justice"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-gina": {
+   "status": "fetched",
+   "file": "us-fed-gina.txt",
+   "chars": 117305,
+   "sha256": "82ace03e77143a6113020eb12dd370fee7b71363664c69a1a6442b824ecb283a",
+   "retrievedAt": "2026-10-26T00:20:04.572Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-110publ233/html/PLAW-110publ233.htm",
+     "kind": "plaw"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-led": {
+   "status": "fetched",
+   "file": "eu-led.txt",
+   "chars": 177058,
+   "sha256": "1cf0f972c79ad69c937df1a58d1eab8cc9bef7c5eea65e3eeb20d09cc80b1904",
+   "retrievedAt": "2026-10-26T00:20:05.026Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0680",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-facta": {
+   "status": "fetched",
+   "file": "us-fed-facta.txt",
+   "chars": 171233,
+   "sha256": "e49e774e0f1f7ad1ff1f047af3b12c99689e7fc566d830b64ff6736464b3ffcc",
+   "retrievedAt": "2026-10-26T00:20:05.592Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-108publ159/html/PLAW-108publ159.htm",
+     "kind": "plaw"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-eudpr": {
+   "status": "fetched",
+   "file": "eu-eudpr.txt",
+   "chars": 246030,
+   "sha256": "603f36347471fc1b20d29e4e6edfe360bc459439aeeed5ff2663f02f811d03ad",
+   "retrievedAt": "2026-10-26T00:20:06.088Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1725",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-fed-casl": {
+   "status": "fetched",
+   "file": "ca-fed-casl.txt",
+   "chars": 76577,
+   "sha256": "7900909d9f408b5db20b9cbfea64901da53b46c74855823f02c3849dc2b170ed",
+   "retrievedAt": "2026-10-26T00:20:06.088Z",
+   "sources": [
+    {
+     "url": "https://laws-lois.justice.gc.ca/eng/acts/E-1.6/",
+     "kind": "justice"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-cisa-act-2018": {
+   "status": "fetched",
+   "file": "us-fed-cisa-act-2018.txt",
+   "chars": 51312,
+   "sha256": "debf8ffd5599296e5bc39949815f193b7642c1888aae7eb02c2a09cc70aee592",
+   "retrievedAt": "2026-10-26T00:20:06.364Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ278/html/PLAW-115publ278.htm",
+     "kind": "plaw"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-drd": {
+   "status": "fetched",
+   "file": "eu-drd.txt",
+   "chars": 37100,
+   "sha256": "976c9d42f09785b6a9f580e2bb4790d7aeaf6a7a0ddfb1233e3ed54645f7e5e1",
+   "retrievedAt": "2026-10-26T00:20:06.692Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0024",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-iot-act": {
+   "status": "fetched",
+   "file": "us-fed-iot-act.txt",
+   "chars": 17663,
+   "sha256": "4a66b5252d871b7330cfaf300de6e90b56912a08022a51d8564282bf1abf1eb3",
+   "retrievedAt": "2026-10-26T00:23:16.702Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ207/html/PLAW-116publ207.htm",
+     "kind": "plaw"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-pnr": {
+   "status": "fetched",
+   "file": "eu-pnr.txt",
+   "chars": 61255,
+   "sha256": "9bceb6ff0748b23a77a7159b9763639991093819a82635b68fa94745348243f2",
+   "retrievedAt": "2026-10-26T00:20:07.624Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0681",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-hipaa-security": {
+   "status": "fetched",
+   "file": "us-fed-hipaa-security.txt",
+   "chars": 253304,
+   "sha256": "9c77a9cb36404faeb0d21852d4a9accdced1bf70de239e3a36451b53cbb10f89",
+   "retrievedAt": "2026-10-26T00:20:07.952Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-45/part-164",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Part 164 in full; the Security Rule is Subpart C."
+  },
+  "us-fed-hipaa-breach": {
+   "status": "fetched",
+   "file": "us-fed-hipaa-breach.txt",
+   "chars": 253304,
+   "sha256": "9c77a9cb36404faeb0d21852d4a9accdced1bf70de239e3a36451b53cbb10f89",
+   "retrievedAt": "2026-10-26T00:20:07.953Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-45/part-164",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Part 164 in full; the Breach Notification Rule is Subpart D."
+  },
+  "us-fed-take-it-down": {
+   "status": "fetched",
+   "file": "us-fed-take-it-down.txt",
+   "chars": 19096,
+   "sha256": "5b1b0f4930ea6310e663fdd4f16a23f49cfb6b3c1224e238a4fedfb5217f37cd",
+   "retrievedAt": "2026-10-26T00:20:08.190Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ12/html/PLAW-119publ12.htm",
+     "kind": "plaw"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-privacy-protection-act": {
+   "status": "fetched",
+   "file": "us-fed-privacy-protection-act.txt",
+   "chars": 17800,
+   "sha256": "92c7981d0c0297fe48f1f0b9f71a92b1637d0b4a77875c14f963a67c2395de1f",
+   "retrievedAt": "2026-10-26T00:20:08.332Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/2000aa",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/2000aa-5",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/2000aa-6",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/2000aa-7",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/2000aa-11",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/2000aa-12",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-europol": {
+   "status": "fetched",
+   "file": "eu-europol.txt",
+   "chars": 194955,
+   "sha256": "2a4461e66a91774bddde236f0fc54d3dea864081983e507f78b1cdb59b94809f",
+   "retrievedAt": "2026-10-26T00:20:08.749Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0794",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-42cfr2": {
+   "status": "fetched",
+   "file": "us-fed-42cfr2.txt",
+   "chars": 125277,
+   "sha256": "50278b76ced60336f89a5f0f49ee6767e28ba48378e82f0fe08995e70ff7d8ca",
+   "retrievedAt": "2026-10-26T00:20:08.781Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-42/part-2",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-fed-atia": {
+   "status": "fetched",
+   "file": "ca-fed-atia.txt",
+   "chars": 198616,
+   "sha256": "d7bad06f658d103cf8d6113b5c375655f7a7eb0276c57bd836de213ef998aa8c",
+   "retrievedAt": "2026-10-26T00:20:08.996Z",
+   "sources": [
+    {
+     "url": "https://laws-lois.justice.gc.ca/eng/acts/A-1/",
+     "kind": "justice"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-sox": {
+   "status": "fetched",
+   "file": "us-fed-sox.txt",
+   "chars": 191056,
+   "sha256": "85993d63c8ef2c2ba2b2bee0c40e4e4a6a24ac6a6a60999d484bb47973a7402f",
+   "retrievedAt": "2026-10-26T00:20:09.130Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ204/html/PLAW-107publ204.htm",
+     "kind": "plaw"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-info-blocking": {
+   "status": "fetched",
+   "file": "us-fed-info-blocking.txt",
+   "chars": 61043,
+   "sha256": "99416bfaa914afadf4d96e66a96869396655e25112559185a36ffcfd7054bd17",
+   "retrievedAt": "2026-10-26T00:20:09.333Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-45/part-171",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-fda-524b": {
+   "status": "fetched",
+   "file": "us-fed-fda-524b.txt",
+   "chars": 6000,
+   "sha256": "97735d4f056b811d73b2da6ad01c2c6c497f88ffc27e53c00738ea8d9f147b8f",
+   "retrievedAt": "2026-10-26T00:20:09.333Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/21/360n-2",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-eevidence-reg": {
+   "status": "fetched",
+   "file": "eu-eevidence-reg.txt",
+   "chars": 208778,
+   "sha256": "6da721351ba945137eeb8a6e04e5912312c4da550401d4c3b32ed98e0be23681",
+   "retrievedAt": "2026-10-26T00:20:10.541Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1543",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-eevidence-dir": {
+   "status": "fetched",
+   "file": "eu-eevidence-dir.txt",
+   "chars": 45730,
+   "sha256": "a7821aa284b123e1846b0f90986cc80841884a5ded370104f8827e26ddd5004d",
+   "retrievedAt": "2026-10-26T00:20:11.038Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023L1544",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-attacks-info-systems": {
+   "status": "fetched",
+   "file": "eu-attacks-info-systems.txt",
+   "chars": 35757,
+   "sha256": "4be509128b79e822e9eabcebcb2e4a2783188fe4628f2f7e1509f396f0bd94d3",
+   "retrievedAt": "2026-10-26T00:20:11.895Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0040",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-data-act": {
+   "status": "fetched",
+   "file": "eu-data-act.txt",
+   "chars": 294335,
+   "sha256": "22a884ee3a975c5988a915e51629a7f7a875452a6dab82165f4bbbaef9004690",
+   "retrievedAt": "2026-10-26T00:20:13.170Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2854",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-dga": {
+   "status": "fetched",
+   "file": "eu-dga.txt",
+   "chars": 186679,
+   "sha256": "0c819ba44b93b05e58d69c5d63dc78bc90d19a981214396358991823acfb7899",
+   "retrievedAt": "2026-10-26T00:20:13.842Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-ftc-safeguards": {
+   "status": "fetched",
+   "file": "us-fed-ftc-safeguards.txt",
+   "chars": 35711,
+   "sha256": "cc96bf07283523a310293bee352f80e43f4abaf0dd1d8043868c0c1199684b6c",
+   "retrievedAt": "2026-10-26T00:20:14.048Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-16/part-314",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-free-flow": {
+   "status": "fetched",
+   "file": "eu-free-flow.txt",
+   "chars": 44508,
+   "sha256": "2f4bdccf5146ec530cce06ec64e103becca61e3cd1060454475fd237f197798a",
+   "retrievedAt": "2026-10-26T00:20:14.585Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1807",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-ehds": {
+   "status": "fetched",
+   "file": "eu-ehds.txt",
+   "chars": 399603,
+   "sha256": "b9b0652964e50bc5827bfa5fff0bd02d83532addf82d9afe69380f630d137ddb",
+   "retrievedAt": "2026-10-26T00:20:15.914Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0327",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-ai-act": {
+   "status": "fetched",
+   "file": "eu-ai-act.txt",
+   "chars": 589922,
+   "sha256": "2a78a39441e6e10a24cd1cea60381232f7a49a54d29cab9f6617bb1fa9c57aa4",
+   "retrievedAt": "2026-10-26T00:20:16.922Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-dsa": {
+   "status": "fetched",
+   "file": "eu-dsa.txt",
+   "chars": 419514,
+   "sha256": "f7ef70ff831dc23c9cbc892c6872803bb7064e026c5ecd7377d65f3edc0f8627",
+   "retrievedAt": "2026-10-26T00:20:17.658Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2065",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-reg-p": {
+   "status": "fetched",
+   "file": "us-fed-reg-p.txt",
+   "chars": 115823,
+   "sha256": "6769908e9aef3bd7b29597e3d2ae22e7f83e5301dfcd18f040ad6d910488ca6a",
+   "retrievedAt": "2026-10-26T00:20:17.799Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-12/part-1016",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-dma": {
+   "status": "fetched",
+   "file": "eu-dma.txt",
+   "chars": 260310,
+   "sha256": "b92f744e6b68099527c6a398bbe91d3519c495b03f7d496ccf5cd2c561f43b16",
+   "retrievedAt": "2026-10-26T00:20:18.442Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1925",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-political-ads": {
+   "status": "fetched",
+   "file": "eu-political-ads.txt",
+   "chars": 176661,
+   "sha256": "6f92be5728705adff94f7ce0f0a5c79d7a02f2ab0f71c2a6c8765afa04c1183a",
+   "retrievedAt": "2026-10-26T00:20:19.349Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R0900",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-csam-interim": {
+   "status": "fetched",
+   "file": "eu-csam-interim.txt",
+   "chars": 42967,
+   "sha256": "ac6d33e5137569273f3ead90162f10a133a6eda4c22cad93b20a3afa86081e87",
+   "retrievedAt": "2026-10-26T00:20:20.096Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1232",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-nis2": {
+   "status": "fetched",
+   "file": "eu-nis2.txt",
+   "chars": 280461,
+   "sha256": "9472f07187c2ddccaff39bcb4a4c127638da6974559cd8973e481cc699bea5cb",
+   "retrievedAt": "2026-10-26T00:20:21.272Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-nis1": {
+   "status": "fetched",
+   "file": "eu-nis1.txt",
+   "chars": 107930,
+   "sha256": "6665135c98409219bf1841b3a1a711994509ab4641540a443fd007fcef1594e0",
+   "retrievedAt": "2026-10-26T00:20:21.972Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L1148",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-cer": {
+   "status": "fetched",
+   "file": "eu-cer.txt",
+   "chars": 128561,
+   "sha256": "6c119b3784058e40bbbb09f992c0ab100c59399b6a00ac17c3f21c49dfd02633",
+   "retrievedAt": "2026-10-26T00:20:22.879Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2557",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-cfpb-1033": {
+   "status": "fetched",
+   "file": "us-fed-cfpb-1033.txt",
+   "chars": 62446,
+   "sha256": "c735224b8549e54995bd281f3da8893a8070b4633acab54ad30550c88f83ad3a",
+   "retrievedAt": "2026-10-26T00:20:22.881Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-12/part-1033",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-reg-sp": {
+   "status": "fetched",
+   "file": "us-fed-reg-sp.txt",
+   "chars": 201002,
+   "sha256": "2b9bcd827abf7f24f4468b9549c510e856ece9d70de76f2f79329b517fe60acc",
+   "retrievedAt": "2026-10-26T00:20:23.473Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-17/part-248",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Part 248 in full (Regulations S-P, S-AM, S-ID)."
+  },
+  "us-fed-reg-sid": {
+   "status": "fetched",
+   "file": "us-fed-reg-sid.txt",
+   "chars": 201002,
+   "sha256": "2b9bcd827abf7f24f4468b9549c510e856ece9d70de76f2f79329b517fe60acc",
+   "retrievedAt": "2026-10-26T00:20:23.475Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-17/part-248",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Part 248 in full; Regulation S-ID is Subpart C."
+  },
+  "eu-dora": {
+   "status": "fetched",
+   "file": "eu-dora.txt",
+   "chars": 308210,
+   "sha256": "567ab908b9cff67122ec3d5bebd88f7ea094baeed826dda706e1057b70d5f4a8",
+   "retrievedAt": "2026-10-26T00:20:23.962Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-cra": {
+   "status": "fetched",
+   "file": "eu-cra.txt",
+   "chars": 351944,
+   "sha256": "606e9da8e48412576962f5d0615de08b45e22ebfb01cac8602e6fd693b2aa010",
+   "retrievedAt": "2026-10-26T00:20:24.994Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2847",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-cybersecurity-act": {
+   "status": "fetched",
+   "file": "eu-cybersecurity-act.txt",
+   "chars": 214325,
+   "sha256": "eb4aa810672db7aaa8f0e65bef33bcce0517c95d059cc2d2cebe94ec79f7515d",
+   "retrievedAt": "2026-10-26T00:20:25.855Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-eucc": {
+   "status": "fetched",
+   "file": "eu-eucc.txt",
+   "chars": 125155,
+   "sha256": "53074bc04375440a113182a0d69c208f2a049ed257a4cdcd922cab30cdbd42d1",
+   "retrievedAt": "2026-10-26T00:20:26.628Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R0482",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-cyber-solidarity": {
+   "status": "fetched",
+   "file": "eu-cyber-solidarity.txt",
+   "chars": 147262,
+   "sha256": "933bafdf8e56597031beea6754585232aa886bb7ef98154e5829e5ec5c7e3d1a",
+   "retrievedAt": "2026-10-26T00:20:27.446Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0038",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-bank-incident-rule": {
+   "status": "fetched",
+   "file": "us-fed-bank-incident-rule.txt",
+   "chars": 4506,
+   "sha256": "793ea583ad99cd0862a8ba81508d3a5afb4544ff27703573a0e1164a17bafe17",
+   "retrievedAt": "2026-10-26T00:20:28.117Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-12/part-53",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Only 12 C.F.R. Part 53 (OCC) fetched; the parallel Federal Reserve (Part 225, Subpart N) and FDIC (Part 304, Subpart C) rules are not included."
+  },
+  "eu-institutions-cyber": {
+   "status": "fetched",
+   "file": "eu-institutions-cyber.txt",
+   "chars": 101571,
+   "sha256": "dd78292ec1f59cdcd9ad15906e545c21bd1b2e37730b3e3cbd74936076edb3fd",
+   "retrievedAt": "2026-10-26T00:20:28.267Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2841",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-ffiec-guidelines": {
+   "status": "fetched",
+   "file": "us-fed-ffiec-guidelines.txt",
+   "chars": 112289,
+   "sha256": "e02c5cdac23814c44a39835b20afcb78080e53c465b15b774c9da1499f36f1db",
+   "retrievedAt": "2026-10-26T00:20:28.424Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-12/part-30",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "12 C.F.R. Part 30 (OCC) with Appendix B; parallel agency appendices are not included."
+  },
+  "eu-eecc": {
+   "status": "fetched",
+   "file": "eu-eecc.txt",
+   "chars": 672451,
+   "sha256": "773696340bfb28ef72e11162fd69021da3d5cca374ccd015a035bea571e386f8",
+   "retrievedAt": "2026-10-26T00:20:29.850Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-red-delegated": {
+   "status": "fetched",
+   "file": "eu-red-delegated.txt",
+   "chars": 20766,
+   "sha256": "662ec88b79ceff458bf0f078eaae8e164299aacda55746e430aafd9b600fb271",
+   "retrievedAt": "2026-10-26T00:20:30.311Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0030",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-mdr": {
+   "status": "fetched",
+   "file": "eu-mdr.txt",
+   "chars": 653927,
+   "sha256": "acf5080c37f2ac600acf7a99a03a2af9834ccf1852e219126014dbd4fa8dbcc8",
+   "retrievedAt": "2026-10-26T00:20:32.023Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-eidas": {
+   "status": "fetched",
+   "file": "eu-eidas.txt",
+   "chars": 127158,
+   "sha256": "3805e1f72cea45fd73349d75443884d9b440123e3b5c603df41ce4e2d3d33684",
+   "retrievedAt": "2026-10-26T00:20:32.667Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0910",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-coppa-rule": {
+   "status": "fetched",
+   "file": "us-fed-coppa-rule.txt",
+   "chars": 44937,
+   "sha256": "2623f29a510a43f2d936bb0b4314f3c185f14ec380e15b893b134b59bd1c2208",
+   "retrievedAt": "2026-10-26T00:20:33.105Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-16/part-312",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-eidas2": {
+   "status": "fetched",
+   "file": "eu-eidas2.txt",
+   "chars": 204894,
+   "sha256": "67c49ca513141fecabcef3d21e99d1db12c13e6f104776930a39aeee114d7798",
+   "retrievedAt": "2026-10-26T00:20:33.601Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1183",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-psd2": {
+   "status": "fetched",
+   "file": "eu-psd2.txt",
+   "chars": 314002,
+   "sha256": "07f8ac21c4ace135c0b06299da0407e758b836173476602350ae3bb8244841f6",
+   "retrievedAt": "2026-10-26T00:20:34.680Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-funds-transfer": {
+   "status": "fetched",
+   "file": "eu-funds-transfer.txt",
+   "chars": 125972,
+   "sha256": "960255879a9f0c46aa05d8a77d31ee737123d8f305994e19787aacbfd9ffa331",
+   "retrievedAt": "2026-10-26T00:20:35.262Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1113",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-scc-2021-914": {
+   "status": "fetched",
+   "file": "eu-scc-2021-914.txt",
+   "chars": 109574,
+   "sha256": "1621e47ab75269cd3814236a4b94abba51d039431cdbda6312000f91dc80149e",
+   "retrievedAt": "2026-10-26T00:20:36.191Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021D0914",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-fcra": {
+   "status": "fetched",
+   "file": "us-fed-fcra.txt",
+   "chars": 385758,
+   "sha256": "3c03ebbd59953369c419fb0a4d43143f57a2d9715225b9dbb545e5aa1adc6cf5",
+   "retrievedAt": "2026-10-26T00:20:36.807Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681a",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681b",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681c",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681c-1",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681c-2",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681d",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681e",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681f",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681g",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681h",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681i",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681j",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681k",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681l",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681m",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681n",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681o",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681p",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681q",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681r",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681s",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681s-1",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681s-2",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681s-3",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681t",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681u",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681v",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681w",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/1681x",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-scc-2021-915": {
+   "status": "fetched",
+   "file": "eu-scc-2021-915.txt",
+   "chars": 33033,
+   "sha256": "8f8d2cd754e53ec1c8b1195e020d078a1271006fc06417d1f43ab4881cdaca87",
+   "retrievedAt": "2026-10-26T00:20:37.082Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021D0915",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-adequacy-us": {
+   "status": "fetched",
+   "file": "eu-adequacy-us.txt",
+   "chars": 462856,
+   "sha256": "2e43aee722852fc91dc443e9eee5f110e5377461676db692335da7fec13e96e2",
+   "retrievedAt": "2026-10-26T00:20:38.467Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023D1795",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-cmmc": {
+   "status": "fetched",
+   "file": "us-fed-cmmc.txt",
+   "chars": 150819,
+   "sha256": "a83977918781695124e6713971dc1e7751298fcf41347e62f3238e543584938c",
+   "retrievedAt": "2026-10-26T00:20:38.480Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-32/part-170",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-adequacy-ca": {
+   "status": "fetched",
+   "file": "eu-adequacy-ca.txt",
+   "chars": 12429,
+   "sha256": "cd85898b359a94ee4ba9bc8a23e403a34fd9f7750eb927cabf4983edc34dc835",
+   "retrievedAt": "2026-10-26T00:23:19.056Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002D0002",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-fed-criminal-code": {
+   "status": "fetched",
+   "file": "ca-fed-criminal-code.txt",
+   "chars": 2513440,
+   "sha256": "3a7027bf424d3788c639b849d2598f9429c37a92c1b81ab5ab890fea290cc502",
+   "retrievedAt": "2026-10-26T00:20:38.861Z",
+   "sources": [
+    {
+     "url": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+     "kind": "justice"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-fed-telecom-act": {
+   "status": "fetched",
+   "file": "ca-fed-telecom-act.txt",
+   "chars": 165432,
+   "sha256": "6f6647785b3302ffdd4b45c33fdd6d26f1562f0b90bec73890594d02b69fd949",
+   "retrievedAt": "2026-10-26T00:20:40.692Z",
+   "sources": [
+    {
+     "url": "https://laws-lois.justice.gc.ca/eng/acts/T-3.4/",
+     "kind": "justice"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-adequacy-uk": {
+   "status": "fetched",
+   "file": "eu-adequacy-uk.txt",
+   "chars": 567216,
+   "sha256": "1f75d437f6a9d3f2a66ce50f3c5245a27a5997bf9bb4eb21d7247e78e71b6c75",
+   "retrievedAt": "2026-10-26T00:20:40.955Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021D1772",
+     "kind": "cellar"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021D1773",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-fed-sicda": {
+   "status": "fetched",
+   "file": "ca-fed-sicda.txt",
+   "chars": 14916,
+   "sha256": "03e0bf41b5abcc46a568a022000d02d562babc45ccf105ce7a0797d79b3e258f",
+   "retrievedAt": "2026-10-26T00:20:41.027Z",
+   "sources": [
+    {
+     "url": "https://laws-lois.justice.gc.ca/eng/acts/S-6.9/",
+     "kind": "justice"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-adequacy-jp": {
+   "status": "fetched",
+   "file": "eu-adequacy-jp.txt",
+   "chars": 280555,
+   "sha256": "64ab8d49330a6cd2385ec9b724c9159b112343cbefbc1fd0ba4c020257d0f03b",
+   "retrievedAt": "2026-10-26T00:20:41.880Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019D0419",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-fed-rpaa": {
+   "status": "fetched",
+   "file": "ca-fed-rpaa.txt",
+   "chars": 79232,
+   "sha256": "f33c960e720a55ca10095036e598f4674865b08ddb5fa053589813bdbae91054",
+   "retrievedAt": "2026-10-26T00:20:42.504Z",
+   "sources": [
+    {
+     "url": "https://laws-lois.justice.gc.ca/eng/acts/R-7.36/",
+     "kind": "justice"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-adequacy-kr": {
+   "status": "fetched",
+   "file": "eu-adequacy-kr.txt",
+   "chars": 453148,
+   "sha256": "2bedd38d792d4769edd957e8139dfbeb073018bfdbb4e52c7960e2d8c2858190",
+   "retrievedAt": "2026-10-26T00:20:42.950Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022D0254",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-adequacy-other": {
+   "status": "fetched",
+   "file": "eu-adequacy-other.txt",
+   "chars": 109072,
+   "sha256": "773a16e9c15e7bf975af45ee9481a62585d4986f9b28a23ea44b02c310d5abed",
+   "retrievedAt": "2026-10-26T00:23:30.649Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000D0518",
+     "kind": "cellar"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0061",
+     "kind": "cellar"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003D0490",
+     "kind": "cellar"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012D0484",
+     "kind": "cellar"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013D0065",
+     "kind": "cellar"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010D0625",
+     "kind": "cellar"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010D0146",
+     "kind": "cellar"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003D0821",
+     "kind": "cellar"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008D0393",
+     "kind": "cellar"
+    },
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004D0411",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Ten separate Commission decisions concatenated: Switzerland, Israel, Argentina, Uruguay, New Zealand, Andorra, Faroe Islands, Guernsey, Jersey, Isle of Man."
+  },
+  "us-fed-doj-dsp": {
+   "status": "fetched",
+   "file": "us-fed-doj-dsp.txt",
+   "chars": 274878,
+   "sha256": "13bace20a499d0791f792bb275c0628b3031afe6c219b36bda00285fe57bf080",
+   "retrievedAt": "2026-10-26T00:20:43.586Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-28/part-202",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-eprivacy-reg": {
+   "status": "fetched",
+   "file": "eu-eprivacy-reg.txt",
+   "chars": 108472,
+   "sha256": "19e3e90bee70aa5ddfe6be673ecd0cd4dc0dc2b73b559884b2fb83eafc8aa9a3",
+   "retrievedAt": "2026-10-26T00:20:44.431Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52017PC0010",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Commission proposal COM(2017) 10 (withdrawn)."
+  },
+  "us-fed-glba": {
+   "status": "fetched",
+   "file": "us-fed-glba.txt",
+   "chars": 45714,
+   "sha256": "dfe0c4e2afd8b3bb9dab654cd5fb84eec8956be03251f733dfbde7ff6b586491",
+   "retrievedAt": "2026-10-26T00:20:45.161Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6801",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6802",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6803",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6804",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6805",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6806",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6807",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6808",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6809",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-rfpa": {
+   "status": "fetched",
+   "file": "us-fed-rfpa.txt",
+   "chars": 118361,
+   "sha256": "2418393764120483dedaa3302580db4358cd6b0516aa4e1ae3aaee62c809f5e7",
+   "retrievedAt": "2026-10-26T00:21:05.865Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3401",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3402",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3403",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3404",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3405",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3406",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3407",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3408",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3409",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3410",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3411",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3412",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3413",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3414",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3415",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3416",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3417",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3418",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3419",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3420",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3421",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3422",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/12/3423",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-coppa": {
+   "status": "fetched",
+   "file": "us-fed-coppa.txt",
+   "chars": 26168,
+   "sha256": "e08abd8b5176956527a427833cc6b7fa65263e1f0e6926375a67e16dafab60ce",
+   "retrievedAt": "2026-10-26T00:21:11.233Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6501",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6502",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6503",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6504",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6505",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/6506",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-ferpa": {
+   "status": "fetched",
+   "file": "us-fed-ferpa.txt",
+   "chars": 42682,
+   "sha256": "78947022838a93c3d21b7c817ce564d218a848027bf94baf3dd3fc015243a776",
+   "retrievedAt": "2026-10-26T00:21:12.164Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/20/1232g",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-ppra": {
+   "status": "fetched",
+   "file": "us-fed-ppra.txt",
+   "chars": 16147,
+   "sha256": "1be26084e0f8744fa2b45c31e938a927d0164c4d777bd1da7230356d0e6fd61c",
+   "retrievedAt": "2026-10-26T00:21:13.027Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/20/1232h",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-vppa": {
+   "status": "fetched",
+   "file": "us-fed-vppa.txt",
+   "chars": 6904,
+   "sha256": "2f34d57c6ad61e1bff2d96c1759271fa412276e6e38f3f1083112463db27e57a",
+   "retrievedAt": "2026-10-26T00:21:14.023Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2710",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-dppa": {
+   "status": "fetched",
+   "file": "us-fed-dppa.txt",
+   "chars": 19889,
+   "sha256": "b6ec7e35c7897c07f5e22686c7b6433b4ec8b5276ccf5287ba86ab7c5edb1c9d",
+   "retrievedAt": "2026-10-26T00:21:18.440Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2721",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2722",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2723",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2724",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2725",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-cable-act": {
+   "status": "fetched",
+   "file": "us-fed-cable-act.txt",
+   "chars": 8609,
+   "sha256": "03fd36b83422e7ca29316845a9e29154be1a086378601e2d74ae4a4064e1c739",
+   "retrievedAt": "2026-10-26T00:21:19.331Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/47/551",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-cpni": {
+   "status": "fetched",
+   "file": "us-fed-cpni.txt",
+   "chars": 9989,
+   "sha256": "36de1de89d50d1f9a0799dc56966c13dff2779222ab362f9a060aa60f761dd58",
+   "retrievedAt": "2026-10-26T00:21:20.271Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/47/222",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-tcpa": {
+   "status": "fetched",
+   "file": "us-fed-tcpa.txt",
+   "chars": 70411,
+   "sha256": "a8fbeb5d863ff74c70af7ba122139c48722613a62ecd9f9b77fea84646ac0fc6",
+   "retrievedAt": "2026-10-26T00:21:21.230Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/47/227",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-can-spam": {
+   "status": "fetched",
+   "file": "us-fed-can-spam.txt",
+   "chars": 66310,
+   "sha256": "1ccee56cbe382f244f293b0ae2586baccefdf4bcf284342e5cacb9db0b2402e4",
+   "retrievedAt": "2026-10-26T00:21:32.872Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/7701",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/7702",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/7703",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/7704",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/7705",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/7706",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/7707",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/7708",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/7709",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/7710",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/7711",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/7712",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/7713",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-ftc-act-5": {
+   "status": "fetched",
+   "file": "us-fed-ftc-act-5.txt",
+   "chars": 38479,
+   "sha256": "0bae87c4dbdb30a96e46c7d90967f71a185828ff8bffa833fb6972b31db7f20b",
+   "retrievedAt": "2026-10-26T00:21:33.839Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/15/45",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-ecpa": {
+   "status": "fetched",
+   "file": "us-fed-ecpa.txt",
+   "chars": 156585,
+   "sha256": "b5b731a88d66bc9f3fb412f4f6ff49c92e1d36cfeb089aecacfc25169b3d017a",
+   "retrievedAt": "2026-10-26T00:21:44.556Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2510",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2511",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2512",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2513",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2515",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2516",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2517",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2518",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2519",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2520",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2521",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2522",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-sca": {
+   "status": "fetched",
+   "file": "us-fed-sca.txt",
+   "chars": 90598,
+   "sha256": "f2d1b4024d41d0e894513d57d7a22179d3a31b136389b798a04155d55b746d89",
+   "retrievedAt": "2026-10-26T00:21:55.489Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2701",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2702",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2703",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2704",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2705",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2706",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2707",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2708",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2709",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2710",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2711",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2712",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2713",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-pen-register": {
+   "status": "fetched",
+   "file": "us-fed-pen-register.txt",
+   "chars": 35480,
+   "sha256": "5476288ea7fdc9c647717b53682e4402af56058c8571e14d3f563167933905b6",
+   "retrievedAt": "2026-10-26T00:22:01.777Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/3121",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/3122",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/3123",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/3124",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/3125",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/3126",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/3127",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-calea": {
+   "status": "fetched",
+   "file": "us-fed-calea.txt",
+   "chars": 36149,
+   "sha256": "87d7792c96fc398a4d22f60ae3acff38b623d4efaf22ba855ed8b421ac894866",
+   "retrievedAt": "2026-10-26T00:22:10.708Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/47/1001",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/47/1002",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/47/1003",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/47/1004",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/47/1005",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/47/1006",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/47/1007",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/47/1008",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/47/1009",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/47/1010",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-cfaa": {
+   "status": "fetched",
+   "file": "us-fed-cfaa.txt",
+   "chars": 40584,
+   "sha256": "0628d6a98b6355bea2d08649241384660869b2ca8f3f39e131546ed0577aa97b",
+   "retrievedAt": "2026-10-26T00:22:11.622Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/1030",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-fisma": {
+   "status": "fetched",
+   "file": "us-fed-fisma.txt",
+   "chars": 116808,
+   "sha256": "f0281fc30d02e423bc123e39ff4f85bb9b3713f838415bf3e3875a68fd6e10cf",
+   "retrievedAt": "2026-10-26T00:22:19.256Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3551",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3552",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3553",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3554",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3555",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3556",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3557",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3558",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-cisa-2015": {
+   "status": "fetched",
+   "file": "us-fed-cisa-2015.txt",
+   "chars": 60043,
+   "sha256": "efb307d9c79347b02a9d5975a38ec5db61b9cfcba3ffb0814f06cd942629f1eb",
+   "retrievedAt": "2026-10-26T00:22:27.818Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/1501",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/1502",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/1503",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/1504",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/1505",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/1506",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/1507",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/1508",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/1509",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/1510",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-circia": {
+   "status": "fetched",
+   "file": "us-fed-circia.txt",
+   "chars": 56685,
+   "sha256": "09035476e0024c9782dd0e459c319ca453131e15039a1c61c2d921a04ccf56ef",
+   "retrievedAt": "2026-10-26T00:23:22.276Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/681",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/681a",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/681b",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/681c",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/681d",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/681e",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/681f",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/6/681g",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-fedramp-act": {
+   "status": "fetched",
+   "file": "us-fed-fedramp-act.txt",
+   "chars": 35480,
+   "sha256": "6966fffacd0327b65c984e11071beba5ba3f10b198a935f3b8dc156928ecaaf7",
+   "retrievedAt": "2026-10-26T00:22:44.971Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3607",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3608",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3609",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3610",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3611",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3612",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3613",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3614",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3615",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/44/3616",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-fed-csa-q830": {
+   "status": "no-source",
+   "note": "A copyrighted CSA Group standard that is not freely published. Its text is reproduced as Schedule 1 of PIPEDA; see the PIPEDA entry."
+  },
+  "ca-qc-confidentiality-incidents-regs": {
+   "status": "blocked",
+   "note": "Légis Québec rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "ca-on-cyber-act": {
+   "status": "blocked",
+   "note": "Ontario e-Laws is behind bot protection; use the official link."
+  },
+  "us-fed-sec-cyber-disclosure": {
+   "status": "no-source",
+   "note": "Not fetched: the adopting release is a long PDF on sec.gov, which requires a declared contact in the User-Agent; retrieval was not attempted."
+  },
+  "us-fed-padfa": {
+   "status": "no-source",
+   "note": "Enacted as Division I of Pub. L. 118-50, a multi-thousand-page omnibus act; the division was not extracted."
+  },
+  "us-fed-omb-a130": {
+   "status": "no-source",
+   "note": "Not fetched: no stable machine-readable source was identified."
+  },
+  "us-fed-eu-us-dpf": {
+   "status": "no-source",
+   "note": "A certification framework administered by the U.S. Department of Commerce at dataprivacyframework.gov; no single authoritative text was fetched."
+  },
+  "us-ca-ccpa": {
+   "status": "blocked",
+   "note": "leginfo.legislature.ca.gov rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-ca-cmia": {
+   "status": "blocked",
+   "note": "leginfo.legislature.ca.gov rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-ca-delete-act": {
+   "status": "blocked",
+   "note": "leginfo.legislature.ca.gov rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-ca-breach": {
+   "status": "blocked",
+   "note": "leginfo.legislature.ca.gov rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-ca-caloppa": {
+   "status": "blocked",
+   "note": "leginfo.legislature.ca.gov rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-ca-shine-the-light": {
+   "status": "blocked",
+   "note": "leginfo.legislature.ca.gov rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-ca-cipa": {
+   "status": "blocked",
+   "note": "leginfo.legislature.ca.gov rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-ca-calecpa": {
+   "status": "blocked",
+   "note": "leginfo.legislature.ca.gov rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-ca-aadc": {
+   "status": "blocked",
+   "note": "leginfo.legislature.ca.gov rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-ca-sb53": {
+   "status": "blocked",
+   "note": "leginfo.legislature.ca.gov rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-ca-constitution": {
+   "status": "blocked",
+   "note": "leginfo.legislature.ca.gov rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-breach-all-states": {
+   "status": "no-source",
+   "note": "Aggregate entry covering many separate statutes; there is no single text to fetch."
+  },
+  "us-insurance-data-security": {
+   "status": "no-source",
+   "note": "Aggregate entry covering many separate statutes; there is no single text to fetch."
+  },
+  "us-state-wiretap-all-party": {
+   "status": "no-source",
+   "note": "Aggregate entry covering many separate statutes; there is no single text to fetch."
+  },
+  "us-state-kids-codes": {
+   "status": "no-source",
+   "note": "Aggregate entry covering many separate statutes; there is no single text to fetch."
+  },
+  "us-state-health-data": {
+   "status": "no-source",
+   "note": "Aggregate entry covering many separate statutes; there is no single text to fetch."
+  },
+  "eu-bcr": {
+   "status": "no-source",
+   "note": "Binding corporate rules are defined in Article 47 of the GDPR; see the GDPR entry. There is no separate instrument."
+  },
+  "eu-digital-omnibus": {
+   "status": "no-source",
+   "note": "Proposal under negotiation; the Commission documents were not identified or fetched."
+  },
+  "ca-fed-c27-cppa-aida": {
+   "status": "blocked",
+   "note": "parl.ca rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "ca-fed-tbs-privacy-policy": {
+   "status": "blocked",
+   "note": "tbs-sct.canada.ca returned a script redirect stub rather than the policy text; not retrievable automatically. Use the official link."
+  },
+  "ca-fed-c8-cyber": {
+   "status": "blocked",
+   "note": "parl.ca rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "ca-fed-digital-privacy-act": {
+   "status": "fetched",
+   "file": "ca-fed-digital-privacy-act.txt",
+   "chars": 35853,
+   "sha256": "3f7875076012af620a7245a789bd97c85d27bfb87fe0e68ab84713e7353445da",
+   "retrievedAt": "2026-10-26T00:25:14.696Z",
+   "sources": [
+    {
+     "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2015_32/FullText.html",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-fed-osfi-b13": {
+   "status": "fetched",
+   "file": "ca-fed-osfi-b13.txt",
+   "chars": 40782,
+   "sha256": "5b79883863d2dc93c1b01690ed3daadd8c06b8535441796c122b821e92da153b",
+   "retrievedAt": "2026-10-26T00:27:54.241Z",
+   "sources": [
+    {
+     "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/technology-cyber-risk-management",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-ab-pipa": {
+   "status": "fetched",
+   "file": "ca-ab-pipa.txt",
+   "chars": 110653,
+   "sha256": "eaf675f8f49a517f1d9d25eb2475f6f2b4f664891f634b5b4e201fa05850686a",
+   "retrievedAt": "2026-10-26T00:25:14.708Z",
+   "sources": [
+    {
+     "url": "https://kings-printer.alberta.ca/documents/Acts/P06P5.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-mb-phia": {
+   "status": "fetched",
+   "file": "ca-mb-phia.txt",
+   "chars": 233074,
+   "sha256": "748f42dd8a8bb3f4763406ddec65b3058bdc05ef7c81ce52b340bb3762bcc889",
+   "retrievedAt": "2026-10-26T00:27:55.704Z",
+   "sources": [
+    {
+     "url": "https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=p33.5",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-yt-atipp": {
+   "status": "blocked",
+   "note": "laws.yukon.ca rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "ca-mb-fippa": {
+   "status": "fetched",
+   "file": "ca-mb-fippa.txt",
+   "chars": 335990,
+   "sha256": "6f4d059af142502602bcb6117e612b066d5965c4ca6367fe44a9689206295a93",
+   "retrievedAt": "2026-10-26T00:27:57.408Z",
+   "sources": [
+    {
+     "url": "https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=f175",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-ab-hia": {
+   "status": "fetched",
+   "file": "ca-ab-hia.txt",
+   "chars": 187047,
+   "sha256": "4b6c59a2dc472e2e6f8fa9ff67c8b44c4e0ca4532ae8b9878f15deca39d14595",
+   "retrievedAt": "2026-10-26T00:25:15.047Z",
+   "sources": [
+    {
+     "url": "https://kings-printer.alberta.ca/documents/Acts/H05.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-fed-osfi-e23": {
+   "status": "fetched",
+   "file": "ca-fed-osfi-e23.txt",
+   "chars": 31506,
+   "sha256": "be94e06616840e7ae8cf7f2b5faf221066d5bd2b304d78dabc98f4f095dbb7d8",
+   "retrievedAt": "2026-10-26T00:25:15.081Z",
+   "sources": [
+    {
+     "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-dfars-7012": {
+   "status": "fetched",
+   "file": "us-fed-dfars-7012.txt",
+   "chars": 16623,
+   "sha256": "1bb9e4862f52a849310c8dec43c4628e4e27702a3b6b47f2f2ad96d2f21045d6",
+   "retrievedAt": "2026-10-26T00:25:15.248Z",
+   "sources": [
+    {
+     "url": "https://www.acquisition.gov/dfars/252.204-7012-safeguarding-covered-defense-information-and-cyber-incident-reporting.",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-ca-ccpa-regs": {
+   "status": "fetched",
+   "file": "us-ca-ccpa-regs.txt",
+   "chars": 461583,
+   "sha256": "27bff1e76e878abdfa57c4ea8ff190dcaca3fc82e6b2aead748e66b3add09e20",
+   "retrievedAt": "2026-10-26T00:27:56.575Z",
+   "sources": [
+    {
+     "url": "https://cppa.ca.gov/regulations/pdf/20230329_final_regs_text.pdf",
+     "kind": "pdf"
+    },
+    {
+     "url": "https://cppa.ca.gov/regulations/pdf/ccpa_updates_cyber_risk_admt_appr_text.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Two texts: the March 2023 final regulations and the later approved updates; whether the updates are in force or amended since was not verified."
+  },
+  "ca-nb-phipaa": {
+   "status": "fetched",
+   "file": "ca-nb-phipaa.txt",
+   "chars": 253060,
+   "sha256": "cb59605b2a8e5c7b46100c47e72416864f013e3f45f48502e7996527db729c86",
+   "retrievedAt": "2026-10-26T00:25:15.430Z",
+   "sources": [
+    {
+     "url": "https://laws.gnb.ca/en/ShowPdf/cs/P-7.05.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-eo-14028": {
+   "status": "fetched",
+   "file": "us-fed-eo-14028.txt",
+   "chars": 54859,
+   "sha256": "da2c1e82ef99fb0bab2c776e85f071deec798d5d79ee9b771e423d0b97b5f8b4",
+   "retrievedAt": "2026-10-26T00:25:15.440Z",
+   "sources": [
+    {
+     "url": "https://www.federalregister.gov/documents/full_text/html/2021/05/17/2021-10460.html",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-far-52-204-21": {
+   "status": "fetched",
+   "file": "us-fed-far-52-204-21.txt",
+   "chars": 5009,
+   "sha256": "9379ed39f2b32c34bbff183499069a55382edd5726d9d82f27e1f838b527512c",
+   "retrievedAt": "2026-10-26T00:25:15.544Z",
+   "sources": [
+    {
+     "url": "https://www.acquisition.gov/far/52.204-21",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-ut-ucpa": {
+   "status": "blocked",
+   "note": "le.utah.gov renders statute text with scripts and the enrolled-bill URL tried returned 404. Use the official link."
+  },
+  "ca-pe-hia": {
+   "status": "fetched",
+   "file": "ca-pe-hia.txt",
+   "chars": 161853,
+   "sha256": "58db80e3efba41c77165976721e4a810e867fa5d4ed64f83a86a4e5a0d90bf38",
+   "retrievedAt": "2026-10-26T00:25:15.666Z",
+   "sources": [
+    {
+     "url": "https://www.princeedwardisland.ca/sites/default/files/legislation/h-01-41-health_information_act.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-fed-genetic-nondiscrimination": {
+   "status": "fetched",
+   "file": "ca-fed-genetic-nondiscrimination.txt",
+   "chars": 13599,
+   "sha256": "d6b3b09cc98debdbbcb681709d067af31cdf70929c0c60d60a46cb72924fa29e",
+   "retrievedAt": "2026-10-26T00:25:15.699Z",
+   "sources": [
+    {
+     "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2017_3/FullText.html",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-ut-ai-policy": {
+   "status": "fetched",
+   "file": "us-ut-ai-policy.txt",
+   "chars": 5317,
+   "sha256": "a251abc459fae45f770f735c3e4e60d87d9133ffc9ad919b29757f91939ad3ca",
+   "retrievedAt": "2026-10-26T00:25:15.890Z",
+   "sources": [
+    {
+     "url": "https://le.utah.gov/~2024/bills/static/SB0149.html",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-nb-rtipp": {
+   "status": "fetched",
+   "file": "ca-nb-rtipp.txt",
+   "chars": 269537,
+   "sha256": "77a65928466f6b7abfe379b107b7244560e214cfdcc511d541549b0113c81340",
+   "retrievedAt": "2026-10-26T00:25:16.127Z",
+   "sources": [
+    {
+     "url": "https://laws.gnb.ca/en/ShowPdf/cs/R-10.6.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-nl-phia": {
+   "status": "fetched",
+   "file": "ca-nl-phia.txt",
+   "chars": 134751,
+   "sha256": "7613ab15161b835ac62745736fb1def51378989339114a38f7f07c787e0298f7",
+   "retrievedAt": "2026-10-26T00:25:16.128Z",
+   "sources": [
+    {
+     "url": "https://www.assembly.nl.ca/legislation/sr/statutes/p07-01.htm",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-va-vcdpa": {
+   "status": "fetched",
+   "file": "us-va-vcdpa.txt",
+   "chars": 47299,
+   "sha256": "02bc253e9714fc07d859319ccfc010f280d48734323f17b8bb0d4c649026ecdf",
+   "retrievedAt": "2026-10-26T00:25:16.173Z",
+   "sources": [
+    {
+     "url": "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-tn-tipa": {
+   "status": "blocked",
+   "note": "publications.tnsosfiles.com rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-tx-tdpsa": {
+   "status": "fetched",
+   "file": "us-tx-tdpsa.txt",
+   "chars": 56029,
+   "sha256": "c1d703f3df634b5f5d4f823bf1a5743a437c9c07841f60759a383505e5e6e566",
+   "retrievedAt": "2026-10-26T00:29:40.102Z",
+   "sources": [
+    {
+     "url": "https://capitol.texas.gov/tlodocs/88R/billtext/pdf/HB00004F.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "HB 4 (88th Leg.) as enacted."
+  },
+  "us-de-dpdpa": {
+   "status": "fetched",
+   "file": "us-de-dpdpa.txt",
+   "chars": 115269,
+   "sha256": "e7eaed076ebe12e342a4433beb6ed1195188e6b13ec8bd78e7cdc510a13d9068",
+   "retrievedAt": "2026-10-26T00:25:16.461Z",
+   "sources": [
+    {
+     "url": "https://delcode.delaware.gov/title6/c012d/index.html",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-nist-csf": {
+   "status": "fetched",
+   "file": "us-fed-nist-csf.txt",
+   "chars": 68277,
+   "sha256": "3d3225fb120ed52388cb1ecc664aa0d00533af743272bef5cf89c1c6e5f2b12c",
+   "retrievedAt": "2026-10-26T00:25:16.480Z",
+   "sources": [
+    {
+     "url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-or-ocpa": {
+   "status": "fetched",
+   "file": "us-or-ocpa.txt",
+   "chars": 68501,
+   "sha256": "bef66cf407788bef01a1e9626d37bfb39c4249185f1fece8d9d3d5696fc02d9f",
+   "retrievedAt": "2026-10-26T00:28:02.413Z",
+   "sources": [
+    {
+     "url": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB619/Enrolled",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Enrolled SB 619 as enacted, not the current consolidated statute."
+  },
+  "us-md-modpa": {
+   "status": "fetched",
+   "file": "us-md-modpa.txt",
+   "chars": 61484,
+   "sha256": "e991924afac63e195b6750e4f31b3a31c6531f2a5d40bce4d5f65b7b5fcceaf6",
+   "retrievedAt": "2026-10-26T00:27:55.143Z",
+   "sources": [
+    {
+     "url": "https://mgaleg.maryland.gov/2024rs/chapters_noln/ch_454_hb0567e.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Chapter 454 (HB 567) as enacted; the Senate companion SB 541 is Chapter 455."
+  },
+  "us-ma-201cmr17": {
+   "status": "blocked",
+   "note": "mass.gov rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-ia-icdpa": {
+   "status": "fetched",
+   "file": "us-ia-icdpa.txt",
+   "chars": 36756,
+   "sha256": "2ca768ca1fec77bde85a6cd73d7924f3f5c9aa0f152633bc270e49abe87da161",
+   "retrievedAt": "2026-10-26T00:25:16.578Z",
+   "sources": [
+    {
+     "url": "https://www.legis.iowa.gov/docs/code/715D.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-ny-shield": {
+   "status": "blocked",
+   "note": "nysenate.gov rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-tx-cubi": {
+   "status": "blocked",
+   "note": "The Texas statutes site renders text with scripts and offers no static document to fetch. Use the official link."
+  },
+  "us-mn-mcdpa": {
+   "status": "fetched",
+   "file": "us-mn-mcdpa.txt",
+   "chars": 88802,
+   "sha256": "fb3ff5feaf2fe635d09b57c1c49c5bdd2a8148119aac836abfc884d7a8f7cb3d",
+   "retrievedAt": "2026-10-26T00:27:54.698Z",
+   "sources": [
+    {
+     "url": "https://www.revisor.mn.gov/statutes/cite/325M/full",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-ri-ridtppa": {
+   "status": "fetched",
+   "file": "us-ri-ridtppa.txt",
+   "chars": 46693,
+   "sha256": "c35591f42947c3b5c92b2a8a4f494fcbcc1e382f644f6b56e474bfc4c96e5ba3",
+   "retrievedAt": "2026-10-26T00:28:02.919Z",
+   "sources": [
+    {
+     "url": "https://webserver.rilegislature.gov/Statutes/TITLE6/6-48.1/INDEX.htm",
+     "kind": "crawl"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-wa-mhmda": {
+   "status": "fetched",
+   "file": "us-wa-mhmda.txt",
+   "chars": 39234,
+   "sha256": "9e1cf3232f1f79a3a5dd6f12aaa01306f9bf72646ca4a15342f81f7dfe24eb29",
+   "retrievedAt": "2026-10-26T00:25:17.354Z",
+   "sources": [
+    {
+     "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=19.373&full=true",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-ne-ndpa": {
+   "status": "fetched",
+   "file": "us-ne-ndpa.txt",
+   "chars": 263673,
+   "sha256": "3b94d4b68252d2a2ea7e77eac774773b7b5ca30ebab9223fd1af1725cc070143",
+   "retrievedAt": "2026-10-26T00:25:17.374Z",
+   "sources": [
+    {
+     "url": "https://nebraskalegislature.gov/FloorDocs/108/PDF/Slip/LB1074.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Slip law (LB 1074) as enacted."
+  },
+  "ca-nl-atippa": {
+   "status": "fetched",
+   "file": "ca-nl-atippa.txt",
+   "chars": 180987,
+   "sha256": "81504b4d513e452f635d605ab0e484875437473a37259ae9555210061e878993",
+   "retrievedAt": "2026-10-26T00:25:17.384Z",
+   "sources": [
+    {
+     "url": "https://www.assembly.nl.ca/legislation/sr/statutes/a01-2.htm",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-ny-dfs-500": {
+   "status": "fetched",
+   "file": "us-ny-dfs-500.txt",
+   "chars": 50290,
+   "sha256": "9d102be6514944b61b29687f91ca0591c9e59678edc65bedb86a513f7bcd89fd",
+   "retrievedAt": "2026-10-26T00:27:54.786Z",
+   "sources": [
+    {
+     "url": "https://www.dfs.ny.gov/system/files/documents/2023/10/rf_fs_2amend23NYCRR500_text_20231101.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Second Amendment as adopted 1 Nov 2023, shown as a redline (new matter underscored, deleted matter bracketed)."
+  },
+  "us-ky-kcdpa": {
+   "status": "fetched",
+   "file": "us-ky-kcdpa.txt",
+   "chars": 47805,
+   "sha256": "8a7753779690fec7acb04710ec10dbbe63750dfd98e1b26971ad9bfccc8cb8f5",
+   "retrievedAt": "2026-10-26T00:25:17.405Z",
+   "sources": [
+    {
+     "url": "https://apps.legislature.ky.gov/recorddocuments/bill/24RS/hb15/bill.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "HB 15 as enacted."
+  },
+  "ca-yt-hipma": {
+   "status": "blocked",
+   "note": "laws.yukon.ca rejected automated requests (HTTP 403); no workaround attempted. Use the official link."
+  },
+  "us-tx-traiga": {
+   "status": "fetched",
+   "file": "us-tx-traiga.txt",
+   "chars": 41234,
+   "sha256": "d622ee6f4d4587fe5ed3fe135b4b34d7c8bd8889e6bd802d84f33437a7cc9b81",
+   "retrievedAt": "2026-10-26T00:25:17.483Z",
+   "sources": [
+    {
+     "url": "https://capitol.texas.gov/tlodocs/89R/billtext/pdf/HB00149F.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "HB 149 as enacted."
+  },
+  "us-nj-njdpa": {
+   "status": "fetched",
+   "file": "us-nj-njdpa.txt",
+   "chars": 40810,
+   "sha256": "6be1066efbef052c54a3f5ca59d427416269cc73ff6ad11b1f49fea433ddf0e0",
+   "retrievedAt": "2026-10-26T00:25:17.483Z",
+   "sources": [
+    {
+     "url": "https://pub.njleg.gov/Bills/2022/PL23/266_.PDF",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "P.L. 2023, c. 266 as enacted."
+  },
+  "us-tx-hb300": {
+   "status": "blocked",
+   "note": "The Texas statutes site renders text with scripts and offers no static document to fetch. Use the official link."
+  },
+  "ca-pe-foipp": {
+   "status": "fetched",
+   "file": "ca-pe-foipp.txt",
+   "chars": 136269,
+   "sha256": "59d510c2a5cff3aba70815c2f6c20d6b17ad35c524ac53568d5e71808cc16c64",
+   "retrievedAt": "2026-10-26T00:25:17.584Z",
+   "sources": [
+    {
+     "url": "https://www.princeedwardisland.ca/sites/default/files/legislation/f-15-01-freedom_of_information_and_protection_of_privacy_act.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-wa-biometric": {
+   "status": "fetched",
+   "file": "us-wa-biometric.txt",
+   "chars": 8482,
+   "sha256": "e52b3fcb5b489aa57e47880b8f53c2dc5d5c2a28719574f7ba7cb051ffeecf08",
+   "retrievedAt": "2026-10-26T00:25:17.600Z",
+   "sources": [
+    {
+     "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=19.375&full=true",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-oh-dpa": {
+   "status": "fetched",
+   "file": "us-oh-dpa.txt",
+   "chars": 10715,
+   "sha256": "43d19ef1aaf953c9f455a534027b656250a77a190cabcb288527742962d905fb",
+   "retrievedAt": "2026-10-26T00:25:17.601Z",
+   "sources": [
+    {
+     "url": "https://codes.ohio.gov/ohio-revised-code/chapter-1354",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-fed-tbs-security-policy": {
+   "status": "blocked",
+   "note": "tbs-sct.canada.ca returned a script redirect stub rather than the policy text; not retrievable automatically. Use the official link."
+  },
+  "us-fed-nist-privacy": {
+   "status": "fetched",
+   "file": "us-fed-nist-privacy.txt",
+   "chars": 115374,
+   "sha256": "8496e8b8dbb3609edf20316c2f219b1809b0e2162178a94f0a97220cf5048194",
+   "retrievedAt": "2026-10-26T00:25:17.752Z",
+   "sources": [
+    {
+     "url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.01162020.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-co-cpa": {
+   "status": "fetched",
+   "file": "us-co-cpa.txt",
+   "chars": 54610,
+   "sha256": "88aafe7c6bfe367538d3551ec4c32b83b4bbb967da2e49262d84456831f7adbd",
+   "retrievedAt": "2026-10-26T00:25:17.796Z",
+   "sources": [
+    {
+     "url": "https://leg.colorado.gov/sites/default/files/2021a_190_signed.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Signed session law (SB 21-190) as enacted, not the current consolidated statute."
+  },
+  "us-nv-sb370": {
+   "status": "fetched",
+   "file": "us-nv-sb370.txt",
+   "chars": 40248,
+   "sha256": "9d457beadd703ce302557e343b382ecf9c48b7fd141e3b23ea3ac431db70a6c9",
+   "retrievedAt": "2026-10-26T00:25:17.844Z",
+   "sources": [
+    {
+     "url": "https://www.leg.state.nv.us/Session/82nd2023/Bills/SB/SB370_EN.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "SB 370 as enrolled."
+  },
+  "us-mt-mcdpa": {
+   "status": "fetched",
+   "file": "us-mt-mcdpa.txt",
+   "chars": 67649,
+   "sha256": "ef0845252ef63b46937d35c5aab453833c2adea0137abce7ae63730bdd19b1ef",
+   "retrievedAt": "2026-10-26T00:29:56.214Z",
+   "sources": [
+    {
+     "url": "https://www.leg.mt.gov/bills/mca/title_0300/chapter_0140/part_0280/sections_index.html",
+     "kind": "crawl"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Montana Code Annotated Title 30, ch. 14, part 28 (current codified text)."
+  },
+  "ca-fed-cse-act": {
+   "status": "fetched",
+   "file": "ca-fed-cse-act.txt",
+   "chars": 54836,
+   "sha256": "5d6deebdbdbee4d45ee880f5e8df57c87acbb80270c1de6c1de1eeec76ec9883",
+   "retrievedAt": "2026-10-26T00:25:17.988Z",
+   "sources": [
+    {
+     "url": "https://laws-lois.justice.gc.ca/eng/acts/C-35.3/",
+     "kind": "justice"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-vt-data-broker": {
+   "status": "fetched",
+   "file": "us-vt-data-broker.txt",
+   "chars": 23224,
+   "sha256": "9a17230324297301144d15a2c2d81579a3f51e9fc160fc8b7ad2c41ab0ea2edc",
+   "retrievedAt": "2026-10-26T00:25:18.020Z",
+   "sources": [
+    {
+     "url": "https://legislature.vermont.gov/statutes/section/09/062/02430",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-co-ai-act": {
+   "status": "fetched",
+   "file": "us-co-ai-act.txt",
+   "chars": 41931,
+   "sha256": "cf947a0c9977cfafd97043bff7a19c7ca0059047026e2a5293d33f95244a9f03",
+   "retrievedAt": "2026-10-26T00:25:18.023Z",
+   "sources": [
+    {
+     "url": "https://leg.colorado.gov/sites/default/files/2024a_205_signed.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "SB 24-205 as signed; later amendments and delays are not included."
+  },
+  "us-fl-fdbr": {
+   "status": "fetched",
+   "file": "us-fl-fdbr.txt",
+   "chars": 92476,
+   "sha256": "9c47024553c4a4768c6bb412f33a680be7b226ea88bc7d8bc50263ef1f5d750d",
+   "retrievedAt": "2026-10-26T00:25:18.416Z",
+   "sources": [
+    {
+     "url": "https://www.flsenate.gov/Session/Bill/2023/262/BillText/er/PDF",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Enrolled SB 262 as enacted."
+  },
+  "us-tx-itepa": {
+   "status": "blocked",
+   "note": "The Texas statutes site renders text with scripts and offers no static document to fetch. Use the official link."
+  },
+  "us-fl-fipa": {
+   "status": "fetched",
+   "file": "us-fl-fipa.txt",
+   "chars": 17517,
+   "sha256": "a1fa713d0cac66dac953554939190261a0542f298a8eb724d1f69aeb6cdb247e",
+   "retrievedAt": "2026-10-26T00:25:18.452Z",
+   "sources": [
+    {
+     "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0501/Sections/0501.171.html",
+     "kind": "html"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "ca-fed-eu-adequacy": {
+   "status": "fetched",
+   "file": "ca-fed-eu-adequacy.txt",
+   "chars": 12429,
+   "sha256": "cd85898b359a94ee4ba9bc8a23e403a34fd9f7750eb927cabf4983edc34dc835",
+   "retrievedAt": "2026-10-26T00:25:18.575Z",
+   "sources": [
+    {
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002D0002",
+     "kind": "cellar"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-nist-800-53": {
+   "status": "fetched",
+   "file": "us-fed-nist-800-53.txt",
+   "chars": 1550549,
+   "sha256": "d07afa9546b8dbfd26a6ad60b9b6a98a5fb8a16564a120b69c8893e01515b503",
+   "retrievedAt": "2026-10-26T00:25:20.207Z",
+   "sources": [
+    {
+     "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "eu-edpb-supp-measures": {
+   "status": "fetched",
+   "file": "eu-edpb-supp-measures.txt",
+   "chars": 143213,
+   "sha256": "444d424465e95327005fa9aa60fe1bfaa1d40be341f72b7a7022d4be60eb18ea",
+   "retrievedAt": "2026-10-26T00:25:20.349Z",
+   "sources": [
+    {
+     "url": "https://www.edpb.europa.eu/system/files/2021-06/edpb_recommendations_202001vo.2.0_supplementarymeasurestransferstools_en.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-nist-800-171": {
+   "status": "fetched",
+   "file": "us-fed-nist-800-171.txt",
+   "chars": 256583,
+   "sha256": "0c661713db8825f13ba2b1383281d09261980605764558af5bc3a8f77ab98c80",
+   "retrievedAt": "2026-10-26T00:25:21.199Z",
+   "sources": [
+    {
+     "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171r3.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-nist-800-122": {
+   "status": "fetched",
+   "file": "us-fed-nist-800-122.txt",
+   "chars": 173473,
+   "sha256": "337e87e7c27f73914956d24772d039796a27757d4aab8af34e6075396ab4af61",
+   "retrievedAt": "2026-10-26T00:25:22.913Z",
+   "sources": [
+    {
+     "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-122.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-nist-ai-rmf": {
+   "status": "fetched",
+   "file": "us-fed-nist-ai-rmf.txt",
+   "chars": 106475,
+   "sha256": "aea0f9ff64c69ebb363b907b77e9cd4dfb952e1c805e6f9f3d33c96d5c96a1a8",
+   "retrievedAt": "2026-10-26T00:25:23.588Z",
+   "sources": [
+    {
+     "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+     "kind": "pdf"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-ct-ctdpa": {
+   "status": "blocked",
+   "note": "cga.ct.gov serves an incomplete TLS certificate chain, so the connection cannot be verified; verification was not disabled. Use the official link."
+  },
+  "us-il-bipa": {
+   "status": "blocked",
+   "note": "ilga.gov serves an incomplete TLS certificate chain, so the connection cannot be verified; verification was not disabled. Use the official link."
+  },
+  "us-fed-hitech": {
+   "status": "fetched",
+   "file": "us-fed-hitech.txt",
+   "chars": 66469,
+   "sha256": "7a235717fb63225e17d0f068e64e7109a1ba3304c917eeccabc505bc5f8aa5b4",
+   "retrievedAt": "2026-10-26T00:25:27.856Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/17921",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/17931",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/17932",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/17933",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/17934",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/17935",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/17936",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/17937",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/17938",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/17939",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/17951",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/17952",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/42/17953",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Codified HITECH Act provisions (Title XIII of Pub. L. 111-5, 42 U.S.C. ch. 156); the rest of Pub. L. 111-5 is the unrelated 2009 stimulus act."
+  },
+  "us-il-pipa": {
+   "status": "blocked",
+   "note": "ilga.gov serves an incomplete TLS certificate chain, so the connection cannot be verified; verification was not disabled. Use the official link."
+  },
+  "us-fed-reg-sci": {
+   "status": "fetched",
+   "file": "us-fed-reg-sci.txt",
+   "chars": 26862,
+   "sha256": "d68e7422c6f85d222891c0ee2694d19e9ce16b19ffaa9bf5207bd3733b4f9866",
+   "retrievedAt": "2026-10-26T00:25:36.224Z",
+   "sources": [
+    {
+     "url": "https://www.ecfr.gov/current/title-17/part-242",
+     "kind": "ecfr"
+    },
+    {
+     "url": "https://www.ecfr.gov/current/title-17/part-242",
+     "kind": "ecfr"
+    },
+    {
+     "url": "https://www.ecfr.gov/current/title-17/part-242",
+     "kind": "ecfr"
+    },
+    {
+     "url": "https://www.ecfr.gov/current/title-17/part-242",
+     "kind": "ecfr"
+    },
+    {
+     "url": "https://www.ecfr.gov/current/title-17/part-242",
+     "kind": "ecfr"
+    },
+    {
+     "url": "https://www.ecfr.gov/current/title-17/part-242",
+     "kind": "ecfr"
+    },
+    {
+     "url": "https://www.ecfr.gov/current/title-17/part-242",
+     "kind": "ecfr"
+    },
+    {
+     "url": "https://www.ecfr.gov/current/title-17/part-242",
+     "kind": "ecfr"
+    }
+   ],
+   "contentCheck": "match"
+  },
+  "us-fed-fisa": {
+   "status": "fetched",
+   "file": "us-fed-fisa.txt",
+   "chars": 276837,
+   "sha256": "e2c365fedb8fed18fb52b4f1ed78703bdc24573d3d6b245fdc38dff9b5701f69",
+   "retrievedAt": "2026-10-26T00:25:46.728Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1801",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1802",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1803",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1804",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1805",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1806",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1807",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1808",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1809",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1810",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1811",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1812",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1813",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1881",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1881a",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1881b",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1881c",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1881d",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1881e",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1881f",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/50/1881g",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "FISA Title I (electronic surveillance, §§ 1801-1813) and Title VII (§§ 1881-1881g) only; other titles are not included."
+  },
+  "us-fed-cloud-act": {
+   "status": "fetched",
+   "file": "us-fed-cloud-act.txt",
+   "chars": 22481,
+   "sha256": "f40b7a0003ba08a923faec46464cf856cbf817b8dc4cb2c4777f1e7d42ce4c9f",
+   "retrievedAt": "2026-10-26T00:25:48.602Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2713",
+     "kind": "usc"
+    },
+    {
+     "url": "https://www.govinfo.gov/link/uscode/18/2523",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "The CLOUD Act (Pub. L. 115-141, Div. V) is codified at 18 U.S.C. §§ 2713 and 2523; the omnibus appropriations act it was enacted in is not included."
+  },
+  "us-fed-nerc-cip": {
+   "status": "fetched",
+   "file": "us-fed-nerc-cip.txt",
+   "chars": 17031,
+   "sha256": "8e385d1ec6ba648793c19651226a6535e7ca10ffe0a7ce246fac4fccaaa27d0d",
+   "retrievedAt": "2026-10-26T00:25:49.500Z",
+   "sources": [
+    {
+     "url": "https://www.govinfo.gov/link/uscode/16/824o",
+     "kind": "usc"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "Statute only (Federal Power Act § 215). The NERC CIP Reliability Standards themselves are published by NERC and not fetched."
+  },
+  "ca-ns-pha": {
+   "status": "failed",
+   "error": "fetch failed"
+  },
+  "ca-ns-foipop": {
+   "status": "failed",
+   "error": "fetch failed"
+  }
+ },
+ "generatedAt": "2026-10-26T00:31:38.706Z"
+}

@@ -540,7 +540,11 @@ export function App() {
                     }`}
                   >
                     {selectedCountry.supported
-                      ? `${countryLaws.length} Verified ${countryLaws.length === 1 ? 'Statute' : 'Statutes'}`
+                      ? `${countryLaws.length} Verified ${countryLaws.length === 1 ? 'Statute' : 'Statutes'}${
+                          getCatalogueForCountry(selectedCountry.code).length > 0
+                            ? ` + ${getCatalogueForCountry(selectedCountry.code).length} catalogued`
+                            : ''
+                        }`
                       : 'No Curated Pack Yet'}
                   </span>
                 </div>

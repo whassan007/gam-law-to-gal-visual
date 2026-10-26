@@ -21,13 +21,16 @@ describe('security and release packaging', () => {
       .map((path) => join(root, path))
       .filter(existsSync)
       .flatMap(files);
-    const markers = ['sk-', 'ghp_', 'gho_', 'AIza', 'PRIVATE_KEY'];
+    // 'sk-' is matched by shape (word boundary + 20 key characters) so that prose such as
+    // "risk-based" in bundled legal texts is not mistaken for a secret key.
+    const markers: Array<string | RegExp> = [/\bsk-[A-Za-z0-9_-]{20,}/, 'ghp_', 'gho_', 'AIza', 'PRIVATE_KEY'];
     const findings: string[] = [];
     for (const path of targets) {
       const content = readFileSync(path).toString('utf8');
       for (const marker of markers) {
         // Report paths and marker types only; never echo credential values.
-        if (content.includes(marker)) findings.push(`${relative(root, path)}: ${marker}`);
+        const hit = typeof marker === 'string' ? content.includes(marker) : marker.test(content);
+        if (hit) findings.push(`${relative(root, path)}: ${String(marker)}`);
       }
     }
     expect(findings, 'Credential markers must not be shipped to browsers').toEqual([]);

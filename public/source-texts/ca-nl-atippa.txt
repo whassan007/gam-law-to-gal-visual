@@ -1,0 +1,6482 @@
+This is an official version.
+|
+
+|
+
+Copyright � 2026: King's Printer,
+
+St. John's, Newfoundland and Labrador, Canada
+
+Important Information
+
+(Includes details about the availability of printed and electronic versions of the Statutes.)
+
+|
+
+|
+
+Table of Public Statutes
+|
+
+Main Site
+|
+
+How current is this statute?
+|
+
+|
+
+|
+
+|
+
+Responsible Department
+|
+
+|
+
+|
+
+|
+
+SNL2015 CHAPTER A-1.2
+
+ACCESS TO INFORMATION AND PROTECTION
+
+OF PRIVACY ACT, 2015
+
+Amended:
+
+2016 c6 s2; 2016 cR-15.2 s30; 2017 c10 s3; 10/18 s2; 2017 cS-13.003 s21; 2018 c4 s1; 2018 cI-7.1 s24; 2018 cC-12.3 s112; 2019 cO-6.1 s49;
+
+2019 cP-44.01 s30; 2021 c4; 2021 cA-4.02 s40; 2021 cA-22.1 s41;
+
+2022 c15; 2022 cP-30.1 s38; 2022 cW-11.1 s153; 2023 c16; 2023 c18 s38; 2023 cT-6.2 s306; 2024 cH-18 s61; 2025 c4 s241; 2026 c16 s2
+
+CHAPTER A-1.2
+
+AN ACT TO PROVIDE THE PUBLIC WITH ACCESS TO INFORMATION AND PROTECTION OF PRIVACY
+
+(Assented to June 1, 2015)
+
+Analysis
+
+�������
+
+1. �
+Short title
+
+�������������
+PART I
+
+INTERPRETATION
+
+�������
+
+2. �
+Definitions
+
+�������
+
+3. �
+Purpose
+
+�������
+
+4. �
+Schedule of excluded public bodies
+
+�������
+
+5. �
+Application
+
+�������
+
+6. �
+Relationship to Personal Health Information Act
+
+�������
+
+7. �
+Conflict with other Acts
+
+�������������
+PART II
+
+ACCESS AND CORRECTION
+
+�������������
+DIVISION 1
+
+THE REQUEST
+
+�������
+
+8. �
+Right of access
+
+�������
+
+9. �
+Public interest
+
+�����
+
+10. �
+Right to request correction of personal information
+
+�����
+
+11. �
+Making a request
+
+�����
+
+12. �
+Anonymity
+
+�����
+
+13. �
+Duty to assist applicant
+
+�����
+
+14. �
+Transferring a request
+
+�����
+
+15. �
+Advisory response
+
+�����
+
+16. �
+Time limit for final response
+
+�����
+
+17. �
+Content of final response for access
+
+�����
+
+18. �
+Content of final response for correction of personal information
+
+�����
+
+19. �
+Third party notification
+
+�����
+
+20. �
+Provision of information
+
+�����
+
+21. �
+Disregarding a request
+
+�����
+
+22. �
+Published material
+
+�����
+
+23. �
+Extension of time limit
+
+�����
+
+24. �
+Extraordinary circumstances
+
+�����
+
+25. �
+Costs
+
+�����
+
+26. �
+Estimate and waiver of costs
+
+�������������
+DIVISION 2
+
+EXCEPTIONS TO ACCESS
+
+�����
+
+27. �
+Cabinet confidences
+
+�����
+
+28. �
+Local public body confidences
+
+�����
+
+29. �
+Policy advice or recommendations
+
+�����
+
+30. �
+Legal advice
+
+�����
+
+31. �
+Disclosure harmful to law enforcement
+
+�����
+
+32. �
+Confidential evaluations
+
+�����
+
+33. �
+Information from a workplace investigation
+
+�����
+
+34. �
+Disclosure harmful to intergovernmental relations or negotiations
+
+�����
+
+35. �
+Disclosure harmful to the financial or economic interests of a public body
+
+�����
+
+36. �
+Disclosure harmful to conservation
+
+�����
+
+37. �
+Disclosure harmful to individual or public safety
+
+�����
+
+38. �
+Disclosure harmful to labour relations interests of public body as employer
+
+�����
+
+39. �
+Disclosure harmful to business interests of a third party
+
+�����
+
+40. �
+Disclosure harmful to personal privacy
+
+�����
+
+41. �
+Disclosure of House of Assembly service and statutory office records
+
+�������������
+DIVISION 3
+
+COMPLAINT
+
+�����
+
+42. �
+Access or correction complaint
+
+�����
+
+43. �
+Burden of proof
+
+�����
+
+44. �
+Investigation
+
+�����
+
+45. �
+Authority of commissioner not to investigate a complaint
+
+�����
+
+46. �
+Time limit for formal investigation
+
+�����
+
+47. �
+Recommendations
+
+�����
+
+48. �
+Report
+
+�����
+
+49. �
+Response of public body
+
+�����
+
+50. �
+Head of public body seeks declaration in court
+
+�����
+
+51. �
+Filing an order with the Trial Division
+
+�������������
+DIVISION 4
+
+APPEAL TO THE TRIAL DIVISION
+
+�����
+
+52. �
+Direct appeal to Trial Division by an applicant
+
+�����
+
+53. �
+Direct appeal to Trial Division by a third party
+
+�����
+
+54. �
+Appeal of public body decision after receipt of commissioner�s recommendation
+
+�����
+
+55. �
+No right of appeal
+
+�����
+
+56. �
+Procedure on appeal
+
+�����
+
+57. �
+Practice and procedure
+
+�����
+
+58. �
+Solicitor and client privilege
+
+�����
+
+59. �
+Conduct of appeal
+
+�����
+
+60. �
+Disposition of appeal
+
+�������������
+PART III
+
+PROTECTION OF PERSONAL INFORMATION
+
+�������������
+DIVISION 1
+
+COLLECTION, USE AND DISCLOSURE
+
+�����
+
+61. �
+Purpose for which personal information may be collected
+
+�����
+
+62. �
+How personal information is to be collected
+
+�����
+
+63. �
+Accuracy of personal information
+
+�����
+
+64. �
+Protection of personal information
+
+�����
+
+65. �
+Retention of personal information
+
+�����
+
+66. �
+Use of personal information
+
+�����
+
+67. �
+Use of personal information by post-secondary educational bodies
+
+�����
+
+68. �
+Disclosure of personal information
+
+�����
+
+69. �
+Definition of consistent purposes
+
+�����
+
+70. �
+Disclosure for research or statistical purposes
+
+�����
+
+71. �
+Disclosure for archival or historical purposes
+
+�����
+
+72. �
+Privacy impact assessment
+
+�������������
+DIVISION 2
+
+PRIVACY COMPLAINT
+
+�����
+
+73. �
+Privacy complaint
+
+�����
+
+74. �
+Investigation � privacy complaint
+
+�����
+
+75. �
+Authority of commissioner not to investigate a privacy complaint
+
+�����
+
+76. �
+Recommendations � privacy complaint
+
+�����
+
+77. �
+Report � privacy complaint
+
+�����
+
+78. �
+Response of public body � privacy complaint
+
+�����
+
+79. �
+Head of public body seeks declaration in court
+
+�����
+
+80. �
+Filing an order with the Trial Division
+
+�������������
+DIVISION 3
+
+APPLICATION TO THE TRIAL DIVISION FOR A DECLARATION
+
+�����
+
+81. �
+Practice and procedure
+
+�����
+
+82. �
+Solicitor and client privilege
+
+�����
+
+83. �
+Conduct
+
+�����
+
+84. �
+Disposition
+
+�������������
+PART IV
+
+OFFICE AND POWERS OF THE INFORMATION AND PRIVACY COMMISSIONER
+
+�������������
+DIVISION 1
+
+OFFICE
+
+�����
+
+85. �
+Appointment of the Information and Privacy Commissioner
+
+�����
+
+86. �
+Status of the commissioner
+
+�����
+
+87. �
+Term of office
+
+�����
+
+88. �
+Removal or suspension
+
+�����
+
+89. �
+Acting commissioner
+
+�����
+
+90. �
+Salary, pension and benefits
+
+�����
+
+91. �
+Expenses
+
+�����
+
+92. �
+Commissioner's staff
+
+�����
+
+93. �
+Oath of office
+
+�����
+
+94. �
+Oath of staff
+
+�������������
+DIVISION 2
+
+POWERS OF THE COMMISSIONER
+
+�����
+
+95. �
+General powers and duties of commissioner
+
+�����
+
+96. �
+Representation during an investigation
+
+�����
+
+97. �
+Production of documents
+
+�����
+
+98. �
+Right of entry
+
+�����
+
+99. �
+Admissibility of evidence
+
+���
+
+100. �
+Privilege
+
+���
+
+101. �
+Section 8.1 of the Evidence Act
+
+���
+
+102. �
+Disclosure of information
+
+���
+
+103. �
+Delegation
+
+���
+
+104. �
+Protection from liability
+
+���
+
+105. �
+Annual report
+
+���
+
+106. �
+Special report
+
+���
+
+107. �
+Report � investigation or audit
+
+�������������
+PART V
+
+GENERAL
+
+���
+
+108. �
+Exercising rights of another person
+
+���
+
+109. �
+Designation of head by local public body
+
+���
+
+110. �
+Designation and delegation by the head of a public body
+
+���
+
+111. �
+Publication scheme
+
+���
+
+112. �
+Amendments to statutes and regulations
+
+���
+
+113. �
+Report of minister responsible
+
+���
+
+114. �
+Limitation of liability
+
+���
+
+115. �
+Offence
+
+���
+
+116. �
+Regulations
+
+���
+
+117. �
+Review
+
+���
+
+118. �
+Transitional
+
+���
+
+119. �
+SNL2013 cA-3.1 Amdt.
+
+���
+
+120. �
+SNL1991 c22 Amdt.
+
+���
+
+121. �
+RSNL1990 cC-2 Amdt.
+
+���
+
+122. �
+SNL2004 cC-5.1 Amdt.
+
+���
+
+123. �
+SNL2010 cC-12.2 Amdt.
+
+���
+
+124. �
+SNL2001 cC-14.1 Amdt.
+
+���
+
+125. �
+SNL2007 cE-11.01 Amdt.
+
+���
+
+126. �
+SNL1995 cP-37.1 Amdt.
+
+���
+
+127. �
+RSNL1990 cH-10 Amdt.
+
+���
+
+128. �
+SNL2007cH-10.1 Amdt.
+
+���
+
+129. �
+SNL1999 cM-5.1 Amdt.
+
+���
+
+130. �
+SNL2014 cM-16.2 Amdt.
+
+���
+
+131. �
+SNL2008 cP-7.01 Amdt.
+
+���
+
+132. �
+SNL2008 cR-13.1 Amdt.
+
+���
+
+133. �
+SNL2014 c23 Amdt.
+
+���
+
+134. �
+SNL2005 cR-15.1 Amdt.
+
+���
+
+135. �
+SNL2009 cV-6.01 Amdt.
+
+���
+
+136. �
+Repeal
+
+���
+
+137. �
+Commencement
+
+Schedule A
+
+Schedule B
+
+Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
+
+Short title
+
+�������
+1.
+
+This Act may be cited as the Access to Information and Protection of Privacy Act, 2015.
+
+2015 cA-1.2 s1
+
+PART I
+
+INTERPRETATION
+
+Back to Top
+
+Definitions
+
+�������
+2.
+
+In this Act
+
+������������
+(a)�
+"applicant" means a person who makes a request under section 11
+for access to a record, including a record containing personal information about the person, or for correction of personal information;
+
+������������
+(b)�
+"business day" means a day that is not a Saturday, Sunday or a holiday;
+
+������������
+(c)�
+"Cabinet" means the executive council appointed under the Executive Council Act, and includes a committee of the executive council;
+
+������������
+(d)�
+"commissioner" means the Information and Privacy Commissioner appointed under section 85;
+
+������������
+(e)�
+"complaint" means a complaint filed under section 42;
+
+������������
+(f)�
+"coordinator" means the person designated by the head of the public body as coordinator under subsection 110
+(1);
+
+������������
+(g)�
+"dataset" means information comprising a collection of information held in electronic form where all or most of the information in the collection
+
+���������������������
+(i)�
+has been obtained or recorded for the purpose of providing a public body with information in connection with the provision of a service by the public body or the carrying out of another function of the public body,
+
+��������������������
+(ii)�
+is factual information
+
+���������������������������
+(A)�
+which is not the product of analysis or interpretation other than calculation, and
+
+���������������������������
+(B)�
+to which section 13 of the Statistics Agency Act
+does not apply, and
+
+�������������������
+(iii)�
+remains presented in a way that, except for the purpose of forming part of the collection, has not been organized, adapted or otherwise materially altered since it was obtained or recorded;
+
+������������
+(h)�
+"educational body" means
+
+���������������������
+(i)�
+Memorial
+University
+of Newfoundland,
+
+��������������������
+(ii)�
+College of the North Atlantic,
+
+�������������������
+(iii)�
+Centre for Nursing Studies,
+
+�������������������
+(iv)�
+Western
+Regional
+School
+
+of Nursing,
+
+��������������������
+(v)�
+a school board, school district constituted or established under the Schools Act, 1997,
+including the conseil scolaire francophone, and
+
+�������������������
+(vi)�
+a body designated as an educational body in the regulations made under section 116;
+
+�������������
+(i)�
+"employee", in relation to a public body, includes a person retained under a contract to perform services for the public body;
+
+�������������
+(j)�
+"head", in relation to a public body, means
+
+���������������������
+(i)�
+in the case of a department, the minister who presides over it,
+
+��������������������
+(ii)�
+in the case of a corporation, its chief executive officer,
+
+�������������������
+(iii)�
+in the case of an unincorporated body, the minister appointed under the Executive Council Act
+to administer the Act under which the body is established, or the minister who is otherwise responsible for the body,
+
+�������������������
+(iv)�
+in the case of the House of Assembly the Speaker and in the case of the statutory offices as defined in the House of Assembly Accountability, Integrity and Administration Act,
+
+the applicable officer of each statutory office, or
+
+��������������������
+(v)�
+in another case, the person or group of persons designated under section 109
+or in the regulations as the head of the public body;
+
+������������
+(k)�
+"health care body" means
+
+���������������������
+(i)�
+
+the authority as defined in the Provincial Health Authority Act,
+
+��������������������
+(ii)�
+the Mental Health Care and Treatment Review Board,
+
+�������������������
+(iii)�
+[Rep. by 2022 cP-30.1 s38]
+
+�������������������
+(iv)�
+a body designated as a health care body in the regulations made under section 116;
+
+�������������
+(l)�
+"House of Assembly Management Commission" means the commission continued under section 18 of the House of Assembly Accountability, Integrity and Administration Act;
+
+����������
+(m)�
+"judicial administration record" means a record containing information relating to a judge, master or justice of the peace, including information respecting
+
+���������������������
+(i)�
+the scheduling of judges, hearings and trials,
+
+��������������������
+(ii)�
+the content of judicial training programs,
+
+�������������������
+(iii)�
+statistics of judicial activity prepared by or for a judge,
+
+�������������������
+(iv)�
+a judicial directive, and
+
+��������������������
+(v)�
+a record of the Complaints Review Committee or an adjudication tribunal established under the Provincial Court Act, 1991;
+
+������������
+(n)�
+"law enforcement" means
+
+���������������������
+(i)�
+policing, including criminal intelligence operations, or
+
+��������������������
+(ii)�
+investigations, inspections or proceedings conducted under the authority of or for the purpose of enforcing an enactment which lead
+to or could lead to a penalty or sanction being imposed under the enactment;
+
+������������
+(o)�
+"local government body" means
+
+���������������������
+(i)�
+the City of Corner Brook,
+
+��������������������
+(ii)�
+the City of Mount Pearl,
+
+�������������������
+(iii)�
+the City of St. John�s,
+
+�������������������
+(iv)�
+a town as defined in the Towns and Local Service Districts Act, and
+
+��������������������
+(v)�
+a body designated as a local government body in the regulations made under section 116;
+
+������������
+(p)�
+"local public body" means
+
+���������������������
+(i)�
+an educational body,
+
+��������������������
+(ii)�
+a health care body, and
+
+�������������������
+(iii)�
+a local government body;
+
+������������
+(q)�
+"minister" means a member of the executive council appointed under the Executive Council Act;
+
+�������������
+(r)�
+"minister responsible for this Act" means the minister appointed under the Executive Council Act
+to administer this Act;
+
+������������
+(s)�
+"officer of the House of Assembly" means the Speaker of the House of Assembly, the Clerk of the House of Assembly, the Chief Electoral Officer, the Auditor General of Newfoundland and Labrador, the Commissioner for Legislative Standards, the Citizens' Representative, the Child and Youth Advocate, the Seniors� Advocate and the Information and Privacy Commissioner, and a position designated to be an officer of the House of Assembly by the Act creating the position;
+
+�������������
+(t)�
+"person" includes an individual, corporation, partnership, association, organization or other entity;
+
+������������
+(u)�
+"personal information" means recorded information about an identifiable individual, including
+
+���������������������
+(i)�
+the individual's name, address or telephone number,
+
+��������������������
+(ii)�
+the individual's race, national or ethnic origin, colour, or religious or political beliefs or associations,
+
+�������������������
+(iii)�
+the individual's age, sex, sexual orientation, marital status or family status,
+
+�������������������
+(iv)�
+an identifying number, symbol or other particular assigned
+to the individual,
+
+��������������������
+(v)�
+the individual's fingerprints, blood type or inheritable characteristics,
+
+�������������������
+(vi)�
+information about the individual's health care status or history, including a physical or mental disability,
+
+������������������
+(vii)�
+information about the individual's educational, financial, criminal or employment status or history,
+
+�����������������
+(viii)�
+the opinions of a person about the individual, and
+
+�������������������
+(ix)�
+the individual's personal views or opinions, except where they are about someone else;
+
+������������
+(v)�
+"privacy complaint" means a privacy complaint filed under subsection 73
+(1) or (2) or an investigation initiated on the commissioner�s own motion under subsection 73
+(3);
+
+�����������
+(w)�
+"privacy impact assessment" means an assessment that is conducted by a public body as defined under subparagraph (x)(i) to determine if a current or proposed program or service meets or will meet the requirements of Part III of this Act;
+
+������������
+(x)�
+"public body" means
+
+���������������������
+(i)�
+a department created under the Executive Council Act, or a branch of the executive government of the province,
+
+��������������������
+(ii)�
+a corporation, the ownership of which, or a majority of
+the shares of which is vested in the Crown,
+
+�������������������
+(iii)�
+a corporation, commission or body, the majority of
+the members of which, or the majority of
+members of the board of directors of which are appointed by an Act, the Lieutenant-Governor in Council or a minister,
+
+�������������������
+(iv)�
+a local public body,
+
+��������������������
+(v)�
+the House of Assembly and statutory offices, as defined in the House of Assembly Accountability, Integrity and Administration Act,
+and
+
+�������������������
+(vi)�
+a corporation or other entity owned by or created by or for a local government body or group of local government bodies, which has as its primary purpose the management of a local government asset or the discharge of a local government responsibility,
+
+and includes a body designated for this purpose in the regulations made under section 116, but does not include
+
+������������������
+(vii)�
+the constituency office of a member of the House of Assembly wherever located,
+
+�����������������
+(viii)�
+the Court of Appeal, the Trial Division, or the Provincial Court
+
+, or
+
+�������������������
+(ix)�
+a body listed in Schedule B;
+
+������������
+(y)�
+"record" means a record of information in any form, and includes a dataset, information that is machine readable, written, photographed, recorded or stored in any manner, but does not include a computer program or a mechanism that produced records on any storage medium;
+
+������������
+(z)�
+"remuneration" includes salary, wages, overtime pay, bonuses, allowances, honorariums, severance pay, and the aggregate of the contributions of a public body to pension, insurance, health and other benefit plans;
+
+���������
+(aa)�
+"request" means a request made under section 11
+for access to a record, including a record containing personal information about the applicant, or correction of personal information, unless the context indicates otherwise;
+
+���������
+(bb)�
+"Schedule B" means the schedule of bodies excluded from the definition of public body; and
+
+����������
+(cc)�
+"third party", in relation to a request for access to a record or for correction of personal information, means a person or group of persons other than
+
+���������������������
+(i)�
+the person who made the request, or
+
+��������������������
+(ii)�
+a public body.
+
+2015 cA-1.2 s2; 2017 c10 s3; 2022 cP-30.1 s38; 2023 cT-6.2 s306
+
+Back to Top
+
+Purpose
+
+�������
+3.
+
+(1)�The purpose of this Act is to facilitate democracy through
+
+������������
+(a)�
+ensuring that citizens have the information required to participate meaningfully in the democratic process;
+
+������������
+(b)�
+increasing transparency in government and public bodies so that elected officials, officers and employees of public bodies remain accountable; and
+
+������������
+(c)�
+protecting the privacy of individuals with respect to personal information about themselves held and used by public bodies.
+
+������������
+(2)�
+The purpose is to be achieved by
+
+������������
+(a)�
+giving the public a right of access to records;
+
+������������
+(b)�
+giving individuals a right of access to, and a right to request correction of, personal information about themselves;
+
+������������
+(c)�
+specifying the limited exceptions to the rights of access and correction that are necessary to
+
+���������������������
+(i)�
+preserve the ability of government to function efficiently as a cabinet government in a parliamentary democracy,
+
+��������������������
+(ii)�
+accommodate established and accepted rights and privileges of others, and
+
+�������������������
+(iii)�
+protect from harm the confidential proprietary and other rights of third parties;
+
+������������
+(d)�
+providing that some discretionary exceptions will not apply where it is clearly demonstrated that the public interest in disclosure outweighs the reason for the exception;
+
+������������
+(e)�
+preventing the unauthorized collection, use or disclosure of personal information by public bodies; and
+
+������������
+(f)�
+providing for an oversight agency that
+
+���������������������
+(i)�
+is an advocate for access to information and protection of privacy,
+
+��������������������
+(ii)�
+facilitates timely and user friendly
+application of this Act,
+
+�������������������
+(iii)�
+provides independent review of decisions made by public bodies under this Act,
+
+�������������������
+(iv)�
+provides independent investigation of privacy complaints,
+
+��������������������
+(v)�
+makes recommendations to government and to public bodies as to actions they might take to better achieve the objectives of this Act, and
+
+�������������������
+(vi)�
+educates the public and public bodies on all aspects of this Act.
+
+������������
+(3)�
+This Act does not replace other procedures for access to information or limit access to information that is not personal information and is available to the public.
+
+2015 cA-1.2 s3
+
+Back to Top
+
+Schedule of excluded public bodies
+
+�������
+4.
+
+When the House of Assembly is not in session, the Lieutenant-Governor in Council, on the recommendation of the House of Assembly Management Commission, may by order amend Schedule B, but the order shall not continue in force beyond the end of the next sitting of the House of Assembly.
+
+2015 cA-1.2 s4
+
+Back to Top
+
+Application
+
+�������
+5.
+
+(1)�This Act applies to all records in the custody of or under the control of a public body but does not apply to
+
+������������
+(a)�
+a record in a court file, a record of a judge of the Court of Appeal, Trial Division, or Provincial Court, a judicial administration record or a record relating to support services provided to the judges of those courts;
+
+������������
+(b)�
+a note, communication or draft decision of a person acting in a judicial or quasi-judicial capacity;
+
+������������
+(c)�
+a personal or constituency record of a member of the House of Assembly, that is in the possession or control of the member;
+
+������������
+(d)�
+records of a registered political party or caucus as defined in the House of Assembly Accountability, Integrity and Administration Act;
+
+������������
+(e)�
+a personal or constituency record of a minister;
+
+������������
+(f)�
+a record of a question that is to be used on an examination or test;
+
+������������
+(g)�
+a record containing teaching materials or research information of an employee of a post-secondary educational institution;
+
+������������
+(h)�
+material placed in the custody of The Rooms Corporation of Newfoundland
+and Labrador
+by or for a person other than a public body;
+
+�������������
+(i)�
+material placed in the archives of a public body by or for a person other than the public body;
+
+�������������
+(j)�
+a record relating to a prosecution if all proceedings in respect of the prosecution have not been completed;
+
+������������
+(k)�
+a record relating to an investigation by the Royal Newfoundland Constabulary if all matters in respect of the investigation have not been completed;
+
+��������
+(k.1)�
+a record relating to an investigation by the Serious Incident Response Team as defined under the Serious Incident Response Team Act
+if all matters in respect of the investigation have not been completed
+
+�������������
+(l)�
+a record relating to an investigation by the Royal Newfoundland Constabulary that would reveal the identity of a confidential source of information or reveal information provided by that source with respect to a law enforcement matter;
+
+����������
+(m)�
+a record relating to an investigation by the Royal Newfoundland Constabulary in which suspicion of guilt of an identified person is expressed but no charge was ever laid, or relating to prosecutorial consideration of that investigation; or
+
+������������
+(n)�
+a record relating to an investigation by the Serious Incident Response Team as defined under the Serious Incident Response Team Act
+in which suspicion of guilt of a police officer is expressed but no charge was ever laid, or
+relating to prosecutorial consideration of that investigation.
+
+������������
+(2)�
+This Act
+
+������������
+(a)�
+is in addition to existing procedures for access to records or information normally available to the public, including a requirement to pay fees;
+
+������������
+(b)�
+does not prohibit the transfer, storage or destruction of a record in accordance with an Act of the province or Canada
+
+or a by-law or resolution of a local public body;
+
+������������
+(c)�
+does not limit the information otherwise available by law to a party in a legal proceeding; and
+
+������������
+(d)�
+does not affect the power of a court or tribunal to compel a witness to testify or to compel the production of a document.
+
+2015 cA-1.2 s5; 2016 cR-15.2 s30; 2017 cS-13.003 s21
+
+Back to Top
+
+Relationship to
+Personal Health Information Act
+
+�������
+6.
+
+(1)�Notwithstanding section 5
+, but except as provided in sections 92
+to 94
+, this Act and the regulations shall not apply and the Personal Health Information Act
+and regulations under that Act shall apply where
+
+������������
+(a)�
+a public body is a custodian; and
+
+������������
+(b)�
+the information or record that is in the custody or control of a public body that is a custodian is personal health information.
+
+������������
+(2)�
+For the purpose of this section, "custodian" and "personal health information" have the meanings ascribed to them in the Personal Health Information Act
+.
+
+2015 cA-1.2 s6
+
+Back to Top
+
+Conflict with other Acts
+
+�������
+7.
+
+(1)�Where there is a conflict between this Act or a regulation made under this Act and another Act or regulation enacted before or after the coming into force of this Act, this Act or the regulation made under it shall prevail.
+
+������������
+(2)�
+Notwithstanding subsection (1), where access to a record is prohibited or restricted by, or the right to access a record is provided in a provision designated in Schedule A, that provision shall prevail over this Act or a regulation made under it.
+
+������������
+(3)�
+When the House of Assembly is not in session, the Lieutenant-Governor in Council may by order amend Schedule A, but the order shall not continue in force beyond the end of the next sitting of the House of Assembly.
+
+2015 cA-1.2 s7
+
+PART II
+
+ACCESS
+AND CORRECTION
+
+DIVISION 1
+
+THE REQUEST
+
+Back to Top
+
+Right of access
+
+�������
+8.
+
+(1)�A person who makes a request under section 11
+has a right of access to a record in the custody or under the control of a public body, including a record containing personal information about the applicant.
+
+������������
+(2)�
+The right of access to a record does not extend to information excepted from disclosure under this Act, but if it is reasonable to sever that information from the record, an applicant has a right of access to the remainder of the record.
+
+������������
+(3)�
+The right of access to a record may be subject to the payment, under section 25
+, of the costs of reproduction, shipping and locating a record.
+
+2015 cA-1.2 s8
+
+Back to Top
+
+Public interest
+
+�������
+9.
+
+(1)�Where the head of a public body may refuse to disclose information to an applicant under a provision listed in subsection (2), that discretionary exception shall not apply where it is clearly demonstrated that the public interest in disclosure of the information outweighs the reason for the exception.
+
+������������
+(2)�
+Subsection (1) applies to the following sections:
+
+������������
+(a)�
+section 28
+(local public body confidences);
+
+������������
+(b)�
+section 29
+(policy advice or recommendations);
+
+������������
+(c)�
+subsection 30
+(1) (legal advice);
+
+������������
+(d)�
+section 32
+(confidential evaluations);
+
+������������
+(e)�
+section 34
+(disclosure harmful to intergovernmental relations or negotiations);
+
+������������
+(f)�
+section 35
+(disclosure harmful to the financial or economic interests of a public body);
+
+������������
+(g)�
+section 36
+(disclosure harmful to conservation); and
+
+������������
+(h)�
+section 38
+(disclosure harmful to labour relations interests of public body as employer).
+
+������������
+(3)�
+Whether or not a request for access is made, the head of a public body shall, without delay, disclose to the public, to an affected group of people or to an applicant, information about a risk of significant harm to the environment or to the health or safety of the public or a group of people, the disclosure of which is clearly in the public interest.
+
+������������
+(4)�
+Subsection (3) applies notwithstanding a provision of this Act.
+
+������������
+(5)�
+Before disclosing information under subsection (3), the head of a public body shall, where practicable, give notice of disclosure in the form appropriate in the circumstances to a third party to whom the information relates.
+
+2015 cA-1.2 s9
+
+Back to Top
+
+Right to request correction of personal information
+
+�����
+10.
+
+(1)�An individual who believes there is an error or omission in his or her personal information may request the head of the public body that has the information in its custody or under its control to correct the information.
+
+������������
+(2)�
+A cost shall not be charged for a request for correction of personal information or for a service in response to that request.
+
+2015 cA-1.2 s10
+
+Back to Top
+
+Making a request
+
+�����
+11.
+
+(1)�A person may access a record or seek a correction of personal information by making a request to the public body that the person believes has custody or control of the record or personal information.
+
+������������
+(2)�
+A request shall
+
+������������
+(a)�
+be in the form set by the minister responsible for this Act;
+
+������������
+(b)�
+provide sufficient details about the information requested so that an employee familiar with the records of the public body can identify and locate the record containing the information with reasonable efforts; and
+
+������������
+(c)�
+indicate how and in what form the applicant would prefer to access the record.
+
+������������
+(3)�
+An applicant may make an oral request for access to a record or correction of personal information where the applicant
+
+������������
+(a)�
+has a limited ability to read or write English; or
+
+������������
+(b)�
+has a disability or condition that impairs his or her ability to make a request.
+
+������������
+(4)�
+A request under subsection (2) may be transmitted by electronic means.
+
+2015 cA-1.2 s11
+
+Back to Top
+
+Anonymity
+
+�����
+12.
+
+(1)�The head of a public body shall ensure that the name and type of the applicant is disclosed only to the individual who receives the request on behalf of the public body, the coordinator, the coordinator�s assistant and, where necessary, the commissioner.
+
+������������
+(2)�
+Subsection (1) does not apply to a request
+
+������������
+(a)�
+respecting personal information about the applicant; or
+
+������������
+(b)�
+where the name of the applicant is necessary to respond to the request and the applicant has consented to its disclosure.
+
+������������
+(3)�
+The disclosure of an applicant�s name in a request referred to in subsection (2) shall be limited to the extent necessary to respond to the request.
+
+������������
+(4)�
+The limitation on disclosure under subsection (1) applies until the final response to the request is sent to the applicant.
+
+2015 cA-1.2 s12
+
+Back to Top
+
+Duty to assist applicant
+
+�����
+13.
+
+(1)�The head of a public body shall make every reasonable effort to assist an applicant in making a request and to respond without delay to an applicant in an open, accurate and complete manner.
+
+������������
+(2)�
+The applicant and the head of the public body shall communicate with one another under this Part through the coordinator.
+
+2015 cA-1.2 s13
+
+Back to Top
+
+Transferring a request
+
+�����
+14.
+
+(1)�The head of a public body may, upon notifying the applicant in writing, transfer a request to another public body not later than 5 business days after receiving it, where it appears that
+
+������������
+(a)�
+the record was produced by or for the other public body; or
+
+������������
+(b)�
+the record or personal information is in the custody of or under the control of the other public body.
+
+������������
+(2)�
+The head of the public body to which a request is transferred shall respond to the request, and the provisions of this Act shall apply, as if the applicant had originally made the request to and it was received by that public body on the date it was transferred to that public body.
+
+2015 cA-1.2 s14
+
+Back to Top
+
+Advisory response
+
+�����
+15.
+
+(1)�The head of a public body shall, not more than 10 business days after receiving a request, provide an advisory response in writing to
+
+������������
+(a)�
+advise the applicant as to what will be the final response where
+
+���������������������
+(i)�
+the record is available and the public body is neither authorized nor required to refuse access to the record under this Act, or
+
+��������������������
+(ii)�
+the request for correction of personal information is justified and can be readily made; or
+
+������������
+(b)�
+in other circumstances, advise the applicant of the status of the request.
+
+������������
+(2)�
+An advisory response under paragraph (1)(b) shall inform the applicant about one or more of the following matters, then known:
+
+������������
+(a)�
+a circumstance that may result in the request being refused in full or in part;
+
+������������
+(b)�
+a cause or other factor that may result in a delay beyond the time period
+of 20 business days and an estimated length of that delay, for which the head of the public body may seek approval from the commissioner under section 23
+to extend the time limit for responding;
+
+������������
+(c)�
+costs that may be estimated under section 26
+to respond to the request;
+
+������������
+(d)�
+a third party
+interest in the request; and
+
+������������
+(e)�
+possible revisions to the request that may facilitate its earlier and less costly response.
+
+������������
+(3)�
+The head of the public body shall, where it is reasonable to do so, provide an applicant with a further advisory response at a later time
+where an additional circumstance, cause or other factor, costs or a third party
+interest that may delay receipt of a final response, becomes known.
+
+2015 cA-1.2 s15
+
+Back to Top
+
+Time limit for final response
+
+�����
+16.
+
+(1)�The head of a public body shall respond to a request in accordance with section 17
+or 18
+, without delay and in any event not more than 20 business days after receiving it, unless the time limit for responding is extended under section 23
+.
+
+������������
+(2)�
+Where the head of a public body fails to respond within the period of 20 business days or an extended period, the head is considered to have refused access to the record or refused the request for correction of personal information.
+
+2015 cA-1.2 s16
+
+Back to Top
+
+Content of final response for access
+
+�����
+17.
+
+(1)�In a final response to a request for access to a record, the head of a public body shall inform the applicant in writing
+
+������������
+(a)�
+whether access to the record or part of the record is granted or refused;
+
+������������
+(b)�
+if access to the record or part of the record is granted, where, when and how access will be given; and
+
+������������
+(c)�
+if access to the record or part of the record is refused,
+
+���������������������
+(i)�
+the reasons for the refusal and the provision of this Act on which the refusal is based, and
+
+��������������������
+(ii)�
+that the applicant may file a complaint with the commissioner under section 42
+or appeal directly to the Trial Division under section 52
+, and
+advise the applicant of the applicable time limits and how to file a complaint or pursue an appeal.
+
+������������
+(2)�
+Notwithstanding paragraph (1)(c), the head of a public body may in a final response refuse to confirm or deny the existence of
+
+������������
+(a)�
+a record containing information described in section 31
+;
+
+������������
+(b)�
+a record containing personal information of a third party if disclosure of the existence of the information would be an unreasonable invasion of a third party�s personal privacy under section 40
+; or
+
+������������
+(c)�
+a record that could threaten the health and safety of an individual.
+
+2015 cA-1.2 s17
+
+Back to Top
+
+Content of final response for correction of personal information
+
+�����
+18.
+
+(1)�In a final response to a request for correction of personal information, the head of a public body shall inform the applicant in writing
+
+������������
+(a)�
+whether the requested correction has been made; and
+
+������������
+(b)�
+if the request is refused,
+
+���������������������
+(i)�
+the reasons for the refusal,
+
+��������������������
+(ii)�
+that the record has been annotated, and
+
+�������������������
+(iii)�
+that the applicant may file a complaint with the commissioner under section 42
+or appeal directly to the Trial Division under section 52
+, and
+advise the applicant of the applicable time limits and how to file a complaint or pursue an appeal.
+
+������������
+(2)�
+Where no correction is made in response to a request, the head of the public body shall annotate the information with the correction that was requested but not made.
+
+������������
+(3)�
+Where personal information is corrected or annotated under this section, the head of the public body shall notify a public body or a third party to whom that information has been disclosed during the one year
+period before the correction was requested.
+
+������������
+(4)�
+Where a public body is notified under subsection (3) of a correction or annotation of personal information, the public body shall make the correction or annotation on a record of that information in its custody or under its control.
+
+2015 cA-1.2 s18
+
+Back to Top
+
+Third party notification
+
+�����
+19.
+
+(1)�Where the head of a public body intends to grant access to a record or part of a record that the head has reason to believe contains information that might be excepted from disclosure under section 39
+or 40
+, the head shall make every reasonable effort to notify the third party.
+
+������������
+(2)�
+The time to notify a third party does not suspend the period of time
+referred to in subsection 16
+(1).
+
+������������
+(3)�
+The head of the public body may provide or describe to the third party the content of the record or part of the record for which access is requested.
+
+������������
+(4)�
+The third party may consent to the disclosure of the record or part of the record.
+
+������������
+(5)�
+Where the head of a public body decides to grant access to a record or part of a record and the third party does not consent to the disclosure, the head shall inform the third party in writing
+
+������������
+(a)�
+of the reasons for the decision and the provision of this Act on which the decision is based;
+
+������������
+(b)�
+of the content of the record or part of the record for which access is to be given;
+
+������������
+(c)�
+that the applicant will be given access to the record or part of the record unless the third party, not later than 15 business days after the head of the public body informs the third party of this decision, files a complaint with the commissioner under section 42
+or appeals directly to the Trial Division under section 53
+; and
+
+������������
+(d)�
+how to file a complaint or pursue an appeal.
+
+������������
+(6)�
+Where the head of a public body decides to grant access and the third party does not consent to the disclosure, the head shall, in a final response to an applicant, state that the applicant will be given access to the record or part of the record on the completion of the period of 15 business days referred to in subsection (5), unless a third party files a complaint with the commissioner under section 42
+or appeals directly to the Trial Division under section 53
+.
+
+������������
+(7)�
+The head of the public body shall not give access to the record or part of the record until
+
+������������
+(a)�
+he or she receives confirmation from the third party or the commissioner that the third party has exhausted any recourse under this Act or has decided not to file a complaint or commence an appeal; or
+
+������������
+(b)�
+a court order has been issued confirming the decision of the public body.
+
+������������
+(8)�
+The head of the public body shall advise the applicant as to the status of a complaint filed or an appeal commenced by the third party.
+
+������������
+(9)�
+The third party and the head of the public body shall communicate with one another under this Part through the coordinator.
+
+2015 cA-1.2 s19
+
+Back to Top
+
+Provision of information
+
+�����
+20.
+
+(1)�Where the head of a public body informs an applicant under section 17
+that access to a record or part of a record is granted, he or she shall
+
+������������
+(a)�
+give the applicant a copy of the record or part of it, where the applicant requested a copy and the record can reasonably be reproduced; or
+
+������������
+(b)�
+permit the applicant to examine the record or part of it, where the applicant requested to examine a record or where the record cannot be reasonably reproduced.
+
+������������
+(2)�
+Where the requested information is in electronic form in the custody or under the control of a public body, the head of the public body shall produce a record for the applicant where
+
+������������
+(a)�
+it can be produced using the normal computer hardware and software and technical expertise of the public body; and
+
+������������
+(b)�
+producing it would not interfere unreasonably with the operations of the public body.
+
+������������
+(3)�
+Where the requested information is information in electronic form that is, or forms part of, a dataset in the custody or under the control of a public body, the head of the public body shall produce the information for the applicant in an electronic form that is capable of re-use where
+
+������������
+(a)�
+it can be produced using the normal computer hardware and software and technical expertise of the public body;
+
+������������
+(b)�
+producing it would not interfere unreasonably with the operations of the public body; and
+
+������������
+(c)�
+it is reasonably practicable to do so.
+
+������������
+(4)�
+Where information that is, or forms part of, a dataset is produced, the head of the public body shall make it available for re-use in accordance with the terms of a licence that may be applicable to the dataset.
+
+������������
+(5)�
+Where a record exists, but not in the form requested by the applicant, the head of the public body may, in consultation with the applicant, create a record in the form requested where the head is of the opinion that it would be simpler or less costly for the public body to do so.
+
+2015 cA-1.2 s20
+
+Back to Top
+
+Disregarding a request
+
+�����
+21.
+
+(1)�The head of a public body may, not later than 5 business days after receiving a request, apply to the commissioner for approval to disregard the request where the head is of the opinion that
+
+������������
+(a)�
+the request would unreasonably interfere with the operations of the public body;
+
+������������
+(b)�
+the request is for information already provided to the applicant; or
+
+������������
+(c)�
+the request would amount to an abuse of the right to make a request because it is
+
+���������������������
+(i)�
+trivial, frivolous or vexatious,
+
+��������������������
+(ii)�
+unduly repetitive or systematic,
+
+�������������������
+(iii)�
+excessively broad or incomprehensible, or
+
+�������������������
+(iv)�
+otherwise made in bad faith.
+
+������������
+(2)�
+The commissioner shall, without delay and in any event not later than 3 business days after receiving an application, decide to approve or disapprove the application.
+
+������������
+(3)�
+The time to make an application and receive a decision from the commissioner does not suspend the period of time
+referred to in subsection 16
+(1).
+
+������������
+(4)�
+Where the commissioner does not approve the application, the head of the public body shall respond to the request in the manner required by this Act.
+
+������������
+(5)�
+Where the commissioner approves the application, the head of a public body who refuses to give access to a record or correct personal information under this section shall notify the person who made the request.
+
+������������
+(6)�
+The notice shall contain the following information:
+
+������������
+(a)�
+that the request is refused because the head of the public body is of the opinion that the request falls under subsection (1) and of the reasons for the refusal;
+
+������������
+(b)�
+that the commissioner has approved the decision of the head of a public body to disregard the request; and
+
+������������
+(c)�
+that the person who made the request may appeal the decision of the head of the public body to the Trial Division under subsection 52
+(1).
+
+2015 cA-1.2 s21
+
+Back to Top
+
+Published material
+
+�����
+22.
+
+(1)�The head of a public body may refuse to disclose a record or part of a record that
+
+������������
+(a)�
+is published and is available to the public whether without cost or for purchase; or
+
+������������
+(b)�
+is to be published or released to the public within 30 business days after the applicant�s request is received.
+
+������������
+(2)�
+The head of a public body shall notify an applicant of the publication or release of information that the head has refused to give access to under paragraph (1)(b).
+
+������������
+(3)�
+Where the information is not published or released within 30 business days after the applicant�s request is received, the head of the public body shall reconsider the request as if it were a new request received on the last day of that period, and access may not be refused under paragraph (1)(b).
+
+2015 cA-1.2 s22
+
+Back to Top
+
+Extension of time limit
+
+�����
+23.
+
+(1)�The head of a public body may, not later than 15 business days after receiving a request, apply to the commissioner to extend the time for responding to the request.
+
+������������
+(2)�
+The commissioner may approve an application for an extension of time where the commissioner considers that it is necessary and reasonable to do so in the circumstances, for the number of business days the commissioner considers appropriate.
+
+������������
+(3)�
+The commissioner shall, without delay and not later than 3 business days after receiving an application, decide to approve or disapprove the application.
+
+������������
+(4)�
+The time to make an application and receive a decision from the commissioner does not suspend the period of time
+referred to in subsection 16
+(1).
+
+������������
+(5)�
+Where the commissioner does not approve the application, the head of the public body shall respond to the request under subsection 16
+(1) without delay and in any event not later than 20 business days after receiving the request.
+
+������������
+(6)�
+Where the commissioner approves the application and the time limit for responding is extended, the head of the public body shall, without delay, notify the applicant in writing
+
+������������
+(a)�
+of the reason for the extension;
+
+������������
+(b)�
+that the commissioner has authorized the extension; and
+
+������������
+(c)�
+when a response can be expected.
+
+2015 cA-1.2 s23
+
+Back to Top
+
+Extraordinary circumstances
+
+�����
+24.
+
+(1)�The head of a public body, an applicant or a third party may, in extraordinary circumstances, apply to the commissioner to vary a procedure, including a time limit imposed under a procedure, in this Part.
+
+������������
+(2)�
+Where the commissioner considers that extraordinary circumstances exist and it is necessary and reasonable to do so, the commissioner may vary the procedure as requested or in another manner that the commissioner considers appropriate.
+
+������������
+(3)�
+The commissioner shall, without delay and not later than 3 business days after receiving an application, make a decision
+to vary or not vary the procedure.
+
+������������
+(4)�
+The time to make an application and receive a decision from the commissioner does not suspend the period of time
+referred to in subsection 16
+(1).
+
+������������
+(5)�
+Where the commissioner decides to vary a procedure upon an application of a head of a public body or a third party, the head shall notify the applicant in writing
+
+������������
+(a)�
+of the reason for the procedure being varied; and
+
+������������
+(b)�
+that the commissioner has authorized the variance.
+
+������������
+(6)�
+Where the commissioner decides to vary a procedure upon an application of an applicant to a request, the commissioner shall notify the head of the public body of the variance.
+
+������������
+(7)�
+An application cannot be made to vary a procedure for which the commissioner is responsible under this Part.
+
+2015 cA-1.2 s24
+
+Back to Top
+
+Costs
+
+�����
+25.
+
+(1)�The head of a public body shall not charge an applicant for making an application for access to a record or for the services of identifying, retrieving, reviewing, severing or redacting a record.
+
+������������
+(2)�
+The head of a public body may charge an applicant a modest cost for locating a record only, after
+
+������������
+(a)�
+the first 10 hours of locating the record, where the request is made to a local government body; or
+
+������������
+(b)�
+the first 15 hours of locating the record, where the request is made to another public body.
+
+������������
+(3)�
+The head of a public body may require an applicant to pay
+
+������������
+(a)�
+a modest cost for copying or printing a record, where the record is to be provided in hard copy form;
+
+������������
+(b)�
+the actual cost of reproducing or providing a record that cannot be reproduced or printed on conventional equipment then in use by the public body; and
+
+������������
+(c)�
+the actual cost of shipping a record using the method chosen by the applicant.
+
+������������
+(4)�
+Notwithstanding subsections (2) and (3), the head of the public body shall not charge an applicant a cost for a service in response to a request for access to the personal information of the applicant.
+
+������������
+(5)�
+The cost charged for services under this section shall not exceed either
+
+������������
+(a)�
+the estimate given to the applicant under section 26
+; or
+
+������������
+(b)�
+the actual cost of the services.
+
+������������
+(6)�
+The minister responsible for the administration of this Act may set the amount of a cost that may be charged under this section.
+
+2015 cA-1.2 s25
+
+Back to Top
+
+Estimate and waiver of costs
+
+�����
+26.
+
+(1)�Where an applicant is to be charged a cost under section 25
+, the head of the public body shall give the applicant an estimate of the total cost before providing the services.
+
+������������
+(2)�
+The applicant has 20 business days from the day the estimate is sent to accept the estimate or modify the request in order to change the amount of the cost, after which time the applicant is considered to have abandoned the request, unless the applicant applies for a waiver of all or part of the costs or applies to the commissioner to revise the estimate.
+
+������������
+(3)�
+The head of a public body may, on receipt of an application from an applicant, waive the payment of all or part of the costs payable under section 25
+where the head is satisfied that
+
+������������
+(a)�
+payment would impose an unreasonable financial hardship on the applicant; or
+
+������������
+(b)�
+it would be in the public interest to disclose the record.
+
+������������
+(4)�
+Within the time period of 20 business days referred to in subsection (2), the head of the public body shall inform the applicant in writing as to the head�s decision about waiving all or part of the costs and the applicant shall either accept the decision or apply to the commissioner to review the decision.
+
+������������
+(5)�
+Where an applicant applies to the commissioner to revise an estimate of costs or to review a decision of the head of the public body not to waive all or part of the costs, the time period of 20 business days referred to in subsection (2) is suspended until the application has been considered by the commissioner.
+
+������������
+(6)�
+Where an estimate is given to an applicant under this section, the time within which the head of the public body is required to respond to the request is suspended until the applicant notifies the head to proceed with the request.
+
+������������
+(7)�
+On an application to revise an estimate, the commissioner may
+
+������������
+(a)�
+where the commissioner considers that it is necessary and reasonable to do so in the circumstances, revise the estimate and set the appropriate amount to be charged and a refund, if any; or
+
+������������
+(b)�
+confirm the decision of the head of the public body.
+
+������������
+(8)�
+On an application to review the decision of the head of the public body not to waive the payment of all or part of the costs, the commissioner may
+
+������������
+(a)�
+where the commissioner is satisfied that paragraph (3)(a) or (b) is applicable, waive the payment of the costs or part of the costs in the manner and in the amount that the commissioner considers appropriate; or
+
+������������
+(b)�
+confirm the decision of the head of the public body.
+
+������������
+(9)�
+The head of the public body shall comply with a decision of the commissioner under this section.
+
+���������
+(10)�
+Where an estimate of costs has been provided to an applicant, the head of a public body may require the applicant to pay 50% of the cost before commencing the services, with the remainder to be paid upon completion of the services.
+
+2015 cA-1.2 s26
+
+DIVISION 2
+
+EXCEPTIONS TO ACCESS
+
+Back to Top
+
+Cabinet confidences
+
+�����
+27.
+
+(1)�In this section, "cabinet record" means
+
+������������
+(a)�
+advice, recommendations or policy considerations submitted or prepared for submission to the Cabinet;
+
+������������
+(b)�
+draft legislation or regulations submitted or prepared for submission to the Cabinet;
+
+������������
+(c)�
+a memorandum, the purpose of which is to present proposals or recommendations to the Cabinet;
+
+������������
+(d)�
+a discussion paper, policy analysis, proposal, advice or briefing material prepared for Cabinet, excluding the sections of these records that are factual or background material;
+
+������������
+(e)�
+an agenda, minute or other record of Cabinet recording deliberations or decisions of the Cabinet;
+
+������������
+(f)�
+a record used for or which reflects communications or discussions among ministers on matters relating to the making of government decisions or the formulation of government policy;
+
+������������
+(g)�
+a record created for or by a minister for the purpose of briefing that minister on a matter for the Cabinet;
+
+������������
+(h)�
+a record created during the process of developing or preparing a submission for the Cabinet; and
+
+�������������
+(i)�
+that portion of a record which contains information about the contents of a record within a class of information referred to in paragraphs (a) to (h).
+
+������������
+(2)�
+The head of a public body shall refuse to disclose to an applicant
+
+������������
+(a)�
+a cabinet record; or
+
+������������
+(b)�
+information in a record other than a cabinet record that would reveal the substance of deliberations of Cabinet.
+
+������������
+(3)�
+Notwithstanding subsection (2), the Clerk of the Executive Council may disclose a cabinet record or information that would reveal the substance of deliberations of Cabinet where the Clerk is satisfied that the public interest in the disclosure of the information outweighs the reason for the exception.
+
+������������
+(4)�
+Subsections (1) and (2) do not apply to
+
+������������
+(a)�
+information in a record that has been in existence for 20 years or more; or
+
+������������
+(b)�
+information in a record of a decision made by the Cabinet on an appeal under an Act.
+
+2015 cA-1.2 s27
+
+Back to Top
+
+Local public body confidences
+
+�����
+28.
+
+(1)�The head of a local public body may refuse to disclose to an applicant information that would reveal
+
+������������
+(a)�
+a draft of a resolution, by-law or other legal instrument by which the local public body acts;
+
+������������
+(b)�
+a draft of a private Bill; or
+
+������������
+(c)�
+the substance of deliberations of a meeting of its elected officials or governing body or a committee of its elected officials or governing body, where an Act authorizes the holding of a meeting in the absence of the public.
+
+������������
+(2)�
+Subsection (1) does not apply where
+
+������������
+(a)�
+the draft of a resolution, by-law or other legal instrument, a private Bill or the subject matter of deliberations has been considered, other than incidentally, in a meeting open to the public; or
+
+������������
+(b)�
+the information referred to in subsection (1) is in a record that has been in existence for 15 years or more.
+
+2015 cA-1.2 s28
+
+Back to Top
+
+Policy advice or recommendations
+
+�����
+29.
+
+(1)�The head of a public body may refuse to disclose to an applicant information that would reveal
+
+������������
+(a)�
+advice, proposals, recommendations, analyses or policy options developed by or for a public body or minister;
+
+������������
+(b)�
+the contents of a formal research report or audit report that in the opinion of the head of the public body is incomplete and in respect of which a request or order for completion has been made by the head within 65 business days of delivery of the report; or
+
+������������
+(c)�
+draft legislation or regulations.
+
+������������
+(2)�
+The head of a public body shall not refuse to disclose under subsection (1)
+
+������������
+(a)�
+factual material;
+
+������������
+(b)�
+a public opinion poll;
+
+������������
+(c)�
+a statistical survey;
+
+������������
+(d)�
+an appraisal;
+
+������������
+(e)�
+an environmental impact statement or similar information;
+
+������������
+(f)�
+a final report or final audit on the performance or efficiency of a public body or on any of its programs or policies;
+
+������������
+(g)�
+a consumer test report or a report of a test carried out on a product to test equipment of the public body;
+
+������������
+(h)�
+a feasibility or technical study, including a cost estimate, relating to a policy or project of the public body;
+
+�������������
+(i)�
+a report on the results of field research undertaken before a policy proposal is formulated;
+
+�������������
+(j)�
+a report of an external task force, committee, council or similar body that has been established to consider a matter and make a report or recommendations to a public body;
+
+������������
+(k)�
+a plan or proposal to establish a new program or to change a program, if the plan or proposal has been approved or rejected by the head of the public body;
+
+�������������
+(l)�
+information that the head of the public body has cited publicly as the basis for making a decision
+or formulating a policy; or
+
+����������
+(m)�
+a decision, including reasons, that is made in the exercise of a discretionary power or an adjudicative function and that affects the rights of the applicant.
+
+������������
+(3)�
+Subsection (1) does not apply to information in a record that has been in existence for 15 years or more.
+
+2015 cA-1.2 s29
+
+Back to Top
+
+Legal advice
+
+�����
+30.
+
+(1)�The head of a public body may refuse to disclose to an applicant information
+
+������������
+(a)�
+that is subject to solicitor and client privilege or litigation privilege of a public body; or
+
+������������
+(b)�
+that would disclose legal opinions provided to a public body by a law officer of the Crown.
+
+������������
+(2)�
+The head of a public body shall refuse to disclose to an applicant information that is subject to solicitor and client privilege or litigation privilege of a person other than a public body.
+
+2015 cA-1.2 s30
+
+Back to Top
+
+Disclosure harmful to law enforcement
+
+�����
+31.
+
+(1)�The head of a public body may refuse to disclose information to an applicant where the disclosure could reasonably be expected to
+
+������������
+(a)�
+interfere with or harm a law enforcement matter;
+
+������������
+(b)�
+prejudice the defence of Canada or of a foreign state allied to or associated with Canada or harm the detection, prevention or suppression of espionage, sabotage or terrorism;
+
+������������
+(c)�
+reveal investigative techniques and procedures currently used, or likely to be used, in law enforcement;
+
+������������
+(d)�
+reveal the identity of a confidential source of law enforcement information or reveal information provided by that source with respect to a law enforcement matter;
+
+������������
+(e)�
+reveal law enforcement intelligence information;
+
+������������
+(f)�
+endanger the life or physical safety of a law enforcement officer or another person;
+
+������������
+(g)�
+reveal information relating to or used in the exercise of prosecutorial discretion;
+
+������������
+(h)�
+deprive a person of the right to a fair trial or impartial adjudication;
+
+�������������
+(i)�
+reveal a record that has been confiscated from a person by a peace officer in accordance with an Act or regulation;
+
+�������������
+(j)�
+facilitate the escape from custody of a person who is under lawful detention;
+
+������������
+(k)�
+facilitate the commission or tend to impede the detection of an offence under an Act or regulation of the province or Canada
+
+;
+
+�������������
+(l)�
+reveal the arrangements for the security of property or a system, including a building, a vehicle, a computer system or a communications system;
+
+����������
+(m)�
+reveal technical information about weapons used or that may be used in law enforcement;
+
+������������
+(n)�
+adversely affect the detection, investigation, prevention or prosecution of an offence or the security of a centre of lawful detention;
+
+������������
+(o)�
+reveal information in a correctional record supplied, implicitly or explicitly, in confidence; or
+
+������������
+(p)�
+harm the conduct of existing or imminent legal proceedings.
+
+������������
+(2)�
+The head of a public body may refuse to disclose information to an applicant if the information
+
+������������
+(a)�
+is in a law enforcement record and the disclosure would be an offence under an Act of Parliament;
+
+������������
+(b)�
+is in a law enforcement record and the disclosure could reasonably be expected to expose to civil liability the author of the record or a person who has been quoted or paraphrased in the record; or
+
+������������
+(c)�
+is about the history, supervision or release of a person who is in custody or under supervision and the disclosure could reasonably be expected to harm the proper custody or supervision of that person.
+
+������������
+(3)�
+The head of a public body shall not refuse to disclose under this section
+
+������������
+(a)�
+a report prepared in the course of
+routine inspections by an agency that is authorized to enforce compliance with an Act; or
+
+������������
+(b)�
+a report, including statistical analysis, on the degree of success achieved in a law enforcement program unless disclosure of the report could reasonably be expected to interfere with or harm the matters referred to in subsection (1) or (2); or
+
+������������
+(c)�
+statistical information on decisions to approve or not to approve prosecutions.
+
+2015 cA-1.2 s31
+
+Back to Top
+
+Confidential evaluations
+
+�����
+32.
+
+The head of a public body may refuse to disclose to an applicant personal information that is evaluative or opinion material, provided explicitly or implicitly in confidence, and compiled for the purpose of
+
+������������
+(a)�
+determining suitability, eligibility or qualifications for employment or for the awarding of contracts or other benefits by a public body;
+
+������������
+(b)�
+determining suitability, eligibility or qualifications for admission to an academic program of an educational body;
+
+������������
+(c)�
+determining suitability, eligibility or qualifications for the granting of tenure at a post-secondary educational body;
+
+������������
+(d)�
+determining suitability, eligibility or qualifications for an honour or award to recognize outstanding achievement or distinguished service; or
+
+������������
+(e)�
+assessing the teaching materials or research of an employee of a post-secondary educational body or of a person associated with an educational body.
+
+2015 cA-1.2 s32
+
+Back to Top
+
+Information from a workplace investigation
+
+�����
+33.
+
+(1)�For the purpose of this section
+
+������������
+(a)�
+"harassment" means comments or conduct which are abusive, offensive, demeaning or vexatious that are known, or ought reasonably to be known, to be unwelcome and which may be intended or unintended;
+
+������������
+(b)�
+"party" means a complainant, respondent or a witness who provided a statement to an investigator conducting a workplace investigation; and
+
+������������
+(c)�
+"workplace investigation" means an investigation related to
+
+���������������������
+(i)�
+the conduct of an employee in the workplace,
+
+��������������������
+(ii)�
+harassment, or
+
+�������������������
+(iii)�
+events related to the interaction of an employee in the public body's workplace with another employee or a member of the public
+
+which may give rise to progressive discipline or corrective action by the public body employer.
+
+������������
+(2)�
+The head of a public body shall refuse to disclose to an applicant all relevant information created or gathered for the purpose of a workplace investigation.
+
+������������
+(3)�
+The head of a public body shall disclose to an applicant who is a party to a workplace investigation the information referred to in subsection (2).
+
+������������
+(4)�
+Notwithstanding subsection (3), where a party referred to in that subsection is a witness in a workplace investigation, the head of a public body shall disclose only the information referred to in subsection (2) which relates to the witness' statements provided in the course of
+the investigation.
+
+2015 cA-1.2 s33
+
+Back to Top
+
+Disclosure harmful to intergovernmental relations or negotiations
+
+�����
+34.
+
+(1)�The head of a public body may refuse to disclose information to an applicant if the disclosure could reasonably be expected to
+
+������������
+(a)�
+harm the conduct by the government of the province of relations between that government and the following or their agencies:
+
+���������������������
+(i)�
+the government of Canada
+
+or a province,
+
+��������������������
+(ii)�
+the council of a local government body,
+
+�������������������
+(iii)�
+the government of a foreign state,
+
+�������������������
+(iv)�
+an international organization of states, or
+
+��������������������
+(v)�
+the Nunatsiavut Government; or
+
+������������
+(b)�
+reveal information received in confidence from a government, council or organization listed in paragraph (a) or their agencies.
+
+������������
+(2)�
+The head of a public body shall not disclose information referred to in subsection (1) without the consent of
+
+������������
+(a)�
+the Attorney General, for law enforcement information; or
+
+������������
+(b)�
+the Lieutenant-Governor in Council, for any other type of information.
+
+������������
+(3)�
+Subsection (1) does not apply to information that is in a record that has been in existence for 15 years or more unless the information is law enforcement information.
+
+2015 cA-1.2 s34
+
+Back to Top
+
+Disclosure harmful to the financial or economic interests of a public body
+
+�����
+35.
+
+(1)�The head of a public body may refuse to disclose to an applicant information which could reasonably be expected to disclose
+
+������������
+(a)�
+trade secrets of a public body or the government of the province;
+
+������������
+(b)�
+financial, commercial, scientific or technical information that belongs to a public body or to the government of the province and that has, or is reasonably likely to have, monetary value;
+
+������������
+(c)�
+plans that relate to the management of personnel of or the administration of a public body and that have not yet been implemented or made public;
+
+������������
+(d)�
+information, the disclosure of which could reasonably be expected to result in the premature disclosure of a proposal or project or in significant loss or gain to a third party;
+
+������������
+(e)�
+scientific or technical information obtained through research by an employee of a public body, the disclosure of which could reasonably be expected to deprive the employee of priority of publication;
+
+������������
+(f)�
+positions, plans, procedures, criteria or instructions developed for the purpose of contractual or other negotiations by or on behalf of the government of the province or a public body, or considerations which relate to those negotiations;
+
+������������
+(g)�
+information, the disclosure of which could reasonably be expected to prejudice the financial or economic interest of the government of the province or a public body; or
+
+������������
+(h)�
+information, the disclosure of which could reasonably be expected to be injurious to the ability of the government of the province to manage the economy of the province.
+
+������������
+(2)�
+The head of a public body shall not refuse to disclose under subsection (1) the results of product or environmental testing carried out by or for that public body, unless the testing was done
+
+������������
+(a)�
+for a fee as a service to a person or a group of persons other than the public body; or
+
+������������
+(b)�
+for the purpose of developing methods of testing.
+
+2015 cA-1.2 s35
+
+Back to Top
+
+Disclosure harmful to conservation
+
+�����
+36.
+
+The head of a public body may refuse to disclose information to an applicant if the disclosure could reasonably be expected to result in damage to, or interfere with the conservation of
+
+������������
+(a)�
+fossil sites, natural sites or sites that have an anthropological or heritage value;
+
+������������
+(b)�
+an endangered, threatened or vulnerable species, sub-species or a population of a species; or
+
+������������
+(c)�
+a rare or endangered living resource.
+
+2015 cA-1.2 s36
+
+Back to Top
+
+Disclosure harmful to individual or public safety
+
+�����
+37.
+
+(1)�The head of a public body may refuse to disclose to an applicant information, including personal information about the applicant, where the disclosure could reasonably be expected to
+
+������������
+(a)�
+threaten the safety or mental or physical health of a person other than the applicant; or
+
+������������
+(b)�
+interfere with public safety.
+
+������������
+(2)�
+The head of a public body may refuse to disclose to an applicant personal information about the applicant if the disclosure could reasonably be expected to result in immediate and grave harm to the applicant's safety or mental or physical health.
+
+2015 cA-1.2 s37
+
+Back to Top
+
+Disclosure harmful to labour relations interests of public body as employer
+
+�����
+38.
+
+(1)�The head of a public body may refuse to disclose to an applicant information that would reveal
+
+������������
+(a)�
+labour relations information of the public body as an employer that is prepared or supplied, implicitly or explicitly, in confidence, and is treated consistently as confidential information by the public body as an employer; or
+
+������������
+(b)�
+labour relations information the disclosure of which could reasonably be expected to
+
+���������������������
+(i)�
+harm the competitive position of the public body as an employer or interfere with the negotiating position of the public body as an employer,
+
+��������������������
+(ii)�
+result in significant financial loss or gain to the public body as an employer, or
+
+�������������������
+(iii)�
+reveal information supplied to, or the report of, an arbitrator, mediator, labour relations officer, staff relations specialist or other person or body appointed to resolve or inquire into a labour relations dispute, including information or records prepared by or for the public body in contemplation of litigation or arbitration or in contemplation of a settlement offer.
+
+������������
+(2)�
+Subsection (1) does not apply where the information is in a record that is in the custody or control of The Rooms Corporation of Newfoundland
+and Labrador
+or the archives of a public body and that has been in existence for 50 years or more.
+
+2015 cA-1.2 s38; 2016 cR-15.2 s30
+
+Back to Top
+
+Disclosure harmful to business interests of a third party
+
+�����
+39.
+
+(1)�The head of a public body shall refuse to disclose to an applicant information
+
+������������
+(a)�
+that would reveal
+
+���������������������
+(i)�
+trade secrets of a third party, or
+
+��������������������
+(ii)�
+commercial, financial, labour relations, scientific or technical information of a third party;
+
+������������
+(b)�
+that is supplied, implicitly or explicitly, in confidence; and
+
+������������
+(c)�
+the disclosure of which could reasonably be expected to
+
+���������������������
+(i)�
+harm significantly the competitive position or interfere significantly with the negotiating position of the third party,
+
+��������������������
+(ii)�
+result in similar information no longer being supplied to the public body when it is in the public interest that similar information continue
+to be supplied,
+
+�������������������
+(iii)�
+result in undue financial loss or gain to any person, or
+
+�������������������
+(iv)�
+reveal information supplied to, or the report of, an arbitrator, mediator, labour relations officer or other person or body appointed to resolve or inquire into a labour relations dispute.
+
+������������
+(2)�
+The head of a public body shall refuse to disclose to an applicant information that was obtained on a tax return, gathered for the purpose of determining tax liability or collecting a tax, or royalty information submitted on royalty returns, except where that information is non-identifying aggregate royalty information.
+
+������������
+(3)�
+Subsections (1) and (2) do not apply where
+
+������������
+(a)�
+the third party
+consents to the disclosure; or
+
+������������
+(b)�
+the information is in a record that is in the custody or control of The Rooms Corporation of Newfoundland
+and Labrador
+or the archives of a public body and that has been in existence for 50 years or more.
+
+2015 cA-1.2 s39; 2016 cR-15.2 s30
+
+Back to Top
+
+Disclosure harmful to personal privacy
+
+�����
+40.
+
+(1)�The head of a public body shall refuse to disclose personal information to an applicant where the disclosure would be an unreasonable invasion of a third party's personal privacy.
+
+������������
+(2)�
+A disclosure of personal information is not an unreasonable invasion of a third party's personal privacy where
+
+������������
+(a)�
+the applicant is the individual to whom the information relates;
+
+������������
+(b)�
+the third party to whom the information relates has, in writing, consented to or requested the disclosure;
+
+������������
+(c)�
+there are compelling circumstances affecting a person�s health or safety and notice of disclosure is given in the form appropriate in the circumstances to the third party to whom the information relates;
+
+������������
+(d)�
+an Act or regulation of the province or of Canada
+
+authorizes the disclosure;
+
+������������
+(e)�
+the disclosure is for a research or statistical purpose and is in accordance with section 70;
+
+������������
+(f)�
+the information is about a third party's position, functions or remuneration as an officer, employee or member of a public body or as a member of a minister's staff;
+
+������������
+(g)�
+the disclosure reveals financial and other details of a contract to supply goods or services to a public body;
+
+������������
+(h)�
+the disclosure reveals the opinions or views of a third party given in the course of
+performing services for a public body, except where they are given in respect of another individual;
+
+�������������
+(i)�
+public access to the information is provided under the Financial Administration Act;
+
+�������������
+(j)�
+the information is about expenses incurred by a third party while travelling at the expense of a public body;
+
+������������
+(k)�
+the disclosure reveals details of a licence, permit or a similar discretionary benefit granted to a third party by a public body, not including personal information supplied in support of the application for the benefit;
+
+�������������
+(l)�
+the disclosure reveals details of a discretionary benefit of a financial nature granted to a third party by a public body, not including
+
+���������������������
+(i)�
+personal information that is supplied in support of the application for the benefit, or
+
+��������������������
+(ii)�
+personal information that relates to eligibility for income and employment support under the Income and Employment Support Act
+or to the determination of income or employment support levels; or
+
+����������
+(m)�
+the disclosure is not contrary to the public interest as described in subsection (3) and reveals only the following personal information about a third party:
+
+���������������������
+(i)�
+attendance at or participation in a public event or activity related to a public body, including a graduation ceremony, sporting event, cultural program or club, or field trip, or
+
+��������������������
+(ii)�
+receipt of an honour or award granted by or through a public body.
+
+������������
+(3)�
+The disclosure of personal information under paragraph (2)(m) is an unreasonable invasion of personal privacy where the third party whom the information is about has requested that the information not be disclosed.
+
+������������
+(4)�
+A disclosure of personal information is presumed to be an unreasonable invasion of a third party's personal privacy where
+
+������������
+(a)�
+the personal information relates to a medical, psychiatric or psychological history, diagnosis, condition, treatment or evaluation;
+
+������������
+(b)�
+the personal information is an identifiable part of a law enforcement record, except to the extent that the disclosure is necessary to dispose of the law enforcement matter or to continue an investigation;
+
+������������
+(c)�
+the personal information relates to employment or educational history;
+
+������������
+(d)�
+the personal information was collected on a tax return or gathered for the purpose of collecting a tax;
+
+������������
+(e)�
+the personal information consists of an individual's bank account information or credit card information;
+
+������������
+(f)�
+the personal information consists of personal recommendations or evaluations, character references or personnel evaluations;
+
+������������
+(g)�
+the personal information consists of the third party's name where
+
+���������������������
+(i)�
+it appears with other personal information about the third party, or
+
+��������������������
+(ii)�
+the disclosure of the name itself would reveal personal information about the third party; or
+
+������������
+(h)�
+the personal information indicates the third party's racial or ethnic origin or religious or political beliefs or associations.
+
+������������
+(5)�
+In determining under subsections (1) and (4) whether a disclosure of personal information constitutes an unreasonable invasion of a third party's personal privacy, the head of a public body shall consider all the relevant circumstances, including whether
+
+������������
+(a)�
+the disclosure is desirable for the purpose of subjecting the activities of the province or a public body to public scrutiny;
+
+������������
+(b)�
+the disclosure is likely to promote public health and safety or the protection of the environment;
+
+������������
+(c)�
+the personal information is relevant to a fair determination of the applicant's rights;
+
+������������
+(d)�
+the disclosure will assist in researching or validating the claims, disputes or grievances of aboriginal people;
+
+������������
+(e)�
+the third party will be exposed unfairly to financial or other harm;
+
+������������
+(f)�
+the personal information has been supplied in confidence;
+
+������������
+(g)�
+the personal information is likely to be inaccurate or unreliable;
+
+������������
+(h)�
+the disclosure may unfairly damage the reputation of a person referred to in the record requested by the applicant;
+
+�������������
+(i)�
+the personal information was originally provided to the applicant; and
+
+�������������
+(j)�
+the information is about a deceased person and, if so, whether the length of time the person has been deceased indicates the disclosure is not an unreasonable invasion of the deceased person�s personal privacy.
+
+2015 cA-1.2 s40
+
+Back to Top
+
+Disclosure of House of Assembly service and statutory office records
+
+�����
+41.
+
+The Speaker of the House of Assembly, the officer responsible for a statutory office, or the head of a public body shall refuse to disclose to an applicant information
+
+������������
+(a)�
+where its non-disclosure is required for the purpose of avoiding an infringement of the privileges of the House of Assembly or a member of the House of Assembly;
+
+������������
+(b)�
+that is advice or a recommendation given to the Speaker or the Clerk of the House of Assembly or the House of Assembly Management Commission that is not required by law to be disclosed or placed in the minutes of the House of Assembly Management Commission; or
+
+������������
+(c)�
+in the case of a statutory office as defined in the House of Assembly Accountability, Integrity and Administration Act,
+
+records connected with the investigatory functions of the statutory office.
+
+2015 cA-1.2 s41
+
+DIVISION 3
+
+COMPLAINT
+
+Back to Top
+
+Access or correction complaint
+
+�����
+42.
+
+(1)�A person who makes a request under this Act for access to a record or for correction of personal information may file a complaint with the commissioner respecting a decision, act or failure to act of the head of the public body that relates to the request.����������
+
+������������
+(2)�
+A complaint under subsection (1) shall be filed in writing not later than 15 business days
+
+������������
+(a)�
+after the applicant is notified of the decision of the head of the public body, or the date of the act or failure to act; or
+
+������������
+(b)�
+after the date the head of the public body is considered to have refused the request under subsection 16
+(2).
+
+������������
+(3)�
+A third party informed under section 19
+of a decision of the head of a public body to grant access to a record or part of a record in response to a request may file a complaint with the commissioner respecting that decision.
+
+������������
+(4)�
+A complaint under subsection (3) shall be filed in writing not later than 15 business days after the third party is informed of the decision of the head of the public body.
+
+������������
+(5)�
+The commissioner may allow a longer time period
+for the filing of a complaint under this section.
+
+������������
+(6)�
+A person or third party who has appealed directly to the Trial Division under subsection
+52
+(1) or 53
+(1) shall not file a complaint with the commissioner.
+
+������������
+(7)�
+The commissioner shall refuse to investigate a complaint where an appeal has been commenced in the Trial Division.
+
+������������
+(8)�
+A complaint shall not be filed under this section with respect to
+
+������������
+(a)�
+a request that is disregarded under section 21;
+
+������������
+(b)�
+a decision respecting an extension of time under section 23;
+
+������������
+(c)�
+a variation of a procedure under section 24; or
+
+������������
+(d)�
+an estimate of costs or a decision not to waive a cost under section 26.
+
+������������
+(9)�
+The commissioner shall provide a copy of the complaint to the head of the public body concerned.
+
+2015 cA-1.2 s42
+
+Back to Top
+
+Burden of proof
+
+�����
+43.
+
+(1)�On an investigation of a complaint from a decision to refuse access to a record or part of a record, the burden is on the head of a public body to prove that the applicant has no right of access to the record or part of the record.
+
+������������
+(2)�
+On an investigation of a complaint from a decision to give an applicant access to a record or part of a record containing personal information that relates to a third party, the burden is on the head of a public body to prove that the disclosure of the information would not be contrary to this Act or the regulations.
+
+������������
+(3)�
+On an investigation of a complaint from a decision to give an applicant access to a record or part of a record containing information, other than personal information, that relates to a third party, the burden is on the third party to prove that the applicant has no right of access to the record or part of the record.
+
+2015 cA-1.2 s43
+
+Back to Top
+
+Investigation
+
+�����
+44.
+
+(1)�The commissioner shall notify the parties to the complaint and advise them that they have 10 business days from the date of notification to make representations to the commissioner.
+
+������������
+(2)�
+The parties to the complaint may, not later than 10 business days after notification of the complaint, make a representation to the commissioner in accordance with section 96
+.
+
+������������
+(3)�
+The commissioner may take additional steps that he or she considers appropriate to resolve the complaint informally to the satisfaction of the parties and in a manner consistent with this Act.
+
+������������
+(4)�
+Where the commissioner is unable to informally resolve the complaint within 30 business days of receipt of the complaint, the commissioner shall conduct a formal investigation of the subject matter of the complaint where he or she is satisfied that there are reasonable grounds to do so.
+
+������������
+(5)�
+Notwithstanding subsection (4), the commissioner may extend the informal resolution process for a maximum of 20 business days where a written request is received from each party to continue the informal resolution process.
+
+������������
+(6)�
+The commissioner shall not extend the informal resolution process beyond the date that is 50 business days after receipt of the complaint.
+
+������������
+(7)�
+Where the commissioner has 5 active complaints from the same applicant that deal with similar or related records, the commissioner may hold an additional complaint in abeyance and not commence an investigation until one of the 5 active complaints is resolved.
+
+2015 cA-1.2 s44
+
+Back to Top
+
+Authority of commissioner not to investigate a complaint
+
+�����
+45.
+
+(1)�The commissioner may, at any stage of an investigation, refuse to investigate a complaint where he or she is satisfied that
+
+������������
+(a)�
+the head of a public body has responded adequately to the complaint;
+
+������������
+(b)�
+the complaint has been or could be more appropriately dealt with by a procedure or proceeding other than a complaint under this Act;
+
+������������
+(c)�
+the length of time that has elapsed between the date when the subject matter of the complaint arose and the date when the complaint was filed is such that an investigation under this Part would be likely to result in undue prejudice to a person or that a report would not serve a useful purpose; or
+
+������������
+(d)�
+the complaint is trivial, frivolous, vexatious or is made in bad faith.
+
+������������
+(2)�
+Where the commissioner refuses to investigate a complaint, he or she shall
+
+������������
+(a)�
+give notice of that refusal, together with reasons, to the person who made the complaint;
+
+������������
+(b)�
+advise the person of the right to appeal to the Trial Division under subsection 52
+(3) or 53
+(3) the decision of the head of the public body that relates to the request; and
+
+������������
+(c)�
+advise the person of the applicable time limit and how to pursue an appeal.
+
+2015 cA-1.2 s45
+
+Back to Top
+
+Time limit for formal investigation
+
+�����
+46.
+
+(1)�The commissioner shall complete a formal investigation and make a report under section 48
+within 65 business days of receiving the complaint, whether or not
+the time for the informal resolution process has been extended.
+
+������������
+(2)�
+The commissioner may, in extraordinary circumstances, apply to a judge of the Trial Division for an order to extend the period of time
+under subsection (1).
+
+2015 cA-1.2 s46
+
+Back to Top
+
+Recommendations
+
+�����
+47.
+
+On completing an investigation, the commissioner may recommend that
+
+������������
+(a)�
+the head of the public body grant or refuse access to the record or part of the record;
+
+������������
+(b)�
+the head of the public body reconsider its decision to refuse access to the record or part of the record;
+
+������������
+(c)�
+the head of the public body either make or not make the requested correction to personal information; and
+
+������������
+(d)�
+other improvements for access to information be made within the public body.
+
+2015 cA-1.2 s47
+
+Back to Top
+
+Report
+
+�����
+48.
+
+(1)�On completing an investigation, the commissioner shall
+
+������������
+(a)�
+prepare a report containing the commissioner�s findings and, where appropriate, his or her recommendations and the reasons for those recommendations; and
+
+������������
+(b)�
+send a copy of the report to the person who filed the complaint, the head of the public body concerned and a third party who was notified under section 44
+.
+
+������������
+(2)�
+The report shall include information respecting the obligation of the head of the public body to notify the parties of the head�s response to the recommendation of the commissioner within 10 business days of receipt of the recommendation.
+
+2015 cA-1.2 s48
+
+Back to Top
+
+Response of public body
+
+�����
+49.
+
+(1)�The head of a public body shall, not later than 10 business days after receiving a recommendation of the commissioner,
+
+������������
+(a)�
+decide whether or not
+to comply with the recommendation in whole or in part; and
+
+������������
+(b)�
+give written notice of his or her decision to the commissioner and a person who was sent a copy of the report.
+
+������������
+(2)�
+Where the head of the public body does not give written notice within the time required by subsection (1), the head of the public body is considered to have agreed to comply with the recommendation of the commissioner.
+
+������������
+(3)�
+The written notice shall include notice of the right
+
+������������
+(a)�
+of an applicant or third party to appeal under section 54
+to the Trial Division and of the time limit for an appeal; or
+
+������������
+(b)�
+of the commissioner to file an order with the Trial Division in one of the circumstances referred to in subsection 51
+(1).
+
+2015 cA-1.2 s49
+
+Back to Top
+
+Head of public body seeks declaration in court
+
+�����
+50.
+
+(1)�This section applies to a recommendation of the commissioner under section 47
+that the head of the public body
+
+������������
+(a)�
+grant the applicant access to the record or part of the record; or
+
+������������
+(b)�
+make the requested correction to personal information.
+
+������������
+(2)�
+Where the head of the public body decides not to comply with a recommendation of the commissioner referred to in subsection (1) in whole or in part, the head shall, not later than 10 business days after receipt of that recommendation, apply to the Trial Division for a declaration that the public body is not required to comply with that recommendation because
+
+������������
+(a)�
+the head of the public body is authorized under this Part to refuse access to the record or part of the record, and, where applicable, it has not been clearly demonstrated that the public interest in disclosure of the information outweighs the reason for the exception;
+
+������������
+(b)�
+the head of the public body is required under this Part to refuse access to the record or part of the record; or
+
+������������
+(c)�
+the decision of the head of the public body not to make the requested correction to personal information is in accordance with this Act or the regulations.
+
+������������
+(3)�
+The head shall, within the time frame referred to in subsection (2), serve a copy of the application for a declaration on the commissioner, the minister responsible for the administration of this Act, and a person who was sent a copy of the commissioner�s report.
+
+������������
+(4)�
+The commissioner, the minister responsible for this Act, or a person who was sent a copy of the commissioner�s report may intervene in an application for a declaration by filing a notice to that effect with the Trial Division.
+
+������������
+(5)�
+Sections 57
+to 60
+apply, with the necessary modifications, to an application by the head of a public body to the Trial Division for a declaration.
+
+2015 cA-1.2 s50
+
+Back to Top
+
+Filing an order with the Trial Division
+
+�����
+51.
+
+(1)�The commissioner may prepare and file an order with the Trial Division where
+
+������������
+(a)�
+the head of the public body agrees or is considered to have agreed under section 49
+to comply with a recommendation of the commissioner referred to in subsection 50
+(1) in whole or in part but fails to do so within 15 business days after receipt of the commissioner�s recommendation; or
+
+������������
+(b)�
+the head of the public body fails to apply under section 50
+to the Trial Division for a declaration.
+
+������������
+(2)�
+The order shall be limited to a direction to the head of the public body either
+
+������������
+(a)�
+to grant the applicant access to the record or part of the record; or
+
+������������
+(b)�
+to make the requested correction to personal information.
+
+������������
+(3)�
+An order shall not be filed with the Trial Division until the later of the time periods referred to in paragraph (1)(a) and section 54
+has passed.
+
+������������
+(4)�
+An order shall not be filed with the Trial Division under this section if the applicant or third party has commenced an appeal in the Trial Division under section 54
+.
+
+������������
+(5)�
+Where an order is filed with the Trial Division, it is enforceable against the public body as if it were a judgment or order made by the court.
+
+2015 cA-1.2 s51
+
+DIVISION 4
+
+APPEAL TO THE TRIAL DIVISION
+
+Back to Top
+
+Direct appeal to Trial Division by an applicant
+
+�����
+52.
+
+(1)�Where an applicant has made a request to a public body for access to a record or correction of personal information and has not filed a complaint with the commissioner under section 42
+, the applicant may appeal the decision, act or failure to act of the head of the public body that relates to the request directly to the Trial Division.
+
+������������
+(2)�
+An appeal shall be commenced under subsection (1) not later than 15 business days
+
+������������
+(a)�
+after the applicant is notified of the decision of the head of the public body, or the date of the act or failure to act; or
+
+������������
+(b)�
+after the date the head of the public body is considered to have refused the request under subsection 16
+(2).
+
+������������
+(3)�
+Where an applicant has filed a complaint with the commissioner under section 42
+and the commissioner has refused to investigate the complaint, the applicant may commence an appeal in the Trial Division of the decision, act or failure to act of the head of the public body that relates to the request for access to a record or for correction of personal information.
+
+������������
+(4)�
+An appeal shall be commenced under subsection (3) not later than 15 business days after the applicant is notified of the commissioner�s refusal under subsection 45
+(2).
+
+2015 cA-1.2 s52
+
+Back to Top
+
+Direct appeal to Trial Division by a third party
+
+�����
+53.
+
+(1)�A third party informed under section 19
+of a decision of the head of a public body to grant access to a record or part of a record in response to a request may appeal the decision directly to the Trial Division.
+
+������������
+(2)�
+An appeal shall be commenced under subsection (1) not later than 15 business days after the third party is informed of the decision of the head of the public body.
+
+������������
+(3)�
+Where a third party has filed a complaint with the commissioner under section 42
+and the commissioner has refused to investigate the complaint, the third party may commence an appeal in the Trial Division of the decision of the head of the public body to grant access in response to a request.
+
+������������
+(4)�
+An appeal shall be commenced under subsection (3) not later than 15 business days after the third party is notified of the commissioner�s refusal under subsection 45
+(2).
+
+2015 cA-1.2 s53
+
+Back to Top
+
+Appeal of public body decision after receipt of commissioner�s recommendation
+
+�����
+54.
+
+An applicant or a third party may, not later than 10 business days after receipt of a decision of the head of the public body under section 49
+, commence an appeal in the Trial Division of the head�s decision to
+
+������������
+(a)�
+grant or refuse access to the record or part of the record; or
+
+������������
+(b)�
+not make the requested correction to personal information.
+
+2015 cA-1.2 s54
+
+Back to Top
+
+No right of appeal
+
+�����
+55.
+
+An appeal does not lie against
+
+������������
+(a)�
+a decision respecting an extension of time under section 23
+;
+
+������������
+(b)�
+a variation of a procedure under section 24
+; or
+
+������������
+(c)�
+an estimate of costs or a decision not to waive a cost under section 26
+.
+
+2015 cA-1.2 s55
+
+Back to Top
+
+Procedure on appeal
+
+�����
+56.
+
+(1)�Where a person appeals a decision of the head of a public body, the notice of appeal shall name the head of the public body involved as the respondent.
+
+������������
+(2)�
+A copy of the notice of appeal shall be served by the appellant on the commissioner and the minister responsible for this Act.
+
+������������
+(3)�
+The minister responsible for this Act, the commissioner, the applicant or a third party may intervene as a party to an appeal under this Division by filing a notice to that effect with the Trial Division.
+
+������������
+(4)�
+Notwithstanding subsection (3), the commissioner shall not intervene as a party to an appeal of
+
+������������
+(a)�
+a decision of the head of the public body under section 21
+to disregard a request; or
+
+������������
+(b)�
+a decision, act or failure to act of the head of a public body in respect of which the commissioner has refused under section 45
+to investigate a complaint.
+
+������������
+(5)�
+The head of a public body who has refused access to a record or part of it shall, on receipt of a notice of appeal by an applicant, make reasonable efforts to give written notice of the appeal to a third party who
+
+������������
+(a)�
+was notified of the request for access under section 19
+; or
+
+������������
+(b)�
+would have been notified under section 19
+if the head had intended to give access to the record or part of the record.
+
+������������
+(6)�
+Where an appeal is brought by a third party, the head of the public body shall give written notice of the appeal to the applicant.
+
+������������
+(7)�
+The record for the appeal shall be prepared by the head of the public body named as the respondent in the appeal.
+
+2015 cA-1.2 s56
+
+Back to Top
+
+Practice and procedure
+
+�����
+57.
+
+The practice and procedure under the Rules of the Supreme Court, 1986
+providing for an expedited trial, or such adaption of those rules as the court or judge considers appropriate in the circumstances, shall apply to the appeal.
+
+2015 cA-1.2 s57
+
+Back to Top
+
+Solicitor and client privilege
+
+�����
+58.
+
+The solicitor and client privilege or litigation privilege of a record in dispute shall not be affected by disclosure to the Trial Division.
+
+2015 cA-1.2 s58
+
+Back to Top
+
+Conduct of appeal
+
+�����
+59.
+
+(1)�The Trial Division shall review the decision, act or failure to act of the head of a public body that relates to a request for access to a record or correction of personal information under this Act as a new matter and may receive evidence by affidavit.
+
+������������
+(2)�
+The burden of proof in section 43
+applies, with the necessary modifications, to an appeal.
+
+������������
+(3)�
+In exercising its powers to order production of documents for examination, the Trial Division shall take reasonable precautions, including where appropriate, receiving representations without notice to another person, conducting hearings in private and examining records in private, to avoid disclosure of
+
+������������
+(a)�
+any information or other material if the nature of the information or material could justify a refusal by a head of a public body to give access to a record or part of a record; or
+
+������������
+(b)�
+the existence of information, where the head of a public body is authorized to refuse to confirm or deny that the information exists under subsection 17
+(2).
+
+2015 cA-1.2 s59
+
+Back to Top
+
+Disposition of appeal
+
+�����
+60.
+
+(1)�On hearing an appeal the Trial Division may
+
+������������
+(a)�
+where it determines that the head of the public body is authorized to refuse access to a record under this Part and, where applicable, it has not been clearly demonstrated that the public interest in disclosure of the information outweighs the reason for the exception, dismiss the appeal;
+
+������������
+(b)�
+where it determines that the head of the public body is required to refuse access to a record under this Part, dismiss the appeal; or
+
+������������
+(c)�
+where it determines that the head is not authorized or required to refuse access to all or part of a record under this Part,
+
+���������������������
+(i)�
+order the head of the public body to give the applicant access to all or part of the record, and
+
+��������������������
+(ii)�
+make an order that the court considers appropriate.
+
+������������
+(2)�
+Where the Trial Division finds that a record or part of a record falls within an exception to access under this Act and, where applicable, it has not been clearly demonstrated that the public interest in disclosure of the information outweighs the reason for the exception, the court shall not order the head to give the applicant access to that record or part of it, regardless of whether the exception requires or merely authorizes the head to refuse access.
+
+������������
+(3)�
+Where the Trial Division finds that to do so would be in accordance with this Act or the regulations, it may order that personal information be corrected and the manner in which
+it is to be corrected.
+
+2015 cA-1.2 s60
+
+PART III
+
+PROTECTION OF PERSONAL INFORMATION
+
+DIVISION 1
+
+COLLECTION, USE AND DISCLOSURE
+
+Back to Top
+
+Purpose for which personal information may be collected
+
+�����
+61.
+
+No personal information may be collected by or for a public body unless
+
+������������
+(a)�
+the collection of that information is expressly authorized by or under an Act;
+
+������������
+(b)�
+that information is collected for the purposes of law enforcement; or
+
+������������
+(c)�
+that information relates directly to and is necessary for an operating program or activity of the public body.
+
+2015 cA-1.2 s61
+
+Back to Top
+
+How personal information is to be collected
+
+�����
+62.
+
+(1)�A public body shall collect personal information directly from the individual the information is about unless
+
+������������
+(a)�
+another method of collection is authorized by
+
+���������������������
+(i)
+that individual,
+
+��������������������
+(ii)
+the commissioner under paragraph 95
+(1)(c), or
+
+�������������������
+(iii)�
+an Act or regulation;
+
+������������
+(b)�
+the information may be disclosed to the public body under sections 68
+to 71
+;
+
+������������
+(c)�
+the information is collected for the purpose of
+
+���������������������
+(i)�
+determining suitability for an honour or award including an honorary degree, scholarship, prize or bursary,
+
+��������������������
+(ii)�
+an existing or anticipated proceeding before a court or a judicial or quasi-judicial tribunal,
+
+�������������������
+(iii)�
+collecting a debt or fine or making a payment, or
+
+�������������������
+(iv)�
+law enforcement; or
+
+������������
+(d)�
+collection of the information is in the interest of the individual and time or circumstances do not permit collection directly from the individual.
+
+������������
+(2)�
+A public body shall tell an individual from whom it collects personal information
+
+������������
+(a)�
+the purpose for collecting it;
+
+������������
+(b)�
+the legal authority for collecting it; and
+
+������������
+(c)�
+the title, business address and business telephone number of an officer or employee of the public body who can answer the individual's questions about the collection.
+
+������������
+(3)�
+Subsection (2) does not apply where
+
+������������
+(a)�
+the information is about law enforcement
+or anything referred to in subsection 31
+(1) or (2); or
+
+������������
+(b)�
+in the opinion of the head of the public body, complying with it would
+
+���������������������
+(i)�
+result in the collection of inaccurate information, or
+
+��������������������
+(ii)�
+defeat the purpose or prejudice the use for which the information is collected.
+
+2015 cA-1.2 s62
+
+Back to Top
+
+Accuracy of personal information
+
+�����
+63.
+
+Where an individual's personal information will be used by a public body to make a decision
+that directly affects the individual, the public body shall make every reasonable effort to ensure that the information is accurate and complete.
+
+2015 cA-1.2 s63
+
+Back to Top
+
+Protection of personal information
+
+�����
+64.
+
+(1)�The head of a public body shall take steps that are reasonable in the circumstances to ensure that
+
+������������
+(a)�
+personal information in its custody or control is protected against theft, loss and unauthorized collection, access, use or disclosure;
+
+������������
+(b)�
+records containing personal information in its custody or control are protected against unauthorized copying or modification; and
+
+������������
+(c)�
+records containing personal information in its custody or control are retained, transferred and disposed of in a secure manner.
+
+������������
+(2)�
+For the purpose of paragraph (1)(c), "disposed of in a secure manner" in relation to the disposition of a record of personal information does not include the destruction of a record unless the record is destroyed in such a manner that the reconstruction of the record is not reasonably foreseeable in the circumstances.
+
+������������
+(3)�
+Except as otherwise provided in subsections (6) and (7), the head of a public body that has custody or control of personal information shall notify the individual who is the subject of the information at the first reasonable opportunity where the information is
+
+������������
+(a)�
+stolen;
+
+������������
+(b)�
+lost;
+
+������������
+(c)�
+disposed of, except as permitted by law; or
+
+������������
+(d)�
+disclosed to or accessed by an unauthorized person.
+
+������������
+(4)�
+Where the head of a public body reasonably believes that there has been a breach involving the unauthorized collection, use or disclosure of personal information, the head shall inform the commissioner of the breach.
+
+������������
+(5)�
+Notwithstanding a circumstance where, under subsection (7), notification of an individual by the head of a public body is not required, the commissioner may recommend that the head of the public body, at the first reasonable opportunity, notify the individual who is the subject of the information.
+
+������������
+(6)�
+Where a public body has received personal information from another public body for the purpose of research, the researcher may not notify an individual who is the subject of the information that the information has been stolen, lost, disposed of in an unauthorized manner or disclosed to or accessed by an unauthorized person unless the public body that provided the information to the researcher first obtains that individual�s consent to contact by the researcher and informs the researcher that the individual has given consent.
+
+������������
+(7)�
+Subsection (3) does not apply where the head of the public body reasonably believes that the theft, loss, unauthorized disposition, or improper disclosure or access of personal information does not create a risk of significant harm to the individual who is the subject of the information.
+
+������������
+(8)�
+For the purpose of this section, "significant harm" includes bodily harm, humiliation, damage to reputation or relationships, loss of employment, business or professional opportunities, financial loss, identity theft, negative effects on the credit record and damage to or loss of property.
+
+������������
+(9)�
+The factors that are relevant to determining under subsection (7) whether a breach creates a risk of significant harm to an individual include
+
+������������
+(a)�
+the sensitivity of the personal information; and
+
+������������
+(b)�
+the probability that the personal information has been, is being, or will be misused.
+
+2015 cA-1.2 s64
+
+Back to Top
+
+Retention of personal information
+
+�����
+65.
+
+(1)�Where a public body uses an individual's personal information to make a decision
+that directly affects the individual, the public body shall retain that information for at least one year after using it so that the individual has a reasonable opportunity to obtain access to it.
+
+������������
+(2)�
+A public body that has custody or control of personal information that is the subject of a request for access to a record or correction of personal information under Part II shall retain that information for as long as necessary to allow the individual to exhaust any recourse under this Act that he or she may have with respect to the request.
+
+2015 cA-1.2 s65
+
+Back to Top
+
+Use of personal information
+
+�����
+66.
+
+(1)�A public body may use personal information only
+
+������������
+(a)�
+for the purpose for which that information was obtained or compiled, or for a use consistent with that purpose as described in section 69
+;
+
+������������
+(b)�
+where the individual the information is about has identified the information and has consented to the use, in the manner set by the minister responsible for this Act; or
+
+������������
+(c)�
+for a purpose for which that information may be disclosed to that public body under sections 68
+to 71
+.
+
+������������
+(2)�
+The use of personal information by a public body shall be limited to the minimum amount of information necessary to accomplish the purpose for which it is used.
+
+2015 cA-1.2 s66
+
+Back to Top
+
+Use of personal information by post-secondary educational bodies
+
+�����
+67.
+
+(1)�Notwithstanding section 66
+, a post-secondary educational body may, in accordance this section, use personal information in its alumni records for the purpose of its own fundraising activities where that personal information is reasonably necessary for the fundraising activities.
+
+������������
+(2)�
+In order to use personal information in its alumni records for the purpose of its own fundraising activities, a post-secondary educational body shall
+
+������������
+(a)�
+give notice to the individual to whom the personal information relates when the individual is first contacted for the purpose of soliciting funds for fundraising of his or her right to request that the information cease to be used for fundraising purposes;
+
+������������
+(b)�
+periodically and in the course of
+soliciting funds for fundraising, give notice to the individual to whom the personal information relates of his or her right to request that the information cease to be used for fundraising purposes; and
+
+������������
+(c)�
+periodically and in a manner that is likely to come to the attention of individuals who may be solicited for fundraising, publish in an alumni magazine or other publication, a notice of the individual's right to request that the individual's personal information cease to be used for fundraising purposes.
+
+������������
+(3)�
+A post-secondary educational body shall, where requested to do so by an individual, cease to use the individual's personal information under subsection (1).
+
+������������
+(4)�
+The use of personal information by a post-secondary educational body under this section shall be limited to the minimum amount of information necessary to accomplish the purpose for which it is used.
+
+2015 cA-1.2 s67
+
+Back to Top
+
+Disclosure of personal information
+
+�����
+68.
+
+(1)�A public body may disclose personal information only
+
+������������
+(a)�
+in accordance with Part II;
+
+������������
+(b)�
+where the individual the information is about has identified the information and consented to the disclosure in the manner set by the minister responsible for this Act;
+
+������������
+(c)�
+for the purpose for which it was obtained or compiled or for a use consistent with that purpose as described in section 69;
+
+������������
+(d)�
+for the purpose of complying with an Act or regulation of, or with a treaty, arrangement or agreement made under an Act or regulation of the province or Canada;
+
+������������
+(e)�
+for the purpose of complying with a subpoena, warrant or order issued or made by a court, person or body with jurisdiction to compel the production of information;
+
+������������
+(f)�
+to an officer or employee of the public body or to a minister, where the information is necessary for the performance of the duties of, or for the protection of the health or safety of, the officer, employee or minister;
+
+������������
+(g)�
+to the Attorney General for use in civil proceedings involving the government;
+
+������������
+(h)�
+for the purpose of enforcing a legal right the government of the province or a public body has against a person;
+
+�������������
+(i)�
+for the purpose of
+
+���������������������
+(i)�
+collecting a debt or fine owing by the individual the information is about to the government of the province or to a public body, or
+
+��������������������
+(ii)�
+making a payment owing by the government of the province or by a public body to the individual the information is about;
+
+�������������
+(j)�
+to the Auditor General or another person or body prescribed in the regulations for audit purposes;
+
+������������
+(k)�
+to a member of the House of Assembly who has been requested by the individual the information is about to assist in resolving a problem;
+
+�������������
+(l)�
+to a representative of a bargaining agent who has been authorized in writing by the employee, whom the information is about, to make an inquiry;
+
+����������
+(m)�
+to The Rooms Corporation of Newfoundland
+and Labrador, or the archives of a public body, for archival purposes;
+
+������������
+(n)�
+to a public body or a law enforcement agency in Canada
+
+to assist in an investigation
+
+���������������������
+(i)�
+undertaken with a view to a law enforcement proceeding, or
+
+��������������������
+(ii)�
+from which a law enforcement proceeding is likely to result;
+
+������������
+(o)�
+where the public body is a law enforcement agency and the information is disclosed
+
+���������������������
+(i)�
+to another law enforcement agency in Canada, or
+
+��������������������
+(ii)�
+to a law enforcement agency in a foreign country under an arrangement, written agreement, treaty or legislative authority;
+
+������������
+(p)�
+where the head of the public body determines that compelling circumstances exist that affect a person�s health or safety and where notice of disclosure is given in the form appropriate in the circumstances to the individual the information is about;
+
+������������
+(q)�
+so that the next of kin or a friend of an injured, ill or deceased individual may be contacted;
+
+�������������
+(r)�
+in accordance with an Act of the province or Canada
+
+that authorizes or requires the disclosure;
+
+������������
+(s)�
+in accordance with sections 70
+and 71;
+
+�������������
+(t)�
+where the disclosure would not be an unreasonable invasion of a third party's personal privacy under section 40;
+
+������������
+(u)�
+to an officer or employee of a public body or to a minister, where the information is necessary for the delivery of a common or integrated program or service and for the performance of the duties of the officer or employee or minister to whom the information is disclosed; or
+
+������������
+(v)�
+to the surviving spouse or relative of a deceased individual where, in the opinion of the head of the public body, the disclosure is not an unreasonable invasion of the deceased's personal privacy.
+
+������������
+(2)�
+The disclosure of personal information by a public body shall be limited to the minimum amount of information necessary to accomplish the purpose for which it is disclosed.
+
+2015 cA-1.2 s68; 2016 cR-15.2 s30
+
+Back to Top
+
+Definition of consistent purposes
+
+�����
+69.
+
+A use of personal information is consistent under section 66
+or 68
+with the purposes for which the information was obtained or compiled where the use
+
+������������
+(a)�
+has a reasonable and direct connection to that purpose; and
+
+������������
+(b)�
+is necessary for performing the statutory duties of, or for operating a legally authorized program of, the public body that uses or discloses the information.
+
+2015 cA-1.2 s69
+
+Back to Top
+
+Disclosure for research or statistical purposes
+
+�����
+70.
+
+A public body may disclose personal information for a research purpose, including statistical research, only where
+
+������������
+(a)�
+the research purpose cannot reasonably be accomplished unless that information is provided in individually identifiable form;
+
+������������
+(b)�
+any record linkage is not harmful to the individuals that information is about and the benefits to be derived from the record linkage are clearly in the public interest;
+
+������������
+(c)�
+the head of the public body concerned has approved conditions relating to the following:
+
+���������������������
+(i)�
+security and confidentiality,
+
+��������������������
+(ii)�
+the removal or destruction of individual identifiers at the earliest reasonable time, and
+
+�������������������
+(iii)�
+the prohibition of any subsequent use or disclosure of that information in individually identifiable form without the express authorization of that public body; and
+
+������������
+(d)�
+the person to whom that information is disclosed has signed an agreement to comply with the approved conditions, this Act and the public body's policies and procedures relating to the confidentiality of personal information.
+
+2015 cA-1.2 s70
+
+Back to Top
+
+Disclosure for archival or historical purposes
+
+�����
+71.
+
+The Rooms Corporation of Newfoundland
+and Labrador
+, or the archives of a public body, may disclose personal information for archival or historical purposes where
+
+������������
+(a)�
+the disclosure would not be an unreasonable invasion of a third party�s personal privacy under section 40;
+
+������������
+(b)�
+the disclosure is for historical research and is in accordance with section 70;
+
+������������
+(c)�
+the information is about an individual who has been dead for 20 years or more; or
+
+������������
+(d)�
+the information is in a record that has been in existence for 50 years or more.
+
+2015 cA-1.2 s71; 2016 cR-15.2 s30
+
+Back to Top
+
+Privacy impact assessment
+
+�����
+72.
+
+(1)�A minister shall, during the development of a program or service by a department or branch of the executive government of the province, submit to the minister responsible for this Act
+
+������������
+(a)�
+a privacy impact assessment for that minister�s review and comment; or
+
+������������
+(b)�
+the results of a preliminary assessment showing that a privacy impact assessment of the program or service is not required.
+
+������������
+(2)�
+A minister shall conduct a preliminary assessment and, where required, a privacy impact assessment in accordance with the directions of the minister responsible for this Act.
+
+������������
+(3)�
+A minister shall notify the commissioner of a common or integrated program or service at an early stage of developing the program or service.
+
+������������
+(4)�
+Where the minister responsible for this Act receives a privacy impact assessment respecting a common or integrated program or service for which disclosure of personal information may be permitted under paragraph 68
+(1)(u), the minister shall, during the development of the program or service, submit the privacy impact assessment to the commissioner for the commissioner�s review and comment.
+
+2015 cA-1.2 s72
+
+DIVISION 2
+
+PRIVACY COMPLAINT
+
+Back to Top
+
+Privacy complaint
+
+�����
+73.
+
+(1)�Where an individual believes on reasonable grounds that his or her personal information has been collected, used or disclosed by a public body in contravention of this Act, he or she may file a privacy complaint with the commissioner.
+
+������������
+(2)�
+Where a person believes on reasonable grounds that personal information has been collected, used or disclosed by a public body in contravention of this Act, he or she may file a privacy complaint with the commissioner on behalf of an individual or group of individuals, where that individual or those individuals have given consent to the filing of the privacy complaint.
+
+������������
+(3)�
+Where the commissioner believes that personal information has been collected, used or disclosed by a public body in contravention of this Act, the commissioner may on his or her own motion carry out an investigation.
+
+������������
+(4)�
+A privacy complaint under subsection (1) or (2) shall be filed in writing with the commissioner within
+
+������������
+(a)�
+one year after the subject matter of the privacy complaint first came to the attention of the complainant or should reasonably have come to the attention of the complainant; or
+
+������������
+(b)�
+a longer period of time
+as permitted by the commissioner.
+
+������������
+(5)�
+The commissioner shall provide a copy or summary of the privacy complaint, including an investigation initiated on the commissioner�s own motion, to the head of the public body concerned.
+
+2015 cA-1.2 s73
+
+Back to Top
+
+Investigation
+� privacy complaint
+
+�����
+74.
+
+(1)�The commissioner may take the steps that he or she considers appropriate to resolve a privacy complaint informally to the satisfaction of the parties and in a manner consistent with this Act.
+
+������������
+(2)�
+Where the commissioner is unable to informally resolve a privacy complaint within a reasonable period of time
+, the commissioner shall conduct a formal investigation of the subject matter of the privacy complaint where he or she is satisfied that there are reasonable grounds to do so.
+
+������������
+(3)�
+The commissioner shall complete a formal investigation and make a report under section 77
+within a time that is as expeditious as possible in the circumstances.
+
+������������
+(4)�
+Where the commissioner has 5 active privacy complaints from the same person that deal with similar or related records, the commissioner may hold an additional complaint in abeyance and not commence an investigation until one of the 5 active complaints is resolved.
+
+2015 cA-1.2 s74
+
+Back to Top
+
+Authority of commissioner not to investigate a privacy complaint
+
+�����
+75.
+
+The commissioner may, at any stage of an investigation, refuse to investigate a privacy complaint where he or she is satisfied that
+
+������������
+(a)�
+the head of a public body has responded adequately to the privacy complaint;
+
+������������
+(b)�
+the privacy complaint has been or could be more appropriately dealt with by a procedure or proceeding other than a complaint under this Act;
+
+������������
+(c)�
+the length of time that has elapsed between the date when the subject matter of the privacy complaint arose and the date when the privacy complaint was filed is such that an investigation under this Part would be likely to result in undue prejudice to a person or that a report would not serve a useful purpose; or
+
+������������
+(d)�
+the privacy complaint is trivial, frivolous, vexatious or is made in bad faith.
+
+2015 cA-1.2 s75
+
+Back to Top
+
+Recommendations � privacy complaint
+
+�����
+76.
+
+(1)�On completing an investigation of a privacy complaint, the commissioner may recommend that the head of a public body
+
+������������
+(a)�
+stop collecting, using or disclosing personal information in contravention of this Act; or
+
+������������
+(b)�
+destroy personal information collected in contravention of this Act.
+
+������������
+(2)�
+The commissioner may also make
+
+������������
+(a)�
+a recommendation that an information practice, policy or procedure be implemented, modified, stopped or not commenced; or
+
+������������
+(b)�
+a recommendation on the privacy aspect of the matter that is the subject of the privacy complaint.
+
+2015 cA-1.2 s76
+
+Back to Top
+
+Report � privacy complaint
+
+�����
+77.
+
+(1)�On completing an investigation of a privacy complaint, the commissioner shall
+
+������������
+(a)�
+prepare a report containing the commissioner�s findings and, where appropriate, his or her recommendations and the reasons for those recommendations; and
+
+������������
+(b)�
+send a copy of the report to the person who filed the privacy complaint and the head of the public body concerned.
+
+������������
+(2)�
+The report shall include information respecting the obligation of the head of the public body to notify the person who filed the privacy complaint of the head�s response to the recommendation of the commissioner within 10 business days of receipt of the recommendation.
+
+2015 cA-1.2 s77
+
+Back to Top
+
+Response of public body � privacy complaint
+
+�����
+78.
+
+(1)�The head of a public body shall, not later than 10 business days after receiving a recommendation of the commissioner,
+
+������������
+(a)�
+decide whether or not
+to comply with the recommendation in whole or in part; and
+
+������������
+(b)�
+give written notice of his or her decision to the commissioner and a person who was sent a copy of the report.
+
+������������
+(2)�
+Where the head of the public body does not give written notice within the time required by subsection (1), the head of the public body is considered to have agreed to comply with the recommendation of the commissioner.
+
+2015 cA-1.2 s78
+
+Back to Top
+
+Head of public body seeks declaration in court
+
+�����
+79.
+
+(1)�Where the head of the public body decides under section 78
+not to comply with a recommendation of the commissioner under subsection 76
+(1) in whole or in part, the head shall, not later than 10 business days after receipt of that recommendation,
+
+������������
+(a)�
+apply to the Trial Division for a declaration that the public body is not required to comply with that recommendation because the collection, use or disclosure of the personal information is not in contravention of this Act, and
+
+������������
+(b)�
+serve a copy of the application for a declaration on the commissioner, the minister responsible for the administration of this Act, and a person who was sent a copy of the commissioner�s report.
+
+������������
+(2)�
+The commissioner or the minister responsible for this Act may intervene in an application for a declaration by filing a notice to that effect with the Trial Division.
+
+2015 cA-1.2 s79
+
+Back to Top
+
+Filing an order with the Trial Division
+
+�����
+80.
+
+(1)�The commissioner may prepare and file an order with the Trial Division where
+
+������������
+(a)�
+the head of the public body agrees or is considered to have agreed under section 78
+to comply with a recommendation of the commissioner under subsection 76
+(1) in whole or in part but fails to do so within one year after receipt of the commissioner�s recommendation; or
+
+������������
+(b)�
+the head of the public body fails to apply under section 79
+to the Trial Division for a declaration.
+
+������������
+(2)�
+The order shall be limited to a direction to the head of the public body to do one or more of the following:
+
+������������
+(a)�
+stop collecting, using or disclosing personal information in contravention of this Act; or
+
+������������
+(b)�
+destroy personal information collected in contravention of this Act.
+
+������������
+(3)�
+An order shall not be filed with the Trial Division until the time period
+referred to in paragraph (1)(a) has passed.
+
+������������
+(4)�
+Where an order is filed with the Trial Division, it is enforceable against the public body as if it were a judgment or order made by the court.
+
+2015 cA-1.2 s80
+
+DIVISION 3
+
+APPLICATION TO THE TRIAL DIVISION FOR A DECLARATION
+
+Back to Top
+
+Practice and procedure
+
+�����
+81.
+
+The practice and procedure under the Rules of the Supreme Court, 1986
+providing for an expedited trial, or such adaption of those rules as the court or judge considers appropriate in the circumstances, shall apply to an application to the Trial Division for a declaration.
+
+2015 cA-1.2 s81
+
+Back to Top
+
+Solicitor and client privilege
+
+�����
+82.
+
+The solicitor and client privilege or litigation privilege of a record which may contain personal information shall not be affected by disclosure to the Trial Division.
+
+2015 cA-1.2 s82
+
+Back to Top
+
+Conduct
+
+�����
+83.
+
+(1)�The Trial Division shall review the act or failure to act of the head of a public body that relates to the collection, use or disclosure of personal information under this Act as a new matter and may receive evidence by affidavit.
+
+������������
+(2)�
+In exercising its powers to order production of documents for examination, the Trial Division shall take reasonable precautions, including where appropriate, receiving representations without notice to another person, conducting hearings in private and examining records in private, to avoid disclosure of
+
+������������
+(a)�
+any information or other material if the nature of the information or material could justify a refusal by a head of a public body to give access to a record or part of a record; or
+
+������������
+(b)�
+the existence of information, where the head of a public body is authorized to refuse to confirm or deny that the information exists under subsection 17
+(2).
+
+2015 cA-1.2 s83
+
+Back to Top
+
+Disposition
+
+�����
+84.
+
+On hearing an application for a declaration, the Trial Division may
+
+������������
+(a)�
+where it determines that the head of the public body is authorized under this Act to use, collect or disclose the personal information, dismiss the application;
+
+������������
+(b)�
+where it determines that the head is not authorized under this Act to use, collect or disclose the personal information,
+
+���������������������
+(i)�
+order the head of the public body to stop using, collecting or disclosing the information, or
+
+��������������������
+(ii)�
+order the head of the public body to destroy the personal information that was collected in contravention of this Act; or
+
+������������
+(c)�
+make an order that the court considers appropriate.
+
+2015 cA-1.2 s84
+
+PART IV
+
+OFFICE AND POWERS OF THE INFORMATION AND PRIVACY COMMISSIONER
+
+DIVISION 1
+
+OFFICE
+
+Back to Top
+
+Appointment of the Information and Privacy Commissioner
+
+�����
+85.
+
+(1)�The office of the Information and Privacy Commissioner is continued.
+
+������������
+(2)�
+The office shall be filled by the Lieutenant-Governor in Council on a resolution of the House of Assembly.
+
+������������
+(3)�
+Before an appointment is made, the Speaker shall establish a selection committee comprising
+
+������������
+(a)�
+the Clerk of the Executive Council or his or her deputy;
+
+������������
+(b)�
+the Clerk of the House of Assembly or, where the Clerk is unavailable, the person appointed under paragraph 10(1)(b) of the House of Assembly Accountability, Integrity and Administration Act;
+
+������������
+(c)�
+the Chief Judge of the Provincial Court
+
+or another judge of that court designated by the Chief Judge; and
+
+������������
+(d)�
+the President of Memorial
+University
+or a vice-president of Memorial
+University
+
+designated by the President.
+
+������������
+(4)�
+The selection committee shall develop a roster of qualified candidates and in doing so may publicly invite expressions of interest for the position of commissioner.
+
+������������
+(5)�
+The selection committee shall submit the roster to the Speaker of the House of Assembly.
+
+������������
+(6)�
+The Speaker shall
+
+������������
+(a)�
+consult with the Premier, the Leader of the Official Opposition and the leader or member of a registered political party that is represented on the House of Assembly Management Commission; and
+
+������������
+(b)�
+cause to be placed before the House of Assembly a resolution to appoint as commissioner one of the individuals named on the roster.
+
+2015 cA-1.2 s85; 2026 c16 s2
+
+Back to Top
+
+Status of the commissioner
+
+�����
+86.
+
+(1)�The commissioner is an officer of the House of Assembly and is not eligible to be nominated for election, to be elected, or to sit as a member of the House of Assembly.
+
+������������
+(2)�
+The commissioner shall not hold another public office or carry on a trade, business or profession.
+
+������������
+(3)�
+In respect of his or her interactions with a public body, whether or not
+it is a public body to which this Act applies, the commissioner has the status of a deputy minister.
+
+2015 cA-1.2 s86
+
+Back to Top
+
+Term of office
+
+�����
+87.
+
+(1)�Unless he or she sooner resigns, dies or is removed from office, the commissioner shall hold office for 6 years from the date of his or her appointment.
+
+������������
+(2)�
+The Lieutenant-Governor in Council may, with the approval of a majority of the members on the government side of the House of Assembly and separate approval of a majority of the members on the opposition side of the House of Assembly, re-appoint the commissioner for one further term of 6 years.
+
+������������
+(3)�
+The Speaker shall, in the event of a tie vote on either or both sides of the House of Assembly, cast the deciding vote.
+
+������������
+(4)�
+The commissioner may resign his or her office in writing addressed to the Speaker of the House of Assembly, or, where there is no Speaker or the Speaker is absent, to the Clerk of the House of Assembly.
+
+2015 cA-1.2 s87
+
+Back to Top
+
+Removal or suspension
+
+�����
+88.
+
+(1)�The Lieutenant-Governor in Council, on a resolution of the House of Assembly passed by a majority vote of the members of the House of Assembly actually voting, may remove the commissioner from office or suspend him or her because of an incapacity to act, or for neglect of duty or for misconduct.
+
+������������
+(2)�
+When the House of Assembly is not in session, the Lieutenant-Governor in Council may suspend the commissioner because of an incapacity to act, or for neglect of duty or for misconduct, but the suspension shall not continue in force beyond the end of the next sitting of the House of Assembly.
+
+2015 cA-1.2 s88
+
+Back to Top
+
+Acting commissioner
+
+�����
+89.
+
+(1)�The Lieutenant-Governor in Council may, on the recommendation of the House of Assembly Management Commission, appoint an acting commissioner if
+
+������������
+(a)�
+the commissioner is temporarily unable to perform his or her duties;
+
+������������
+(b)�
+the office of the commissioner becomes vacant
+or the commissioner is suspended when the House of Assembly is not in session; or
+
+������������
+(c)�
+the office of the commissioner becomes vacant
+or the commissioner is suspended when the House of Assembly is in session, but the House of Assembly does not pass a resolution to fill the office of the commissioner before the end of the session.
+
+������������
+(2)�
+Where the office of the commissioner becomes vacant and an acting commissioner is appointed under paragraph (1)(b) or (c), the term of the acting commissioner shall not extend beyond the end of the next sitting of the House of Assembly.
+
+������������
+(3)�
+An acting commissioner holds office until
+
+������������
+(a)�
+the commissioner returns to his or her duties after a temporary inability to perform;
+
+������������
+(b)�
+the suspension of the commissioner ends or is dealt with in the House of Assembly; or
+
+������������
+(c)�
+a person is appointed as a commissioner under section 85.
+
+2015 cA-1.2 s89
+
+Back to Top
+
+Salary, pension and benefits
+
+�����
+90.
+
+(1)�The commissioner shall be paid a salary fixed by the Lieutenant-Governor in Council after consultation with the
+House of Assembly Management Commission.
+
+������������
+(2)�
+The salary of the commissioner shall not be reduced except on resolution of the House of Assembly.
+
+������������
+(3)�
+The commissioner is subject to the Public Service Pensions Act, 2019
+where he or she was subject to that Act prior to his or her appointment as commissioner.
+
+������������
+(4)�
+Where the commissioner is not subject to the Public Service Pensions Act, 2019
+prior to his or her appointment as commissioner, he or she shall be paid, for contribution to a registered retirement savings plan, an amount equivalent to the amount which he or she would have contributed to the Public Service Pension Plan were the circumstances in subsection (3) applicable.
+
+������������
+(5)�
+The commissioner is eligible to receive the same benefits as a deputy minister, with the exception of
+a pension where subsection (4) applies.
+
+2015 cA-1.2 s90; 2016 c6 s2; 2019 cP-44.01 s30
+
+Back to Top
+
+Expenses
+
+�����
+91.
+
+The commissioner shall be paid the travelling and other expenses, at the deputy minister level, incurred by him or her in the performance of his or her duties that may be approved by the House of Assembly Management Commission.
+
+2015 cA-1.2 s91
+
+Back to Top
+
+Commissioner's staff
+
+�����
+92.
+
+(1)�The commissioner may, subject to the approval of the House of Assembly Management Commission, and in the manner provided by law, appoint those assistants and employees that he or she considers necessary to enable him or her to carry out his or her functions under this Act and the Personal Health Information Act.
+
+������������
+(2)�
+Persons employed under subsection (1) are members of the public service of the province.
+
+2015 cA-1.2 s92
+
+Back to Top
+
+Oath of office
+
+�����
+93.
+
+Before beginning to perform his or her duties, the commissioner shall swear an oath, or affirm, before the Speaker of the House of Assembly or the Clerk of the House of Assembly that he or she shall faithfully and impartially perform the duties of his or her office and that he or she shall not, except as provided by this Act and the Personal Health Information Act, divulge information received by him or her under this Act and the Personal Health Information Act.
+
+2015 cA-1.2 s93
+
+Back to Top
+
+Oath of staff
+
+�����
+94.
+
+Every person employed under the commissioner shall, before he or she begins to perform his or her duties, swear an oath, or affirm, before the commissioner that he or she shall not, except as provided by this Act and the Personal Health Information Act, divulge information received by him or her under this Act and the Personal Health Information Act.
+
+2015 cA-1.2 s94
+
+DIVISION 2
+
+POWERS OF THE COMMISSIONER
+
+Back to Top
+
+General powers and duties of commissioner
+
+�����
+95.
+
+(1)�In addition to the commissioner�s powers and duties under Parts II and III, the commissioner may
+
+������������
+(a)�
+conduct investigations to ensure compliance with this Act and the regulations;
+
+������������
+(b)�
+monitor and audit the practices and procedures employed by public bodies in carrying out their responsibilities and duties under this Act;
+
+������������
+(c)�
+review and authorize the collection of personal information from sources other than the individual the information is about;
+
+������������
+(d)�
+consult with any person with experience or expertise in any matter related to the purpose of this Act; and
+
+������������
+(e)�
+engage in or commission research into anything relating to the purpose of this Act.
+
+������������
+(2)�
+In addition to the commissioner�s powers and duties under Parts II and III, the commissioner shall exercise and perform the following powers and duties:
+
+������������
+(a)�
+inform the public about this Act;
+
+������������
+(b)�
+develop and deliver an educational program to inform people of their rights and the reasonable limits on those rights under this Act and to inform public bodies of their responsibilities and duties, including the duty to assist, under this Act;
+
+������������
+(c)�
+provide reasonable assistance, upon request, to a person;
+
+������������
+(d)�
+receive comments from the public about the administration of this Act and about matters concerning access to information and the confidentiality, protection and correction of personal information;
+
+������������
+(e)�
+comment on the implications for access to information or for protection of privacy of proposed legislative schemes, programs or practices of public bodies;
+
+������������
+(f)�
+comment on the implications for protection of privacy of
+
+���������������������
+(i)�
+using or disclosing personal information for record linkage, or
+
+��������������������
+(ii)�
+using information technology in the collection, storage, use or transfer of personal information;
+
+������������
+(g)�
+take actions necessary to identify, promote, and where possible cause to be made adjustments to
+practices and procedures that will improve public access to information and protection of personal information;
+
+������������
+(h)�
+bring to the attention of the head of a public body a failure to fulfil the duty to assist applicants;
+
+�������������
+(i)�
+make recommendations to the head of a public body or the minister responsible for this Act about the administration of this Act;
+
+�
+������������
+(j)�
+inform the public from time to time of apparent deficiencies in the system, including the office of the commissioner; and
+
+������������
+(k)�
+establish and implement practices and procedures in the office of the commissioner to ensure efficient and timely compliance with this Act.
+
+������������
+(3)�
+The commissioner�s investigation powers and duties provided in this Part are not limited to an investigation under paragraph (1)(a) but apply also to an investigation in respect of a complaint, privacy complaint, audit, decision or other action that the commissioner is authorized to take under this Act.
+
+2015 cA-1.2 s95
+
+Back to Top
+
+Representation during an investigation
+
+�����
+96.
+
+(1)�During an investigation, the commissioner may give a person an opportunity to make a representation.
+
+������������
+(2)�
+An investigation may be conducted by the commissioner in private and a person who makes representations during an investigation is not, except to the extent invited by the commissioner to do so, entitled to be present during an investigation or to comment on representations made to the commissioner by another person.
+
+������������
+(3)�
+The commissioner may decide whether representations are to be made orally or in writing.
+
+������������
+(4)�
+Representations may be made to the commissioner through counsel or an agent.
+
+2015 cA-1.2 s96
+
+Back to Top
+
+Production of documents
+
+�����
+97.
+
+(1)�This section and section 98
+apply to a record notwithstanding
+
+������������
+(a)�
+paragraph 5
+(1)(c), (d), (e), (f), (g), (h) or (i);
+
+������������
+(b)�
+subsection 7(2);
+
+������������
+(c)�
+another Act or regulation; or
+
+������������
+(d)�
+a privilege under the law of evidence.
+
+������������
+(2)�
+The commissioner has the powers, privileges and immunities that are or may be conferred on a commissioner under the Public Inquiries Act, 2006.
+
+������������
+(3)�
+The commissioner may require any record in the custody or under the control of a public body that the commissioner considers relevant to an investigation to be produced to the commissioner and may examine information in a record, including personal information.
+
+������������
+(4)�
+As soon as possible and in any event not later than 10 business days after a request is made by the commissioner, the head of a public body shall produce to the commissioner a record or a copy of a record required under this section.
+
+������������
+(5)�
+The head of a public body may require the commissioner to examine the original record at a site determined by the head where
+
+������������
+(a)�
+the head of the public body has a reasonable basis for concern about the security of a record that is subject to solicitor and client privilege or litigation privilege;
+
+������������
+(b)�
+the head of the public body has a reasonable basis for concern about the security of another record
+and the Commissioner agrees there is a reasonable basis for concern; or
+
+������������
+(c)�
+it is not practicable to make a copy of the record.
+
+������������
+(6)�
+The head of a public body shall not place a condition on the ability of the commissioner to access or examine a record required under this section, other than that provided in subsection (5).
+
+2015 cA-1.2 s97
+
+Back to Top
+
+Right of entry
+
+�����
+98.
+
+The commissioner has the right
+
+������������
+(a)�
+to enter an office of a public body and examine and make copies of a record in the custody of the public body; and
+
+������������
+(b)�
+to converse in private with an officer or employee of the public body.
+
+2015 cA-1.2 s98
+
+Back to Top
+
+Admissibility of evidence
+
+�����
+99.
+
+(1)�A statement made, or answer or evidence given by a person in the course of an investigation by or proceeding before the commissioner under this Act is not admissible in evidence against a person in a court or at an inquiry or in another proceeding, and no evidence respecting a proceeding under this Act shall be given against a person except
+
+������������
+(a)�
+in a prosecution for perjury;
+
+������������
+(b)�
+in a prosecution for an offence under this Act; or
+
+������������
+(c)�
+in an appeal to, or an application for a declaration from, the Trial Division under this Act, or in an appeal to the Court of Appeal respecting a matter under this Act.
+
+������������
+(2)�
+The commissioner, and a person acting for or under the direction of the commissioner, shall not be required to give evidence in a court or in a proceeding about information that comes to the knowledge of the commissioner in performing duties or exercising powers under this Act.
+
+2015 cA-1.2 s99
+
+Back to Top
+
+Privilege
+
+��
+100.
+
+(1)�Where a person speaks to, supplies information to or produces a record during an investigation by the commissioner under this Act, what he or she says, the information supplied and the record produced are privileged in the same manner as if they were said, supplied or produced in a proceeding in a court.
+
+������������
+(2)�
+The solicitor and client privilege or litigation privilege of the records shall not be affected by production to the commissioner.
+
+2015 cA-1.2 s100
+
+Back to Top
+
+Section 8.1 of the Evidence Act
+
+��
+101.
+
+Section 8.1 of the Evidence Act
+does not apply to an investigation conducted by the commissioner under this Act.
+
+2015 cA-1.2 s101
+
+Back to Top
+
+Disclosure of information
+
+��
+102.
+
+(1)�The commissioner and a person acting for or under the direction of the commissioner, shall not disclose information obtained in performing duties or exercising powers under this Act, except as provided in subsections (2) to (5).
+
+������������
+(2)�
+The commissioner may disclose, or may authorize a person acting for or under his or her direction to disclose, information that is necessary to
+
+������������
+(a)�
+perform a duty or exercise a power of the commissioner under this Act; or
+
+������������
+(b)�
+establish the grounds for findings and recommendations contained in a report under this Act.
+
+������������
+(3)�
+In conducting an investigation
+and in performing a duty or exercising a power under this Act, the commissioner and a person acting for or under his or her direction, shall take reasonable precautions to avoid disclosing and shall not disclose
+
+������������
+(a)�
+any information or other material if the nature of the information or material could justify a refusal by a head of a public body to give access to a record or part of a record;
+
+������������
+(b)�
+the existence of information, where the head of a public body is authorized to refuse to confirm or deny that the information exists under subsection 17(2);
+
+������������
+(c)�
+any information contained in a report or notice made under section 4 or 7 of the Patient Safety Act; or
+
+������������
+(d)�
+any information, including a record, that is prepared for the use of, or collected, compiled or prepared by, a committee referred to in subsection 8.1(1) of the Evidence Act
+for the purpose of carrying out its duties.
+
+������������
+(4)�
+The commissioner may disclose to the Attorney General information relating to the commission of an offence under this or another Act of the province or Canada, where the commissioner has reason to believe an offence has been committed.
+
+������������
+(5)�
+The commissioner may disclose, or
+may authorize a person acting for or under his or her direction to disclose, information in the course of
+a prosecution or another matter before a court referred to in subsection 99(1).
+
+2015 cA-1.2 s102; 2017 cP-3.01 s28
+
+Back to Top
+
+Delegation
+
+��
+103.
+
+The commissioner may delegate to a person on his or her staff a duty or power under this Act.
+
+2015 cA-1.2 s103
+
+Back to Top
+
+Protection from liability
+
+��
+104.
+
+An action does not lie against the commissioner or against a person employed under him or her for anything he or she may do or report or say in the course of the exercise or performance, or intended exercise or performance, of his or her functions and duties under this Act, unless it is shown he or she acted in bad faith.
+
+2015 cA-1.2 s104
+
+Back to Top
+
+Annual report
+
+��
+105.
+
+The commissioner shall report annually to the House of Assembly through the Speaker on
+
+������������
+(a)�
+the exercise and performance of his or her duties and functions under this Act;
+
+������������
+(b)�
+a time analysis of the functions and procedures in matters involving the commissioner in a complaint, from the date of receipt of the request for access or correction by the public body to the date of informal resolution, the issuing of the commissioner�s report, or the withdrawal or abandonment of the complaint, as applicable;
+
+������������
+(c)�
+persistent failures of public bodies to fulfil the duty to assist applicants, including persistent failures to respond to requests in a timely manner;
+
+������������
+(d)�
+the commissioner�s recommendations and whether public bodies have complied with the recommendations;
+
+������������
+(e)�
+the administration of this Act by public bodies and the minister responsible for this Act; and
+
+������������
+(f)�
+other matters about access to information and protection of privacy that the commissioner considers appropriate.
+
+2015 cA-1.2 s105
+
+Back to Top
+
+Special report
+
+��
+106.
+
+The commissioner may at any time make a special report to the House of Assembly through the Speaker relating to
+
+������������
+(a)�
+the resources of the office of the commissioner;
+
+������������
+(b)�
+another matter affecting the operations of this Act; or
+
+������������
+(c)�
+a matter within the scope of the powers and duties of the commissioner under this Act.
+
+2015 cA-1.2 s106
+
+Back to Top
+
+Report
+� investigation or audit
+
+��
+107.
+
+On completing an investigation under paragraph 95
+(1)(a) or an audit under paragraph 95
+(1)(b), the commissioner
+
+������������
+(a)�
+shall prepare a report containing the commissioner�s findings and, where appropriate, his or her recommendations and the reasons for those recommendations;
+
+������������
+(b)�
+shall send a copy of the report to the head of the public body concerned; and
+
+������������
+(c)�
+may make the report public.
+
+2015 cA-1.2 s107
+
+PART V
+
+GENERAL
+
+Back to Top
+
+Exercising rights of another person
+
+��
+108.
+
+A right or power of an individual given in this Act may be exercised
+
+������������
+(a)�
+by a person with written authorization from the individual to act on the individual�s behalf;
+
+������������
+(b)�
+by a court appointed guardian of a mentally disabled person, where the exercise of the right or power relates to the powers and duties of the guardian;
+
+������������
+(c)�
+by an attorney acting under a power of attorney, where the exercise of the right or power relates to the powers and duties conferred by the power of attorney;
+
+������������
+(d)�
+by the parent or guardian of a minor where, in the opinion of the head of the public body concerned, the exercise of the right or power by the parent or guardian would not constitute an unreasonable invasion of the minor�s privacy; or
+
+������������
+(e)�
+where the individual is deceased, by the individual�s personal representative, where the exercise of the right or power relates to the administration of the individual�s estate.
+
+2015 cA-1.2 s108
+
+Back to Top
+
+Designation of head by local public body
+
+��
+109.
+
+(1)�A local public body shall, by by-law, resolution or other instrument, designate a person or group of persons as the head of the local public body for the purpose of this Act, and once designated, the local public body shall advise the minister responsible for this Act of the designation.
+
+������������
+(2)�
+A local government body or group of local government bodies shall
+
+������������
+(a)�
+by by-law, resolution or other instrument, designate a person or group of persons, for the purpose of this Act, as the head of an unincorporated entity owned by or created for the local government body or group of local government bodies; and
+
+������������
+(b)�
+advise the minister responsible for this Act of the designation.
+
+2015 cA-1.2 s109
+
+Back to Top
+
+Designation and delegation by the head of a public body
+
+��
+110.
+
+(1)�The head of a public body shall designate a person on the staff of the public body as the coordinator to
+
+������������
+(a)�
+receive and process requests made under this Act;
+
+������������
+(b)�
+co-ordinate responses to requests for approval by the head of the public body;
+
+������������
+(c)�
+communicate, on behalf of the public body, with applicants and third parties to requests throughout the process including the final response;
+
+������������
+(d)�
+educate staff of the public body about the applicable provisions of this Act;
+
+������������
+(e)�
+track requests made under this Act and the outcome of the request;
+
+������������
+(f)�
+prepare statistical reports on requests for the head of the public body; and
+
+�
+�����������
+(g)�
+carry out other duties as may be assigned.
+
+������������
+(2)�
+The head of a public body may delegate to a person on the staff of the public body a duty or power of the head under this Act.
+
+2015 cA-1.2 s110
+
+Back to Top
+
+Publication scheme
+
+��
+111.
+
+(1)�The commissioner shall create a standard template for the publication of information by public bodies to assist in identifying and locating records in the custody or under the control of public bodies.
+
+������������
+(2)�
+The head of a public body shall adapt the standard template to its functions and publish its own information according to that adapted template.
+
+������������
+(3)�
+The published information shall include
+
+������������
+(a)�
+a description of the mandate and functions of the public body and its components;
+
+������������
+(b)�
+a description and list of the records in the custody or under the control of the public body, including personal information banks;
+
+������������
+(c)�
+the name, title, business address and business telephone number of the head and coordinator of the public body; and
+
+������������
+(d)�
+a description of the manuals used by employees of the public body in administering or carrying out the programs and activities of the public body.
+
+������������
+(4)�
+The published information shall include for each personal information bank maintained by a public body
+
+������������
+(a)�
+its name and location;
+
+������������
+(b)�
+a description of the kind of personal information and the categories of individuals whose personal information is included;
+
+������������
+(c)�
+the authority and purposes for collecting the personal information;
+
+������������
+(d)�
+the purposes for which the personal information is used or disclosed; and
+
+������������
+(e)�
+the categories of persons who use the personal information or to whom it is disclosed.
+
+������������
+(5)�
+Where personal information is used or disclosed by a public body for a purpose that is not included in the information published under subsection (2), the head of the public body shall
+
+������������
+(a)�
+keep a record of the purpose and either attach or link the record to the personal information; and
+
+������������
+(b)�
+update the published information to include that purpose.
+
+������������
+(6)�
+This section or a subsection of this section shall apply to those public bodies listed in the regulations.
+
+2015 cA-1.2 s111
+
+Back to Top
+
+Amendments to statutes and regulations
+
+��
+112.
+
+(1)�A minister shall consult with the commissioner on a proposed Bill that could have implications for access to information or protection of privacy, as soon as possible before, and not later than, the date on which notice to introduce the Bill in the House of Assembly is given.
+
+������������
+(2)�
+The commissioner shall advise the minister as to whether the proposed Bill has implications for access to information or protection of privacy.
+
+������������
+(3)�
+The commissioner may comment publicly on a draft Bill any time after that draft Bill has been made public.
+
+2015 cA-1.2 s112
+
+Back to Top
+
+Report of minister responsible
+
+��
+113.
+
+The minister responsible for this Act shall report annually to the House of Assembly on the administration of this Act and shall include information about
+
+������������
+(a)�
+the number of requests for access and whether they were granted or denied;
+
+������������
+(b)�
+the specific provisions of this Act used to refuse access;
+
+������������
+(c)�
+the number of requests for correction of personal information;
+
+������������
+(d)�
+the costs charged for access to records; and
+
+������������
+(e)�
+systemic and other issues raised by the commissioner in the annual reports of the commissioner.
+
+2015 cA-1.2 s113
+
+Back to Top
+
+Limitation of liability
+
+��
+114.
+
+(1)�An action does not lie against the government of the province, a public body, the head of a public body, an elected or appointed official of a local public body or a person acting for or under the direction of the head of a public body for damages resulting from
+
+������������
+(a)�
+the disclosure of or a failure to disclose, in good faith, a record or part of a record or information under this Act or a consequence of that disclosure or failure to disclose; or
+
+������������
+(b)�
+the failure to give a notice required by this Act where reasonable care is taken to ensure that notices are given.
+
+������������
+(2)�
+An action does not lie against a Member of the House of Assembly for disclosing information obtained from a public body in accordance with paragraph 68
+(1)(k) while acting in good faith on behalf of an individual.
+
+2015 cA-1.2 s114
+
+Back to Top
+
+Offence
+
+��
+115.
+
+(1)�A person who wilfully collects, uses or discloses personal information in contravention of this Act or the regulations is guilty of an offence and liable, on summary conviction, to a fine of not more than $10,000 or to imprisonment for a term not exceeding 6 months, or to both.
+
+������������
+(2)�
+A person who wilfully
+
+������������
+(a)�
+attempts to gain or gains access to personal information in contravention of this Act or the regulations;
+
+������������
+(b)�
+makes a false statement to, or misleads or attempts to mislead the commissioner or another person performing duties or exercising powers under this Act;
+
+������������
+(c)�
+obstructs the commissioner or another person performing duties or exercising powers under this Act;
+
+������������
+(d)�
+destroys a record or erases information in a record that is subject to this Act, or directs another person to do so, with the intent to evade a request for access to records; or
+
+������������
+(e)�
+alters, falsifies or conceals a record that is subject to this Act, or directs another person to do so, with the intent to evade a request for access to records,
+
+is guilty of an offence and liable, on summary conviction, to a fine of not more than $10,000 or to imprisonment for a term not exceeding 6 months, or to both.
+
+������������
+(3)�
+A prosecution for an offence under this Act shall be commenced within 2 years of the date of the discovery of the offence.
+
+2015 cA-1.2 s115
+
+Back to Top
+
+Regulations
+
+��
+116.
+
+The Lieutenant-Governor in Council may make regulations
+
+������������
+(a)�
+designating a body as a public body, educational body, health care body or local government body under this Act;
+
+������������
+(b)�
+designating a person or group of persons as the head of a public body;
+
+������������
+(c)�
+prescribing procedures to be followed in making, transferring and responding to requests under this Act;
+
+������������
+(d)�
+permitting prescribed categories of applicants to make requests under this Act orally instead of in writing;
+
+������������
+(e)�
+limiting the costs that different categories of persons may be charged under this Act;
+
+������������
+(f)�
+authorizing, for the purposes of section 28, a local public body to hold meetings of its elected officials, or of its governing body or a committee of the governing body, to consider specified matters in the absence of the public unless another Act
+
+���������������������
+(i)�
+expressly authorizes the local public body to hold meetings in the absence of the public, and
+
+��������������������
+(ii)�
+specifies the matters that may be discussed at those meetings;
+
+������������
+(g)�
+prescribing for the purposes of section 36
+the categories of sites that are considered to have heritage or anthropological value;
+
+������������
+(h)�
+authorizing the disclosure of information relating to the mental or physical health of individuals to medical or other experts to determine, for the purposes of section 37, if disclosure of that information could reasonably be expected to result in grave and immediate harm to the safety of or the mental or physical health of those individuals;
+
+�������������
+(i)�
+prescribing procedures to be followed or restrictions considered necessary with respect to the disclosure and examination of information referred to in paragraph (h);
+
+�������������
+(j)�
+prescribing special procedures for giving individuals access to personal information about their mental or physical health;
+
+������������
+(k)�
+prescribing, for the purposes of section 68, a body to whom personal information may be disclosed for audit purposes;
+
+�������������
+(l)�
+prescribing the public bodies that are required to comply with all or part of section 111;
+
+����������
+(m)�
+requiring public bodies to provide to the minister responsible for this Act information that relates to its administration or is required for preparing the minister's annual report;
+
+������������
+(n)�
+providing for the retention and disposal of records by a public body if the Management of Information Act
+does not apply to the public body;
+
+������������
+(o)�
+exempting any class of public body from a regulation made under this section; and
+
+������������
+(p)�
+generally
+to give effect to this Act.
+
+2015 cA-1.2 s116
+
+Back to Top
+
+Review
+
+��
+117.
+
+(1)�After the expiration of not more than 5 years after the coming into force of this Act or part of it and every 5 years thereafter, the minister responsible for this Act shall refer it to a committee for the purpose of undertaking a comprehensive review of the provisions and operation of this Act or part of it.
+
+������������
+(2)�
+The committee shall review the list of provisions in Schedule A to determine the necessity for their continued inclusion in Schedule A.
+
+2015 cA-1.2 s117
+
+Back to Top
+
+Transitional
+
+��
+118.
+
+(1)�This Act applies to
+
+������������
+(a)�
+a request for access to a record that is made on or after the day section 8
+comes into force;
+
+������������
+(b)�
+a request for correction of personal information that is made on or after the day section 10
+comes into force; and
+
+������������
+(c)�
+a privacy complaint that is filed by an individual or commenced by the commissioner on or after the day section 73
+comes into force.
+
+������������
+(2)�
+Part IV, Division 1 applies to and upon the appointment of the next commissioner.
+
+2015 cA-1.2 s118
+
+Back to Top
+
+SNL2013 cA-3.1 Amdt.
+
+��
+119.
+(1)�Subsection 61(2) of the Adoption Act, 2013
+is amended by deleting the reference "Access to Information and Protection of Privacy Act" and substituting the reference "Access to Information and Protection of Privacy Act, 2015".
+
+������������
+(2)�
+Section 64 of the Act is repealed and the following substituted:
+
+Acts do not apply
+
+�����
+64.
+
+Notwithstanding the Access to Information and Protection of Privacy Act, 2015
+and the Privacy Act
+(Canada), the use of, disclosure of and access to information in records pertaining to adoptions, regardless of where the information or records are located, shall be governed by this Act.
+
+������������
+(3)�
+Subsection 67(1) of the Act is amended by deleting the reference "Access to Information and Protection of Privacy Act" and substituting the reference "Access to Information and Protection of Privacy Act, 2015".
+
+2015 cA-1.2 s119
+
+Back to Top
+
+SNL1991 c22 Amdt.
+
+��
+120.
+Section 19 of the Auditor General Act
+is repealed and the following substituted:
+
+Prohibition
+
+�����
+19.
+
+Notwithstanding sections 17 and 18, the auditor general shall not be permitted access to information the disclosure of which may be refused under section 31 of the Access to Information and Protection of Privacy Act, 2015
+or the disclosure of which shall be refused under section 27 of that Act.
+
+2015 cA-1.2 s120
+
+Back to Top
+
+RSNL1990 cC-2 Amdt.
+
+��
+121.
+Subsection 201.83(2) of the Canada-Newfoundland And
+Labrador Atlantic Accord Implementation Newfoundland And
+Labrador Act
+is amended by deleting the reference "Access to Information and Protection of Privacy Act" and substituting the reference "Access to Information and Protection of Privacy Act, 2015".
+
+2015 cA-1.2 s121
+
+Back to Top
+
+SNL2004 cC-5.1 Amdt.
+
+��
+122.
+Paragraph 2(e) of the Centre for Health Information Act
+is repealed and the following substituted:
+
+������������
+(e)�
+"personal information" means personal information as defined in the Access to Information and Protection of Privacy Act, 2015, other than information described in subparagraph 2(u)(vi) of that Act.
+
+2015 cA-1.2 s122
+
+Back to Top
+
+SNL2010 cC-12.2 Amdt.
+
+��
+123.
+(1)�Section 69 of the Children and Youth Care and Protection Act
+is repealed and the following substituted:
+
+Access to Information and Protection of Privacy Act, 2015 does not apply
+
+�����
+69.
+
+Notwithstanding the Access to Information and Protection of Privacy Act, 2015, the use of, disclosure of and access to information in records pertaining to the care and protection of children and youth obtained under this Act, regardless of where the information or records are located, shall be governed by this Act.
+
+������������
+(2)�
+Subsection 74(1) of the Act is amended by deleting the reference "Access to Information and Protection of Privacy Act" and substituting the reference "Access to Information and Protection of Privacy Act, 2015".
+
+2015 cA-1.2 s123
+
+Back to Top
+
+SNL2001 cC-14.1 Amdt.
+
+��
+124.
+Paragraph 19(e) of the Citizens� Representative Act
+is amended by deleting the reference "Access to Information and Protection of Privacy Act" and substituting the reference "Access to Information and Protection of Privacy Act, 2015".
+
+2015 cA-1.2 s124
+
+Back to Top
+
+SNL2007 cE-11.01 Amdt.
+
+��
+125.
+(1)�Paragraphs 2(h.1) and (h.2) of the Energy Corporation Actare amended by deleting the reference "Access to Information and Protection of Privacy Act" wherever it occurs and substituting the reference "Access to Information and Protection of Privacy Act, 2015".
+
+������������
+(2)�
+Subsections 5.4(1) to (4) are repealed and the following substituted:
+
+Records of commercially sensitive information
+
+�����
+5.4
+
+(1)�Notwithstanding section 7
+of the Access to Information and Protection of Privacy Act, 2015, in addition to the information that shall or may be refused under Part II, Division 2 of that Act, the chief executive officer of the corporation or a subsidiary, or the head of another public body,
+
+������������
+(a)�
+may refuse to disclose to an applicant under that Act commercially sensitive information of the corporation or the subsidiary; and
+
+������������
+(b)�
+shall refuse to disclose to an applicant under that Act commercially sensitive information of a third party
+
+where the chief executive officer of the corporation or the subsidiary to which the requested information relates, taking into account
+sound and fair business practices, reasonably believes
+
+������������
+(c)�
+that the disclosure of the information may
+
+���������������������
+(i)�
+harm the competitive position of,
+
+��������������������
+(ii)�
+interfere with the negotiating position of, or
+
+�������������������
+(iii)�
+result in financial loss or harm to
+
+the corporation, the subsidiary or the third party; or
+
+������������
+(d)�
+that information similar to
+the information requested to be disclosed
+
+���������������������
+(i)�
+is treated consistently in a confidential manner by the third party, or
+
+��������������������
+(ii)�
+is customarily not provided to competitors by the corporation, the subsidiary or the third party.
+
+������������
+(2)�
+Where an applicant is denied access to information under subsection (1) and a request to review that decision is made to the commissioner under section 42
+of the Access to Information and Protection of Privacy Act, 2015, the commissioner shall, where he or she determines that the information is commercially sensitive information,
+
+������������
+(a)�
+on receipt of the chief executive officer's certification that he or she has refused to disclose the information for the reasons set out in subsection (1); and
+
+������������
+(b)�
+confirmation of the chief executive officer's decision by the board of directors of the corporation or subsidiary,
+
+uphold the decision of the chief executive officer or head of another public body not to disclose the information.
+
+������������
+(3)�
+Where a person appeals,
+
+������������
+(a)�
+under subsections 52
+(1) and (2), subsections 53
+(1) and (2) or section 54
+of the Access to Information and Protection of Privacy Act, 2015, from a decision under subsection (1); or
+
+������������
+(b)�
+under subsections 52
+(1) and (2), subsections 53
+(1) and (2) or section 54
+of the Access to Information and Protection of Privacy Act, 2015,
+from a refusal by a chief executive officer under subsection (1) to disclose information,
+
+paragraph 59
+(3)(a) and section 60
+of that Act apply to that appeal as if Part II, Division 2 included the grounds for the refusal to disclose the information set out in subsection (1) of this Act.
+
+������������
+(4)�
+Paragraph 102
+(3)(a) of the Access to Information and Protection of Privacy Act, 2015
+applies to information referred to in subsection (1) of this section as if the information was information that a head of a public body is authorized or required to refuse to disclose under Part II, Division 2.
+
+2015 cA-1.2 s125
+
+Back to Top
+
+SNL1995 cP-37.1 Amdt.
+
+��
+126.
+Section 4.01 of the Health and Community Services Act
+is amended by deleting the reference "Access to Information and Protection of Privacy Act" and substituting the reference "Access to Information and Protection of Privacy Act, 2015".
+
+2015 cA-1.2 s126
+
+Back to Top
+
+RSNL1990 cH-10 Amdt.
+
+��
+127.
+Section 50 of the House of Assembly Act
+is repealed and the following substituted:
+
+Information exempt
+
+�����
+50.
+
+Information disclosed by a member or the member's family to the commissioner under this Part or a regulation made under this Part or in the course of
+the administration of this Part shall not be disclosed under the Access to Information and Protection of Privacy Act, 2015
+or otherwise than in accordance with this Part.
+
+2015 cA-1.2 s127
+
+Back to Top
+
+SNL2007cH-10.1 Amdt.
+
+��
+128.
+(1)�Paragraph 32(2)(c) of the House of Assembly Accountability, Integrity and Administration Act
+is repealed and the following substituted:
+
+������������
+(c)�
+
+subsection 92(1) of the
+Access to Information and Protection of Privacy Act, 2015;
+
+������������
+(2)�
+Subsection 49(1) of the Act is amended by deleting the reference "Access to Information and Protection of Privacy Act" and substituting the reference "Access to Information and Protection of Privacy Act, 2015".
+
+2015 cA-1.2 s128
+
+Back to Top
+
+SNL1999 cM-5.1 Amdt.
+
+��
+129.
+Paragraph 3(1)(e.1) of the Medical Care Insurance Act, 1999
+is amended by deleting the reference "Access to Information and Protection of Privacy Act" and substituting the reference "Access to Information and Protection of Privacy Act, 2015".
+
+2015 cA-1.2 s129
+
+Back to Top
+
+SNL2014 cM-16.2 Amdt.
+
+��
+130.
+Paragraph 2(g) of the Missing Persons Act
+is amended by deleting the reference "Access to Information and Protection of Privacy Act" and substituting the reference "Access to Information and Protection of Privacy Act, 2015".
+
+2015 cA-1.2 s130
+
+Back to Top
+
+SNL2008 cP-7.01 Amdt.
+
+��
+131.
+(1)�Paragraphs 2(1)(e) and (r) of the Personal Health Information Act
+are amended by deleting the reference "Access to Information and Protection of Privacy Act" wherever it occurs and substituting the reference "Access to Information and Protection of Privacy Act, 2015".
+
+������������
+(2)�
+Section 12 of the Act is repealed and the following substituted:
+
+Access to information legislation
+
+�����
+12.
+
+(1)�The Access to Information and Protection of Privacy Act, 2015
+does not apply to
+
+������������
+(a)�
+the use, collection, disclosure, storage, disposition or any other dealing with personal health information by or in the custody or control of a custodian;
+
+������������
+(b)�
+a request for access to or correction of a record of personal health information in the custody or control of a custodian;
+
+������������
+(c)�
+a complaint to the commissioner respecting
+
+���������������������
+(i)�
+a denial of access to or correction of a record of personal health information by a custodian,
+
+��������������������
+(ii)�
+a request for review or appeal of a denial of access to or correction of a record of personal health information by a custodian, or
+
+�������������������
+(iii)�
+a contravention or alleged contravention of this Act or the regulations; or
+
+������������
+(d)�
+the determination or prosecution of an offence or the imposition of a penalty in respect of a breach of this Act or the regulations.
+
+������������
+(2)�
+Notwithstanding subsection (1), this Act does not limit a person's right of access under section 8
+of the Access to Information and Protection of Privacy Act, 2015
+
+������������
+(a)�
+to personal information contained in a record, other than a record referred to in subsection 5(4), in the custody or control of a custodian who is a public body, that contains both personal health information as described in section 5 and personal information but only where the personal information can be reasonably severed from the record;
+
+������������
+(b)�
+to a record of personal health information which is in the custody or control of a public body who is not a custodian within the meaning of subsection 4(1); or
+
+������������
+(c)�
+to both personal health information and personal information contained in a record referred to in subsection 5(4) where the record is in the custody or control of a custodian that is a public body.
+
+������������
+(3)�
+For the purpose of subsection (2), "personal information" means personal information as defined in paragraph 2
+(u) of the Access to Information and Protection of Privacy Act, 2015, other than information referred to in subparagraph 2
+(u)(vi) of that Act.
+
+2015 cA-1.2 s131
+
+Back to Top
+
+SNL2008 cR-13.1 Amdt.
+
+��
+132.
+Subsections 21(1) to (4) of the Research and Development Council Act
+are repealed and the following substituted:
+
+Records of commercially sensitive information
+
+�����
+21.
+
+(1)�Notwithstanding section 7
+of the Access to Information and Protection of Privacy Act, 2015, in addition to the information that shall or may be refused under Part II, Division 2 of that Act, the chief executive officer, or the head of another public body,
+
+������������
+(a)�
+may refuse to disclose to an applicant under that Act commercially sensitive information of the council; and
+
+������������
+(b)�
+shall refuse to disclose to an applicant under that Act commercially sensitive information of a third party
+
+where the chief executive officer, taking into account
+sound and fair business practices, reasonably believes
+
+������������
+(c)�
+that the disclosure of the information may
+
+���������������������
+(i)�
+harm the competitive position of,
+
+��������������������
+(ii)�
+interfere with the negotiating position of, or
+
+�������������������
+(iii)�
+result in financial loss or harm to
+
+the council or the third party; or
+
+������������
+(d)�
+that information similar to
+the information requested to be disclosed
+
+���������������������
+(i)�
+is treated consistently in a confidential manner by the third party, or
+
+��������������������
+(ii)�
+is customarily not provided to competitors by the council or the third party.
+
+������������
+(2)�
+Where an applicant is denied access to information under subsection (1) and a request to review that decision is made to the commissioner under section 42
+of the Access to Information and Protection of Privacy Act, 2015, the commissioner shall, where he or she determines that the information is commercially sensitive information,
+
+������������
+(a)�
+on receipt of the chief executive officer's certification that he or she has refused to disclose the information for the reasons set out in subsection (1); and
+
+������������
+(b)�
+on confirmation of the chief executive officer's decision by the board of directors of the council,
+
+uphold the decision of the chief executive officer or head of another public body not to disclose the information.
+
+������������
+(3)�
+Where a person appeals,
+
+������������
+(a)�
+under subsections 52
+(1) and (2), subsections 53
+(1) and (2) or section 54
+of the Access to Information and Protection of Privacy Act, 2015, from a decision under subsection (1); or
+
+������������
+(b)�
+under subsections 52
+(1) and (2), subsections 53
+(1) and (2) or section 54
+of the Access to Information and Protection of Privacy Act, 2015,
+from a refusal by a chief executive officer under subsection (1) to disclose information,
+
+paragraph 59
+(3)(a) and section 60
+of that Act apply to that appeal as if Part II, Division 2 of that Act included the grounds for the refusal to disclose the information set out in subsection (1) of this Act.
+
+������������
+(4)�
+Paragraph 102
+(3)(a) of the Access to Information and Protection of Privacy Act, 2015
+applies to information referred to in subsection (1) of this section as if the information was information that a head of a public body is authorized or required to refuse to disclose under
+Part II, Division 2
+
+of that Act.
+
+2015 cA-1.2 s132
+
+Back to Top
+
+SNL2014 c23 Amdt.
+
+��
+133.
+Section 2 of An Act to Amend the Revenue Administration Act No. 3
+is repealed.
+
+2015 cA-1.2 s133
+
+Back to Top
+
+SNL2005 cR-15.1 Amdt.
+
+��
+134.
+Subsection 24(1) of the Rooms Act
+is repealed and the following substituted:
+
+Restriction
+
+�����
+24.
+
+(1)�A public body that wishes to respond to a request under section 11
+of the Access to Information and Protection of Privacy Act, 2015
+with respect to a government record that it intends to transfer to the archives shall transfer that record to the archives with instructions, in writing, that all requests for access to that record be transferred to it in accordance with section 14
+of the Access to Information and Protection of Privacy Act, 2015, and the Access to Information and Protection of Privacy Act, 2015
+shall apply to that record as if it was still under the care and control of that public body.
+
+2015 cA-1.2 s134
+
+Back to Top
+
+SNL2009 cV-6.01 Amdt.
+
+��
+135.
+Paragraph 41(4)(a) of the Vital Statistics Act, 2009
+is amended by deleting the reference "Access to Information and Protection of Privacy Act" and substituting the reference "Access to Information and Protection of Privacy Act, 2015".
+
+2015 cA-1.2 s135
+
+Back to Top
+
+Repeal
+
+��
+136.
+(1)�The Access to Information and Protection of Privacy Act
+is repealed.
+
+������������
+(2)�
+Sections 4 and 5 of the Access to Information Regulations,
+Newfoundland
+and Labrador
+Regulation 11/07, are repealed.
+
+2015 cA-1.2 s136
+
+Back to Top
+
+Commencement
+
+��
+137.
+Subparagraph 2(x)(vi) of this Act comes into force on August 1, 2015.
+
+2015 cA-1.2 s137
+
+Back to Top
+
+Schedule A
+
+������������
+(a)�
+sections 64 to 68 of the Adoption Act, 2013;
+
+������������
+(b)�
+sections 33 and 34 of the Adult Protection Act, 2021;
+
+��������
+(b.1)�
+subsection 30(2) of the Auditor General Act, 2021;
+
+������������
+(c)�
+section 115 of the Canada-Newfoundland and Labrador Atlantic Accord Implementation
+
+and Offshore Renewable Energy Management Newfoundland and Labrador Act;
+
+������������
+(d)�
+sections 90 to 96 of the Children, Youth and Families Act;
+
+������������
+(e)�
+[Rep. by 2024 cH-18 s61]
+
+������������
+(f)�
+section 8.1 of the Evidence Act;
+
+������������
+(g)�
+subsection 24(1) of the Fatalities Investigations Act;
+
+������������
+(h)�
+subsection 5(1) of the Fish Inspection Act;
+
+�������������
+(i)�
+section 4 of the Fisheries Act;
+
+�������������
+(j)�
+sections 173, 174 and 174.1 of the Highway Traffic Act;
+
+�������
+(j.01)�
+section 31 of the Hydro Corporation Act, 2024;
+
+���������
+(j.1)�
+section 21 of the Innovation and Business Investment Corporation Act;
+
+���������
+(j.2)�
+section 6 and paragraph 7(1)(b) of the Interpersonal Violence Disclosure Protocol Act;
+
+������������
+(k)�
+section 15 of the Mineral Act;
+
+�������������
+(l)�
+section 16 of the Mineral Holdings Impost Act;
+
+����������
+(l.1)�
+section 23 of the Oil and Gas Corporation Act;
+
+����������
+(m)�
+subsection 13(3) of the Order of Newfoundland
+and Labrador
+Act;
+
+�������
+(m.1)�
+sections 10 and 15 of the Patient Safety Act;
+
+������������
+(n)�
+sections 153, 154 and 155 of the Petroleum Drilling Regulations;
+
+������������
+(o)�
+sections 53 and 56 of the Petroleum Regulations;
+
+������������
+(p)�
+[Rep. by 2018 cI-7.1 s24]
+
+������������
+(q)�
+section 12 and subsection 96.2(2) of the Schools Act, 1997;
+
+�������������
+(r)�
+sections 19 and 20 of the Securities Act;
+
+������������
+(s)�
+section 13 of the Statistics Agency Act; and
+
+�������������
+(t)�
+section 19 of the Workplace Health, Safety and Compensation Act, 2022.
+
+2015 cA-1.2 Sch; 2017 cP-3.01 s28; 2018 cI-7.1 s24; 2018 cC-12.3 s112; 2019 cO-6.1 s49; 2021 cA-22.1 s41; 2021 cA-4.02; 2022 cW-11.1 s153; 2023 c16 s1; 2023 c18 s38; 2024 cH-18 s61; 2025 c4 s241
+
+Back to Top
+
+Schedule B
+
+Commission of Inquiry Respecting the Muskrat
+Falls
+
+Project
+
+Inquiry Respecting Ground Search and Rescue for Lost and Missing Persons
+
+Inquiry Respecting the Treatment, Experiences and Outcomes of Innu in the Child Protection System
+
+10/18 s2; 2018 c4 s1; 2021 c4 s1; 2022 c15 s1
+
+�Queen's Printer
+
+|

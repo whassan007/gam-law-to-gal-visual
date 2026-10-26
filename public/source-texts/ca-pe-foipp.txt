@@ -1,0 +1,2147 @@
+t
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY ACT
+PLEASE NOTE
+This document, prepared by the Legislative Counsel Office, is an office consolidation of this Act,
+current to May 29, 2026. It is intended for information and reference purposes only.
+This document is not the official version of the Act. The Act and the amendments as printed under the
+authority of the King’s Printer for the province should be consulted to determine the authoritative
+statement of the law.
+For more information concerning the history of this Act, please see the Table of Public Acts on the
+Prince Edward Island Government web site.
+If you find any errors or omissions in this consolidation, please contact:
+Legislative Counsel Office
+Tel: (902) 368-4292
+Email: legislation@gov.pe.ca
+Freedom of Information and Protection of Privacy Act Table of Contents
+c t Current to: May 29, 2026 Page 3
+FREEDOM OF INFORMATION AND PROTECTION OF PRIVACY ACT
+Table of Contents
+Section Page
+1. Definitions................................................................................................................................................ 7
+2. Purposes of this Act ................................................................................................................................. 9
+3. Scope of this Act .................................................................................................................................... 10
+4. Records to which this Act applies .......................................................................................................... 10
+5. Refusal, existing law .............................................................................................................................. 12
+PART I — FREEDOM OF INFORMATION 12
+Division 1 — Obtaining Access to Records ......................................................................................................... 12
+6. Information rights .................................................................................................................................. 12
+7. How to make a request ........................................................................................................................... 13
+8. Duty to assist applicants ......................................................................................................................... 13
+9. Time limit for responding ...................................................................................................................... 14
+10. Contents of response .............................................................................................................................. 14
+11. How access will be given ....................................................................................................................... 14
+12. Extending the time limit for responding ................................................................................................ 15
+13. Transferring a request ............................................................................................................................ 15
+Division 2 — Exceptions to Disclosure ............................................................................................................... 16
+14. Disclosure harmful to business interests of a third party ....................................................................... 16
+15. Disclosure harmful to personal privacy ................................................................................................. 17
+16. Disclosure harmful to individual or public safety .................................................................................. 18
+17. Confidential evaluations ........................................................................................................................ 19
+18. Disclosure harmful to law enforcement ................................................................................................. 19
+19. Disclosure harmful to intergovernmental relations ................................................................................ 20
+20. Cabinet confidences ............................................................................................................................... 21
+21. Public body confidences ........................................................................................................................ 21
+22. Advice from officials ............................................................................................................................. 22
+23. Disclosure harmful to economic and other interests of a public body ................................................... 23
+24. Testing procedures, tests and audits ....................................................................................................... 23
+25. Privileged information ........................................................................................................................... 23
+26. Disclosure harmful to the conservation of heritage sites, etc. ................................................................ 24
+27. Information that is or will be available to the public.............................................................................. 24
+Division 3 — Third Party Intervention ................................................................................................................ 25
+28. Notifying the third party ........................................................................................................................ 25
+29. Time limit and notice decision ............................................................................................................... 26
+Division 4 — Public Health and Safety................................................................................................................ 26
+30. Information shall be disclosed if risk of harm to environment or public health ..................................... 26
+PART II — PROTECTION OF PRIVACY 27
+Division 1 — Collection of Personal Information ................................................................................................ 27
+31. Purpose of collection of information ...................................................................................................... 27
+32. Manner of collection of information ...................................................................................................... 27
+Table of Contents Freedom of Information and Protection of Privacy Act
+Page 4 Current to: May 29, 2026 t c
+33. Accuracy of personal information ..........................................................................................................28
+34. Right to request correction of personal information ...............................................................................28
+35. Protection of personal information .........................................................................................................30
+Division 2 — Use and Disclosure of Personal information by Public Bodies ......................................................30
+36. Use of personal information ...................................................................................................................30
+37. Disclosure of personal information ........................................................................................................30
+38. Consistent purposes ................................................................................................................................32
+39. Disclosure for research or statistical purposes ........................................................................................33
+40. Disclosure for research purposes ............................................................................................................33
+PART III — OFFICE AND POWERS OF INFORMATION AND PRIVACY COMMISSIONER 34
+41. Definition ...............................................................................................................................................34
+42. Commissioner .........................................................................................................................................34
+43. Term of office .........................................................................................................................................34
+44. Resignation, removal or suspension of Commissioner ...........................................................................34
+45. Acting Commissioner .............................................................................................................................35
+46. Remuneration .........................................................................................................................................35
+47. Oath ........................................................................................................................................................35
+48. Office of the Commissioner ...................................................................................................................35
+49. Submission of estimate ...........................................................................................................................36
+50. Review ....................................................................................................................................................36
+51. Advice and recommendations ................................................................................................................37
+52. Power to authorize a public body to disregard questions .......................................................................37
+53. Powers of Commissioner in conducting inquiries ..................................................................................37
+54. Statements made to the Commissioner not admissible in evidence........................................................38
+55. Privileged information ............................................................................................................................38
+55.1 Competence and compellability .............................................................................................................38
+56. Restrictions on disclosure of information by the Commissioner and staff .............................................39
+57. Protection of Commissioner and staff ....................................................................................................39
+58. Delegation ..............................................................................................................................................39
+59. Report of Commissioner.........................................................................................................................39
+PART IV — REVIEWS AND COMPLAINTS 40
+Division 1 — Reviews by the Commissioner .......................................................................................................40
+60. Right to ask for a review ........................................................................................................................40
+61. How to ask for a review..........................................................................................................................40
+62. Notifying others of review......................................................................................................................41
+63. Use of mediation ....................................................................................................................................41
+64. Inquiry by Commissioner .......................................................................................................................41
+64.1 Refusal to conduct an inquiry .................................................................................................................42
+65. Burden of proof ......................................................................................................................................42
+66. Commissioner’s orders ...........................................................................................................................43
+67. No appeal................................................................................................................................................44
+68. Duty to comply with order .....................................................................................................................44
+Division 1.1 — Complaints About and Reviews of the Commissioner’s Decisions as Head of a Public
+Body .......................................................................................................................................................44
+68.1 Designation of an adjudicator .................................................................................................................44
+68.2 Powers, duties and functions ..................................................................................................................45
+68.3 Idem ........................................................................................................................................................45
+68.4 Application .............................................................................................................................................45
+68.5 Written request .......................................................................................................................................46
+68.6 Idem ........................................................................................................................................................46
+68.7 Powers and duties of an adjudicator .......................................................................................................46
+DIVISION 2 — DISCLOSURE TO COMMISSIONER 47
+69. Disclosure to Commissioner ...................................................................................................................47
+Freedom of Information and Protection of Privacy Act Table of Contents
+c t Current to: May 29, 2026 Page 5
+PART V — GENERAL PROVISIONS 47
+70. Manner of giving notice ......................................................................................................................... 47
+71. Exercise of rights by other persons ........................................................................................................ 48
+72. Delegation by the head of a public body ................................................................................................ 48
+73. Records available without request.......................................................................................................... 48
+74. Protection of public body from legal suit ............................................................................................... 49
+74.1 Adverse employment action ................................................................................................................... 49
+75. Offences ................................................................................................................................................. 49
+76. Fees ........................................................................................................................................................ 50
+77. Power to make regulations ..................................................................................................................... 50
+77.1 Power to make bylaws ........................................................................................................................... 52
+78. Application of this Act ........................................................................................................................... 52
+79. Review ................................................................................................................................................... 52
+
+Freedom of Information and Protection of Privacy Act PART I — FREEDOM OF INFORMATION
+Section 1
+c t Current to: May 29, 2026 Page 7
+FREEDOM OF INFORMATION AND PROTECTION OF PRIVACY ACT
+CHAPTER F-15.01
+1. Definitions
+In this Act
+(a) “adjudicator” means a person designated under section 68.1;
+(a.1) “applicant” means a person who makes a request for access to a record under
+subsection 7(1);
+(a.2) “biometric information” means information derived from an individual’s unique
+measurable characteristics;
+(b) “Commissioner” means the Information and Privacy Commissioner appointed under
+Part III;
+(b.1) “designated educational body” means
+(i) the University of Prince Edward Island established under the University Act
+R.S.P.E.I. 1988, Cap. U-4,
+(ii) Holland College established under the Holland College Act R.S.P.E.I. 1988,
+Cap. H-6,
+(iii) La Société Éducative de L’Île-de-Prince Édouard Inc., a non-profit
+corporation established under the laws of the Province, operating under the
+trade name “Collège de l’Île”, or
+(iv) any other body that may be designated as a designated educational body in
+the regulations;
+(b.2) “designated municipality” means
+(i) the City of Charlottetown,
+(ii) the City of Summerside,
+(iii) the Town of Cornwall,
+(iv) the Town of Stratford, or
+(v) any other municipality that may be designated as a designated municipality
+in the regulations;
+(c) “employee”, in relation to a public body, includes a person who performs a service
+for the public body as an appointee, volunteer or student or under a contract with the
+public body;
+(d) “head”, in relation to a public body, means
+(i) if the public body is a department, branch or office of the Government of
+Prince Edward Island, the member of the Executive Council who presides
+over it,
+(ii) if the public body is an agency, board, commission, corporation, office or
+other body designated as a public body in the regulations,
+PART I — FREEDOM OF INFORMATION
+Section 1 Freedom of Information and Protection of Privacy Act
+Page 8 Current to: May 29, 2026 t c
+(A) the person designated under subsection 77(2) as the head of that
+body, or
+(B) where a head is not so designated, the person who acts as the chief
+officer for, and is charged with the administration and operation of,
+that body,
+(ii.1) if the public body is a local public body, the person or group of persons
+designated under section 77.1 as the head, or
+(iii) in any other case, the chief officer of the public body;
+(e) “law enforcement” means
+(i) policing, including criminal intelligence operations,
+(ii) a police, security or administrative investigation, including the complaint
+giving rise to the investigation, that leads or could lead to a penalty or
+sanction, including a penalty or sanction imposed by the body conducting the
+investigation or by another body to which the results of the investigation are
+referred, or
+(iii) proceedings that lead or could lead to a penalty or sanction, including a
+penalty or sanction imposed by the body conducting the proceedings, or by
+another body to which the results of the proceedings are referred;
+(e.1) “local public body” means
+(i) a designated educational body, or
+(ii) a designated municipality;
+(f) “Minister” means the member of the Executive Council charged by the Lieutenant
+Governor in Council with the administration of this Act;
+(f.1) “municipality” means a municipality as defined in the Municipal Government Act
+R.S.P.E.I. 1988, Cap. M-12.1;
+(g) “offence” means an offence under an enactment of Prince Edward Island or Canada;
+(h) “officer of the Legislative Assembly” means any person appointed as an officer of
+the Legislative Assembly by the Legislative Assembly;
+(i) “personal information” means recorded information about an identifiable
+individual, including
+(i) the individual’s name, home or business address or home or business
+telephone number,
+(ii) the individual’s race, national or ethnic origin, colour or religious or political
+beliefs or associations,
+(iii) the individual’s age, sex, marital status or family status,
+(iv) an identifying number, symbol or other particular assigned to the individual,
+(v) the individual’s fingerprints, other biometric information, blood type, genetic
+information or inheritable characteristics,
+(vi) information about the individual’s health and health care history, including
+information about a physical or mental disability,
+(vii) information about the individual’s educational, financial, employment or
+criminal history, including criminal records where a pardon has been granted
+or a record suspension has been ordered in respect of the offence under the
+Criminal Records Act (Canada),
+(viii) anyone else’s opinions about the individual, and
+Freedom of Information and Protection of Privacy Act PART I — FREEDOM OF INFORMATION
+Section 2
+c t Current to: May 29, 2026 Page 9
+(ix) the individual’s personal views or opinions, except if they are about someone
+else;
+(j) “prescribed” means prescribed by the regulations;
+(k) “public body” means
+(i) a department, branch or office of the Government of Prince Edward Island,
+(ii) an agency, board, commission, corporation, office or other body designated
+as a public body in the regulations,
+(iii) the Executive Council Office,
+(iv) the office of an officer of the Legislative Assembly, or
+(iv.1) a local public body,
+but does not include
+(v) the office of the Speaker of the Legislative Assembly and the office of a
+Member of the Legislative Assembly, or
+(vi) the Court of Appeal of Prince Edward Island, the Supreme Court of Prince
+Edward Island or the Provincial Court of Prince Edward Island;
+(l) “record” means a record of information in any form, including electronic form, but
+does not include a mechanism or system for generating, sending, receiving, storing or
+otherwise processing information;
+(m) “third party” means a person, a group of persons or an organization other than an
+applicant or a public body;
+(n) “trade secret” means information, including a formula, pattern, compilation,
+program, device, product, method, technique or process
+(i) that is used, or may be used, in business or for any commercial purpose,
+(ii) that derives independent economic value, actual or potential, from not being
+generally known to anyone who can obtain economic value from its
+disclosure or use,
+(iii) that is the subject of reasonable efforts to prevent it from becoming generally
+known, and
+(iv) the disclosure of which would result in significant harm or undue financial
+loss or gain. 2001,c.37,s.1; 2002,c.27,s.1,2; 2005,c.6,s.1; 2008,c.20,s.72(34); 2018,c.27,s.1;
+2022,c.69,s.1; 2025,c.11,s.12(2).
+2. Purposes of this Act
+The purposes of this Act are
+(a) to allow any person a right of access to the records in the custody or under the control
+of a public body subject to limited and specific exceptions as set out in this Act;
+(b) to control the manner in which a public body may collect personal information from
+individuals, to control the use that a public body may make of that information and to
+control the disclosure by a public body of that information;
+(c) to allow individuals, subject to limited and specific exceptions as set out in this Act, a
+right of access to personal information about themselves that is held by a public
+body;
+(d) to allow individuals a right to request corrections to personal information about
+themselves that is held by a public body; and
+(e) to provide for independent reviews of decisions made by public bodies under this Act
+and the resolution of complaints under this Act. 2001,c.37,s.2.
+PART I — FREEDOM OF INFORMATION
+Section 3 Freedom of Information and Protection of Privacy Act
+Page 10 Current to: May 29, 2026 t c
+3. Scope of this Act
+This Act
+(a) is in addition to and does not replace existing procedures for access to information or
+records;
+(b) does not affect access to records deposited in the Public Archives and Records Office
+before the coming into force of this Act;
+(c) does not limit the information otherwise available by law to a party to legal
+proceedings;
+(d) does not affect the power of any court or tribunal to compel a witness to testify or to
+compel the production of documents; and
+(e) does not prohibit the transfer, storage or destruction of any record
+(i) in accordance with any other enactment of Prince Edward Island or Canada,
+or
+(ii) in accordance with a bylaw, resolution or other legal instrument by which a
+local public body acts or, if a local public body does not have a bylaw,
+resolution or other legal instrument in respect of the transfer, storage or
+destruction of a record, as authorized by the governing body of the local
+public body. 2001,c.37,s.3; 2018,c.27,s.2.
+4. Records to which this Act applies
+This Act applies to all records in the custody or under the control of a public body, including
+court administration records, but does not apply to the following:
+(a) information in a court file, a record of a judge of the Court of Appeal of Prince
+Edward Island, the Supreme Court of Prince Edward Island or the Provincial Court of
+Prince Edward Island, a record of the Prothonotary, a record of a justice of the peace,
+a judicial administration record or a record relating to support services provided to a
+judge;
+(b) a personal note, communication or draft decision created by or for a person who is
+acting in a judicial or quasi-judicial capacity;
+(c) a record that is created by or for or is in the custody or under the control of an officer
+of the Legislative Assembly and relates to the exercise of that officer’s functions
+under an enactment;
+(d) a record that is created by or for or is in the custody or under the control of the
+Conflict of Interest Commissioner and relates to any advice relating to conflicts of
+interest whether or not the advice was given under the Conflict of Interest Act;
+(d.1) a record that is created by or for or is in the custody or under the control of the Public
+Interest Disclosure Commissioner or the Office of the Public Interest Disclosure
+Commissioner or a record related to a disclosure or complaint, and any investigation,
+findings or recommendations made in relation to a disclosure or complaint, made
+under the Public Interest Disclosure and Whistleblower Protection Act R.S.P.E.I.
+1988, Cap. P-31.01;
+(e) a question that is to be used on an examination or test;
+(e.1) teaching materials
+(i) of an employee of a designated educational body,
+(ii) of a designated educational body, or
+Freedom of Information and Protection of Privacy Act PART I — FREEDOM OF INFORMATION
+Section 4
+c t Current to: May 29, 2026 Page 11
+(iii) of both an employee of a designated educational body and the designated
+educational body;
+(e.2) research information of an employee of a designated educational body;
+(f) material that has been deposited in the Public Archives and Records Office or the
+archives of a public body by or for a person or entity other than a public body;
+(f.1) published works collected by a library of a public body in accordance with the
+library’s acquisition of materials policy;
+(g) a record relating to a prosecution if all proceedings in respect of the prosecution have
+not been completed;
+(h) a record made from information
+(i) in a registry of documents relating to personal property,
+(ii) in the office of the Director of Corporations,
+(iii) in the office of the Registrar of Deeds,
+(iv) in an office of a division registrar, district registrar, or the Office of the
+Director, as defined in the Vital Statistics Act R.S.P.E.I. 1988, Cap. V-4.1, or
+(v) in a registry operated by a public body if that registry is authorized or
+recognized by an enactment and public access to the registry is normally
+permitted;
+(h.1) a personal record or constituency record of an elected or appointed member of a
+public body;
+(h.2) a personal record of an elected official of or of an appointed or elected member of the
+governing body of a local public body;
+(i) a personal record or constituency record of a member of the Executive Council;
+(j) a record created by or for the office of the Speaker of the Legislative Assembly or the
+office of a member of the Legislative Assembly;
+(k) a record created by or for
+(i) a member of the Executive Council, or
+(ii) a member of the Legislative Assembly
+that has been sent or is to be sent to a member of the Executive Council or a member
+of the Legislative Assembly;
+(l) a record relating to the business or affairs of Credit Union Deposit Insurance
+Corporation of Prince Edward Island, a credit union or a dissolved credit union or
+relating to an application for incorporation as a credit union that is obtained or
+produced in the course of administering or enforcing the Credit Unions Act R.S.P.E.I.
+1988, Cap. C-29.1 or the regulations under it, other than a record that relates to a
+non-arm’s length transaction between the Government and another party;
+(m) a record relating to the business or affairs of the Credit Union Deposit Insurance
+Corporation, a credit union or a dissolved credit union or relating to an application
+for incorporation as a credit union that is obtained or produced in the course of
+administering or enforcing the Credit Unions Act R.S.P.E.I. 1988, Cap. C-29.1 or the
+regulations under it, other than a record that relates to a non-arm’s length transaction
+between the Government and another party;
+(n) personal health information as defined in the Health Information Act R.S.P.E.I. 1988,
+Cap. H-1.41, that is in the custody or control of a public body that is a custodian as
+defined in the Health Information Act.
+PART I — FREEDOM OF INFORMATION
+Section 5 Freedom of Information and Protection of Privacy Act
+Page 12 Current to: May 29, 2026 t c
+Part I does not apply to certain records
+(1.1) Notwithstanding subsection (1), Part I does not apply to a record that is created by or for, or
+is in the custody or under the control of, a local public body before the date that this Act
+applies with respect to that local public body.
+Judicial administration record
+In this section, “judicial administration record” means a record containing information
+relating to
+(a) the scheduling of judges and trials;
+(b) the content of judicial training programs;
+(c) statistics of judicial activity prepared by or for a judge; and
+(d) any record of a judicial council.
+Non-arm’s length transaction
+For the purposes of clauses (1)(l) and (m), a non-arm’s length transaction is any transaction
+that has been approved
+(a) by the Executive Council or any of its committees; or
+(b) by a member of the Executive Council. 2001,c.37,s.4; 2002,c.27,s.3; 2005,c.6,s.2;
+2008,c.20,s.72(34); 2010,c.7,s.54; 2018,c.27,s.3; 2017,c.11,s.29; 2018,c.52,s.59.
+5. Refusal, existing law
+Repealed by 2001,c.37,s.5.
+Relationship to other Acts
+If a provision of this Act is inconsistent or in conflict with a provision of another enactment,
+the provision of this Act prevails unless
+(a) another Act; or
+(b) a regulation under this Act
+expressly provides that the other Act or regulation, or a provision of it, prevails despite this
+Act.
+Commencement
+Subsection (1) is repealed, and subsection (2) comes into force, two years after the day on
+which section 6 comes into force. 2001,c.37,s.5; 2002,c.27,s.4.
+PART I — FREEDOM OF INFORMATION
+Division 1 — Obtaining Access to Records
+6. Information rights
+An applicant has a right of access to any record in the custody or under the control of a public
+body, including a record containing personal information about the applicant.
+Freedom of Information and Protection of Privacy Act PART I — FREEDOM OF INFORMATION
+Section 7
+c t Current to: May 29, 2026 Page 13
+Excepted information, severance
+The right of access to a record does not extend to information excepted from disclosure under
+Division 2 of this Part, but if that information can reasonably be severed from a record, an
+applicant has a right of access to the remainder of the record.
+Fee
+The right of access to a record is subject to the payment of any fee required by the
+regulations. 2001,c.37,s.6.
+7. How to make a request
+To obtain access to a record, a person shall make a request to the public body that the person
+believes has custody or control of the record.
+Form, etc.
+A request shall be in writing and shall provide enough detail to enable the public body to
+identify the record.
+Copy or examination
+In a request, the applicant may ask
+(a) for a copy of the record; or
+(b) to examine the record.
+Abandoned requests
+Where the head of a public body contacts an applicant in writing respecting the applicant’s
+request including
+(a) seeking further information from the applicant that is necessary to process the
+request, or
+(b) requesting the applicant to pay a fee or to agree to pay a fee,
+and the applicant fails to respond to the head of the public body, as requested by the head,
+within 30 days of being contacted, the head of the public body may, by notice in writing to
+the applicant, declare the request abandoned.
+Notice
+A notice given by the head of a public body under subsection (4) shall state that the applicant
+may ask for a review, under Part IV, of a declaration of abandonment of the applicant’s
+request. 2001,c.37,s.7; 2002,c.27,s.5.
+8. Duty to assist applicants
+The head of a public body shall make every reasonable effort to assist applicants and to
+respond to each applicant openly, accurately and completely.
+Creation of record
+The head of a public body shall create a record for an applicant if
+(a) the record can be created from a record that is in electronic form and in the custody
+or under the control of the public body, using its normal computer hardware and
+software and technical expertise; and
+(b) creating the record would not unreasonably interfere with the operations of the public
+body. 2001,c.37,s.8.
+PART I — FREEDOM OF INFORMATION
+Section 9 Freedom of Information and Protection of Privacy Act
+Page 14 Current to: May 29, 2026 t c
+9. Time limit for responding
+The head of a public body shall respond to a request without undue delay and in any event
+shall make every reasonable effort to respond to a request not later than 30 days after
+receiving it unless
+(a) that time limit is extended under section 12; or
+(b) the request has been transferred under section 13 to another public body.
+Failure to respond
+The failure of the head to respond to a request within the 30 day period or any extended
+period is to be treated as a decision to refuse access to the record. 2001,c.37,s.9.
+10. Contents of response
+In a response under section 9, the applicant shall be informed
+(a) whether access to the record or part of it is granted or refused;
+(b) if access to the record or part of it is granted, where, when and how access will be
+given; and
+(c) if access to the record or to part of it is refused,
+(i) the reasons for the refusal and the provision of this Act on which the refusal
+is based,
+(ii) the name, title, business address and business telephone number of an officer
+or employee of the public body who can answer the applicant’s questions
+about the refusal, and
+(iii) that the applicant may ask for a review of that decision by the Commissioner
+or an adjudicator, as the case may be.
+Refusal to confirm etc. existence of record
+Despite subclause (1)(c)(i), the head of a public body may, in a response, refuse to confirm or
+deny the existence of
+(a) a record containing information described in section 16 or 18; or
+(b) a record containing personal information about a third party if disclosing the
+existence of the information would be an unreasonable invasion of the third party’s
+personal privacy. 2001,c.37,s.10; 2005,c.6,s.3.
+11. How access will be given
+If an applicant is told under subsection 10(1) that access will be granted, the head of the
+public body shall comply with this section.
+Copy of record
+If the applicant has asked for a copy of a record and the record can reasonably be reproduced,
+(a) a copy of the record or part of it shall be provided with the response; or
+(b) the applicant shall be given reasons for any delay in providing the copy.
+Delay
+If there will be a delay in providing the copy under subsection (2), the applicant shall be
+informed as to where, when and how the copy will be provided.
+Freedom of Information and Protection of Privacy Act PART I — FREEDOM OF INFORMATION
+Section 12
+c t Current to: May 29, 2026 Page 15
+Examination of record
+If the applicant has asked to examine a record or for a copy of a record that cannot reasonably
+be reproduced, the applicant
+(a) shall be permitted to examine the record or part of it; or
+(b) shall be given access in accordance with the regulations. 2001,c.37,s.11; 2002,c.27,s.6.
+12. Extending the time limit for responding
+The head of a public body may extend the time for responding to a request for up to 30 days
+or, with the Commissioner’s permission, for a longer period if
+(a) the applicant does not give enough detail to enable the public body to identify a
+requested record;
+(b) a large number of records is requested or must be searched, and responding within
+the period set out in section 9 would unreasonably interfere with the operations of the
+public body;
+(c) more time is needed to consult with a third party or another public body before
+deciding whether or not to grant access to a record; or
+(d) a third party asks for a review under subsection 60(2).
+Multiple concurrent requests
+The head of a public body may, with the Commissioner’s permission, extend the time for
+responding to a request if multiple concurrent requests have been made by the same applicant
+or multiple concurrent requests have been made by two or more applicants who work for the
+same organization or who work in association with each other.
+Third party intervention
+Notwithstanding subsection (1), where the head of a public body is considering giving access
+to a record to which section 28 applies, the head of the public body may extend the time for
+responding to the request for the period of time necessary to enable the head to comply with
+the requirements of section 29.
+Information to be supplied to applicant
+If the time is extended under subsection (1), (2) or (3), the head of the public body shall
+inform the applicant
+(a) of the reason for the extension;
+(b) of when a response can be expected; and
+(c) of the applicant’s entitlement to make a complaint to
+(i) the Commissioner under subsection 50(2) if the decision was not made by
+the Commissioner, or
+(ii) an adjudicator under section 68.1 if the decision was made by the
+Commissioner. 2001,c.37,s.12; 2002,c.27,s.7; 2005,c.6,s.4.
+13. Transferring a request
+Within 15 days after a request for access to a record is received by a public body, the head of
+the public body may transfer the request and, if necessary, the record to another public body
+if
+(a) the record was produced by or for the other public body;
+(b) the other public body was the first to obtain the record; or
+PART I — FREEDOM OF INFORMATION
+Section 14 Freedom of Information and Protection of Privacy Act
+Page 16 Current to: May 29, 2026 t c
+(c) the record is in the custody or under the control of the other public body.
+Idem
+If a request is transferred under subsection (1),
+(a) the head of the public body who transferred the request shall notify the applicant of
+the transfer as soon as practicable; and
+(b) the head of the public body to which the request is transferred shall make every
+reasonable effort to respond to the request not later than 30 days after receiving the
+request unless that time limit is extended under section 12. 2001,c.37,s.13.
+Division 2 — Exceptions to Disclosure
+14. Disclosure harmful to business interests of a third party
+Subject to subsection (2) the head of a public body shall refuse to disclose to an applicant
+information
+(a) that would reveal
+(i) trade secrets of a third party, or
+(ii) commercial, financial, labour relations, scientific or technical information of
+a third party;
+(b) that is supplied, explicitly or implicitly, in confidence; and
+(c) the disclosure of which could reasonably be expected to
+(i) harm significantly the competitive position or interfere significantly with the
+negotiating position of a third party,
+(ii) result in similar information no longer being supplied to the public body
+when it is in the public interest that similar information continue to be
+supplied,
+(iii) result in undue financial loss or gain to any person or organization, or
+(iv) reveal information supplied to, or the report of, an arbitrator, mediator,
+labour relations officer or other person or body appointed to resolve or
+inquire into a labour relations dispute.
+Taxation
+The head of a public body shall refuse to disclose to an applicant information about a third
+party that was collected on a tax return or collected for the purpose of determining tax
+liability or collecting a tax.
+Exception
+Subsections (1) and (2) do not apply if
+(a) the third party consents to the disclosure;
+(b) an enactment of Prince Edward Island or Canada authorizes or requires the
+information to be disclosed;
+(c) the information relates to a non-arm’s length transaction between a public body and
+another party; or
+(d) the information is in a record that is in the custody or under the control of the Public
+Archives and Records Office or the archives of a public body and has been in
+existence for 50 years or more. 2001,c.37,s.14; 2002,c.27,s.8; 2005,c.6,s.5.
+Freedom of Information and Protection of Privacy Act PART I — FREEDOM OF INFORMATION
+Section 15
+c t Current to: May 29, 2026 Page 17
+15. Disclosure harmful to personal privacy
+The head of a public body shall refuse to disclose personal information to an applicant if the
+disclosure would be an unreasonable invasion of a third party’s personal privacy.
+Where disclosure not unreasonable invasion of third party’s privacy
+A disclosure of personal information is not an unreasonable invasion of a third party’s
+personal privacy if
+(a) the third party has, in writing, consented to or requested the disclosure;
+(b) there are compelling circumstances affecting anyone’s health or safety and written
+notice of the disclosure is given to the third party;
+(c) an Act of Prince Edward Island or Canada authorizes or requires the disclosure;
+(d) the disclosure is for research purposes and is in accordance with sections 39 and 40;
+(e) the information is about the third party’s classification, salary range, discretionary
+benefits or employment responsibilities as an officer, employee or member of a
+public body or as a member of the staff of a member of the Executive Council;
+(f) the disclosure reveals financial and other details of a contract to supply goods or
+services to a public body;
+(g) the information is about a license, permit or other similar discretionary benefit
+relating to
+(i) a commercial or professional activity, that has been granted to the third party
+by a public body, or
+(ii) real property, including a development permit or building permit, that has
+been granted to the third party by a public body,
+and the disclosure is limited to the name of the third party and the nature of the
+license, permit or other similar discretionary benefit;
+(h) the disclosure reveals details of a discretionary benefit of a financial nature granted to
+the third party by a public body;
+(i) the personal information is about an individual who has been dead for 25 years or
+more; or
+(j) subject to subsection (3), the disclosure is not contrary to the public interest and
+reveals only the following personal information about a third party:
+(i) enrolment in a school of the English school system or the French school
+system as defined in the Education Act R.S.P.E.I. 1988, Cap. E-.02,
+(i.1) enrolment in a designated educational body or in a program offered by a
+designated educational body,
+(ii) admission to a health care facility or institution as a current patient or
+resident, except where the disclosure would reveal the nature of the third
+party’s treatment,
+(iii) attendance at or participation in a public event or activity related to a public
+body, including a graduation ceremony, sporting event, cultural program or
+club, or field trip,
+(iv) receipt of an honour or award granted by or through a public body.
+Unreasonable invasion
+The disclosure of personal information under clause (2)(j) is an unreasonable invasion of
+personal privacy if the third party whom the information is about has requested that the
+information not be disclosed.
+PART I — FREEDOM OF INFORMATION
+Section 16 Freedom of Information and Protection of Privacy Act
+Page 18 Current to: May 29, 2026 t c
+Presumption
+A disclosure of personal information is presumed to be an unreasonable invasion of a third
+party’s personal privacy if
+(a) the personal information relates to a medical, psychiatric or psychological history,
+diagnosis, condition, treatment or evaluation;
+(b) the personal information was compiled and is identifiable as part of a law
+enforcement matter, except to the extent that disclosure is necessary to prosecute in
+respect of , or to continue or conclude, the matter;
+(c) the personal information relates to eligibility for income assistance or social service
+benefits or to the determination of benefit levels;
+(d) the personal information relates to employment or educational history;
+(e) the personal information was collected on a tax return or gathered for the purpose of
+collecting a tax;
+(e.1) the personal information consists of an individual’s bank account information or
+credit card information;
+(f) the personal information consists of personal recommendations or evaluations,
+character references or personnel evaluations;
+(g) the personal information consists of the third party’s name where
+(i) it appears with other personal information about the third party, or
+(ii) the disclosure of the name itself would reveal personal information about the
+third party; or
+(h) the personal information indicates the third party’s racial or ethnic origin, or religious
+or political beliefs or associations.
+Circumstances considered
+In determining under subsections (1) and (4) whether a disclosure of personal information
+constitutes an unreasonable invasion of a third party’s personal privacy, the head of a public
+body shall consider all the relevant circumstances, including whether
+(a) the disclosure is desirable for the purpose of subjecting the activities of the
+Government of Prince Edward Island or a public body to public scrutiny;
+(b) the disclosure is likely to promote public health and safety or the protection of the
+environment;
+(c) the personal information is relevant to a fair determination of the applicant’s rights;
+(d) the disclosure will assist in researching or validating the claims, disputes or
+grievances of aboriginal people;
+(e) the third party will be exposed unfairly to financial or other harm;
+(f) the personal information has been supplied in confidence;
+(g) the personal information is likely to be inaccurate or unreliable;
+(h) the disclosure may unfairly damage the reputation of any person referred to in the
+record requested by the applicant; and
+(i) the personal information was originally provided by the applicant. 2001,c.37,s.15;
+2002,c.27,s.9; 2005,c.6,s.6; 2016,c.6,s.119; 2018,c.27,s.4.
+16. Disclosure harmful to individual or public safety
+The head of a public body may refuse to disclose to an applicant information, including
+personal information about the applicant, if the disclosure could reasonably be expected to
+Freedom of Information and Protection of Privacy Act PART I — FREEDOM OF INFORMATION
+Section 17
+c t Current to: May 29, 2026 Page 19
+(a) threaten anyone else’s safety or mental or physical health; or
+(b) interfere with public safety.
+Disclosure harmful to applicant’s health or safety
+The head of a public body may refuse to disclose to an applicant personal information about
+the applicant if, in the opinion of a physician, psychologist, psychiatrist or any other
+appropriate expert depending on the circumstances of the case, the disclosure could
+reasonably be expected to result in immediate and grave harm to the applicant’s health or
+safety.
+Confidential informant
+The head of a public body may refuse to disclose to an applicant information in a record that
+reveals the identity of an individual who has provided information to the public body in
+confidence about a threat to an individual’s safety or mental or physical health. 2001,c.37,s.16.
+17. Confidential evaluations
+The head of a public body may refuse to disclose to an applicant personal information that is
+evaluative or opinion material compiled solely for the purpose of determining the applicant’s
+suitability, eligibility or qualifications for employment or for the awarding of contracts or
+other benefits by a public body when the information is provided, explicitly or implicitly, in
+confidence.
+Idem
+The head of a public body may refuse to disclose to an applicant personal information that
+identifies or could reasonably identify a participant in a formal employee evaluation process
+concerning the applicant when the information is provided, explicitly or implicitly, in
+confidence.
+participant
+For the purposes of subsection (2), “participant” includes a peer, subordinate or client of an
+applicant, but does not include the applicant’s supervisor or superior. 2001,c.37,s.17;
+2002,c.27,s.10; 2005,c.6,s.7.
+18. Disclosure harmful to law enforcement
+The head of a public body may refuse to disclose information to an applicant if the disclosure
+could reasonably be expected to
+(a) interfere with or harm a law enforcement matter, including an ongoing or unsolved
+law enforcement matter;
+(b) prejudice the defence of Canada or of any foreign state allied to or associated with
+Canada or harm the detection, prevention or suppression of espionage, sabotage or
+terrorism;
+(c) harm the effectiveness of investigative techniques and procedures currently used, or
+likely to be used, in law enforcement;
+(d) reveal the identity of a confidential source of law enforcement information;
+(e) reveal criminal intelligence that has a reasonable connection with the detection,
+prevention or suppression of organized criminal activities or of serious and repetitive
+criminal activities;
+(e.1) reveal any information relating to or used in the exercise of prosecutorial discretion;
+(f) deprive a person of the right to a fair trial or impartial adjudication;
+PART I — FREEDOM OF INFORMATION
+Section 19 Freedom of Information and Protection of Privacy Act
+Page 20 Current to: May 29, 2026 t c
+(g) reveal a record that has been confiscated from a person by a peace officer in
+accordance with a law;
+(h) facilitate the escape from custody of an individual who is being lawfully detained;
+(i) facilitate the commission of an unlawful act or hamper the control of crime;
+(j) reveal technical information relating to weapons or potential weapons;
+(k) harm the security of any property or system, including a building, a vehicle, a
+computer system or a communications system; or
+(l) reveal information in a correctional record supplied, explicitly or implicitly, in
+confidence.
+Application of clause (1)(e.1)
+(1.1) Clause (1)(e.1) does not apply to information that has been in existence for 10 years or more.
+Refusal, exposure to civil liability and prisoner custody interests
+The head of a public body may refuse to disclose information to an applicant if the
+information
+(a) is in a law enforcement record and the disclosure could reasonably be expected to
+expose to civil liability the author of the record or an individual who has been quoted
+or paraphrased in the record; or
+(b) is about the history, supervision or release of an individual who is under the control
+or supervision of a correctional authority and the disclosure could reasonably be
+expected to harm the proper custody or supervision of that person.
+Offence
+The head of a public body shall refuse to disclose information to an applicant if the
+information is in a law enforcement record and the disclosure would be an offence under an
+Act of Canada.
+Non-application of subsections (1) and (2)
+Subsections (1) and (2) do not apply to
+(a) a report prepared in the course of routine inspections by an agency that is authorized
+to enforce compliance with an Act of Prince Edward Island; or
+(b) a report, including statistical analysis, on the degree of success achieved in a law
+enforcement program unless disclosure of the report could reasonably be expected to
+interfere with or harm any of the matters referred to in subsection (1) or (2).
+Decision not to prosecute
+After a police investigation is completed, the head of a public body may disclose under this
+section the reasons for a decision not to prosecute
+(a) to a person who knew of and was significantly interested in the investigation,
+including a victim or a relative or friend of a victim; or
+(b) to any other member of the public, if the fact of the investigation was made public.
+2001,c.37,s.18; 2002,c.27,s.11.
+19. Disclosure harmful to intergovernmental relations
+The head of a public body may refuse to disclose information to an applicant if the disclosure
+could reasonably be expected to
+Freedom of Information and Protection of Privacy Act PART I — FREEDOM OF INFORMATION
+Section 20
+c t Current to: May 29, 2026 Page 21
+(a) harm relations between the Government of Prince Edward Island or its agencies and
+any of the following or their agencies:
+(i) the Government of Canada or a province or territory of Canada,
+(i.1) a municipality,
+(ii) the government of a foreign state, or
+(iii) an international organization of states; or
+(b) reveal information supplied, explicitly or implicitly, in confidence by a municipality
+or by a government or an organization listed in clause (a) or its agencies.
+Consent of Minister
+The head of a public body may disclose information referred to in clause (1)(a) only with the
+consent of the Minister in consultation with the Executive Council.
+Consent of organization, etc.
+The head of a public body may disclose information referred to in clause (1)(b) only with the
+consent of the municipality, government or organization that supplies the information, or its
+agency.
+Historical records
+This section does not apply to information that has been in existence in a record for 15 years
+or more. 2001,c.37,s.19; 2002,c.27,s.12; 2018,c.27,s.5.
+20. Cabinet confidences
+The head of a public body shall refuse to disclose to an applicant information that would
+reveal the substance of deliberations of the Executive Council or any of its committees,
+including any advice, recommendations, policy considerations or draft legislation or
+regulations submitted or prepared for submission to the Executive Council or any of its
+committees.
+Non-application of subsection (1)
+Subsection (1) does not apply to
+(a) information in a record that has been in existence for 15 years or more; or
+(b) information in a record of a decision made by the Executive Council or any of its
+committees on an appeal under an Act. 2001,c.37,s.20; 2002,c.27,s.13; 2018,c.27,s.6.
+21. Public body confidences
+The head of a public body may refuse to disclose information to an applicant
+(a) if the disclosure could reasonably be expected to reveal a draft of a resolution, bylaw
+or other legal instrument by which the public body acts; or
+(b) where an enactment authorizes a meeting of the officials or governing body of a
+public body or a committee of the governing body of the public body to be held in the
+absence of the public, if the disclosure could reasonably be expected to reveal the
+substance of deliberations of the meeting.
+Non-application of subsection (1)
+Subsection (1) does not apply if
+(a) the draft of the resolution, bylaw or other legal instrument or the subject-matter of the
+deliberation has been considered in a meeting open to the public; or
+PART I — FREEDOM OF INFORMATION
+Section 22 Freedom of Information and Protection of Privacy Act
+Page 22 Current to: May 29, 2026 t c
+(b) the information referred to in that subsection is in a record that has been in existence
+for 15 years or more. 2001,c.37,s.21; 2002,c.27,s.14; 2018,c.27,s.7.
+22. Advice from officials
+The head of a public body may refuse to disclose information to an applicant if the disclosure
+could reasonably be expected to reveal
+(a) consultations or deliberations involving
+(i) officers or employees of a public body,
+(ii) a member of the Executive Council, or
+(iii) the staff of a member of the Executive Council;
+(b) positions, plans, procedures, criteria or instructions developed for the purpose of
+contractual or other negotiations by or on behalf of the Government of Prince Edward
+Island or a public body, or considerations that relate to those negotiations;
+(c) plans relating to the management of personnel or the administration of a public body
+that have not yet been implemented;
+(d) the contents of draft legislation, regulations and orders of members of the Executive
+Council or the Lieutenant Governor in Council;
+(e) the contents of agendas or minutes of meetings of
+(i) the governing body of an agency, board, commission, corporation, office or
+other body that is designated as a public body in the regulations made under
+this Act; or
+(ii) a committee of a governing body referred to in subclause (i);
+(f) information, including the proposed plans, policies or projects of a public body, the
+disclosure of which could reasonably be expected to result in disclosure of a pending
+policy or budgetary decision;
+(g) advice, proposals, recommendations, analyses or policy options developed by or for a
+public body or a member of the Executive Council; or
+(h) the contents of a formal research or audit report that, in the opinion of the head of the
+public body, is incomplete, unless no progress has been made on the report for at
+least three years.
+Non-application of subsection (1)
+Subsection (1) does not apply to information that
+(a) has been in existence for 15 years or more;
+(b) is a statement of the reasons for a decision that is made in the exercise of a
+discretionary power or an adjudicative function;
+(c) is the result of a product or environmental testing carried out by or for a public body,
+which is complete, or on which no progress has been made for at least three years,
+unless the testing was done
+(i) for a fee as a service to a person other than a public body, or
+(ii) for the purpose of developing methods of testing or testing products for
+possible purchase;
+(d) is a statistical survey;
+(e) is the result of background research of a scientific or technical nature undertaken in
+connection with the formulation of a policy proposal, which is complete, or on which
+no progress has been made for at least three years;
+Freedom of Information and Protection of Privacy Act PART I — FREEDOM OF INFORMATION
+Section 23
+c t Current to: May 29, 2026 Page 23
+(f) is an instruction or guideline issued to the officers or employees of a public body; or
+(g) is a substantive rule or statement of policy that has been adopted by a public body for
+the purpose of interpreting an Act or regulation or administering a program or
+activity of the public body.
+Audit
+In this section, “audit” means a financial or other formal and systematic examination or
+review of a program or activity, or a portion of a program or activity. 2001,c.37,s.22;
+2002,c.27,s.15; 2015,c.36,s.28; 2018,c.27,s.8.
+23. Disclosure harmful to economic and other interests of a public body
+The head of a public body may refuse to disclose information to an applicant if the disclosure
+could reasonably be expected to harm the economic interest of a public body or the
+Government of Prince Edward Island or the ability of the Government to manage the
+economy, including the following information:
+(a) trade secrets of a public body or the Government of Prince Edward Island;
+(b) financial, commercial, scientific, technical or other information in which a public
+body or the Government of Prince Edward Island has a proprietary interest or a right
+of use and that has, or is reasonably likely to have, monetary value;
+(c) information the disclosure of which could reasonably be expected to
+(i) result in financial loss to,
+(ii) prejudice the competitive position of, or
+(iii) interfere with contractual or other negotiations of,
+the Government of Prince Edward Island or a public body;
+(d) scientific or technical information obtained through research by an employee of a
+public body, the disclosure of which could reasonably be expected to deprive the
+employee or public body of priority of publication.
+Results of product or environmental testing
+The head of a public body shall not refuse to disclose under subsection (1) the results of
+product or environmental testing carried out by or for a public body, unless the testing was
+done
+(a) for a fee as a service to a person other than the public body; or
+(b) for the purpose of developing methods of testing or testing products for possible
+purchase. 2001,c.37,s.23.
+24. Testing procedures, tests and audits
+The head of a public body may refuse to disclose to an applicant information relating to
+(a) testing or auditing procedures or techniques;
+(b) details of specific tests to be given or audits to be conducted; or
+(c) standardized tests used by a public body, including intelligence tests,
+if disclosure could reasonably be expected to prejudice the use or results of particular tests or
+audits. 2001,c.37,s.24; 2002,c.27,s.16.
+25. Privileged information
+The head of a public body may refuse to disclose to an applicant
+PART I — FREEDOM OF INFORMATION
+Section 26 Freedom of Information and Protection of Privacy Act
+Page 24 Current to: May 29, 2026 t c
+(a) information that is subject to any type of legal privilege, including solicitor-client
+privilege or parliamentary privilege;
+(b) information prepared by or for
+(i) the Minister of Justice and Public Safety and Attorney General,
+(ii) an agent or lawyer of the Department of Justice and Public Safety, or
+(iii) an agent or lawyer of a public body,
+in relation to a matter involving the provision of legal services; or
+(c) information in correspondence between
+(i) the Minister of Justice and Public Safety and Attorney General,
+(ii) an agent or lawyer of the Department of Justice and Public Safety, or
+(iii) an agent or lawyer of a public body,
+and any other person in relation to a matter involving the provision of advice or other services
+by the Minister of Justice and Public Safety and Attorney General, the agent or lawyer.
+Idem
+The head of a public body shall refuse to disclose information described in clause (1)(a) that
+relates to a person other than a public body.
+Parliamentary privilege
+Only the Speaker of the Legislative Assembly may determine whether information is subject
+to parliamentary privilege. 2001,c.37,s.25; 2002,c.27,s.17; 2010,c.31,s.3; 2010,c.14,s.3; 2012,c.17,s.2;
+2015,c.28,s.3.
+26. Disclosure harmful to the conservation of heritage sites, etc.
+The head of a public body may refuse to disclose information to an applicant if the disclosure
+could reasonably be expected to result in damage to or interfere with the conservation of
+(a) any archaeological site as defined in the Archaeology Act R.S.P.E.I. 1988, Cap. A-
+17.1;
+(b) any heritage place as defined in the Heritage Places Protection Act R.S.P.E.I. 1988,
+Cap. H-3.1; or
+(c) any rare, endangered, threatened or vulnerable form of life. 2001,c.37,s.26; 2022,c.62,s.30.
+27. Information that is or will be available to the public
+The head of a public body may refuse to disclose to an applicant information
+(a) that is available for purchase by the public;
+(b) that is to be published or released to the public within 60 days after the applicant’s
+request is received; or
+(c) that is otherwise readily available to the public.
+Publication
+The head of the public body shall notify an applicant of the publication or release of
+information that the head has refused to disclose under clause (1)(b).
+Renewal of request
+If the information is not published or released within 60 days after the applicant’s request is
+received, the head of the public body shall reconsider the request as if it were a new request
+Freedom of Information and Protection of Privacy Act PART I — FREEDOM OF INFORMATION
+Section 28
+c t Current to: May 29, 2026 Page 25
+received on the last day of that period, and access to the information requested shall not be
+refused under clause (1)(b). 2001,c.37,s.27; 2005,c.6,s.8.
+Division 3 — Third Party Intervention
+28. Notifying the third party
+When the head of a public body is considering giving access to a record that may contain
+information
+(a) that affects the interests of a third party under section 14; or
+(b) the disclosure of which would be an unreasonable invasion of a third party’s personal
+privacy under section 15,
+the head shall, subject to section 27, where practicable and as soon as practicable, give
+written notice to the third party in accordance with subsection (3).
+Exception
+(1.1) Subsection (1) does not apply to a record containing information described in clause 15(2)(j).
+Exception
+(1.2) Subsection (1) does not apply to information that the head of the public body may refuse to
+disclose in accordance with section 27.
+Idem
+If the head of a public body does not intend to give access to a record that contains
+information excepted from disclosure under section 14 or 15, the head may give written
+notice to the third party in accordance with subsection (3).
+Content of notice
+A notice under this section shall
+(a) state that a request has been made for access to a record that may contain information
+the disclosure of which would affect the interests or invade the personal privacy of
+the third party;
+(b) include a copy of the record or part of it containing the information in question or
+describe the contents of the record; and
+(c) state that, within 20 days after the notice is given, the third party may, in writing,
+consent to the disclosure or make representations to the public body explaining why
+the information should not be disclosed.
+Notice to applicant
+When notice is given under subsection (1), the head of the public body shall also give the
+applicant a notice stating that
+(a) the record requested by the applicant may contain information the disclosure of
+which would affect the interests or invade the personal privacy of a third party;
+(b) the third party is being given an opportunity to make representations concerning
+disclosure; and
+(c) a decision will be made within 30 days after the day notice is given under
+subsection (1). 2001,c.37,s.28; 2002,c.27,s.18; 2005,c.6,s.9; 2018,c.27,s.9.
+PART I — FREEDOM OF INFORMATION
+Section 29 Freedom of Information and Protection of Privacy Act
+Page 26 Current to: May 29, 2026 t c
+29. Time limit and notice decision
+Within 30 days after notice is given pursuant to subsection 28(1) or (2), the head of the public
+body shall decide whether or not to give access to the record or to part of the record, but no
+decision may be made before the earlier of
+(a) 21 days after the day notice is given; and
+(b) the day a response is received from the third party.
+Notice of decision
+On reaching a decision under subsection (1), the head of the public body shall give written
+notice of the decision, including reasons for the decision, to the applicant and the third party.
+Review, third party request
+If the head of a public body decides to give access to the record or part of the record, the
+notice under subsection (2) shall state that the applicant will be given access unless the third
+party asks for a review under Part IV within 20 days after that notice is given.
+Idem, applicant’s request
+If the head of a public body decides not to give access to the record or part of the record, the
+notice under subsection (2) shall state that the applicant may ask for a review under Part IV.
+2001,c.37,s.29; 2002,c.27,s.19.
+Division 4 — Public Health and Safety
+30. Information shall be disclosed if risk of harm to environment or public health
+Whether or not a request for access is made, the head of a public body shall without delay,
+disclose to the public, to an affected group of people, to any person or to an applicant
+(a) information about a risk of significant harm to the environment or to the health or
+safety of the public, of the affected group of people, of the person or of the applicant;
+or
+(b) information the disclosure of which is, for any other reason, clearly in the public
+interest.
+Application
+Subsection (1) applies despite any other provision of this Act.
+Notice
+Before disclosing information under subsection (1), the head of a public body shall where
+practicable
+(a) notify any third party to whom the information relates;
+(b) give the third party an opportunity to make representations relating to the disclosure;
+and
+(c) notify the Commissioner.
+Idem
+If it is not practicable to comply with subsection (3), the head of a public body shall give
+written notice of the disclosure
+(a) to the third party; and
+(b) to the Commissioner. 2001,c.37,s.30; 2018,c.27,s.10.
+Freedom of Information and Protection of Privacy Act PART II — PROTECTION OF PRIVACY
+Section 31
+c t Current to: May 29, 2026 Page 27
+PART II — PROTECTION OF PRIVACY
+Division 1 — Collection of Personal Information
+31. Purpose of collection of information
+No personal information may be collected by or for a public body unless
+(a) the collection of that information is expressly authorized by or under an enactment of
+Prince Edward Island or Canada;
+(b) that information is collected for the purposes of law enforcement; or
+(c) that information relates directly to and is necessary for an operating program or
+activity of the public body. 2001,c.37,s.31; 2002,c.27,s.20.
+32. Manner of collection of information
+A public body shall collect personal information directly from the individual the information
+is about unless
+(a) another method of collection is authorized by
+(i) that individual,
+(ii) another Act or a regulation under another Act, or
+(iii) the Commissioner under clause 50(1)(f);
+(b) the information may be disclosed to the public body under Division 2 of this Part;
+(c) the information is collected for the purpose of law enforcement;
+(d) the information is collected for the purpose of collecting a fine or a debt owed to the
+Government of Prince Edward Island or a public body;
+(e) the information concerns the history, release or supervision of an individual under the
+control or supervision of a correctional authority;
+(f) the information is collected for use in the provision of legal services to the
+Government of Prince Edward Island or a public body;
+(g) the information is necessary
+(i) to determine the eligibility of an individual to participate in a program of or
+receive a benefit, product or service from the Government of Prince Edward
+Island or a public body and is collected in the course of processing an
+application made by or on behalf of the individual the information is
+about, or
+(ii) to verify the eligibility of an individual who is participating in a program of
+or receiving a benefit, product or service from the Government of Prince
+Edward Island or a public body and is collected for that purpose;
+(h) the information is collected for the purpose of informing the Public Guardian and
+Trustee about clients or potential clients;
+(i) the information is collected for the purpose of enforcing a maintenance order under
+the Maintenance Enforcement Act R.S.P.E.I. 1988, Cap. M-1;
+(j) the information is collected for the purpose of managing or administering personnel
+of the Government of Prince Edward Island or a public body;
+(k) the information is collected for the purpose of assisting in researching or validating
+the claims, disputes or grievances of aboriginal people;
+(l) the information is collected in a health or safety emergency where
+PART II — PROTECTION OF PRIVACY
+Section 33 Freedom of Information and Protection of Privacy Act
+Page 28 Current to: May 29, 2026 t c
+(i) the individual is not able to provide the information directly, or
+(ii) direct collection could reasonably be expected to endanger the mental or
+physical health or safety of the individual or another person;
+(m) the information concerns an individual who is designated as a person to be contacted
+in an emergency, or other specified circumstances;
+(n) the information is collected for the purpose of determining suitability for an honour
+or award, including an honorary degree, scholarship, prize or bursary; or
+(o) the information is collected from published or other public sources for the purpose of
+fundraising.
+Right to be informed
+A public body that collects personal information that is required by subsection (1) to be
+collected directly from the individual the information is about shall inform the individual of
+(a) the purpose for which the information is collected;
+(b) the specific legal authority for the collection; and
+(c) the title, business address and business telephone number of an officer or employee
+of the public body who can answer the individual’s questions about the collection.
+Application of subsections (1) and (2)
+Subsections (1) and (2) do not apply if, in the opinion of the head of the public body
+concerned, compliance with them could reasonably be expected to result in the collection of
+inaccurate information. 2001,c.37,s.32; 2002,c.27,s.21; 2005,c.6,s.10; 2023,c.35,s.34(2).
+33. Accuracy of personal information
+If an individual’s personal information will be used by a public body to make a decision that
+directly affects the individual, the public body shall
+(a) make every reasonable effort to ensure that the information is accurate and
+complete; and
+(b) retain the personal information for
+(i) the period required by the records retention and disposition schedule for the
+public body, as required by the Archives and Records Act or another
+enactment that applies with respect to that public body, or
+(ii) if subclause (i) does not apply with respect to the public body, at least one
+year after using it. 2001,c.37,s.33; 2005,c.6,s.11; 2018,s.27,s.11.
+34. Right to request correction of personal information
+An individual who believes there is an error or omission in the individual’s personal
+information may request the head of the public body that has the information in its custody or
+under its control to correct the information.
+Opinions not to be altered
+(1.1) The head of a public body shall not, under this section, correct or otherwise alter an opinion
+included in personal information, including a professional or expert opinion.
+Annotation
+If no correction is made in response to a request under subsection (1), or if no correction is
+permitted under subsection (1.1), the head of a public body shall annotate or link the personal
+Freedom of Information and Protection of Privacy Act PART II — PROTECTION OF PRIVACY
+Section 34
+c t Current to: May 29, 2026 Page 29
+information with that part of the requested correction that is relevant and material to the
+record in question.
+Notice to others of correction, etc.
+On correcting, annotating or linking personal information under this section, the head of a
+public body shall notify any other public body or any third party to whom that information
+has been disclosed during the one year before the correction was requested that a correction,
+annotation or linkage has been made.
+Dispensing with notice
+(3.1) Notwithstanding subsection (3), the head of a public body may dispense with notifying any
+other public body or third party that a correction, annotation or linkage has been made if
+(a) in the opinion of the head of the public body, the correction, annotation or linkage is
+not material; and
+(b) the individual who requested the correction is advised and agrees in writing that
+notification is not necessary.
+Correction, etc. by body notified
+On being notified under subsection (3) of a correction, annotation or linkage of personal
+information, a public body shall make the correction, annotation or linkage on any record of
+that information in its custody or under its control.
+Notice to individual
+Within 30 days after the request under subsection (1) is received, the head of the public body
+shall give written notice to the individual that
+(a) the correction has been made; or
+(b) an annotation or linkage has been made pursuant to subsection (2).
+Extension of time
+Section 12 applies to the period set out in subsection (5).
+Transferring request to correct personal information
+Within 15 days after a request to correct personal information under section 34(1) is received
+by a public body, the head of the public body may transfer the request to another public
+body if
+(a) the personal information was collected by the other public body; or
+(b) the other public body created the record containing the personal information.
+Time limit for responding to transferred request
+If a request is transferred under subsection (7),
+(a) the head of the public body who transferred the request shall notify the individual of
+the transfer as soon as possible, and
+(b) the head of the public body to which the request is transferred shall make every
+reasonable effort to respond to the request not later than 30 days after receiving the
+request unless the time limit is extended pursuant to subsection (6). 2001,c.37,s.34;
+2002,c.27,s.22; 2005,c.6,s.12; 2018,c.27,s.12.
+PART II — PROTECTION OF PRIVACY
+Section 35 Freedom of Information and Protection of Privacy Act
+Page 30 Current to: May 29, 2026 t c
+35. Protection of personal information
+The head of a public body shall protect personal information by making reasonable security
+arrangements against such risks as unauthorized access, collection, use, disclosure, disposal
+or destruction. 2001,c.37,s.35; 2002,c.27,s.23.
+Division 2 — Use and Disclosure of Personal information by Public Bodies
+36. Use of personal information
+A public body may use personal information only
+(a) for the purpose for which the information was collected or compiled or for a use
+consistent with that purpose;
+(b) if the individual the information is about has identified the information and
+consented, in the prescribed manner, to the use; or
+(c) for a purpose for which that information may be disclosed to that public body under
+section 37, 39 or 40.
+Use of alumni records by designated educational body
+(1.1) Notwithstanding subsection (1), but subject to subsection (1.2), a designated educational
+body may use personal information in its alumni records for the purpose of its own
+fundraising activities.
+Use of alumni records to discontinue on request
+(1.2) A designated educational body shall, when requested to do so by an individual, discontinue
+using that individual’s personal information under subsection (1.1).
+Only to extent necessary
+A public body may use personal information only to the extent necessary to enable the public
+body to carry out its purpose in a reasonable manner. 2001,c.37,s.36; 2018,c.27,s.13.
+37. Disclosure of personal information
+A public body may disclose personal information only
+(a) in accordance with Part I;
+(a.1) if the disclosure would not be an unreasonable invasion of a third party’s personal
+privacy under section 15;
+(b) for the purpose for which the information was collected or compiled or for a use
+consistent with that purpose;
+(c) if the individual the information is about has identified the information and
+consented, in the prescribed manner, to the disclosure;
+(d) for the purpose of complying with an enactment of Prince Edward Island or Canada
+or with a treaty, arrangement or agreement made under an enactment of Prince
+Edward Island or Canada;
+(e) for any purpose in accordance with an enactment of Prince Edward Island or Canada
+that authorizes or requires the disclosure;
+(f) for the purpose of complying with a subpoena, warrant or order, issued or made by a
+court, person or body having jurisdiction in Prince Edward Island to compel the
+production of information, or with a rule of court binding in Prince Edward Island
+that relates to the production of information;
+Freedom of Information and Protection of Privacy Act PART II — PROTECTION OF PRIVACY
+Section 37
+c t Current to: May 29, 2026 Page 31
+(g) to an officer or employee of the public body or to a member of the Executive
+Council, if the information is necessary for the performance of the duties of the
+officer, employee or member;
+(g.1) to an officer or employee of a public body or to a member of the Executive Council,
+if the disclosure is necessary for the delivery of a common or integrated program or
+service and for the performance of the duties of the officer or employee or member to
+whom the information is disclosed;
+(h) for the purpose of enforcing a legal right that the Government of Prince Edward
+Island or a public body has against any person;
+(i) for the purpose of
+(i) collecting a fine or debt owing by an individual to the Government of Prince
+Edward Island or to a public body or to an assignee of either of them, or
+(ii) making a payment owing by the Government of Prince Edward Island or by a
+public body to an individual;
+(j) for the purpose of determining an individual’s suitability or eligibility for a program
+or benefit, including determining if an individual remains eligible or suitable for a
+program or benefit that individual is already participating in;
+(k) to the Auditor General or any other prescribed person or body for audit purposes;
+(l) to a member of the Legislative Assembly who has been requested by the individual
+the information is about to assist in resolving a problem;
+(m) to a representative of a bargaining agent who has been authorized in writing by the
+employee the information is about to make an inquiry;
+(n) to the Public Archives and Records Office or to the archives of a public body for
+permanent preservation;
+(o) to a public body or a law enforcement agency in Canada to assist in an investigation
+(i) undertaken with a view to a law enforcement proceeding, or
+(ii) from which a law enforcement proceeding is likely to result;
+(p) if the public body is a law enforcement agency and the information is disclosed
+(i) to another law enforcement agency in Canada, or
+(ii) to a law enforcement agency in a foreign country under an arrangement,
+written agreement, treaty or legislative authority;
+(q) so that a spouse, relative or a friend of an injured, ill or deceased individual may be
+contacted;
+(r) in accordance with section 39 or 40;
+(s) to an expert for the purposes of section 16(2);
+(t) for use in a proceeding before a court or quasi-judicial body to which the
+Government of Prince Edward Island or a public body is a party;
+(u) when disclosure is by the Minister of Justice and Public Safety and Attorney General
+or an agent or lawyer of the Minister of Justice and Public Safety and Attorney
+General to a place of lawful detention;
+(v) for the purpose of managing or administering personnel of the Government of Prince
+Edward Island or a public body;
+(w) to the Director of Maintenance Enforcement for the purpose of enforcing a
+maintenance order under the Maintenance Enforcement Act R.S.P.E.I. 1988, Cap. M-
+1;
+PART II — PROTECTION OF PRIVACY
+Section 38 Freedom of Information and Protection of Privacy Act
+Page 32 Current to: May 29, 2026 t c
+(w.1) to the Public Guardian and Trustee appointed under Public Guardian and Trustee Act
+R.S.P.E.I. 1988, Cap. P-29.2, for the purposes of managing the estate of a person
+under the Public Guardian and Trustee Act;
+(x) to an officer of the Legislative Assembly, if the information is necessary for the
+performance of the duties of that officer;
+(y) for the purpose of supervising an individual under the control or supervision of a
+correctional authority;
+(z) when the information is available to the public;
+(z.1) if the personal information is information of a type routinely disclosed in a business
+or professional context and the disclosure
+(i) is limited to an individual’s name and business contact information,
+including business title, address, telephone number, facsimile number and
+email address, and
+(ii) does not reveal other personal information about the individual or personal
+information about another individual;
+(aa) to a relative of a deceased individual if, in the opinion of the head of a public body,
+the disclosure is not an unreasonable invasion of the deceased’s personal privacy;
+(bb) to a lawyer or articled clerk acting for an inmate under the control or supervision of a
+correctional authority; or
+(cc) if the head of the public body believes, on reasonable grounds, that the disclosure
+will avert or minimize an imminent danger to the health or safety of any person.
+Disclosure by designated educational body for fundraising activity
+(1.1) Notwithstanding subsection (1), a designated educational body may disclose personal
+information in its alumni records for the purpose of fundraising activities of the educational
+body if the educational body and the person to whom the information is disclosed have
+entered into a written agreement
+(a) that allows individuals a right of access to personal information that is disclosed
+about them under this subsection; and
+(b) that provides that the person to whom the information is disclosed shall discontinue
+using the personal information of any individual who so requests.
+Disclosure of evaluations to assist students
+(1.2) Notwithstanding subsection (1), a designated educational body may, for the purposes of
+assisting students in selecting courses, disclose teaching and course evaluations that were
+completed by students.
+Information reasonably required
+Only information that is reasonably required may be disclosed under subsection (1), (1.1) or
+(1.2). 2001,c.37,s.37; 2002,c.27,s.24; 2005,c.6,s.13; 2010,c.14,s.3; 2012,c.17,s.2; 2015,c.28,s.3; 2018,c.27,s.14;
+2023,c.35,s.34(3).
+38. Consistent purposes
+For the purposes of clauses 36(1)(a) and 37(1)(b), a use or disclosure of personal information
+is consistent with the purpose for which the information was collected or compiled if the use
+or disclosure
+(a) has a reasonable and direct connection to that purpose; and
+Freedom of Information and Protection of Privacy Act PART II — PROTECTION OF PRIVACY
+Section 39
+c t Current to: May 29, 2026 Page 33
+(b) is necessary for performing the statutory duties of, or for operating a legally
+authorized program of, the public body that uses or discloses the information.
+2001,c.37,s.38.
+39. Disclosure for research or statistical purposes
+A public body may disclose personal information for a research purpose, including statistical
+research, only if
+(a) the research purpose cannot reasonably be accomplished unless that information is
+provided in individually identifiable form or the research purpose has been approved
+by the Commissioner;
+(b) any record linkage is not harmful to the individuals the information is about and the
+benefits to be derived from the record linkage are clearly in the public interest;
+(c) the head of a public body has approved conditions relating to the following:
+(i) security and confidentiality,
+(ii) the removal or destruction of individual identifiers at the earliest reasonable
+time, and
+(iii) the prohibition of any subsequent use or disclosure of the information in
+individually identifiable form without the express authorization of that public
+body; and
+(d) the person to whom the information is disclosed has signed an agreement to comply
+with the approved conditions, this Act and any of the public body’s policies and
+procedures relating to the confidentiality of personal information. 2001,c.37,s.39.
+40. Disclosure for research purposes
+The Public Archives and Records Office and the archives of a public body may disclose
+(a) personal information that is
+(i) in a record that has been in existence for 25 years or more if
+(A) the disclosure would not be an unreasonable invasion of personal
+privacy under section 15,
+(B) the disclosure is made in accordance with section 39, or
+(C) the information is about an individual who has been dead for 25
+years or more, or
+(ii) in a record that has been in existence for 75 years or more; and
+(b) information, other than personal information, that is in a record that has been in
+existence for 25 years or more if
+(i) the disclosure would not be harmful to the business interests of a third party
+within the meaning of section 14,
+(ii) the disclosure would not be harmful to a law enforcement matter within the
+meaning of section 18,
+(iii) the information is not subject to any type of legal privilege under section 25,
+and
+(iv) access to the information is not restricted or prohibited by another Act of
+Prince Edward Island or Canada. 2001,c.37,s.40; 2002,c.27,s.25; 2018,c.27,s.15.
+PART III — OFFICE AND POWERS OF
+INFORMATION AND PRIVACY
+COMMISSIONER
+Section 41 Freedom of Information and Protection of Privacy Act
+Page 34 Current to: May 29, 2026 t c
+PART III — OFFICE AND POWERS OF INFORMATION AND PRIVACY
+COMMISSIONER
+41. Definition
+In this Part, “Standing Committee” means the Standing Committee on Legislative Assembly
+Management. 2001,c.37,s.41; 2020,c.89,s.61(2).
+42. Commissioner
+There shall be an Information and Privacy Commissioner who is an officer of the Legislative
+Assembly.
+Appointment
+The Commissioner shall be appointed by the Legislative Assembly
+(a) on the recommendation of the Standing Committee; and
+(b) following a resolution of the Legislative Assembly supported by at least two-thirds of
+the members present.
+Membership of Legislative Assembly
+The Commissioner shall not be a member of the Legislative Assembly.
+Commissioner may be part time
+The Commissioner may be designated to hold office on a part-time basis. 2001,c.37,s.42;
+2002,c.27,s.26.
+43. Term of office
+Except as provided for in section 44, the Commissioner holds office for a term not exceeding
+5 years.
+Continuation
+A person holding office as Commissioner continues to hold office after the expiry of that
+person’s term of office until that person is reappointed, a successor is appointed or a period of
+6 months has expired, whichever occurs first.
+Reappointment
+A person is eligible for reappointment as Commissioner. 2001,c.37,s.43; 2018,c.27,s.16.
+44. Resignation, removal or suspension of Commissioner
+The Commissioner may resign at any time by notifying the Speaker of the Legislative
+Assembly or, if there is no Speaker or the Speaker is absent from the province, by notifying
+the Clerk of the Legislative Assembly.
+Removal
+The Commissioner may be removed or suspended for cause or incapacity, before the expiry
+of his or her term of office, by a resolution of the Legislative Assembly supported by at least
+two-thirds of the members present.
+Freedom of Information and Protection of Privacy Act
+PART III — OFFICE AND POWERS OF
+INFORMATION AND PRIVACY
+COMMISSIONER
+Section 45
+c t Current to: May 29, 2026 Page 35
+Idem
+If the Legislative Assembly is not sitting, the Lieutenant Governor in Council may suspend
+the Commissioner for cause or incapacity on the recommendation of the Standing Committee.
+2001,c.37,s.44; 2002,c.27,s.27.
+45. Acting Commissioner
+The Lieutenant Governor in Council, on the recommendation of the Standing Committee,
+may appoint an acting Commissioner if
+(a) the office of Commissioner is or becomes vacant when the Legislative Assembly is
+not sitting;
+(b) the Commissioner is suspended when the Legislative Assembly is not sitting; or
+(c) the Commissioner is removed or suspended or the office of the Commissioner
+becomes vacant when the Legislative Assembly is sitting, but no appointment is
+made by the Legislative Assembly under subsection 42(2) before the end of the
+session.
+Commissioner absence, etc.
+The Lieutenant Governor in Council may appoint an acting Commissioner if the
+Commissioner is temporarily absent because of illness or for another reason.
+Acting
+An acting Commissioner holds office until
+(a) a person is appointed under subsection 42(1);
+(b) the suspension of the Commissioner ends; or
+(c) the Commissioner returns to office after a temporary absence. 2001,c.37,s.45;
+2002,c.27,s.28.
+46. Remuneration
+The Commissioner shall be remunerated as determined by the Standing Committee, and it
+shall review that remuneration at least once a year. 2001,c.37,s.46.
+47. Oath
+Before beginning the duties of office, the Commissioner shall take an oath to faithfully and
+impartially perform the duties of the office and not to disclose any information received by
+the Office of the Information and Privacy Commissioner under this Act except as provided in
+this Act.
+Administration
+The oath shall be administered by the Speaker of the Legislative Assembly or the Clerk of the
+Legislative Assembly. 2001,c.37,s.47.
+48. Office of the Commissioner
+There may be a part of the public service of the province called the Office of the Information
+and Privacy Commissioner consisting of the Commissioner and those persons that are
+necessary to assist the Commissioner in carrying out the Commissioner’s functions under this
+or any other enactment.
+PART III — OFFICE AND POWERS OF
+INFORMATION AND PRIVACY
+COMMISSIONER
+Section 49 Freedom of Information and Protection of Privacy Act
+Page 36 Current to: May 29, 2026 t c
+Services
+The Commissioner may engage the services of any persons necessary to assist the
+Commissioner in carrying out the Commissioner’s functions.
+Oath
+Every person employed or engaged by the Office of the Information and Privacy
+Commissioner shall, before beginning to perform duties under this Act, take an oath, to be
+administered by the Commissioner, not to disclose any information received by that person
+under this Act except as provided in this Act. 2001,c.37,s.48.
+49. Submission of estimate
+The Commissioner shall submit to the Standing Committee in respect of each fiscal year an
+estimate of the public money that will be required to be provided by the Legislature to defray
+the several charges and expenses of the Office of the Information and Privacy Commissioner
+in that fiscal year.
+Financing of operations
+The Standing Committee shall review each estimate submitted pursuant to subsection (1) and,
+on the completion of the review, the chair of the Committee shall transmit the estimate to the
+Minister of Finance and Affordability for presentation to the Legislative Assembly.
+2001,c.37,s.49; 2002,c.27,s.29; 2010,c.31,s.3; 2012,c.17,s.2; 2015,c.28,s.3; 2026,c.11,s.3.
+50. Review
+In addition to the Commissioner’s functions under Part IV, with respect to reviews, the
+Commissioner is generally responsible for monitoring how this Act is administered to ensure
+that its purposes are achieved, and may
+(a) conduct investigations to ensure compliance with any provision of this Act or
+compliance with rules relating to the destruction of records
+(i) set out in any other enactment of Prince Edward Island, or
+(ii) set out in a bylaw, resolution or other legal instrument by which a local
+public body acts or, if a local public body does not have a bylaw, resolution
+or other legal instrument setting out rules related to the destruction of
+records, as authorized by the governing body of the local public body;
+(b) make an order described in subsection 66(3) whether or not a review is requested;
+(c) inform the public about this Act;
+(d) comment on the implications for freedom of information or for protection of personal
+privacy of proposed legislative schemes or programs of public bodies;
+(e) comment on the implications for protection of personal privacy of using or disclosing
+personal information for record linkage;
+(f) authorize the collection of personal information from sources other than the
+individual the information is about;
+(g) bring to the attention of the head of a public body any failure by the public body to
+assist applicants under section 8; and
+(h) give advice and recommendations of general application to the head of a public body
+on matters respecting the rights or obligations of a head under this Act.
+Freedom of Information and Protection of Privacy Act
+PART III — OFFICE AND POWERS OF
+INFORMATION AND PRIVACY
+COMMISSIONER
+Section 51
+c t Current to: May 29, 2026 Page 37
+Resolution of complaints
+Without limiting subsection (1), the Commissioner may investigate and attempt to resolve
+complaints that
+(a) a duty imposed by section 8 has not been performed;
+(b) an extension of time for responding to a request is not in accordance with section 12;
+(c) a fee required under this Act is inappropriate;
+(d) a correction of personal information requested under subsection 34(1) has been
+refused without justification; and
+(e) personal information has been collected, used or disclosed by a public body in
+violation of Part II. 2001,c.37,s.50; 2005,c.6,s.14; 2018,c.27,s.17.
+51. Advice and recommendations
+The head of a public body may ask the Commissioner to give advice and recommendations
+on any matter respecting any rights or duties under this Act.
+Request for advice
+The Commissioner may in writing provide the head with advice and recommendations that
+(a) state the material facts either expressly or by incorporating facts stated by the head;
+(b) are based on the facts referred to in clause (a); and
+(c) may be based on any other considerations the Commissioner considers appropriate.
+2001,c.37,s.51.
+52. Power to authorize a public body to disregard questions
+If the head of a public body asks, the Commissioner may authorize the public body to
+disregard any request made under subsection 7(1), if the request
+(a) would unreasonably interfere with the operations of the public body or amount to an
+abuse of the right to access, because of the repetitious or systematic nature of the
+request; or
+(b) is frivolous or vexatious.
+Effect on processing request
+(2) The processing of a request under subsection 7(1) ceases when the head of a public body has
+made a request under subsection (1) and
+(a) if the Commissioner authorizes the head of the public body to disregard the request,
+does not resume; or
+(b) if the Commissioner does not authorize the head of the public body to disregard the
+request, does not resume until the Commissioner advises the head of the public body
+of the Commissioner’s decision. 2001,c.37,s.52; 2002,c.27,s.30; 2018,c.27,s.18.
+53. Powers of Commissioner in conducting inquiries
+In conducting an investigation under clause 50(1)(a) or an inquiry under section 64 or in
+giving advice and recommendations under section 51, the Commissioner has all the powers,
+privileges and immunities of a commissioner under the Public Inquiries Act R.S.P.E.I. 1988,
+Cap. P-31 and the powers given by subsection (2).
+PART III — OFFICE AND POWERS OF
+INFORMATION AND PRIVACY
+COMMISSIONER
+Section 54 Freedom of Information and Protection of Privacy Act
+Page 38 Current to: May 29, 2026 t c
+Examination of records
+The Commissioner may require any record to be produced to the Commissioner and may
+examine any information in a record, including personal information whether or not the
+record is subject to the provisions of this Act.
+Production of record
+Despite any other enactment or any privilege of the law of evidence, a public body shall
+produce to the Commissioner within 10 days any record or a copy of any record required
+under subsection (1) or (2).
+Examination of original
+If a public body is required to produce a record under subsection (1) or (2) and it is not
+practicable to make a copy of the record, the head of that public body may require the
+Commissioner to examine the original at its site.
+Return
+After completing a review or investigating a complaint, the Commissioner shall return any
+record or any copy of any record produced. 2001,c.37,s.53; 2005,c.6,s.15.
+54. Statements made to the Commissioner not admissible in evidence
+A statement made or an answer given by a person during an investigation or inquiry by the
+Commissioner is inadmissible in evidence in court or in any other proceeding, except
+(a) in a prosecution for perjury in respect of sworn testimony;
+(b) in a prosecution for an offence under this Act; or
+(c) in an application for judicial review or an appeal from a decision with respect to that
+application.
+Application of subsection (1)
+Subsection (1) applies also in respect of evidence of the existence of proceedings conducted
+before the Commissioner. 2001,c.37,s.54.
+55. Privileged information
+Anything said, any information supplied or any record produced by a person during an
+investigation or inquiry by the Commissioner is privileged in the same manner as if the
+investigation or inquiry were a proceeding in a court. 2001,c.37,s.55.
+55.1 Competence and compellability
+The Commissioner and anyone acting for or under the direction of the Commissioner is
+neither competent nor compellable to
+(a) give evidence in a civil proceeding concerning any information that comes to his or
+her knowledge in the exercise of a power or the performance of a duty under this Act;
+or
+(b) produce in a civil proceeding any records created or received in the course of
+activities under this Act. 2018,c.27,s.19.
+Freedom of Information and Protection of Privacy Act
+PART III — OFFICE AND POWERS OF
+INFORMATION AND PRIVACY
+COMMISSIONER
+Section 56
+c t Current to: May 29, 2026 Page 39
+56. Restrictions on disclosure of information by the Commissioner and staff
+The Commissioner and anyone acting for or under the direction of the Commissioner shall
+not disclose any information obtained in performing their functions under this Act, except as
+provided in subsections (2) to (5).
+Exception
+The Commissioner may disclose or may authorize anyone acting for or under the direction of
+the Commissioner to disclose, information that is necessary to
+(a) conduct an investigation or inquiry under this Act; or
+(b) establish the grounds for findings and recommendations contained in a report under
+this Act.
+Information not to be disclosed
+In conducting an investigation or inquiry under this Act and in a report under this Act, the
+Commissioner and anyone acting for or under the direction of the Commissioner shall take
+every reasonable precaution to avoid disclosing and shall not disclose
+(a) any information the head of a public body would be required or authorized to refuse
+to disclose if it were contained in a record requested under subsection 7(1); or
+(b) whether information exists, if the head of a public body in refusing to provide access
+does not indicate whether the information exists.
+Information concerning offences
+The Commissioner may disclose to the Minister of Justice and Public Safety and Attorney
+General information relating to the commission of an offence against an enactment of Prince
+Edward Island or Canada if the Commissioner considers there is evidence of an offence.
+Other exceptions
+The Commissioner may disclose, or may authorize anyone acting for or under the direction of
+the Commissioner to disclose, information in the course of a prosecution, application or
+appeal referred to in section 54. 2001,c.37,s.56; 2010,c.14,s.3; 2012,c.17,s.2; 2015,c.28,s.3.
+57. Protection of Commissioner and staff
+No proceedings lie against the Commissioner, or against a person acting for or under the
+direction of the Commissioner, for anything done, reported or said in good faith in the
+exercise or performance or the intended exercise or performance of a function under this Part
+or Part IV. 2001,c.37,s.57.
+58. Delegation
+The Commissioner may delegate to any person any function of the Commissioner under this
+Act, except the power to delegate under this section.
+Idem
+A delegation under subsection (1) shall be in writing and may contain any conditions or
+restrictions the Commissioner considers appropriate. 2001,c.37,s.58; 2005,c.6,s.16.
+59. Report of Commissioner
+The Commissioner shall report annually to the Speaker of the Legislative Assembly on
+(a) the work of the Commissioner’s office;
+PART IV — REVIEWS AND COMPLAINTS
+Section 60 Freedom of Information and Protection of Privacy Act
+Page 40 Current to: May 29, 2026 t c
+(b) any complaints or reviews resulting from a decision, act or failure to act of the
+Commissioner as head of a public body; and
+(c) such other matters relating to freedom of information and protection of personal
+privacy as the Commissioner considers appropriate.
+Idem
+The Speaker shall lay each annual report before the Legislative Assembly as soon as possible.
+2001,c.37,s.59.
+PART IV — REVIEWS AND COMPLAINTS
+Division 1 — Reviews by the Commissioner
+60. Right to ask for a review
+A person who makes a request to the head of a public body for access to a record or for
+correction of personal information may ask the Commissioner to review any decision, act or
+failure to act of the head that relates to the request.
+Third party request
+A third party notified under section 29 of a decision by the head of a public body to give
+access may ask the Commissioner to review that decision.
+Personal information
+A person who believes that the person’s own personal information has been collected, used or
+disclosed in violation of Part II may ask the Commissioner to review that matter.
+Idem, deceased
+A relative of a deceased individual may ask the Commissioner to review a decision of a head
+of a public body under clause 37(1)(aa) not to disclose personal information.
+Application
+This section does not apply
+(a) to a decision by the Speaker of the Legislative Assembly that a record is subject to
+parliamentary privilege;
+(b) if the person who is appointed as the Commissioner is, at the same time, appointed as
+any other officer of the Legislative Assembly, to a decision, act or failure to act of
+that person when acting as the head of that office; or
+(c) to a decision, act or failure to act of the Commissioner when acting as the head of the
+Office of the Information and Privacy Commissioner. 2001,c.37,s.60; 2005,c.6,s.17.
+61. How to ask for a review
+To ask for a review under this Division, a written request shall be delivered to the
+Commissioner.
+Freedom of Information and Protection of Privacy Act PART IV — REVIEWS AND COMPLAINTS
+Section 62
+c t Current to: May 29, 2026 Page 41
+Time for request
+A request for a review of a decision of the head of a public body must be delivered to the
+Commissioner
+(a) if the request is pursuant to subsection 60(1), (3) or (4), within
+(i) 60 days after the person asking for the review is notified of the decision, or
+(ii) any longer period allowed by the Commissioner; or
+(b) if the request is pursuant to subsection 60(2), within 20 days after the person asking
+for the review is notified of the decision.
+Failure to respond constitutes refusal
+The failure of the head of a public body to respond in time to a request for access to a record
+is to be treated as a decision to refuse access, but the time limit in clause (2)(a) for delivering
+a request for review does not apply. 2001,c.37,s.61; 2005,c.6,s.18.
+62. Notifying others of review
+On receiving a request for a review, the Commissioner shall as soon as practicable
+(a) give a copy of the request
+(i) to the head of the public body concerned, and
+(ii) to any other person who in the opinion of the Commissioner is affected by
+the request; and
+(b) provide a summary of the review procedures and an anticipated date for a decision on
+the review
+(i) to the person who asked for the review,
+(ii) to the head of the public body concerned, and
+(iii) to any other person who in the opinion of the Commissioner is affected by
+the request.
+Information from request severed
+Notwithstanding clause (1)(a), the Commissioner may sever any information in the request
+for a review that the Commissioner considers appropriate before giving a copy of the request
+to the head of the public body or to any other person affected by the request. 2001,c.37,s.62;
+2002,c.27,s.31.
+63. Use of mediation
+The Commissioner may authorize a mediator to investigate and try to settle any matter that is
+the subject of a request for a review. 2001,c.37,s.63.
+64. Inquiry by Commissioner
+Unless a matter is settled under section 63, the Commissioner shall, subject to section 64.1,
+conduct an inquiry and may decide all questions of fact and law arising in the course of the
+inquiry.
+Inquiry in private
+An inquiry under subsection (1) may be conducted in private.
+PART IV — REVIEWS AND COMPLAINTS
+Section 65 Freedom of Information and Protection of Privacy Act
+Page 42 Current to: May 29, 2026 t c
+Representations
+The person who asked for the review, the head of the public body concerned and any other
+person given a copy of the request for the review shall be given an opportunity to make
+representations to the Commissioner during the inquiry, but no one is entitled to be present
+during, to have access to or to comment on representations made to the Commissioner by
+another person.
+Idem
+The Commissioner may decide whether the representations are to be made orally or in
+writing.
+Counsel
+The person who asked for the review, the head of the public body concerned and any other
+person given a copy of the request for the review may be represented at the inquiry by
+counsel or an agent.
+Time for completion of inquiry
+An inquiry under this section shall be completed within 90 days after receiving the request for
+the review unless the Commissioner
+(a) notifies the person who asked for the review, the head of the public body concerned
+and any other person given a copy of the request for the review that the
+Commissioner is extending that period; and
+(b) provides an anticipated date for the completion of the review. 2001,c.37,s.64;
+2002,c.27,s.32.
+64.1 Refusal to conduct an inquiry
+The Commissioner may refuse to conduct an inquiry pursuant to section 64 if, in the opinion
+of the Commissioner,
+(a) the subject matter of a request for a review under section 60 has been dealt with in an
+order or investigation report of the Commissioner; or
+(b) the circumstances warrant refusing to conduct an inquiry. 2001,c.27,s.33; 2005,c.6,s.19.
+65. Burden of proof
+If the inquiry relates to a decision to refuse an applicant access to all or part of a record, it is
+up to the head of the public body to prove that the applicant has no right of access to the
+record or part of the record.
+Idem, third party personal information
+Notwithstanding subsection (1), if the record or part of the record that the applicant is refused
+access to contains personal information about a third party, it is up to the applicant to prove
+that disclosure of the information would not be an unreasonable invasion of the third party’s
+personal privacy.
+Idem
+If the inquiry relates to a decision to give an applicant access to all or part of a record
+containing information about a third party,
+(a) in the case of personal information, it is up to the applicant to prove the disclosure of
+the information would not be an unreasonable invasion of the third party’s personal
+privacy; and
+Freedom of Information and Protection of Privacy Act PART IV — REVIEWS AND COMPLAINTS
+Section 66
+c t Current to: May 29, 2026 Page 43
+(b) in any other case, it is up to the third party to prove that the applicant has no right of
+access to the record or part of the record. 2001,c.37,s.65; 2002,c.27,s.34.
+66. Commissioner’s orders
+On completing an inquiry under section 64, the Commissioner shall dispose of the issues by
+making an order under this section.
+Decision to give or refuse access
+If the inquiry relates to a decision to give or to refuse to give access to all or part of a record,
+the Commissioner may, by order, do the following:
+(a) require the head to give the applicant access to all or part of the record, if the
+Commissioner determines that the head is not authorized or required to refuse access;
+(b) either confirm the decision of the head or require the head to reconsider it, if the
+Commissioner determines that the head is authorized to refuse access;
+(c) require the head to refuse access to all or part of the record, if the Commissioner
+determines that the head is required to refuse access.
+Other matters
+If the inquiry relates to any other matter, the Commissioner may, by order, do one or more of
+the following:
+(a) require that a duty imposed by this Act or the regulations be performed;
+(b) confirm or reduce the extension of a time limit under section 12;
+(c) confirm or reduce a fee or order a refund, in the appropriate circumstances, including
+if a time limit is not met;
+(d) confirm a decision not to correct personal information or specify how personal
+information is to be corrected;
+(e) require a public body to stop collecting, using or disclosing personal information in
+violation of Part II;
+(f) require the head of a public body to destroy personal information collected in
+violation of this Act.
+Conditions
+The Commissioner may specify any terms or conditions in an order made under this section.
+Copies of order
+The Commissioner shall give a copy of an order made under this section
+(a) to the person who asked for the review;
+(b) to the head of the public body concerned;
+(c) to any other person given a copy of the request for the review; and
+(d) to the Minister.
+Enforcement
+A copy of an order made by the Commissioner under this section may be filed with the
+registrar of the General Division of the Supreme Court and, after filing, the order is
+enforceable as a judgment or order of that court. 2001,c.37,s.66.
+PART IV — REVIEWS AND COMPLAINTS
+Section 67 Freedom of Information and Protection of Privacy Act
+Page 44 Current to: May 29, 2026 t c
+67. No appeal
+An order made by the Commissioner under this Act is final. 2001,c.37,s.67.
+68. Duty to comply with order
+Subject to subsection (1.1), not later than 40 days after being given a copy of an order of the
+Commissioner, the head of the public body concerned shall comply with the order.
+Exception
+(1.1) The head of a public body shall not take any steps to comply with an order of the
+Commissioner until the end of the period for bringing an application for judicial review of the
+order under the Judicial Review Act R.S.P.E.I. Cap. J-3.
+Judicial review
+If an application for judicial review is made before the end of the period referred to in
+subsection (1.1), the order of the Commissioner is stayed until the application is dealt with by
+the court. 2001,c.37,s.68; 2002,c.27,s.35.
+Division 1.1 — Complaints About and Reviews of the Commissioner’s Decisions as Head
+of a Public Body
+68.1 Designation of an adjudicator
+The Lieutenant Governor in Council may designate a judge to act as an adjudicator
+(a) to investigate complaints made against the Commissioner as the head of the Office of
+the Information and Privacy Commissioner with respect to any matter referred to in
+subsection 50(2);
+(b) where the person who is appointed as the Commissioner is, at the same time,
+appointed as any other officer of the Legislature, to investigate complaints respecting
+any matter referred to in subsection 50(2) made against that person when acting as
+the head of that office;
+(c) to investigate complaints respecting any matter referred to in subsection 50(2) made
+against a head of a public body and the Commissioner had been a member, employee
+or head of that public body or, in the Commissioner’s opinion, the Commissioner has
+a conflict with respect to that public body;
+(d) to review, if requested under section 68.4, any decision, act or failure to act of a head
+of a public body and the Commissioner had been a member, employee or head of that
+public body or, in the Commissioner’s opinion, the Commissioner has a conflict with
+respect to that public body;
+(e) to review, if requested under section 68.3, any decision, act or failure to act of the
+Commissioner as the head of the Office of the Information and Privacy
+Commissioner; and
+(f) if the person who is appointed as the Commissioner is, at the same time, appointed as
+any other officer of the Legislature, to review, if requested under section 68.3, any
+decision, act or failure to act of that person when acting as head of that office.
+Prohibition
+An adjudicator shall not review an order of the Commissioner made under this Act.
+2005,c.s,s.20.
+Freedom of Information and Protection of Privacy Act PART IV — REVIEWS AND COMPLAINTS
+Section 68
+c t Current to: May 29, 2026 Page 45
+68.2 Powers, duties and functions
+For the purposes of section 68.1, an adjudicator has the powers, duties and functions given to
+the Commissioner by clauses 50(2)(a) to (c), sections 52, 53, subsections 56(1) and (3) to (5)
+and clause 56(2)(a).
+Application
+Sections 54, 55 and 57 apply for the purposes of an investigation, inquiry or review by an
+adjudicator. 2005,c.s,s.20.
+68.3 Idem
+This section applies
+(a) to a decision, act or failure to act of the Commissioner when acting as the head of the
+Office of the Information and Privacy Commissioner; and
+(b) if the person who is appointed as the Commissioner is, at the same time, appointed as
+any other officer of the Legislature, to a decision, act or failure to act of that person
+when acting as the head of that office.
+Request
+A person who makes a request to the Commissioner for access to a record or for correction of
+personal information may ask an adjudicator to review any decision, act or failure to act of
+the Commissioner that relates to the request.
+Requested by third party
+A third party notified under section 29 of a decision by the Commissioner to give access to a
+record may ask an adjudicator to review that decision.
+Request for review
+A person who believes that the person’s own personal information has been collected, used or
+disclosed in contravention of Part 2, may ask an adjudicator to review that matter. 2005,c.s,s.20.
+68.4 Application
+This section applies where the Commissioner is asked under subsections 60(1), (2), (3) or (4)
+to review a decision, act or failure to act of a head of a public body if
+(a) the Commissioner had been a member, employee or head of that public body, or
+(b) in the Commissioner’s opinion, the Commissioner has a conflict with respect to that
+public body.
+Request for access or correction
+A person who makes a request to the head of a public body for access to a record or for
+correction of personal information, may ask an adjudicator to review any decision, act or
+failure to act of the head of the public body that relates to the request.
+Request for review
+A third party notified under section 29 of a decision by the head of a public body to give
+access to a record may ask an adjudicator to review that decision.
+Idem
+A person who believes that the person’s own personal information has been collected, used or
+disclosed in contravention of Part 2, may ask an adjudicator to review that matter. 2005,c.s,s.20.
+PART IV — REVIEWS AND COMPLAINTS
+Section 68 Freedom of Information and Protection of Privacy Act
+Page 46 Current to: May 29, 2026 t c
+68.5 Written request
+A request for a review must be made in writing to the Minister.
+Idem
+A request for a review described in subsection (1) must be made to the Minister
+(a) if the request is made pursuant to subsections 60(1), (3) or (4), within
+(i) 60 days after the person asking for the review is notified of the decision, or
+(ii) any longer period allowed by an adjudicator; or
+(b) if the request is made pursuant to subsection 60(2), within 20 days after the person
+asking for the review is notified of the decision. 2005,c.s,s.20.
+68.6 Idem
+On receiving a request for a review, the Minister shall, as soon as is practicable,
+(a) give the request to an adjudicator;
+(b) give a copy of the request
+(i) to the Commissioner, and
+(ii) to any other person who, in the opinion of the Minister, is affected by the
+request; and
+(c) provide a summary of the review procedures
+(i) to the person who asked for the review,
+(ii) to the Commissioner, and
+(iii) to any other person who, in the opinion of the Minister, is affected by the
+request. 2005,c.s,s.20.
+68.7 Powers and duties of an adjudicator
+An adjudicator has the powers and duties given to the Commissioner by section 63 and
+subsections 64(1), (2) and subsections 64(3) to (6) and section 65 apply to an inquiry
+conducted by an adjudicator.
+Idem
+On completing an inquiry, an adjudicator has the same duty to dispose of the issues, the same
+power to make orders, and the same duty to notify others of those orders as the Commissioner
+has under subsections 66(1) to (5).
+Copy of order
+An adjudicator shall give a copy of an order made by an adjudicator under this Act to the
+Commissioner.
+Idem
+A copy of an order made by an adjudicator under this section may be filed with a clerk of the
+Supreme Court of Prince Edward Island and, after filing, the order is enforceable as a
+judgment or order of that Court.
+Application
+Section 68 applies to an order of an adjudicator.
+Freedom of Information and Protection of Privacy Act
+Division 2 — Disclosure to
+Commissioner
+Section 69
+c t Current to: May 29, 2026 Page 47
+Order is final
+An order made by an adjudicator under this Act is final. 2005,c.s,s.20.
+DIVISION 2 — DISCLOSURE TO COMMISSIONER
+69. Disclosure to Commissioner
+An employee of a public body may disclose to the Commissioner any information that the
+employee is required to keep confidential and that the employee, acting in good faith,
+believes
+(a) ought to be disclosed by a head under section 30; or
+(b) is being collected, used or disclosed in violation of Part II.
+Review
+The Commissioner shall investigate and review any disclosure made under subsection (1).
+Identity
+If an employee makes a disclosure under subsection (1), the Commissioner shall not disclose
+the identity of the employee to any person without the employee’s consent.
+Liability to prosecution, employee
+An employee is not liable to a prosecution for an offence under any Act
+(a) for copying a record or disclosing it to the Commissioner; or
+(b) for disclosing information to the Commissioner,
+unless the employee acted in bad faith.
+Discrimination against employee disclosing information
+A public body or person acting on behalf of a public body shall not take any adverse
+employment action against an employee because the employee, acting in good faith,
+(a) has disclosed information to the Commissioner under this section; or
+(b) has exercised or may exercise a right under this section.
+Penalty
+Every person who violates subsection (5) is guilty of an offence and liable on summary
+conviction to a fine of not more than $10,000.
+Powers of Commissioner
+In carrying out an investigation and review under this section, the Commissioner has all of
+the powers and duties set out in sections 53, 56, 63, 64 and subsections 66(1), (2), (3)(a) to
+(d), (4) and (5), and sections 54, 55 and 57 apply. 2001,c.37,s.69.
+PART V — GENERAL PROVISIONS
+70. Manner of giving notice
+Where this Act requires any notice or other document to be given to a person, it is to be given
+(a) by sending it to that person by prepaid mail to the last known address of that person;
+PART V — GENERAL PROVISIONS
+Section 71 Freedom of Information and Protection of Privacy Act
+Page 48 Current to: May 29, 2026 t c
+(b) by personal service;
+(c) by substituted service if so authorized by the Commissioner; or
+(d) by means of a machine or device that electronically transmits a copy of a document,
+picture or other printed material by means of a telecommunications system.
+2001,c.37,s.70.
+71. Exercise of rights by other persons
+Any right or power conferred on an individual by this Act may be exercised
+(a) if the individual is deceased, by the individual’s personal representative if the
+exercise of the right or power relates to the administration of the individual’s estate;
+(b) if a guardian or trustee has been appointed for the individual, by the guardian or
+trustee if the exercise of the right or power relates to the powers and duties of the
+guardian or trustee;
+(c) if a power of attorney has been granted by the individual, by the attorney if the
+exercise of the right or power relates to the powers and duties of the attorney
+conferred by the power of attorney;
+(d) if the individual is a minor, by a guardian of the minor in circumstances where, in the
+opinion of the head of the public body concerned, the exercise of the right or power
+by the guardian would not constitute an unreasonable invasion of the personal
+privacy of the minor;
+(e) if the individual has appointed a proxy to make decisions on his or her behalf, by the
+proxy if the exercise of the right or power relates to the powers and duties of a proxy
+conferred by the Consent to Treatment and Health Care Directives Act R.S.P.E.I.
+1988, Cap. C-17.2; or
+(f) by any person with written authorization from the individual to act on the
+individual’s behalf.
+Notice
+Any notice required to be given to an individual under this Act may be given to the person
+entitled to exercise the individual’s rights or powers referred to in subsection (1). 2001,c.37,s.71.
+72. Delegation by the head of a public body
+The head of a public body may delegate to any person any duty, power or function of the
+head under this Act, except the power to delegate under this section.
+Delegation to be in writing
+A delegation under subsection (1) must be in writing and may contain any conditions or
+restrictions the head of the public body considers appropriate. 2001,c.37,s.72.
+73. Records available without request
+The head of a public body may specify categories of records that are in the custody or under
+the control of the public body and are available to the public without a request for access
+under this Act.
+Fee
+The head of a public body may require a person who asks for a copy of an available record to
+pay a fee to the public body, unless such a record can otherwise be accessed without a fee.
+Freedom of Information and Protection of Privacy Act PART V — GENERAL PROVISIONS
+Section 74
+c t Current to: May 29, 2026 Page 49
+General discretion
+Subsection (1) does not limit the discretion of the Government of Prince Edward Island or a
+public body to release records that do not contain personal information. 2001,c.37,s.73;
+2005,c.6,s.21.
+74. Protection of public body from legal suit
+No action lies and no proceeding may be brought against the Crown, a public body, the head
+of a public body, an elected official or appointed official of a public body, or any person
+acting for or under the direction of the head of a public body for damages resulting from
+(a) the disclosure of or failure to disclose, in good faith, all or part of a record or
+information under this Act or any consequences of that disclosure or failure to
+disclose; or
+(b) the failure to give a notice required under this Act if reasonable care is taken to give
+the required notice. 2001,c.37,s.74; 2005,c.6,s.22.
+74.1 Adverse employment action
+A person acting on behalf of a public body shall not take any adverse employment action
+against an employee as a result of the employee properly disclosing information in
+accordance with this Act or the regulations.
+Offence and penalty
+A person who violates subsection (1) is guilty of an offence and liable on summary
+conviction to a fine of not more than $10,000. 2002,c.27,s.36.
+75. Offences
+A person shall not wilfully
+(a) collect, use or disclose personal information in violation of Part II;
+(a.1) attempt to gain or gain access to personal information in violation of this Act;
+(b) make a false statement to, or mislead or attempt to mislead, the Commissioner or
+another person in the performance of the functions of the Commissioner or other
+person under this Act;
+(c) obstruct the Commissioner or another person in the performance of the functions of
+the Commissioner or other person under this Act;
+(d) fail to comply with an order made by the Commissioner under section 66, or by an
+adjudicator under subsection 68.7(2);
+(d.1) disclose personal information to which this Act applies pursuant to a subpoena,
+warrant or order issued or made by a court, person or body having no jurisdiction in
+Prince Edward Island to compel the production of information or pursuant to a rule of
+court that is not binding in Prince Edward Island;
+(e) destroy any records subject to this Act, or direct another person to do so, with the
+intent to evade a request for access to the records; or
+(f) alter, falsify or conceal any record, or direct another person to do so, with the intent
+to evade a request for access to the records.
+PART V — GENERAL PROVISIONS
+Section 76 Freedom of Information and Protection of Privacy Act
+Page 50 Current to: May 29, 2026 t c
+Penalty
+A person who violates subsection (1) is guilty of an offence and liable on summary
+conviction to a fine of not more than $10,000. 2001,c.37,s.75; 2002,c.27,s.37; 2005,c.6,s.23;
+2018,c.27,s.20.
+76. Fees
+The head of a public body may require an applicant to pay to the public body fees for services
+as provided for in the regulations.
+Personal information
+Subsection (1) does not apply to a request for the applicant’s own personal information,
+except for the cost of producing the copy.
+Estimate
+If an applicant is required to pay fees for services under subsection (1), the public body shall
+give the applicant an estimate of the total fee before providing the services.
+Request to be excused
+(3.1) An applicant may, in writing, request that the head of a public body excuse the applicant from
+paying all or part of a fee for services under subsection (1).
+Waiver of fee
+The head of a public body may excuse an applicant from paying all or part of a fee if, in the
+opinion of the head,
+(a) the applicant cannot afford the payment or for any other reason it is appropriate to
+excuse payment; or
+(b) the record relates to a matter of public interest, including the environment or public
+health or safety.
+Notice on refusal to excuse fee
+(4.1) If an applicant has requested, under subsection (3.1), the head of a public body to excuse the
+applicant from paying all or part of a fee and the head of the public body has refused the
+applicant’s request, the head of the public body shall notify the applicant in writing, within 30
+days after receiving the request, that the applicant may ask for a review under Part IV of this
+Act.
+Fee not to exceed actual cost
+The fees referred to in subsection (1) shall not exceed the actual costs of the services.
+2001,c.37,s.76; 2002,c.27,s.38; 2005,c.6,s.24; 2018,c.27,s.21.
+77. Power to make regulations
+The Lieutenant Governor in Council may make regulations
+(a) designating agencies, boards, commissions, corporations, offices or other bodies as
+public bodies;
+(b) respecting the establishment of criteria to be used for designating agencies, boards,
+commissions, corporations, offices or other bodies as public bodies;
+(b.1) designating educational bodies as designated educational bodies;
+(b.2) respecting the establishment of criteria to be used for designating educational bodies;
+Freedom of Information and Protection of Privacy Act PART V — GENERAL PROVISIONS
+Section 77
+c t Current to: May 29, 2026 Page 51
+(b.3) designating municipalities as designated municipalities;
+(b.4) respecting the establishment of criteria to be used for designating municipalities;
+(c) respecting procedures to be followed in making, transferring and responding to
+requests under this Act;
+(d) respecting procedures to be followed in giving access where an applicant has asked to
+examine a record or for a copy of a record that cannot reasonably be reproduced;
+(e) respecting the making of requests under this Act orally instead of in writing;
+(f) respecting standards to be observed by officers or employees of a public body in
+fulfilling the duty to assist applicants;
+(g) authorizing the disclosure of information relating to the mental or physical health of
+individuals to medical or other experts to determine, for the purposes of
+subsection 16(2), if disclosure of that information could reasonably be expected to
+result in immediate and grave harm to the safety of or to the mental or physical health
+of those individuals;
+(h) respecting procedures to be followed or restrictions considered necessary with
+respect to the disclosure and examination of information referred to in clause (g);
+(i) respecting special procedures for giving individuals access to personal information
+about their mental or physical health;
+(j) respecting technical standards and safeguards to be observed for the security and
+protection of personal information;
+(k) respecting standards to be observed and procedures to be followed by a public body
+implementing a program for data matching, data sharing or data linkage;
+(l) respecting the manner of giving consent for the purposes of subclauses 36(1)(b) and
+37(1)(c);
+(m) prescribing persons to whom a public body may disclose personal information for
+audit purposes;
+(n) where an enactment requires the meetings of a public body’s officials, or of its
+governing body or a committee of its governing body, to be open to the public,
+authorizing, for the purposes of clause 21(1)(b), the public body to hold meetings of
+its officials or of its governing body or a committee of its governing body, as the case
+may be, to consider specified matters in the absence of the public unless another
+enactment
+(i) expressly authorizes the public body to hold meetings of its officials, or of its
+governing body or a committee of its governing body, in the absence of the
+public, and
+(ii) specifies the matters that may be discussed at those meetings;
+(o) respecting fees to be paid under this Act and providing for circumstances when fees
+may be waived in whole or in part;
+(p) respecting forms for the purposes of this Act;
+(q) respecting any matter that is to be included in a notice required by this Act;
+(r) defining, enlarging or restricting the meaning of any term used in this Act but not
+defined in this Act;
+(s) requiring public bodies to provide to the Minister information that relates to the
+administration of this Act;
+(t) exempting any public body or class of public body from the operation of a regulation
+made under this subsection;
+PART V — GENERAL PROVISIONS
+Section 78 Freedom of Information and Protection of Privacy Act
+Page 52 Current to: May 29, 2026 t c
+(u) providing that other Acts or regulations, or any provisions of them, prevail despite
+this Act;
+(v) respecting any other matter or thing that the Lieutenant Governor in Council
+considers necessary to carry out the intent of this Act.
+Designation of designated educational body has delayed effective date
+(1.1) When an educational body is designated by a regulation made under subsection (1), the
+designation does not take effect until the later of
+(a) one year after the regulation comes into force; or
+(b) a date specified in the regulation.
+Designation of municipality has delayed effective date
+(1.2) When a municipality is designated by a regulation made under subsection (1), the designation
+does not take effect until the later of
+(a) one year after the regulation comes into force; or
+(b) a date specified in the regulation.
+Designation of head of public body
+Where an agency, board, commission, corporation, office or other body is designated as a
+public body in the regulations, the member of the Executive Council responsible for that
+public body may, in writing, designate a person to act as the head of that public body.
+2001,c.37,s.77; 2002,c.27,s.39; 2018,c.27,s.22.
+77.1 Power to make bylaws
+A local public body, by bylaw or other legal instrument by which the local public body acts,
+(a) shall designate a person or group of persons as the head of the local public body for
+the purposes of this Act; and
+(b) may set any fees the local public body requires to be paid under section 76, which
+shall not exceed the fees provided for in the regulations. 2018,c.27,s.23.
+78. Application of this Act
+This Act applies to any record in the custody or under the control of a public body regardless
+of whether it comes into existence before or after this Act comes into force. 2001,c.37,s.78.
+79. Review
+Within six years after this section comes into force and every six years after that, a committee
+of the Legislative Assembly designated or established for the purposes of this section by the
+Legislative Assembly shall
+(a) undertake a comprehensive review of this Act; and
+(b) within one year after beginning the review, submit a report on the review, including
+any recommendations for amendments, to the Legislative Assembly. 2005,c.6,s.25;
+2018,c.27,s.24.

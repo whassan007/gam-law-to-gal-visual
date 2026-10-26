@@ -1,0 +1,280 @@
+§ 242.1000 Definitions.
+
+For purposes of Regulation SCI (§§ 242.1000 through 242.1007), the following definitions shall apply:
+
+Critical SCI systems means any SCI systems of, or operated by or on behalf of, an SCI entity that:
+
+(1) Directly support functionality relating to:
+
+(i) Clearance and settlement systems of clearing agencies;
+
+(ii) Openings, reopenings, and closings on the primary listing market;
+
+(iii) Trading halts;
+
+(iv) Initial public offerings;
+
+(v) The provision of market data by a plan processor; or
+
+(vi) Exclusively-listed securities; or
+
+(2) Provide functionality to the securities markets for which the availability of alternatives is significantly limited or nonexistent and without which there would be a material impact on fair and orderly markets.
+
+Electronic signature has the meaning set forth in § 240.19b-4(j) of this chapter.
+
+Exempt clearing agency subject to ARP means an entity that has received from the Commission an exemption from registration as a clearing agency under Section 17A of the Act, and whose exemption contains conditions that relate to the Commission's Automation Review Policies (ARP), or any Commission regulation that supersedes or replaces such policies.
+
+Indirect SCI systems means any systems of, or operated by or on behalf of, an SCI entity that, if breached, would be reasonably likely to pose a security threat to SCI systems.
+
+Major SCI event means an SCI event that has had, or the SCI entity reasonably estimates would have:
+
+(1) Any impact on a critical SCI system; or
+
+(2) A significant impact on the SCI entity's operations or on market participants.
+
+Plan processor has the meaning set forth in § 242.600(b)(78).
+
+Responsible SCI personnel means, for a particular SCI system or indirect SCI system impacted by an SCI event, such senior manager(s) of the SCI entity having responsibility for such system, and their designee(s).
+
+SCI alternative trading system or SCI ATS means an alternative trading system, as defined in § 242.300(a), which during at least four of the preceding six calendar months:
+
+(1) Had with respect to NMS stocks:
+
+(i) Five percent (5%) or more in any single NMS stock, and one-quarter percent (0.25%) or more in all NMS stocks, of the average daily dollar volume reported by applicable transaction reporting plans; or
+
+(ii) One percent (1%) or more in all NMS stocks of the average daily dollar volume reported by applicable transaction reporting plans; or
+
+(2) Had with respect to equity securities that are not NMS stocks and for which transactions are reported to a self-regulatory organization, five percent (5%) or more of the average daily dollar volume as calculated by the self-regulatory organization to which such transactions are reported;
+
+(3) Provided, however, that such SCI ATS shall not be required to comply with the requirements of Regulation SCI until six months after satisfying any of paragraphs (1) or (2) of this definition, as applicable, for the first time.
+
+SCI competing consolidator means:
+
+(1) Any competing consolidator, as defined in § 242.600, which, during at least four of the preceding six calendar months, accounted for five percent (5%) or more of consolidated market data gross revenue paid to the effective national market system plan or plans required under § 242.603(b), for NMS stocks:
+
+(i) Listed on the New York Stock Exchange LLC;
+
+(ii) Listed on The Nasdaq Stock Market LLC; or
+
+(iii) Listed on exchanges other than the New York Stock Exchange LLC or The Nasdaq Stock Market LLC, as reported by such plan or plans pursuant to the terms thereof.
+
+(2) Provided, however, that such SCI competing consolidator shall not be required to comply with the requirements of this section and §§ 242.1001 through 242.1007 (Regulation SCI) until six months after satisfying any of paragraph (1) of this definition, as applicable, for the first time; and
+
+(3) Provided, however, that such SCI competing consolidator shall not be required to comply with the requirements of Regulation SCI prior to one year after the compliance date for § 242.614(d)(3).
+
+SCI entity means an SCI self-regulatory organization, SCI alternative trading system, plan processor, exempt clearing agency subject to ARP, or SCI competing consolidator.
+
+SCI event means an event at an SCI entity that constitutes:
+
+(1) A systems disruption;
+
+(2) A systems compliance issue; or
+
+(3) A systems intrusion.
+
+SCI review means a review, following established procedures and standards, that is performed by objective personnel having appropriate experience to conduct reviews of SCI systems and indirect SCI systems, and which review contains:
+
+(1) A risk assessment with respect to such systems of an SCI entity; and
+
+(2) An assessment of internal control design and effectiveness of its SCI systems and indirect SCI systems to include logical and physical security controls, development processes, and information technology governance, consistent with industry standards.
+
+SCI self-regulatory organization or SCI SRO means any national securities exchange, registered securities association, or registered clearing agency, or the Municipal Securities Rulemaking Board; provided however, that for purposes of this section, the term SCI self-regulatory organization shall not include an exchange that is notice registered with the Commission pursuant to 15 U.S.C. 78f(g) or a limited purpose national securities association registered with the Commission pursuant to 15 U.S.C. 78o-3(k).
+
+SCI systems means all computer, network, electronic, technical, automated, or similar systems of, or operated by or on behalf of, an SCI entity that, with respect to securities, directly support trading, clearance and settlement, order routing, market data, market regulation, or market surveillance.
+
+Senior management means, for purposes of Rule 1003(b), an SCI entity's Chief Executive Officer, Chief Technology Officer, Chief Information Officer, General Counsel, and Chief Compliance Officer, or the equivalent of such employees or officers of an SCI entity.
+
+Systems compliance issue means an event at an SCI entity that has caused any SCI system of such entity to operate in a manner that does not comply with the Act and the rules and regulations thereunder or the entity's rules or governing documents, as applicable.
+
+Systems disruption means an event in an SCI entity's SCI systems that disrupts, or significantly degrades, the normal operation of an SCI system.
+
+Systems intrusion means any unauthorized entry into the SCI systems or indirect SCI systems of an SCI entity.
+
+[79 FR 72436, Dec. 5, 2014, as amended at 80 FR 81454, Dec. 30, 2015; 83 FR 58429, Nov. 19, 2018; 86 FR 18814, Apr. 9, 2021; 89 FR 26617, Apr. 15, 2024]
+
+
+────────────────────────────────────────
+
+§ 242.1001 Obligations related to policies and procedures of SCI entities.
+
+(a) Capacity, integrity, resiliency, availability, and security. (1) Each SCI entity shall establish, maintain, and enforce written policies and procedures reasonably designed to ensure that its SCI systems and, for purposes of security standards, indirect SCI systems, have levels of capacity, integrity, resiliency, availability, and security, adequate to maintain the SCI entity's operational capability and promote the maintenance of fair and orderly markets.
+
+(2) Policies and procedures required by paragraph (a)(1) of this section shall include, at a minimum:
+
+(i) The establishment of reasonable current and future technological infrastructure capacity planning estimates;
+
+(ii) Periodic capacity stress tests of such systems to determine their ability to process transactions in an accurate, timely, and efficient manner;
+
+(iii) A program to review and keep current systems development and testing methodology for such systems;
+
+(iv) Regular reviews and testing, as applicable, of such systems, including backup systems, to identify vulnerabilities pertaining to internal and external threats, physical hazards, and natural or manmade disasters;
+
+(v) Business continuity and disaster recovery plans that include maintaining backup and recovery capabilities sufficiently resilient and geographically diverse and that are reasonably designed to achieve next business day resumption of trading and two-hour resumption of critical SCI systems following a wide-scale disruption;
+
+(vi) Standards that result in such systems being designed, developed, tested, maintained, operated, and surveilled in a manner that facilitates the successful collection, processing, and dissemination of market data; and
+
+(vii) Monitoring of such systems to identify potential SCI events.
+
+(3) Each SCI entity shall periodically review the effectiveness of the policies and procedures required by this paragraph (a), and take prompt action to remedy deficiencies in such policies and procedures.
+
+(4) For purposes of this paragraph (a), such policies and procedures shall be deemed to be reasonably designed if they are consistent with current SCI industry standards, which shall be comprised of information technology practices that are widely available to information technology professionals in the financial sector and issued by an authoritative body that is a U.S. governmental entity or agency, association of U.S. governmental entities or agencies, or widely recognized organization. Compliance with such current SCI industry standards, however, shall not be the exclusive means to comply with the requirements of this paragraph (a).
+
+(b) Systems compliance. (1) Each SCI entity shall establish, maintain, and enforce written policies and procedures reasonably designed to ensure that its SCI systems operate in a manner that complies with the Act and the rules and regulations thereunder and the entity's rules and governing documents, as applicable.
+
+(2) Policies and procedures required by paragraph (b)(1) of this section shall include, at a minimum:
+
+(i) Testing of all SCI systems and any changes to SCI systems prior to implementation;
+
+(ii) A system of internal controls over changes to SCI systems;
+
+(iii) A plan for assessments of the functionality of SCI systems designed to detect systems compliance issues, including by responsible SCI personnel and by personnel familiar with applicable provisions of the Act and the rules and regulations thereunder and the SCI entity's rules and governing documents; and
+
+(iv) A plan of coordination and communication between regulatory and other personnel of the SCI entity, including by responsible SCI personnel, regarding SCI systems design, changes, testing, and controls designed to detect and prevent systems compliance issues.
+
+(3) Each SCI entity shall periodically review the effectiveness of the policies and procedures required by this paragraph (b), and take prompt action to remedy deficiencies in such policies and procedures.
+
+(4) Safe harbor from liability for individuals. Personnel of an SCI entity shall be deemed not to have aided, abetted, counseled, commanded, caused, induced, or procured the violation by an SCI entity of this paragraph (b) if the person:
+
+(i) Has reasonably discharged the duties and obligations incumbent upon such person by the SCI entity's policies and procedures; and
+
+(ii) Was without reasonable cause to believe that the policies and procedures relating to an SCI system for which such person was responsible, or had supervisory responsibility, were not established, maintained, or enforced in accordance with this paragraph (b) in any material respect.
+
+(c) Responsible SCI personnel. (1) Each SCI entity shall establish, maintain, and enforce reasonably designed written policies and procedures that include the criteria for identifying responsible SCI personnel, the designation and documentation of responsible SCI personnel, and escalation procedures to quickly inform responsible SCI personnel of potential SCI events.
+
+(2) Each SCI entity shall periodically review the effectiveness of the policies and procedures required by paragraph (c)(1) of this section, and take prompt action to remedy deficiencies in such policies and procedures.
+
+
+────────────────────────────────────────
+
+§ 242.1002 Obligations related to SCI events.
+
+(a) Corrective action. Upon any responsible SCI personnel having a reasonable basis to conclude that an SCI event has occurred, each SCI entity shall begin to take appropriate corrective action which shall include, at a minimum, mitigating potential harm to investors and market integrity resulting from the SCI event and devoting adequate resources to remedy the SCI event as soon as reasonably practicable.
+
+(b) Commission notification and recordkeeping of SCI events. Each SCI entity shall:
+
+(1) Upon any responsible SCI personnel having a reasonable basis to conclude that an SCI event has occurred, notify the Commission of such SCI event immediately;
+
+(2) Within 24 hours of any responsible SCI personnel having a reasonable basis to conclude that the SCI event has occurred, submit a written notification pertaining to such SCI event to the Commission, which shall be made on a good faith, best efforts basis and include:
+
+(i) A description of the SCI event, including the system(s) affected; and
+
+(ii) To the extent available as of the time of the notification: The SCI entity's current assessment of the types and number of market participants potentially affected by the SCI event; the potential impact of the SCI event on the market; a description of the steps the SCI entity has taken, is taking, or plans to take, with respect to the SCI event; the time the SCI event was resolved or timeframe within which the SCI event is expected to be resolved; and any other pertinent information known by the SCI entity about the SCI event;
+
+(3) Until such time as the SCI event is resolved and the SCI entity's investigation of the SCI event is closed, provide updates pertaining to such SCI event to the Commission on a regular basis, or at such frequency as reasonably requested by a representative of the Commission, to correct any materially incorrect information previously provided, or when new material information is discovered, including but not limited to, any of the information listed in paragraph (b)(2)(ii) of this section;
+
+(4)(i)(A) If an SCI event is resolved and the SCI entity's investigation of the SCI event is closed within 30 calendar days of the occurrence of the SCI event, then within five business days after the resolution of the SCI event and closure of the investigation regarding the SCI event, submit a final written notification pertaining to such SCI event to the Commission containing the information required in paragraph (b)(4)(ii) of this section.
+
+(B)(1) If an SCI event is not resolved or the SCI entity's investigation of the SCI event is not closed within 30 calendar days of the occurrence of the SCI event, then submit an interim written notification pertaining to such SCI event to the Commission within 30 calendar days after the occurrence of the SCI event containing the information required in paragraph (b)(4)(ii) of this section, to the extent known at the time.
+
+(2) Within five business days after the resolution of such SCI event and closure of the investigation regarding such SCI event, submit a final written notification pertaining to such SCI event to the Commission containing the information required in paragraph (b)(4)(ii) of this section.
+
+(ii) Written notifications required by paragraph (b)(4)(i) of this section shall include:
+
+(A) A detailed description of: The SCI entity's assessment of the types and number of market participants affected by the SCI event; the SCI entity's assessment of the impact of the SCI event on the market; the steps the SCI entity has taken, is taking, or plans to take, with respect to the SCI event; the time the SCI event was resolved; the SCI entity's rule(s) and/or governing document(s), as applicable, that relate to the SCI event; and any other pertinent information known by the SCI entity about the SCI event;
+
+(B) A copy of any information disseminated pursuant to paragraph (c) of this section by the SCI entity to date regarding the SCI event to any of its members or participants; and
+
+(C) An analysis of parties that may have experienced a loss, whether monetary or otherwise, due to the SCI event, the number of such parties, and an estimate of the aggregate amount of such loss.
+
+(5) The requirements of paragraphs (b)(1) through (4) of this section shall not apply to any SCI event that has had, or the SCI entity reasonably estimates would have, no or a de minimis impact on the SCI entity's operations or on market participants. For such events, each SCI entity shall:
+
+(i) Make, keep, and preserve records relating to all such SCI events; and
+
+(ii) Submit to the Commission a report, within 30 calendar days after the end of each calendar quarter, containing a summary description of such systems disruptions and systems intrusions, including the SCI systems and, for systems intrusions, indirect SCI systems, affected by such systems disruptions and systems intrusions during the applicable calendar quarter.
+
+(c) Dissemination of SCI events. (1) Each SCI entity shall:
+
+(i) Promptly after any responsible SCI personnel has a reasonable basis to conclude that an SCI event that is a systems disruption or systems compliance issue has occurred, disseminate the following information about such SCI event:
+
+(A) The system(s) affected by the SCI event; and
+
+(B) A summary description of the SCI event; and
+
+(ii) When known, promptly further disseminate the following information about such SCI event:
+
+(A) A detailed description of the SCI event;
+
+(B) The SCI entity's current assessment of the types and number of market participants potentially affected by the SCI event; and
+
+(C) A description of the progress of its corrective action for the SCI event and when the SCI event has been or is expected to be resolved; and
+
+(iii) Until resolved, provide regular updates of any information required to be disseminated under paragraphs (c)(1)(i) and (ii) of this section.
+
+(2) Each SCI entity shall, promptly after any responsible SCI personnel has a reasonable basis to conclude that a SCI event that is a systems intrusion has occurred, disseminate a summary description of the systems intrusion, including a description of the corrective action taken by the SCI entity and when the systems intrusion has been or is expected to be resolved, unless the SCI entity determines that dissemination of such information would likely compromise the security of the SCI entity's SCI systems or indirect SCI systems, or an investigation of the systems intrusion, and documents the reasons for such determination.
+
+(3) The information required to be disseminated under paragraphs (c)(1) and (2) of this section promptly after any responsible SCI personnel has a reasonable basis to conclude that an SCI event has occurred, shall be promptly disseminated by the SCI entity to those members or participants of the SCI entity that any responsible SCI personnel has reasonably estimated may have been affected by the SCI event, and promptly disseminated to any additional members or participants that any responsible SCI personnel subsequently reasonably estimates may have been affected by the SCI event; provided, however, that for major SCI events, the information required to be disseminated under paragraphs (c)(1) and (2) of this section shall be promptly disseminated by the SCI entity to all of its members or participants.
+
+(4) The requirements of paragraphs (c)(1) through (3) of this section shall not apply to:
+
+(i) SCI events to the extent they relate to market regulation or market surveillance systems; or
+
+(ii) Any SCI event that has had, or the SCI entity reasonably estimates would have, no or a de minimis impact on the SCI entity's operations or on market participants.
+
+
+────────────────────────────────────────
+
+§ 242.1003 Obligations related to systems changes; SCI review.
+
+(a) Systems changes. Each SCI entity shall:
+
+(1) Within 30 calendar days after the end of each calendar quarter, submit to the Commission a report describing completed, ongoing, and planned material changes to its SCI systems and the security of indirect SCI systems, during the prior, current, and subsequent calendar quarters, including the dates or expected dates of commencement and completion. An SCI entity shall establish reasonable written criteria for identifying a change to its SCI systems and the security of indirect SCI systems as material and report such changes in accordance with such criteria.
+
+(2) Promptly submit a supplemental report notifying the Commission of a material error in or material omission from a report previously submitted under this paragraph (a).
+
+(b) SCI review. Each SCI entity shall:
+
+(1) Conduct an SCI review of the SCI entity's compliance with Regulation SCI not less than once each calendar year; provided, however, that:
+
+(i) Penetration test reviews of the network, firewalls, and production systems shall be conducted at a frequency of not less than once every three years; and
+
+(ii) Assessments of SCI systems directly supporting market regulation or market surveillance shall be conducted at a frequency based upon the risk assessment conducted as part of the SCI review, but in no case less than once every three years; and
+
+(2) Submit a report of the SCI review required by paragraph (b)(1) of this section to senior management of the SCI entity for review no more than 30 calendar days after completion of such SCI review; and
+
+(3) Submit to the Commission, and to the board of directors of the SCI entity or the equivalent of such board, a report of the SCI review required by paragraph (b)(1) of this section, together with any response by senior management, within 60 calendar days after its submission to senior management of the SCI entity.
+
+
+────────────────────────────────────────
+
+§ 242.1004 SCI entity business continuity and disaster recovery plans testing requirements for members or participants.
+
+With respect to an SCI entity's business continuity and disaster recovery plans, including its backup systems, each SCI entity shall:
+
+(a) Establish standards for the designation of those members or participants that the SCI entity reasonably determines are, taken as a whole, the minimum necessary for the maintenance of fair and orderly markets in the event of the activation of such plans;
+
+(b) Designate members or participants pursuant to the standards established in paragraph (a) of this section and require participation by such designated members or participants in scheduled functional and performance testing of the operation of such plans, in the manner and frequency specified by the SCI entity, provided that such frequency shall not be less than once every 12 months; and
+
+(c) Coordinate the testing of such plans on an industry- or sector-wide basis with other SCI entities.
+
+
+────────────────────────────────────────
+
+§ 242.1005 Recordkeeping requirements related to compliance with Regulation SCI.
+
+(a) An SCI SRO shall make, keep, and preserve all documents relating to its compliance with Regulation SCI as prescribed in § 240.17a-1 of this chapter.
+
+(b) An SCI entity that is not an SCI SRO shall:
+
+(1) Make, keep, and preserve at least one copy of all documents, including correspondence, memoranda, papers, books, notices, accounts, and other such records, relating to its compliance with Regulation SCI, including, but not limited to, records relating to any changes to its SCI systems and indirect SCI systems;
+
+(2) Keep all such documents for a period of not less than five years, the first two years in a place that is readily accessible to the Commission or its representatives for inspection and examination; and
+
+(3) Upon request of any representative of the Commission, promptly furnish to the possession of such representative copies of any documents required to be kept and preserved by it pursuant to paragraphs (b)(1) and (2) of this section.
+
+(c) Upon or immediately prior to ceasing to do business or ceasing to be registered under the Securities Exchange Act of 1934, an SCI entity shall take all necessary action to ensure that the records required to be made, kept, and preserved by this section shall be accessible to the Commission and its representatives in the manner required by this section and for the remainder of the period required by this section.
+
+
+────────────────────────────────────────
+
+§ 242.1006 Electronic filing and submission.
+
+(a) Except with respect to notifications to the Commission made pursuant to § 242.1002(b)(1) or updates to the Commission made pursuant to paragraph § 242.1002(b)(3), any notification, review, description, analysis, or report to the Commission required to be submitted under Regulation SCI shall be filed electronically on Form SCI (§ 249.1900 of this chapter), include all information as prescribed in Form SCI and the instructions thereto, and contain an electronic signature; and
+
+(b) The signatory to an electronically filed Form SCI shall manually sign a signature page or document, in the manner prescribed by Form SCI, authenticating, acknowledging, or otherwise adopting his or her signature that appears in typed form within the electronic filing. Such document shall be executed before or at the time Form SCI is electronically filed and shall be retained by the SCI entity in accordance with § 242.1005.
+
+
+────────────────────────────────────────
+
+§ 242.1007 Requirements for service bureaus.
+
+If records required to be filed or kept by an SCI entity under Regulation SCI are prepared or maintained by a service bureau or other recordkeeping service on behalf of the SCI entity, the SCI entity shall ensure that the records are available for review by the Commission and its representatives by submitting a written undertaking, in a form acceptable to the Commission, by such service bureau or other recordkeeping service, signed by a duly authorized person at such service bureau or other recordkeeping service. Such a written undertaking shall include an agreement by the service bureau to permit the Commission and its representatives to examine such records at any time or from time to time during business hours, and to promptly furnish to the Commission and its representatives true, correct, and current electronic files in a form acceptable to the Commission or its representatives or hard copies of any or all or any part of such records, upon request, periodically, or continuously and, in any case, within the same time periods as would apply to the SCI entity for such records. The preparation or maintenance of records by a service bureau or other recordkeeping service shall not relieve an SCI entity from its obligation to prepare, maintain, and provide the Commission and its representatives access to such records.

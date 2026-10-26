@@ -92,3 +92,27 @@ describe('InstrumentCataloguePanel', () => {
     expect(container.firstChild).toBeNull();
   });
 });
+
+describe('InstrumentCataloguePanel source texts', () => {
+  it('links fetched source texts and explains missing ones from the manifest', async () => {
+    const original = globalThis.fetch;
+    globalThis.fetch = (async () =>
+      new Response(
+        JSON.stringify({
+          entries: {
+            'ca-fed-pipeda': { status: 'fetched', file: 'ca-fed-pipeda.txt', chars: 111217, contentCheck: 'match', retrievedAt: '2026-10-25T00:00:00Z' },
+            'ca-fed-casl': { status: 'blocked', note: 'Site rejected automated requests.' },
+          },
+        }),
+        { status: 200 },
+      )) as typeof fetch;
+    try {
+      render(<InstrumentCataloguePanel instruments={getCatalogueForCountry('CA')} />);
+      const link = await screen.findByTestId('source-text-ca-fed-pipeda');
+      expect(link.getAttribute('href')).toContain('source-texts/ca-fed-pipeda.txt');
+      expect(await screen.findByText(/Site rejected automated requests/)).toBeTruthy();
+    } finally {
+      globalThis.fetch = original;
+    }
+  });
+});

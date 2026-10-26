@@ -93,3 +93,10 @@ audit. Browser assets must never contain credentials.
 
 MIT licensed; see [LICENSE](LICENSE) for academic attribution and the React,
 Three.js, D3-geo, TopoJSON, World-Atlas, and Lucide third-party notices.
+
+
+## Instrument catalogue and source texts
+
+`src/data/verified-examples/instrument-catalogue.ts` catalogues privacy, data-protection, cybersecurity and cross-border instruments for Canada, the United States and the European Union. Entries are metadata only; only those linked by `translatedLawId` have curated GAL translations. Citations were compiled without machine verification.
+
+`npm run fetch:sources` downloads authoritative texts from the original publishers (Justice Laws, EU Publications Office, eCFR, GPO govinfo, provincial and state legislatures, NIST, ...) into `public/source-texts/`, with provenance in `manifest.json` (URL, retrieval time, SHA-256, content check). Sources that reject automated requests, or that cannot be verified, are recorded as `blocked` / `failed` with a reason; no access control is bypassed. Use `-- --only id1,id2` or `-- --missing` to limit a run. Source registry: `scripts/source-fetch/registry.mjs`.

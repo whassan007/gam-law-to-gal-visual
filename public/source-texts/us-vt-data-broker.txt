@@ -1,0 +1,494 @@
+Print
+
+The Vermont Statutes Online
+
+The Statutes below now include the actions of the 2026 session of the General Assembly.
+
+NOTE: The Vermont Statutes Online is an unofficial copy of the Vermont Statutes Annotated that is provided as a convenience.
+
+Title 9 : Commerce and Trade
+
+Chapter
+
+062
+
+:
+Protection of Personal Information
+
+Subchapter
+
+001
+:
+General Provisions
+
+(Cite as: 9 V.S.A. § 2430)
+
+§ 2430. Definitions [Effective until January 1, 2027; see also § 2430 effective January 1, 2027, set out below]
+
+As used in this chapter:
+
+(1)(A) “Brokered personal information” means one or more of the following computerized data
+elements about a consumer, if categorized or organized for dissemination to third
+parties:
+
+(i) name;
+
+(ii) address;
+
+(iii) date of birth;
+
+(iv) place of birth;
+
+(v) mother’s maiden name;
+
+(vi) unique biometric data generated from measurements or technical analysis of human body
+characteristics used by the owner or licensee of the data to identify or authenticate
+the consumer, such as a fingerprint, retina or iris image, or other unique physical
+representation or digital representation of biometric data;
+
+(vii) name or address of a member of the consumer’s immediate family or household;
+
+(viii) Social Security number or other government-issued identification number; or
+
+(ix) other information that, alone or in combination with the other information sold or
+licensed, would allow a reasonable person to identify the consumer with reasonable
+certainty.
+
+(B) “Brokered personal information” does not include publicly available information to
+the extent that it is related to a consumer’s business or profession.
+
+(2) “Business” means a commercial entity, including a sole proprietorship, partnership,
+corporation, association, limited liability company, or other group, however organized
+and whether or not organized to operate at a profit, including a financial institution
+organized, chartered, or holding a license or authorization certificate under the
+laws of this State, any other state, the United States, or any other country, or the
+parent, affiliate, or subsidiary of a financial institution, but does not include
+the State, a State agency, any political subdivision of the State, or a vendor acting
+solely on behalf of, and at the direction of, the State.
+
+(3) “Consumer” means an individual residing in this State.
+
+(4)(A) “Data broker” means a business, or unit or units of a business, separately or together,
+that knowingly collects and sells or licenses to third parties the brokered personal
+information of a consumer with whom the business does not have a direct relationship.
+
+(B) Examples of a direct relationship with a business include if the consumer is a past
+or present:
+
+(i) customer, client, subscriber, user, or registered user of the business’s goods or
+services;
+
+(ii) employee, contractor, or agent of the business;
+
+(iii) investor in the business; or
+
+(iv) donor to the business.
+
+(C) The following activities conducted by a business, and the collection and sale or licensing
+of brokered personal information incidental to conducting these activities, do not
+qualify the business as a data broker:
+
+(i) developing or maintaining third-party e-commerce or application platforms;
+
+(ii) providing 411 directory assistance or directory information services, including name,
+address, and telephone number, on behalf of or as a function of a telecommunications
+carrier;
+
+(iii) providing publicly available information related to a consumer’s business or profession;
+or
+
+(iv) providing publicly available information via real-time or near-real-time alert services
+for health or safety purposes.
+
+(D) The phrase “sells or licenses” does not include:
+
+(i) a one-time or occasional sale of assets of a business as part of a transfer of control
+of those assets that is not part of the ordinary conduct of the business; or
+
+(ii) a sale or license of data that is merely incidental to the business.
+
+(5)(A) “Data broker security breach” means an unauthorized acquisition or a reasonable belief
+of an unauthorized acquisition of more than one element of brokered personal information
+maintained by a data broker when the brokered personal information is not encrypted,
+redacted, or protected by another method that renders the information unreadable or
+unusable by an unauthorized person.
+
+(B) “Data broker security breach” does not include good faith but unauthorized acquisition
+of brokered personal information by an employee or agent of the data broker for a
+legitimate purpose of the data broker, provided that the brokered personal information
+is not used for a purpose unrelated to the data broker’s business or subject to further
+unauthorized disclosure.
+
+(C) In determining whether brokered personal information has been acquired or is reasonably
+believed to have been acquired by a person without valid authorization, a data broker
+may consider the following factors, among others:
+
+(i) indications that the brokered personal information is in the physical possession and
+control of a person without valid authorization, such as a lost or stolen computer
+or other device containing brokered personal information;
+
+(ii) indications that the brokered personal information has been downloaded or copied;
+
+(iii) indications that the brokered personal information was used by an unauthorized person,
+such as fraudulent accounts opened or instances of identity theft reported; or
+
+(iv) that the brokered personal information has been made public.
+
+(6) “Data collector” means a person who, for any purpose, whether by automated collection
+or otherwise, handles, collects, disseminates, or otherwise deals with personally
+identifiable information, and includes the State, State agencies, political subdivisions
+of the State, public and private universities, privately and publicly held corporations,
+limited liability companies, financial institutions, and retail operators.
+
+(7) “Encryption” means use of an algorithmic process to transform data into a form in
+which the data is rendered unreadable or unusable without use of a confidential process
+or key.
+
+(8) “License” means a grant of access to, or distribution of, data by one person to another
+in exchange for consideration. A use of data for the sole benefit of the data provider,
+where the data provider maintains control over the use of the data, is not a license.
+
+(9) “Login credentials” means a consumer’s user name or e-mail address, in combination
+with a password or an answer to a security question, that together permit access to
+an online account.
+
+(10)(A) “Personally identifiable information” means a consumer’s first name or first initial
+and last name in combination with one or more of the following digital data elements,
+when the data elements are not encrypted, redacted, or protected by another method
+that renders them unreadable or unusable by unauthorized persons:
+
+(i) a Social Security number;
+
+(ii) a driver license or nondriver State identification card number, individual taxpayer
+identification number, passport number, military identification card number, or other
+identification number that originates from a government identification document that
+is commonly used to verify identity for a commercial transaction;
+
+(iii) a financial account number or credit or debit card number, if the number could be
+used without additional identifying information, access codes, or passwords;
+
+(iv) a password, personal identification number, or other access code for a financial account;
+
+(v) unique biometric data generated from measurements or technical analysis of human body
+characteristics used by the owner or licensee of the data to identify or authenticate
+the consumer, such as a fingerprint, retina or iris image, or other unique physical
+representation or digital representation of biometric data;
+
+(vi) genetic information; and
+
+(vii)(I) health records or records of a wellness program or similar program of health promotion
+or disease prevention;
+
+(II) a health care professional’s medical diagnosis or treatment of the consumer; or
+
+(III) a health insurance policy number.
+
+(B) “Personally identifiable information” does not mean publicly available information
+that is lawfully made available to the general public from federal, State, or local
+government records.
+
+(11) “Record” means any material on which written, drawn, spoken, visual, or electromagnetic
+information is recorded or preserved, regardless of physical form or characteristics.
+
+(12) “Redaction” means the rendering of data so that the data are unreadable or are truncated
+so that no more than the last four digits of the identification number are accessible
+as part of the data.
+
+(13)(A) “Security breach” means unauthorized acquisition of electronic data, or a reasonable
+belief of an unauthorized acquisition of electronic data, that compromises the security,
+confidentiality, or integrity of a consumer’s personally identifiable information
+or login credentials maintained by a data collector.
+
+(B) “Security breach” does not include good faith but unauthorized acquisition of personally
+identifiable information or login credentials by an employee or agent of the data
+collector for a legitimate purpose of the data collector, provided that the personally
+identifiable information or login credentials are not used for a purpose unrelated
+to the data collector’s business or subject to further unauthorized disclosure.
+
+(C) In determining whether personally identifiable information or login credentials have
+been acquired or is reasonably believed to have been acquired by a person without
+valid authorization, a data collector may consider the following factors, among others:
+
+(i) indications that the information is in the physical possession and control of a person
+without valid authorization, such as a lost or stolen computer or other device containing
+information;
+
+(ii) indications that the information has been downloaded or copied;
+
+(iii) indications that the information was used by an unauthorized person, such as fraudulent
+accounts opened or instances of identity theft reported; or
+
+(iv) that the information has been made public. (Added 2005, No. 162 (Adj. Sess.), § 1, eff. Jan. 1, 2007; amended 2011, No. 109 (Adj. Sess.), § 4, eff. May 8, 2012; 2017, No. 171 (Adj. Sess.), § 2, eff. Jan. 1, 2019; 2019, No. 89 (Adj. Sess.), § 2.)
+
+§ 2430. Definitions [Effective January 1, 2027; see also § 2430 effective until January 1, 2027, set out above]
+
+As used in this chapter:
+
+(1) “Authorized agent” means:
+
+(A) a person designated by a consumer to act on the consumer’s behalf;
+
+(B) a parent or legal guardian that acts on behalf of the parent’s child or on behalf
+of a child for whom the guardian has legal responsibility; or
+
+(C) a guardian or conservator that acts on behalf of a consumer that is subject to a guardianship,
+conservatorship, or other protective arrangement.
+
+(2)(A) “Biometric data” means that data generated from the technological processing of an
+individual’s unique biological, physical, or physiological characteristics can be
+used to identify an individual, including:
+
+(i) iris or retina scans;
+
+(ii) fingerprints;
+
+(iii) facial or hand mapping, geometry, or templates;
+
+(iv) vein patterns;
+
+(v) voice prints; and
+
+(vi) gait or personally identifying physical movement or patterns.
+
+(B) “Biometric data” does not include:
+
+(i) a digital or physical photograph;
+
+(ii) an audio or video recording; or
+
+(iii) any data generated from a digital or physical photograph, or an audio or video recording,
+unless such data is generated to identify a specific individual.
+
+(3)(A) “Brokered personal information” means any information, including derived data and
+unique identifiers, that is linked or reasonably linkable, alone or in combination
+with other information, to an identified or identifiable individual or to a device
+that identifies, is linked to, or is reasonably linkable to one or more identified
+or identifiable individuals in a household.
+
+(B) “Brokered personal information” does not include publicly available information.
+
+(4) “Business” means a commercial entity, including a sole proprietorship, partnership,
+corporation, association, limited liability company, or other group, however organized
+and whether or not organized to operate at a profit, including a financial institution
+organized, chartered, or holding a license or authorization certificate under the
+laws of this State, any other state, the United States, or any other country, or the
+parent, affiliate, or subsidiary of a financial institution, but does not include
+the State, a State agency, any political subdivision of the State, or a vendor acting
+solely on behalf of, and at the direction of, the State.
+
+(5) “Consumer” means an individual residing in this State.
+
+(6)(A) “Data broker” means a business, or unit or units of a business, separately or together,
+that knowingly collects and sells or licenses to third parties the brokered personal
+information of a consumer with whom the business does not have a direct relationship.
+
+(B) As used in this subdivision (6), “direct relationship” means that a consumer has intentionally
+interacted with a business for the purpose of accessing, purchasing, using, requesting,
+or obtaining information about the business’s products or services. A consumer does
+not have a direct relationship with a business if the purpose of the consumer’s engagement
+is to exercise a consumer right or for the business to verify the consumer’s identity.
+A business does not have a direct relationship with a consumer simply because the
+business collects brokered personal information directly from the consumer; the consumer
+must intend to interact with the business. A business is still a data broker and does
+not have a direct relationship with a consumer as to the brokered personal information
+the business sells about the consumer that it collected outside of a first-party interaction
+with the consumer.
+
+(C) The phrase “sells or licenses” does not include a one-time or occasional sale of
+assets of a business as part of a transfer of control of those assets that is not
+part of the ordinary conduct of the business.
+
+(7) “Data collector” means a person who, for any purpose, whether by automated collection
+or otherwise, handles, collects, disseminates, or otherwise deals with personally
+identifiable information, and includes the State, State agencies, political subdivisions
+of the State, public and private universities, privately and publicly held corporations,
+limited liability companies, financial institutions, and retail operators.
+
+(8) “Encryption” means use of an algorithmic process to transform data into a form in
+which the data is rendered unreadable or unusable without use of a confidential process
+or key.
+
+(9)(A) “GenAI system” means an artificial intelligence system that can generate derived synthetic
+content, including text, images, video, and audio, that emulates the structure and
+characteristics of the system’s training data.
+
+(B) As used in subdivision (A) of this subdivision (9), “artificial intelligence system”
+means an engineered or machine-based system that varies in its level of autonomy and
+that can, for explicit or implicit objectives, infer from the input it receives how
+to generate outputs that can influence physical or virtual environments.
+
+(10) “Identified or identifiable individual” means an individual who can be readily identified,
+directly or indirectly.
+
+(11) “License” means a grant of access to, or distribution of, data by one person to another
+in exchange for consideration. A use of data for the sole benefit of the data provider,
+where the data provider maintains control over the use of the data, is not a license.
+
+(12) “Login credentials” means a consumer’s user name or email address, in combination
+with a password or an answer to a security question, that together permit access to
+an online account.
+
+(13)(A) “Personally identifiable information” means a consumer’s first name or first initial
+and last name in combination with one or more of the following digital data elements,
+when the data elements are not encrypted, redacted, or protected by another method
+that renders them unreadable or unusable by unauthorized persons, subject to the exception
+in subdivision (C) of this subdivision (13):
+
+(i) a Social Security number;
+
+(ii) a driver license or nondriver State identification card number, individual taxpayer
+identification number, passport number, military identification card number, or other
+identification number that originates from a government identification document that
+is commonly used to verify identity for a commercial transaction;
+
+(iii) a financial account number or credit or debit card number, if the number could be
+used without additional identifying information, access codes, or passwords;
+
+(iv) a password, personal identification number, or other access code for a financial account;
+
+(v) biometric data;
+
+(vi) genetic information; and
+
+(vii)(I) health records or records of a wellness program or similar program of health promotion
+or disease prevention;
+
+(II) a health care professional’s medical diagnosis or treatment of the consumer; or
+
+(III) a health insurance policy number.
+
+(B) “Personally identifiable information” does not include publicly available information.
+
+(C) “Personally identifiable information” does not require a consumer’s first name or
+first initial and last name if any of the data elements contained in subdivisions
+(A)(i)–(vii) of this subdivision (13) is sufficient to perform or attempt to perform
+identity theft against the consumer.
+
+(14) “Precise geolocation” means information derived from technology that can precisely
+and accurately identify the specific location of a consumer within a radius of 1,850
+feet.
+
+(15) “Processor” means a person who performs any operation or set of operations, whether
+by manual or automated means, on brokered personal information or on sets of brokered
+personal information, such as the collection, use, storage, disclosure, analysis,
+deletion, or modification of brokered personal information on behalf of a business.
+
+(16)(A) “Publicly available information” means information that:
+
+(i) is made available:
+
+(I) through federal, state, or local government records; or
+
+(II) to the general public from widely distributed media; or
+
+(ii) a data broker has a reasonable basis to believe that the consumer has lawfully made
+available to the general public.
+
+(B) “Publicly available information” does not include:
+
+(i) biometric data collected by a business about a consumer without the consumer’s knowledge;
+
+(ii) any obscene visual depiction, as defined in 18 U.S.C. § 1460;
+
+(iii) genetic data, unless otherwise made publicly available by the consumer to whom the
+information pertains; or
+
+(iv) intimate images, authentic or computer generated, known to be nonconsensual.
+
+(17) “Record” means any material on which written, drawn, spoken, visual, or electromagnetic
+information is recorded or preserved, regardless of physical form or characteristics.
+
+(18) “Redaction” means the rendering of data so that the data are unreadable or are truncated
+so that not more than the last four digits of the identification number are accessible
+as part of the data.
+
+(19)(A) “Sale” means the exchange of a consumer’s brokered personal information by the data
+broker to a third party for monetary or other valuable consideration.
+
+(B) “Sale” does not include:
+
+(i) the disclosure of brokered personal information to a processor that processes the
+brokered personal information on behalf of the data broker;
+
+(ii) the disclosure of brokered personal information to a third party for purposes of providing
+a product or service requested by the consumer;
+
+(iii) the disclosure or transfer of brokered personal information to an affiliate of the
+data broker;
+
+(iv) the disclosure, with the consumer’s consent, of brokered personal information where
+the consumer directs the data broker to disclose the brokered personal information
+or intentionally uses the data broker to interact with a third party;
+
+(v) the disclosure of publicly available information; or
+
+(vi) the disclosure or transfer of brokered personal information to a third party as an
+asset that is part of a merger, acquisition, bankruptcy, or other transaction, or
+a proposed merger, acquisition, bankruptcy, or other transaction, in which the third
+party assumes control of all or part of the data broker’s assets.
+
+(C) As used in subdivision (B) of this subdivision (19), “affiliate” means a legal entity
+that shares common branding with another legal entity or controls, is controlled by,
+or is under common control with another legal entity.
+
+(D) As used in subdivision (C) of this subdivision (19), “control” or “controlled” means:
+
+(i) ownership of, or the power to vote, more than 50 percent of the outstanding shares
+of any class of voting security of a company;
+
+(ii) control in any manner over the election of a majority of the directors or of individuals
+exercising similar functions; or
+
+(iii) the power to exercise controlling influence over the management of a company.
+
+(20)(A) “Security breach” means unauthorized acquisition of electronic data, or a reasonable
+belief of an unauthorized acquisition of electronic data, that compromises the security,
+confidentiality, or integrity of a consumer’s personally identifiable information
+or login credentials maintained by a data collector.
+
+(B) “Security breach” does not include good faith but unauthorized acquisition of personally
+identifiable information or login credentials by an employee or agent of the data
+collector for a legitimate purpose of the data collector, provided that the personally
+identifiable information or login credentials are not used for a purpose unrelated
+to the data collector’s business or subject to further unauthorized disclosure.
+
+(C) In determining whether personally identifiable information or login credentials have
+been acquired or are reasonably believed to have been acquired by a person without
+valid authorization, a data collector may consider the following factors, among others:
+
+(i) indications that the information is in the physical possession and control of a person
+without valid authorization, such as a lost or stolen computer or other device containing
+information;
+
+(ii) indications that the information has been downloaded or copied;
+
+(iii) indications that the information was used by an unauthorized person, such as fraudulent
+accounts opened or instances of identity theft reported; or
+
+(iv) that the information has been made public. (Added 2005, No. 162 (Adj. Sess.), § 1, eff. Jan. 1, 2007; amended 2011, No. 109 (Adj. Sess.), § 4, eff. May 8, 2012; 2017, No. 171 (Adj. Sess.), § 2, eff. Jan. 1, 2019; 2019, No. 89 (Adj. Sess.), § 2; 2025, No. 138 (Adj. Sess.), § 1, eff. January 1, 2027.)
+
+Statutes
+
+Vermont Statutes Online
+
+Statutes Search
+
+Vermont Statutes at Lexis/Nexis
+
+Constitution
+
+Constitution of the State of Vermont
+
+Acts
+
+Acts & Resolves
+
+Acts Affecting VSA Sections
+
+Rules
+
+State Agency Rules at Lexis/Nexis
+
+Court Rules at Lexis/Nexis
+
+Legislative Committee on Administrative Rules (LCAR)

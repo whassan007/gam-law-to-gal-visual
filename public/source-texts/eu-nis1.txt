@@ -1,0 +1,2442 @@
+19.7.2016
+
+|
+
+EN
+
+|
+
+Official Journal of the European Union
+
+|
+
+L 194/1
+
+|
+
+DIRECTIVE (EU) 2016/1148 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+of 6 July 2016
+
+concerning measures for a high common level of security of network and information systems across the Union
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee (1),
+
+Acting in accordance with the ordinary legislative procedure (2),
+
+Whereas:
+
+(1)
+
+|
+
+Network and information systems and services play a vital role in society. Their reliability and security are essential to economic and societal activities, and in particular to the functioning of the internal market.
+
+|
+
+(2)
+
+|
+
+The magnitude, frequency and impact of security incidents are increasing, and represent a major threat to the functioning of network and information systems. Those systems may also become a target for deliberate harmful actions intended to damage or interrupt the operation of the systems. Such incidents can impede the pursuit of economic activities, generate substantial financial losses, undermine user confidence and cause major damage to the economy of the Union.
+
+|
+
+(3)
+
+|
+
+Network and information systems, and primarily the internet, play an essential role in facilitating the cross-border movement of goods, services and people. Owing to that transnational nature, substantial disruptions of those systems, whether intentional or unintentional and regardless of where they occur, can affect individual Member States and the Union as a whole. The security of network and information systems is therefore essential for the smooth functioning of the internal market.
+
+|
+
+(4)
+
+|
+
+Building upon the significant progress within the European Forum of Member States in fostering discussions and exchanges on good policy practices, including the development of principles for European cyber-crisis cooperation, a Cooperation Group, composed of representatives of Member States, the Commission, and the European Union Agency for Network and Information Security (‘ENISA’), should be established to support and facilitate strategic cooperation between the Member States regarding the security of network and information systems. For that group to be effective and inclusive, it is essential that all Member States have minimum capabilities and a strategy ensuring a high level of security of network and information systems in their territory. In addition, security and notification requirements should apply to operators of essential services and to digital service providers to promote a culture of risk management and ensure that the most serious incidents are reported.
+
+|
+
+(5)
+
+|
+
+The existing capabilities are not sufficient to ensure a high level of security of network and information systems within the Union. Member States have very different levels of preparedness, which has led to fragmented approaches across the Union. This results in an unequal level of protection of consumers and businesses, and undermines the overall level of security of network and information systems within the Union. Lack of common requirements on operators of essential services and digital service providers in turn makes it impossible to set up a global and effective mechanism for cooperation at Union level. Universities and research centres have a decisive role to play in spurring research, development and innovation in those areas.
+
+|
+
+(6)
+
+|
+
+Responding effectively to the challenges of the security of network and information systems therefore requires a global approach at Union level covering common minimum capacity building and planning requirements, exchange of information, cooperation and common security requirements for operators of essential services and digital service providers. However, operators of essential services and digital service providers are not precluded from implementing security measures that are stricter than those provided for under this Directive.
+
+|
+
+(7)
+
+|
+
+To cover all relevant incidents and risks, this Directive should apply to both operators of essential services and digital service providers. However, the obligations on operators of essential services and digital service providers should not apply to undertakings providing public communication networks or publicly available electronic communication services within the meaning of Directive 2002/21/EC of the European Parliament and of the Council (3), which are subject to the specific security and integrity requirements laid down in that Directive, nor should they apply to trust service providers within the meaning of Regulation (EU) No 910/2014 of the European Parliament and of the Council (4), which are subject to the security requirements laid down in that Regulation.
+
+|
+
+(8)
+
+|
+
+This Directive should be without prejudice to the possibility for each Member State to take the necessary measures to ensure the protection of the essential interests of its security, to safeguard public policy and public security, and to allow for the investigation, detection and prosecution of criminal offences. In accordance with Article 346 of the Treaty on the Functioning of the European Union (TFEU), no Member State is to be obliged to supply information the disclosure of which it considers to be contrary to the essential interests of its security. In this context, Council Decision 2013/488/EU (5) and non-disclosure agreements, or informal non-disclosure agreements such as the Traffic Light Protocol, are of relevance.
+
+|
+
+(9)
+
+|
+
+Certain sectors of the economy are already regulated or may be regulated in the future by sector-specific Union legal acts that include rules related to the security of network and information systems. Whenever those Union legal acts contain provisions imposing requirements concerning the security of network and information systems or notifications of incidents, those provisions should apply if they contain requirements which are at least equivalent in effect to the obligations contained in this Directive. Member States should then apply the provisions of such sector-specific Union legal acts, including those relating to jurisdiction, and should not carry out the identification process for operators of essential services as defined by this Directive. In this context, Member States should provide information to the Commission on the application of such lex specialis provisions. In determining whether the requirements on the security of network and information systems and the notification of incidents contained in sector-specific Union legal acts are equivalent to those contained in this Directive, regard should only be had to the provisions of relevant Union legal acts and their application in the Member States.
+
+|
+
+(10)
+
+|
+
+In the water transport sector, security requirements for companies, ships, port facilities, ports and vessel traffic services under Union legal acts cover all operations, including radio and telecommunication systems, computer systems and networks. Part of the mandatory procedures to be followed includes the reporting of all incidents and should therefore be considered as lex specialis, in so far as those requirements are at least equivalent to the corresponding provisions of this Directive.
+
+|
+
+(11)
+
+|
+
+When identifying operators in the water transport sector, Member States should take into account existing and future international codes and guidelines developed in particular by the International Maritime Organisation, with a view to providing individual maritime operators with a coherent approach.
+
+|
+
+(12)
+
+|
+
+Regulation and supervision in the sectors of banking and financial market infrastructures is highly harmonised at Union level, through the use of primary and secondary Union law and standards developed together with the European supervisory authorities. Within the banking union, the application and the supervision of those requirements are ensured by the single supervisory mechanism. For Member States that are not part of the banking union, this is ensured by the relevant banking regulators of Member States. In other areas of financial sector regulation, the European System of Financial Supervision also ensures a high degree of commonality and convergence in supervisory practices. The European Securities Markets Authority also plays a direct supervision role for certain entities, namely credit-rating agencies and trade repositories.
+
+|
+
+(13)
+
+|
+
+Operational risk is a crucial part of prudential regulation and supervision in the sectors of banking and financial market infrastructures. It covers all operations including the security, integrity and resilience of network and information systems. The requirements in respect of those systems, which often exceed the requirements provided for under this Directive, are set out in a number of Union legal acts, including: rules on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, and rules on prudential requirements for credit institutions and investment firms, which include requirements concerning operational risk; rules on markets in financial instruments, which include requirements concerning risk assessment for investment firms and for regulated markets; rules on OTC derivatives, central counterparties and trade repositories, which include requirements concerning operational risk for central counterparties and trade repositories; and rules on improving securities settlement in the Union and on central securities depositories, which include requirements concerning operational risk. Furthermore, requirements for notification of incidents are part of normal supervisory practice in the financial sector and are often included in supervisory manuals. Member States should consider those rules and requirements in their application of lex specialis.
+
+|
+
+(14)
+
+|
+
+As noted by the European Central Bank in its opinion of 25 July 2014 (6), this Directive does not affect the regime under Union law for the Eurosystem's oversight of payment and settlement systems. It would be appropriate for the authorities responsible for such oversight to exchange experiences on matters concerning security of network and information systems with the competent authorities under this Directive. The same consideration applies to non-euro area members of the European System of Central Banks exercising such oversight of payment and settlement systems on the basis of national laws and regulations.
+
+|
+
+(15)
+
+|
+
+An online marketplace allows consumers and traders to conclude online sales or service contracts with traders, and is the final destination for the conclusion of those contracts. It should not cover online services that serve only as an intermediary to third-party services through which a contract can ultimately be concluded. It should therefore not cover online services that compare the price of particular products or services from different traders, and then redirect the user to the preferred trader to purchase the product. Computing services provided by the online marketplace may include processing of transactions, aggregations of data or profiling of users. Application stores, which operate as online stores enabling the digital distribution of applications or software programmes from third parties, are to be understood as being a type of online marketplace.
+
+|
+
+(16)
+
+|
+
+An online search engine allows the user to perform searches of, in principle, all websites on the basis of a query on any subject. It may alternatively be focused on websites in a particular language. The definition of an online search engine provided in this Directive should not cover search functions that are limited to the content of a specific website, irrespective of whether the search function is provided by an external search engine. Neither should it cover online services that compare the price of particular products or services from different traders, and then redirect the user to the preferred trader to purchase the product.
+
+|
+
+(17)
+
+|
+
+Cloud computing services span a wide range of activities that can be delivered according to different models. For the purposes of this Directive, the term ‘cloud computing services’ covers services that allow access to a scalable and elastic pool of shareable computing resources. Those computing resources include resources such as networks, servers or other infrastructure, storage, applications and services. The term ‘scalable’ refers to computing resources that are flexibly allocated by the cloud service provider, irrespective of the geographical location of the resources, in order to handle fluctuations in demand. The term ‘elastic pool’ is used to describe those computing resources that are provisioned and released according to demand in order to rapidly increase and decrease resources available depending on workload. The term ‘shareable’ is used to describe those computing resources that are provided to multiple users who share a common access to the service, but where the processing is carried out separately for each user, although the service is provided from the same electronic equipment.
+
+|
+
+(18)
+
+|
+
+The function of an internet exchange point (IXP) is to interconnect networks. An IXP does not provide network access or act as a transit provider or carrier. Nor does an IXP provide other services unrelated to interconnection, although this does not preclude an IXP operator from providing unrelated services. An IXP exists to interconnect networks that are technically and organisationally separate. The term ‘autonomous system’ is used to describe a technically stand-alone network.
+
+|
+
+(19)
+
+|
+
+Member States should be responsible for determining which entities meet the criteria of the definition of operator of essential services. In order to ensure a consistent approach, the definition of operator of essential services should be coherently applied by all Member States. To that end, this Directive provides for the assessment of the entities active in specific sectors and subsectors, the establishment of a list of essential services, the consideration of a common list of cross-sectoral factors to determine whether a potential incident would have a significant disruptive effect, a consultation process involving relevant Member States in the case of entities providing services in more than one Member State, and the support of the Cooperation Group in the identification process. In order to ensure that possible changes in the market are accurately reflected, the list of identified operators should be reviewed regularly by Member States and updated when necessary. Finally, Member States should submit to the Commission the information necessary to assess the extent to which this common methodology has allowed a consistent application of the definition by Member States.
+
+|
+
+(20)
+
+|
+
+In the process of identification of operators of essential services, Member States should assess, at least for each subsector referred to in this Directive, which services have to be considered as essential for the maintenance of critical societal and economic activities, and whether the entities listed in the sectors and subsectors referred to in this Directive and providing those services meet the criteria for the identification of operators. When assessing whether an entity provides a service which is essential for the maintenance of critical societal or economic activities, it is sufficient to examine whether that entity provides a service that is included in the list of essential services. Furthermore, it should be demonstrated that provision of the essential service is dependent on network and information systems. Finally, when assessing whether an incident would have a significant disruptive effect on the provision of the service, Member States should take into account a number of cross-sectoral factors, as well as, where appropriate, sector-specific factors.
+
+|
+
+(21)
+
+|
+
+For the purposes of identifying operators of essential services, establishment in a Member State implies the effective and real exercise of activity through stable arrangements. The legal form of such arrangements, whether through a branch or a subsidiary possessing legal personality, is not the determining factor in this respect.
+
+|
+
+(22)
+
+|
+
+It is possible that entities operating in the sectors and subsectors referred to in this Directive provide both essential and non-essential services. For example, in the air transport sector, airports provide services which might be considered by a Member State to be essential, such as the management of the runways, but also a number of services which might be considered as non-essential, such as the provision of shopping areas. Operators of essential services should be subject to the specific security requirements only with respect to those services which are deemed to be essential. For the purpose of identifying operators, Member States should therefore establish a list of the services which are considered as essential.
+
+|
+
+(23)
+
+|
+
+The list of services should contain all services provided in the territory of a given Member State that fulfil the requirements under this Directive. Member States should be able to supplement the existing list by including new services. The list of services should serve as a reference point for Member States, allowing for identification of operators of essential services. Its purpose is to identify the types of essential services in any given sector referred to in this Directive, thus distinguishing them from non-essential activities for which an entity active in any given sector might be responsible. The list of services established by each Member State would serve as further input in the assessment of the regulatory practice of each Member State with a view to ensuring the overall level of consistency of the identification process amongst Member States.
+
+|
+
+(24)
+
+|
+
+For the purposes of the identification process, where an entity provides an essential service in two or more Member States, those Member States should engage in bilateral or multilateral discussions with each other. This consultation process is intended to help them to assess the critical nature of the operator in terms of cross-border impact, thereby allowing each Member State involved to present its views regarding the risks associated with the services provided. The Member States concerned should take into account each other's views in this process, and should be able to request the assistance of the Cooperation Group in this regard.
+
+|
+
+(25)
+
+|
+
+As a result of the identification process, Member States should adopt national measures to determine which entities are subject to obligations regarding the security of network and information systems. This result could be achieved by adopting a list enumerating all operators of essential services or by adopting national measures including objective quantifiable criteria, such as the output of the operator or the number of users, which make it possible to determine which entities are subject to obligations regarding the security of network and information systems. The national measures, whether already existing or adopted in the context of this Directive, should include all legal measures, administrative measures and policies allowing for the identification of operators of essential services under this Directive.
+
+|
+
+(26)
+
+|
+
+In order to give an indication of the importance, in relation to the sector concerned, of the identified operators of essential services, Member States should take into account the number and the size of those operators, for example in terms of market share or of the quantity produced or carried, without being obliged to divulge information which would reveal which operators have been identified.
+
+|
+
+(27)
+
+|
+
+In order to determine whether an incident would have a significant disruptive effect on the provision of an essential service, Member States should take into account a number of different factors, such as the number of users relying on that service for private or professional purposes. The use of that service can be direct, indirect or by intermediation. When assessing the impact that an incident could have, in terms of its degree and duration, on economic and societal activities or public safety, Member States should also assess the time likely to elapse before the discontinuity would start to have a negative impact.
+
+|
+
+(28)
+
+|
+
+In addition to the cross-sectoral factors, sector-specific factors should also be considered in order to determine whether an incident would have a significant disruptive effect on the provision of an essential service. With regard to energy suppliers, such factors could include the volume or proportion of national power generated; for oil suppliers, the volume per day; for air transport, including airports and air carriers, rail transport and maritime ports, the proportion of national traffic volume and the number of passengers or cargo operations per year; for banking or financial market infrastructures, their systemic importance based on total assets or the ratio of those total assets to GDP; for the health sector, the number of patients under the provider's care per year; for water production, processing and supply, the volume and number and types of users supplied, including, for example, hospitals, public service organisations, or individuals, and the existence of alternative sources of water to cover the same geographical area.
+
+|
+
+(29)
+
+|
+
+To achieve and maintain a high level of security of network and information systems, each Member State should have a national strategy on the security of network and information systems defining the strategic objectives and concrete policy actions to be implemented.
+
+|
+
+(30)
+
+|
+
+In view of the differences in national governance structures and in order to safeguard already existing sectoral arrangements or Union supervisory and regulatory bodies, and to avoid duplication, Member States should be able to designate more than one national competent authority responsible for fulfilling the tasks linked to the security of the network and information systems of operators of essential services and digital service providers under this Directive.
+
+|
+
+(31)
+
+|
+
+In order to facilitate cross-border cooperation and communication and to enable this Directive to be implemented effectively, it is necessary for each Member State, without prejudice to sectoral regulatory arrangements, to designate a national single point of contact responsible for coordinating issues related to the security of network and information systems and cross-border cooperation at Union level. Competent authorities and single points of contact should have the adequate technical, financial and human resources to ensure that they can carry out the tasks assigned to them in an effective and efficient manner and thus achieve the objectives of this Directive. As this Directive aims to improve the functioning of the internal market by creating trust and confidence, Member State bodies need to be able to cooperate effectively with economic actors and to be structured accordingly.
+
+|
+
+(32)
+
+|
+
+Competent authorities or the computer security incident response teams (‘CSIRTs’) should receive notifications of incidents. The single points of contact should not receive directly any notifications of incidents unless they also act as a competent authority or a CSIRT. A competent authority or a CSIRT should however be able to task the single point of contact with forwarding incident notifications to the single points of contact of other affected Member States.
+
+|
+
+(33)
+
+|
+
+To ensure the effective provision of information to the Member States and to the Commission, a summary report should be submitted by the single point of contact to the Cooperation Group, and should be anonymised in order to preserve the confidentiality of the notifications and the identity of operators of essential services and digital service providers, as information on the identity of the notifying entities is not required for the exchange of best practice in the Cooperation Group. The summary report should include information on the number of notifications received, as well as an indication of the nature of the notified incidents, such as the types of security breaches, their seriousness or their duration.
+
+|
+
+(34)
+
+|
+
+Member States should be adequately equipped, in terms of both technical and organisational capabilities, to prevent, detect, respond to and mitigate network and information system incidents and risks. Member States should therefore ensure that they have well-functioning CSIRTs, also known as computer emergency response teams (‘CERTs’), complying with essential requirements to guarantee effective and compatible capabilities to deal with incidents and risks and ensure efficient cooperation at Union level. In order for all types of operators of essential services and digital service providers to benefit from such capabilities and cooperation, Member States should ensure that all types are covered by a designated CSIRT. Given the importance of international cooperation on cybersecurity, CSIRTs should be able to participate in international cooperation networks in addition to the CSIRTs network established by this Directive.
+
+|
+
+(35)
+
+|
+
+As most network and information systems are privately operated, cooperation between the public and private sectors is essential. Operators of essential services and digital service providers should be encouraged to pursue their own informal cooperation mechanisms to ensure the security of network and information systems. The Cooperation Group should be able to invite relevant stakeholders to the discussions where appropriate. To encourage effectively the sharing of information and of best practice, it is essential to ensure that operators of essential services and digital service providers who participate in such exchanges are not disadvantaged as a result of their cooperation.
+
+|
+
+(36)
+
+|
+
+ENISA should assist the Member States and the Commission by providing expertise and advice and by facilitating the exchange of best practice. In particular, in the application of this Directive, the Commission should, and Member States should be able to, consult ENISA. To build capacity and knowledge among Member States, the Cooperation Group should also serve as an instrument for the exchange of best practice, discussion of capabilities and preparedness of the Member States and, on a voluntary basis, to assist its members in evaluating national strategies on the security of network and information systems, building capacity and evaluating exercises relating to the security of network and information systems.
+
+|
+
+(37)
+
+|
+
+Where appropriate, Member States should be able to use or adapt existing organisational structures or strategies when applying this Directive.
+
+|
+
+(38)
+
+|
+
+The respective tasks of the Cooperation Group and of ENISA are interdependent and complementary. In general, ENISA should assist the Cooperation Group in the execution of its tasks, in line with the objective of ENISA set out in Regulation (EU) No 526/2013 of the European Parliament and the Council (7), namely to assist the Union institutions, bodies, offices and agencies and the Member States in implementing the policies necessary to meet the legal and regulatory requirements of network and information system security under existing and future legal acts of the Union. In particular, ENISA should provide assistance in those areas that correspond to its own tasks, as set out in Regulation (EU) No 526/2013, namely analysing network and information system security strategies, supporting the organisation and running of Union exercises relating to the security of network and information systems, and exchanging information and best practice on awareness-raising and training. ENISA should also be involved in the development of guidelines for sector-specific criteria for determining the significance of the impact of an incident.
+
+|
+
+(39)
+
+|
+
+In order to promote advanced security of network and information systems, the Cooperation Group should, where appropriate, cooperate with relevant Union institutions, bodies, offices and agencies, to exchange know-how and best practice, and to provide advice on security aspects of network and information systems that might have an impact on their work, while respecting existing arrangements for the exchange of restricted information. In cooperating with law enforcement authorities regarding the security aspects of network and information systems that might have an impact on their work, the Cooperation Group should respect existing channels of information and established networks.
+
+|
+
+(40)
+
+|
+
+Information about incidents is increasingly valuable to the general public and businesses, particularly small and medium-sized enterprises. In some cases, such information is already provided via websites at the national level, in the language of a specific country and focusing mainly on incidents and occurrences with a national dimension. Given that businesses increasingly operate across borders and citizens use online services, information on incidents should be provided in an aggregated form at Union level. The secretariat of the CSIRTs network is encouraged to maintain a website or to host a dedicated page on an existing website, where general information on major incidents that have occurred across the Union is made available to the general public, with a specific focus on the interests and needs of businesses. CSIRTs participating in the CSIRTs network are encouraged to provide on a voluntary basis the information to be published on that website, without including confidential or sensitive information.
+
+|
+
+(41)
+
+|
+
+Where information is considered to be confidential in accordance with Union and national rules on business confidentiality, such confidentiality should be ensured when carrying out the activities and fulfilling the objectives set by this Directive.
+
+|
+
+(42)
+
+|
+
+Exercises which simulate real-time incident scenarios are essential for testing Member States' preparedness and cooperation regarding the security of network and information systems. The CyberEurope cycle of exercises coordinated by ENISA with the participation of the Member States is a useful tool for testing and drawing up recommendations on how incident-handling at Union level should improve over time. Considering that the Member States are not currently under any obligation to either plan or participate in exercises, the creation of the CSIRTs network under this Directive should enable Member States to participate in exercises on the basis of accurate planning and strategic choices. The Cooperation Group set up under this Directive should discuss the strategic decisions regarding exercises, in particular but not exclusively as regards the regularity of the exercises and the design of the scenarios. ENISA should, in accordance with its mandate, support the organisation and running of Union-wide exercises by providing its expertise and advice to the Cooperation Group and the CSIRTs network.
+
+|
+
+(43)
+
+|
+
+Given the global nature of security problems affecting network and information systems, there is a need for closer international cooperation to improve security standards and information exchange, and to promote a common global approach to security issues.
+
+|
+
+(44)
+
+|
+
+Responsibilities in ensuring the security of network and information systems lie, to a great extent, with operators of essential services and digital service providers. A culture of risk management, involving risk assessment and the implementation of security measures appropriate to the risks faced, should be promoted and developed through appropriate regulatory requirements and voluntary industry practices. Establishing a trustworthy level playing field is also essential to the effective functioning of the Cooperation Group and the CSIRTs network, to ensure effective cooperation from all Member States.
+
+|
+
+(45)
+
+|
+
+This Directive applies only to those public administrations which are identified as operators of essential services. Therefore, it is the responsibility of Member States to ensure the security of network and information systems of public administrations not falling within the scope of this Directive.
+
+|
+
+(46)
+
+|
+
+Risk-management measures include measures to identify any risks of incidents, to prevent, detect and handle incidents and to mitigate their impact. The security of network and information systems comprises the security of stored, transmitted and processed data.
+
+|
+
+(47)
+
+|
+
+Competent authorities should retain the ability to adopt national guidelines concerning the circumstances in which operators of essential services are required to notify incidents.
+
+|
+
+(48)
+
+|
+
+Many businesses in the Union rely on digital service providers for the provision of their services. As some digital services could be an important resource for their users, including operators of essential services, and as such users might not always have alternatives available, this Directive should also apply to providers of such services. The security, continuity and reliability of the type of digital services referred to in this Directive are of the essence for the smooth functioning of many businesses. A disruption of such a digital service could prevent the provision of other services which rely on it and could thus have an impact on key economic and societal activities in the Union. Such digital services might therefore be of crucial importance for the smooth functioning of businesses that depend on them and, moreover, for the participation of such businesses in the internal market and cross-border trade across the Union. Those digital service providers that are subject to this Directive are those that are considered to offer digital services on which many businesses in the Union increasingly rely.
+
+|
+
+(49)
+
+|
+
+Digital service providers should ensure a level of security commensurate with the degree of risk posed to the security of the digital services they provide, given the importance of their services to the operations of other businesses within the Union. In practice, the degree of risk for operators of essential services, which are often essential for the maintenance of critical societal and economic activities, is higher than for digital service providers. Therefore, the security requirements for digital service providers should be lighter. Digital service providers should remain free to take measures they consider appropriate to manage the risks posed to the security of their network and information systems. Because of their cross-border nature, digital service providers should be subject to a more harmonised approach at Union level. Implementing acts should facilitate the specification and implementation of such measures.
+
+|
+
+(50)
+
+|
+
+While hardware manufacturers and software developers are not operators of essential services, nor are they digital service providers, their products enhance the security of network and information systems. Therefore, they play an important role in enabling operators of essential services and digital service providers to secure their network and information systems. Such hardware and software products are already subject to existing rules on product liability.
+
+|
+
+(51)
+
+|
+
+Technical and organisational measures imposed on operators of essential services and digital service providers should not require a particular commercial information and communications technology product to be designed, developed or manufactured in a particular manner.
+
+|
+
+(52)
+
+|
+
+Operators of essential services and digital service providers should ensure the security of the network and information systems which they use. These are primarily private network and information systems managed by their internal IT staff or the security of which has been outsourced. The security and notification requirements should apply to the relevant operators of essential services and digital service providers regardless of whether they perform the maintenance of their network and information systems internally or outsource it.
+
+|
+
+(53)
+
+|
+
+To avoid imposing a disproportionate financial and administrative burden on operators of essential services and digital service providers, the requirements should be proportionate to the risk presented by the network and information system concerned, taking into account the state of the art of such measures. In the case of digital service providers, those requirements should not apply to micro- and small enterprises.
+
+|
+
+(54)
+
+|
+
+Where public administrations in Member States use services offered by digital service providers, in particular cloud computing services, they might wish to require from the providers of such services additional security measures beyond what digital service providers would normally offer in compliance with the requirements of this Directive. They should be able to do so by means of contractual obligations.
+
+|
+
+(55)
+
+|
+
+The definitions of online marketplaces, online search engines and cloud computing services in this Directive are for the specific purpose of this Directive, and without prejudice to any other instruments.
+
+|
+
+(56)
+
+|
+
+This Directive should not preclude Member States from adopting national measures requiring public-sector bodies to ensure specific security requirements when they contract cloud computing services. Any such national measures should apply to the public-sector body concerned and not to the cloud computing service provider.
+
+|
+
+(57)
+
+|
+
+Given the fundamental differences between operators of essential services, in particular their direct link with physical infrastructure, and digital service providers, in particular their cross-border nature, this Directive should take a differentiated approach with respect to the level of harmonisation in relation to those two groups of entities. For operators of essential services, Member States should be able to identify the relevant operators and impose stricter requirements than those laid down in this Directive. Member States should not identify digital service providers, as this Directive should apply to all digital service providers within its scope. In addition, this Directive and the implementing acts adopted under it should ensure a high level of harmonisation for digital service providers with respect to security and notification requirements. This should enable digital service providers to be treated in a uniform way across the Union, in a manner proportionate to their nature and the degree of risk which they might face.
+
+|
+
+(58)
+
+|
+
+This Directive should not preclude Member States from imposing security and notification requirements on entities that are not digital service providers within the scope of this Directive, without prejudice to Member States' obligations under Union law.
+
+|
+
+(59)
+
+|
+
+Competent authorities should pay due attention to preserving informal and trusted channels of information-sharing. Publicity of incidents reported to the competent authorities should duly balance the interest of the public in being informed about threats against possible reputational and commercial damage for the operators of essential services and digital service providers reporting incidents. In the implementation of the notification obligations, competent authorities and the CSIRTs should pay particular attention to the need to keep information about product vulnerabilities strictly confidential, prior to the release of appropriate security fixes.
+
+|
+
+(60)
+
+|
+
+Digital service providers should be subject to light-touch and reactive ex post supervisory activities justified by the nature of their services and operations. The competent authority concerned should therefore only take action when provided with evidence, for example by the digital service provider itself, by another competent authority, including a competent authority of another Member State, or by a user of the service, that a digital service provider is not complying with the requirements of this Directive, in particular following the occurrence of an incident. The competent authority should therefore have no general obligation to supervise digital service providers.
+
+|
+
+(61)
+
+|
+
+Competent authorities should have the necessary means to perform their duties, including powers to obtain sufficient information in order to assess the level of security of network and information systems.
+
+|
+
+(62)
+
+|
+
+Incidents may be the result of criminal activities the prevention, investigation and prosecution of which is supported by coordination and cooperation between operators of essential services, digital service providers, competent authorities and law enforcement authorities. Where it is suspected that an incident is related to serious criminal activities under Union or national law, Member States should encourage operators of essential services and digital service providers to report incidents of a suspected serious criminal nature to the relevant law enforcement authorities. Where appropriate, it is desirable that coordination between competent authorities and law enforcement authorities of different Member States be facilitated by the European Cybercrime Centre (EC3) and ENISA.
+
+|
+
+(63)
+
+|
+
+Personal data are in many cases compromised as a result of incidents. In this context, competent authorities and data protection authorities should cooperate and exchange information on all relevant matters to tackle any personal data breaches resulting from incidents.
+
+|
+
+(64)
+
+|
+
+Jurisdiction in respect of digital service providers should be attributed to the Member State in which the digital service provider concerned has its main establishment in the Union, which in principle corresponds to the place where the provider has its head office in the Union. Establishment implies the effective and real exercise of activity through stable arrangements. The legal form of such arrangements, whether through a branch or a subsidiary with a legal personality, is not the determining factor in this respect. This criterion should not depend on whether the network and information systems are physically located in a given place; the presence and use of such systems do not, in themselves, constitute such main establishment and are therefore not criteria for determining the main establishment.
+
+|
+
+(65)
+
+|
+
+Where a digital service provider not established in the Union offers services within the Union, it should designate a representative. In order to determine whether such a digital service provider is offering services within the Union, it should be ascertained whether it is apparent that the digital service provider is planning to offer services to persons in one or more Member States. The mere accessibility in the Union of the digital service provider's or an intermediary's website or of an email address and of other contact details, or the use of a language generally used in the third country where the digital service provider is established, is insufficient to ascertain such an intention. However, factors such as the use of a language or a currency generally used in one or more Member States with the possibility of ordering services in that other language, or the mentioning of customers or users who are in the Union, may make it apparent that the digital service provider is planning to offer services within the Union. The representative should act on behalf of the digital service provider and it should be possible for competent authorities or the CSIRTs to contact the representative. The representative should be explicitly designated by a written mandate of the digital service provider to act on the latter's behalf with regard to the latter's obligations under this Directive, including incident reporting.
+
+|
+
+(66)
+
+|
+
+Standardisation of security requirements is a market-driven process. To ensure a convergent application of security standards, Member States should encourage compliance or conformity with specified standards so as to ensure a high level of security of network and information systems at Union level. ENISA should assist Member States through advice and guidelines. To this end, it might be helpful to draft harmonised standards, which should be done in accordance with Regulation (EU) No 1025/2012 of the European Parliament and of the Council (8).
+
+|
+
+(67)
+
+|
+
+Entities falling outside the scope of this Directive may experience incidents having a significant impact on the services they provide. Where those entities consider that it is in the public interest to notify the occurrence of such incidents, they should be able to do so on a voluntary basis. Such notifications should be processed by the competent authority or the CSIRT where such processing does not constitute a disproportionate or undue burden on the Member States concerned.
+
+|
+
+(68)
+
+|
+
+In order to ensure uniform conditions for the implementation of this Directive, implementing powers should be conferred on the Commission to lay down the procedural arrangements necessary for the functioning of the Cooperation Group and the security and notification requirements applicable to digital service providers. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council (9). When adopting implementing acts related to the procedural arrangements necessary for the functioning of the Cooperation Group, the Commission should take the utmost account of the opinion of ENISA.
+
+|
+
+(69)
+
+|
+
+When adopting implementing acts on the security requirements for digital service providers, the Commission should take the utmost account of the opinion of ENISA and should consult interested stakeholders. Moreover, the Commission is encouraged to take into account the following examples: as regards security of systems and facilities: physical and environmental security, security of supplies, access control to network and information systems and integrity of network and information systems; as regards incident handling: incident-handling procedures, incident detection capability, incident reporting and communication; as regards business continuity management: service continuity strategy and contingency plans, disaster recovery capabilities; and as regards monitoring, auditing and testing: monitoring and logging policies, exercise contingency plans, network and information systems testing, security assessments and compliance monitoring.
+
+|
+
+(70)
+
+|
+
+In the implementation of this Directive, the Commission should liaise as appropriate with relevant sectoral committees and relevant bodies set up at Union level in the fields covered by this Directive.
+
+|
+
+(71)
+
+|
+
+The Commission should periodically review this Directive, in consultation with interested stakeholders, in particular with a view to determining the need for modification in the light of changes to societal, political, technological or market conditions.
+
+|
+
+(72)
+
+|
+
+The sharing of information on risks and incidents within the Cooperation Group and the CSIRTs network and the compliance with the requirements to notify incidents to the national competent authorities or the CSIRTs might require processing of personal data. Such processing should comply with Directive 95/46/EC of the European Parliament and the Council (10) and Regulation (EC) No 45/2001 of the European Parliament and of the Council (11). In the application of this Directive, Regulation (EC) No 1049/2001 of the European Parliament and of the Council (12) should apply as appropriate.
+
+|
+
+(73)
+
+|
+
+The European Data Protection Supervisor was consulted in accordance with Article 28(2) of Regulation (EC) No 45/2001 and delivered an opinion on 14 June 2013 (13).
+
+|
+
+(74)
+
+|
+
+Since the objective of this Directive, namely to achieve a high common level of security of network and information systems in the Union, cannot be sufficiently achieved by the Member States but can rather, by reason of the effects of the action, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Directive does not go beyond what is necessary in order to achieve that objective.
+
+|
+
+(75)
+
+|
+
+This Directive respects the fundamental rights, and observes the principles, recognised by the Charter of Fundamental Rights of the European Union, in particular the right to respect for private life and communications, the protection of personal data, the freedom to conduct a business, the right to property, the right to an effective remedy before a court and the right to be heard. This Directive should be implemented in accordance with those rights and principles,
+
+|
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+CHAPTER I
+
+GENERAL PROVISIONS
+
+Article 1
+
+Subject matter and scope
+
+1. This Directive lays down measures with a view to achieving a high common level of security of network and information systems within the Union so as to improve the functioning of the internal market.
+
+2. To that end, this Directive:
+
+(a)
+
+|
+
+lays down obligations for all Member States to adopt a national strategy on the security of network and information systems;
+
+|
+
+(b)
+
+|
+
+creates a Cooperation Group in order to support and facilitate strategic cooperation and the exchange of information among Member States and to develop trust and confidence amongst them;
+
+|
+
+(c)
+
+|
+
+creates a computer security incident response teams network (‘CSIRTs network’) in order to contribute to the development of trust and confidence between Member States and to promote swift and effective operational cooperation;
+
+|
+
+(d)
+
+|
+
+establishes security and notification requirements for operators of essential services and for digital service providers;
+
+|
+
+(e)
+
+|
+
+lays down obligations for Member States to designate national competent authorities, single points of contact and CSIRTs with tasks related to the security of network and information systems.
+
+|
+
+3. The security and notification requirements provided for in this Directive shall not apply to undertakings which are subject to the requirements of Articles 13a and 13b of Directive 2002/21/EC, or to trust service providers which are subject to the requirements of Article 19 of Regulation (EU) No 910/2014.
+
+4. This Directive applies without prejudice to Council Directive 2008/114/EC (14) and Directives 2011/93/EU (15) and 2013/40/EU (16) of the European Parliament and of the Council.
+
+5. Without prejudice to Article 346 TFEU, information that is confidential pursuant to Union and national rules, such as rules on business confidentiality, shall be exchanged with the Commission and other relevant authorities only where such exchange is necessary for the application of this Directive. The information exchanged shall be limited to that which is relevant and proportionate to the purpose of such exchange. Such exchange of information shall preserve the confidentiality of that information and protect the security and commercial interests of operators of essential services and digital service providers.
+
+6. This Directive is without prejudice to the actions taken by Member States to safeguard their essential State functions, in particular to safeguard national security, including actions protecting information the disclosure of which Member States consider contrary to the essential interests of their security, and to maintain law and order, in particular to allow for the investigation, detection and prosecution of criminal offences.
+
+7. Where a sector-specific Union legal act requires operators of essential services or digital service providers either to ensure the security of their network and information systems or to notify incidents, provided that such requirements are at least equivalent in effect to the obligations laid down in this Directive, those provisions of that sector-specific Union legal act shall apply.
+
+Article 2
+
+Processing of personal data
+
+1. Processing of personal data pursuant to this Directive shall be carried out in accordance with Directive 95/46/EC.
+
+2. Processing of personal data by Union institutions and bodies pursuant to this Directive shall be carried out in accordance with Regulation (EC) No 45/2001.
+
+Article 3
+
+Minimum harmonisation
+
+Without prejudice to Article 16(10) and to their obligations under Union law, Member States may adopt or maintain provisions with a view to achieving a higher level of security of network and information systems.
+
+Article 4
+
+Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(1)
+
+|
+
+‘network and information system’ means:
+
+(a)
+
+|
+
+an electronic communications network within the meaning of point (a) of Article 2 of Directive 2002/21/EC;
+
+|
+
+(b)
+
+|
+
+any device or group of interconnected or related devices, one or more of which, pursuant to a program, perform automatic processing of digital data; or
+
+|
+
+(c)
+
+|
+
+digital data stored, processed, retrieved or transmitted by elements covered under points (a) and (b) for the purposes of their operation, use, protection and maintenance;
+
+|
+
+|
+
+(2)
+
+|
+
+‘security of network and information systems’ means the ability of network and information systems to resist, at a given level of confidence, any action that compromises the availability, authenticity, integrity or confidentiality of stored or transmitted or processed data or the related services offered by, or accessible via, those network and information systems;
+
+|
+
+(3)
+
+|
+
+‘national strategy on the security of network and information systems’ means a framework providing strategic objectives and priorities on the security of network and information systems at national level;
+
+|
+
+(4)
+
+|
+
+‘operator of essential services’ means a public or private entity of a type referred to in Annex II, which meets the criteria laid down in Article 5(2);
+
+|
+
+(5)
+
+|
+
+‘digital service’ means a service within the meaning of point (b) of Article 1(1) of Directive (EU) 2015/1535 of the European Parliament and of the Council (17) which is of a type listed in Annex III;
+
+|
+
+(6)
+
+|
+
+‘digital service provider’ means any legal person that provides a digital service;
+
+|
+
+(7)
+
+|
+
+‘incident’ means any event having an actual adverse effect on the security of network and information systems;
+
+|
+
+(8)
+
+|
+
+‘incident handling’ means all procedures supporting the detection, analysis and containment of an incident and the response thereto;
+
+|
+
+(9)
+
+|
+
+‘risk’ means any reasonably identifiable circumstance or event having a potential adverse effect on the security of network and information systems;
+
+|
+
+(10)
+
+|
+
+‘representative’ means any natural or legal person established in the Union explicitly designated to act on behalf of a digital service provider not established in the Union, which may be addressed by a national competent authority or a CSIRT instead of the digital service provider with regard to the obligations of that digital service provider under this Directive;
+
+|
+
+(11)
+
+|
+
+‘standard’ means a standard within the meaning of point (1) of Article 2 of Regulation (EU) No 1025/2012;
+
+|
+
+(12)
+
+|
+
+‘specification’ means a technical specification within the meaning of point (4) of Article 2 of Regulation (EU) No 1025/2012;
+
+|
+
+(13)
+
+|
+
+‘internet exchange point (IXP)’ means a network facility which enables the interconnection of more than two independent autonomous systems, primarily for the purpose of facilitating the exchange of internet traffic; an IXP provides interconnection only for autonomous systems; an IXP does not require the internet traffic passing between any pair of participating autonomous systems to pass through any third autonomous system, nor does it alter or otherwise interfere with such traffic;
+
+|
+
+(14)
+
+|
+
+‘domain name system (DNS)’ means a hierarchical distributed naming system in a network which refers queries for domain names;
+
+|
+
+(15)
+
+|
+
+‘DNS service provider’ means an entity which provides DNS services on the internet;
+
+|
+
+(16)
+
+|
+
+‘top-level domain name registry’ means an entity which administers and operates the registration of internet domain names under a specific top-level domain (TLD);
+
+|
+
+(17)
+
+|
+
+‘online marketplace’ means a digital service that allows consumers and/or traders as respectively defined in point (a) and in point (b) of Article 4(1) of Directive 2013/11/EU of the European Parliament and of the Council (18) to conclude online sales or service contracts with traders either on the online marketplace's website or on a trader's website that uses computing services provided by the online marketplace;
+
+|
+
+(18)
+
+|
+
+‘online search engine’ means a digital service that allows users to perform searches of, in principle, all websites or websites in a particular language on the basis of a query on any subject in the form of a keyword, phrase or other input, and returns links in which information related to the requested content can be found;
+
+|
+
+(19)
+
+|
+
+‘cloud computing service’ means a digital service that enables access to a scalable and elastic pool of shareable computing resources.
+
+|
+
+Article 5
+
+Identification of operators of essential services
+
+1. By 9 November 2018, for each sector and subsector referred to in Annex II, Member States shall identify the operators of essential services with an establishment on their territory.
+
+2. The criteria for the identification of the operators of essential services, as referred to in point (4) of Article 4, shall be as follows:
+
+(a)
+
+|
+
+an entity provides a service which is essential for the maintenance of critical societal and/or economic activities;
+
+|
+
+(b)
+
+|
+
+the provision of that service depends on network and information systems; and
+
+|
+
+(c)
+
+|
+
+an incident would have significant disruptive effects on the provision of that service.
+
+|
+
+3. For the purposes of paragraph 1, each Member State shall establish a list of the services referred to in point (a) of paragraph 2.
+
+4. For the purposes of paragraph 1, where an entity provides a service as referred to in point (a) of paragraph 2 in two or more Member States, those Member States shall engage in consultation with each other. That consultation shall take place before a decision on identification is taken.
+
+5. Member States shall, on a regular basis, and at least every two years after 9 May 2018, review and, where appropriate, update the list of identified operators of essential services.
+
+6. The role of the Cooperation Group shall be, in accordance with the tasks referred to in Article 11, to support Member States in taking a consistent approach in the process of identification of operators of essential services.
+
+7. For the purpose of the review referred to in Article 23 and by 9 November 2018, and every two years thereafter, Member States shall submit to the Commission the information necessary to enable the Commission to assess the implementation of this Directive, in particular the consistency of Member States' approaches to the identification of operators of essential services. That information shall include at least:
+
+(a)
+
+|
+
+national measures allowing for the identification of operators of essential services;
+
+|
+
+(b)
+
+|
+
+the list of services referred to in paragraph 3;
+
+|
+
+(c)
+
+|
+
+the number of operators of essential services identified for each sector referred to in Annex II and an indication of their importance in relation to that sector;
+
+|
+
+(d)
+
+|
+
+thresholds, where they exist, to determine the relevant supply level by reference to the number of users relying on that service as referred to in point (a) of Article 6(1) or to the importance of that particular operator of essential services as referred to in point (f) of Article 6(1).
+
+|
+
+In order to contribute to the provision of comparable information, the Commission, taking the utmost account of the opinion of ENISA, may adopt appropriate technical guidelines on parameters for the information referred to in this paragraph.
+
+Article 6
+
+Significant disruptive effect
+
+1. When determining the significance of a disruptive effect as referred to in point (c) of Article 5(2), Member States shall take into account at least the following cross-sectoral factors:
+
+(a)
+
+|
+
+the number of users relying on the service provided by the entity concerned;
+
+|
+
+(b)
+
+|
+
+the dependency of other sectors referred to in Annex II on the service provided by that entity;
+
+|
+
+(c)
+
+|
+
+the impact that incidents could have, in terms of degree and duration, on economic and societal activities or public safety;
+
+|
+
+(d)
+
+|
+
+the market share of that entity;
+
+|
+
+(e)
+
+|
+
+the geographic spread with regard to the area that could be affected by an incident;
+
+|
+
+(f)
+
+|
+
+the importance of the entity for maintaining a sufficient level of the service, taking into account the availability of alternative means for the provision of that service.
+
+|
+
+2. In order to determine whether an incident would have a significant disruptive effect, Member States shall also, where appropriate, take into account sector-specific factors.
+
+CHAPTER II
+
+NATIONAL FRAMEWORKS ON THE SECURITY OF NETWORK AND INFORMATION SYSTEMS
+
+Article 7
+
+National strategy on the security of network and information systems
+
+1. Each Member State shall adopt a national strategy on the security of network and information systems defining the strategic objectives and appropriate policy and regulatory measures with a view to achieving and maintaining a high level of security of network and information systems and covering at least the sectors referred to in Annex II and the services referred to in Annex III. The national strategy on the security of network and information systems shall address, in particular, the following issues:
+
+(a)
+
+|
+
+the objectives and priorities of the national strategy on the security of network and information systems;
+
+|
+
+(b)
+
+|
+
+a governance framework to achieve the objectives and priorities of the national strategy on the security of network and information systems, including roles and responsibilities of the government bodies and the other relevant actors;
+
+|
+
+(c)
+
+|
+
+the identification of measures relating to preparedness, response and recovery, including cooperation between the public and private sectors;
+
+|
+
+(d)
+
+|
+
+an indication of the education, awareness-raising and training programmes relating to the national strategy on the security of network and information systems;
+
+|
+
+(e)
+
+|
+
+an indication of the research and development plans relating to the national strategy on the security of network and information systems;
+
+|
+
+(f)
+
+|
+
+a risk assessment plan to identify risks;
+
+|
+
+(g)
+
+|
+
+a list of the various actors involved in the implementation of the national strategy on the security of network and information systems.
+
+|
+
+2. Member States may request the assistance of ENISA in developing national strategies on the security of network and information systems.
+
+3. Member States shall communicate their national strategies on the security of network and information systems to the Commission within three months from their adoption. In so doing, Member States may exclude elements of the strategy which relate to national security.
+
+Article 8
+
+National competent authorities and single point of contact
+
+1. Each Member State shall designate one or more national competent authorities on the security of network and information systems (‘competent authority’), covering at least the sectors referred to in Annex II and the services referred to in Annex III. Member States may assign this role to an existing authority or authorities.
+
+2. The competent authorities shall monitor the application of this Directive at national level.
+
+3. Each Member State shall designate a national single point of contact on the security of network and information systems (‘single point of contact’). Member States may assign this role to an existing authority. Where a Member State designates only one competent authority, that competent authority shall also be the single point of contact.
+
+4. The single point of contact shall exercise a liaison function to ensure cross-border cooperation of Member State authorities and with the relevant authorities in other Member States and with the Cooperation Group referred to in Article 11 and the CSIRTs network referred to in Article 12.
+
+5. Member States shall ensure that the competent authorities and the single points of contact have adequate resources to carry out, in an effective and efficient manner, the tasks assigned to them and thereby to fulfil the objectives of this Directive. Member States shall ensure effective, efficient and secure cooperation of the designated representatives in the Cooperation Group.
+
+6. The competent authorities and single point of contact shall, whenever appropriate and in accordance with national law, consult and cooperate with the relevant national law enforcement authorities and national data protection authorities.
+
+7. Each Member State shall notify to the Commission without delay the designation of the competent authority and single point of contact, their tasks, and any subsequent change thereto. Each Member State shall make public its designation of the competent authority and single point of contact. The Commission shall publish the list of designated single points of contacts.
+
+Article 9
+
+Computer security incident response teams (CSIRTs)
+
+1. Each Member State shall designate one or more CSIRTs which shall comply with the requirements set out in point (1) of Annex I, covering at least the sectors referred to in Annex II and the services referred to in Annex III, responsible for risk and incident handling in accordance with a well-defined process. A CSIRT may be established within a competent authority.
+
+2. Member States shall ensure that the CSIRTs have adequate resources to effectively carry out their tasks as set out in point (2) of Annex I.
+
+Member States shall ensure the effective, efficient and secure cooperation of their CSIRTs in the CSIRTs network referred to in Article 12.
+
+3. Member States shall ensure that their CSIRTs have access to an appropriate, secure, and resilient communication and information infrastructure at national level.
+
+4. Member States shall inform the Commission about the remit, as well as the main elements of the incident-handling process, of their CSIRTs.
+
+5. Member States may request the assistance of ENISA in developing national CSIRTs.
+
+Article 10
+
+Cooperation at national level
+
+1. Where they are separate, the competent authority, the single point of contact and the CSIRT of the same Member State shall cooperate with regard to the fulfilment of the obligations laid down in this Directive.
+
+2. Member States shall ensure that either the competent authorities or the CSIRTs receive incident notifications submitted pursuant to this Directive. Where a Member State decides that CSIRTs shall not receive notifications, the CSIRTs shall, to the extent necessary to fulfil their tasks, be granted access to data on incidents notified by operators of essential services, pursuant to Article 14(3) and (5), or by digital service providers, pursuant to Article 16(3) and (6).
+
+3. Member States shall ensure that the competent authorities or the CSIRTs inform the single points of contact about incident notifications submitted pursuant to this Directive.
+
+By 9 August 2018, and every year thereafter, the single point of contact shall submit a summary report to the Cooperation Group on the notifications received, including the number of notifications and the nature of notified incidents, and the actions taken in accordance with Article 14(3) and (5) and Article 16(3) and (6).
+
+CHAPTER III
+
+COOPERATION
+
+Article 11
+
+Cooperation Group
+
+1. In order to support and facilitate strategic cooperation and the exchange of information among Member States and to develop trust and confidence, and with a view to achieving a high common level of security of network and information systems in the Union, a Cooperation Group is hereby established.
+
+The Cooperation Group shall carry out its tasks on the basis of biennial work programmes as referred to in the second subparagraph of paragraph 3.
+
+2. The Cooperation Group shall be composed of representatives of the Member States, the Commission and ENISA.
+
+Where appropriate, the Cooperation Group may invite representatives of the relevant stakeholders to participate in its work.
+
+The Commission shall provide the secretariat.
+
+3. The Cooperation Group shall have the following tasks:
+
+(a)
+
+|
+
+providing strategic guidance for the activities of the CSIRTs network established under Article 12;
+
+|
+
+(b)
+
+|
+
+exchanging best practice on the exchange of information related to incident notification as referred to in Article 14(3) and (5) and Article 16(3) and (6);
+
+|
+
+(c)
+
+|
+
+exchanging best practice between Member States and, in collaboration with ENISA, assisting Member States in building capacity to ensure the security of network and information systems;
+
+|
+
+(d)
+
+|
+
+discussing capabilities and preparedness of the Member States, and, on a voluntary basis, evaluating national strategies on the security of network and information systems and the effectiveness of CSIRTs, and identifying best practice;
+
+|
+
+(e)
+
+|
+
+exchanging information and best practice on awareness-raising and training;
+
+|
+
+(f)
+
+|
+
+exchanging information and best practice on research and development relating to the security of network and information systems;
+
+|
+
+(g)
+
+|
+
+where relevant, exchanging experiences on matters concerning the security of network and information systems with relevant Union institutions, bodies, offices and agencies;
+
+|
+
+(h)
+
+|
+
+discussing the standards and specifications referred to in Article 19 with representatives from the relevant European standardisation organisations;
+
+|
+
+(i)
+
+|
+
+collecting best practice information on risks and incidents;
+
+|
+
+(j)
+
+|
+
+examining, on an annual basis, the summary reports referred to in the second subparagraph of Article 10(3);
+
+|
+
+(k)
+
+|
+
+discussing the work undertaken with regard to exercises relating to the security of network and information systems, education programmes and training, including the work done by ENISA;
+
+|
+
+(l)
+
+|
+
+with ENISA's assistance, exchanging best practice with regard to the identification of operators of essential services by the Member States, including in relation to cross-border dependencies, regarding risks and incidents;
+
+|
+
+(m)
+
+|
+
+discussing modalities for reporting notifications of incidents as referred to in Articles 14 and 16.
+
+|
+
+By 9 February 2018 and every two years thereafter, the Cooperation Group shall establish a work programme in respect of actions to be undertaken to implement its objectives and tasks, which shall be consistent with the objectives of this Directive.
+
+4. For the purpose of the review referred to in Article 23 and by 9 August 2018, and every year and a half thereafter, the Cooperation Group shall prepare a report assessing the experience gained with the strategic cooperation pursued under this Article.
+
+5. The Commission shall adopt implementing acts laying down procedural arrangements necessary for the functioning of the Cooperation Group. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22(2).
+
+For the purposes of the first subparagraph, the Commission shall submit the first draft implementing act to the committee referred to in Article 22(1) by 9 February 2017.
+
+Article 12
+
+CSIRTs network
+
+1. In order to contribute to the development of confidence and trust between the Member States and to promote swift and effective operational cooperation, a network of the national CSIRTs is hereby established.
+
+2. The CSIRTs network shall be composed of representatives of the Member States' CSIRTs and CERT-EU. The Commission shall participate in the CSIRTs network as an observer. ENISA shall provide the secretariat and shall actively support the cooperation among the CSIRTs.
+
+3. The CSIRTs network shall have the following tasks:
+
+(a)
+
+|
+
+exchanging information on CSIRTs' services, operations and cooperation capabilities;
+
+|
+
+(b)
+
+|
+
+at the request of a representative of a CSIRT from a Member State potentially affected by an incident, exchanging and discussing non-commercially sensitive information related to that incident and associated risks; however, any Member State's CSIRT may refuse to contribute to that discussion if there is a risk of prejudice to the investigation of the incident;
+
+|
+
+(c)
+
+|
+
+exchanging and making available on a voluntary basis non-confidential information concerning individual incidents;
+
+|
+
+(d)
+
+|
+
+at the request of a representative of a Member State's CSIRT, discussing and, where possible, identifying a coordinated response to an incident that has been identified within the jurisdiction of that same Member State;
+
+|
+
+(e)
+
+|
+
+providing Member States with support in addressing cross-border incidents on the basis of their voluntary mutual assistance;
+
+|
+
+(f)
+
+|
+
+discussing, exploring and identifying further forms of operational cooperation, including in relation to:
+
+(i)
+
+|
+
+categories of risks and incidents;
+
+|
+
+(ii)
+
+|
+
+early warnings;
+
+|
+
+(iii)
+
+|
+
+mutual assistance;
+
+|
+
+(iv)
+
+|
+
+principles and modalities for coordination, when Member States respond to cross-border risks and incidents;
+
+|
+
+|
+
+(g)
+
+|
+
+informing the Cooperation Group of its activities and of the further forms of operational cooperation discussed pursuant to point (f), and requesting guidance in that regard;
+
+|
+
+(h)
+
+|
+
+discussing lessons learnt from exercises relating to the security of network and information systems, including from those organised by ENISA;
+
+|
+
+(i)
+
+|
+
+at the request of an individual CSIRT, discussing the capabilities and preparedness of that CSIRT;
+
+|
+
+(j)
+
+|
+
+issuing guidelines in order to facilitate the convergence of operational practices with regard to the application of the provisions of this Article concerning operational cooperation.
+
+|
+
+4. For the purpose of the review referred to in Article 23 and by 9 August 2018, and every year and a half thereafter, the CSIRTs network shall produce a report assessing the experience gained with the operational cooperation, including conclusions and recommendations, pursued under this Article. That report shall also be submitted to the Cooperation Group.
+
+5. The CSIRTs network shall lay down its own rules of procedure.
+
+Article 13
+
+International cooperation
+
+The Union may conclude international agreements, in accordance with Article 218 TFEU, with third countries or international organisations, allowing and organising their participation in some activities of the Cooperation Group. Such agreements shall take into account the need to ensure adequate protection of data.
+
+CHAPTER IV
+
+SECURITY OF THE NETWORK AND INFORMATION SYSTEMS OF OPERATORS OF ESSENTIAL SERVICES
+
+Article 14
+
+Security requirements and incident notification
+
+1. Member States shall ensure that operators of essential services take appropriate and proportionate technical and organisational measures to manage the risks posed to the security of network and information systems which they use in their operations. Having regard to the state of the art, those measures shall ensure a level of security of network and information systems appropriate to the risk posed.
+
+2. Member States shall ensure that operators of essential services take appropriate measures to prevent and minimise the impact of incidents affecting the security of the network and information systems used for the provision of such essential services, with a view to ensuring the continuity of those services.
+
+3. Member States shall ensure that operators of essential services notify, without undue delay, the competent authority or the CSIRT of incidents having a significant impact on the continuity of the essential services they provide. Notifications shall include information enabling the competent authority or the CSIRT to determine any cross-border impact of the incident. Notification shall not make the notifying party subject to increased liability.
+
+4. In order to determine the significance of the impact of an incident, the following parameters in particular shall be taken into account:
+
+(a)
+
+|
+
+the number of users affected by the disruption of the essential service;
+
+|
+
+(b)
+
+|
+
+the duration of the incident;
+
+|
+
+(c)
+
+|
+
+the geographical spread with regard to the area affected by the incident.
+
+|
+
+5. On the basis of the information provided in the notification by the operator of essential services, the competent authority or the CSIRT shall inform the other affected Member State(s) if the incident has a significant impact on the continuity of essential services in that Member State. In so doing, the competent authority or the CSIRT shall, in accordance with Union law or national legislation that complies with Union law, preserve the security and commercial interests of the operator of essential services, as well as the confidentiality of the information provided in its notification.
+
+Where the circumstances allow, the competent authority or the CSIRT shall provide the notifying operator of essential services with relevant information regarding the follow-up of its notification, such as information that could support the effective incident handling.
+
+At the request of the competent authority or the CSIRT, the single point of contact shall forward notifications as referred to in the first subparagraph to single points of contact of other affected Member States.
+
+6. After consulting the notifying operator of essential services, the competent authority or the CSIRT may inform the public about individual incidents, where public awareness is necessary in order to prevent an incident or to deal with an ongoing incident.
+
+7. Competent authorities acting together within the Cooperation Group may develop and adopt guidelines concerning the circumstances in which operators of essential services are required to notify incidents, including on the parameters to determine the significance of the impact of an incident as referred to in paragraph 4.
+
+Article 15
+
+Implementation and enforcement
+
+1. Member States shall ensure that the competent authorities have the necessary powers and means to assess the compliance of operators of essential services with their obligations under Article 14 and the effects thereof on the security of network and information systems.
+
+2. Member States shall ensure that the competent authorities have the powers and means to require operators of essential services to provide:
+
+(a)
+
+|
+
+the information necessary to assess the security of their network and information systems, including documented security policies;
+
+|
+
+(b)
+
+|
+
+evidence of the effective implementation of security policies, such as the results of a security audit carried out by the competent authority or a qualified auditor and, in the latter case, to make the results thereof, including the underlying evidence, available to the competent authority.
+
+|
+
+When requesting such information or evidence, the competent authority shall state the purpose of the request and specify what information is required.
+
+3. Following the assessment of information or results of security audits referred to in paragraph 2, the competent authority may issue binding instructions to the operators of essential services to remedy the deficiencies identified.
+
+4. The competent authority shall work in close cooperation with data protection authorities when addressing incidents resulting in personal data breaches.
+
+CHAPTER V
+
+SECURITY OF THE NETWORK AND INFORMATION SYSTEMS OF DIGITAL SERVICE PROVIDERS
+
+Article 16
+
+Security requirements and incident notification
+
+1. Member States shall ensure that digital service providers identify and take appropriate and proportionate technical and organisational measures to manage the risks posed to the security of network and information systems which they use in the context of offering services referred to in Annex III within the Union. Having regard to the state of the art, those measures shall ensure a level of security of network and information systems appropriate to the risk posed, and shall take into account the following elements:
+
+(a)
+
+|
+
+the security of systems and facilities;
+
+|
+
+(b)
+
+|
+
+incident handling;
+
+|
+
+(c)
+
+|
+
+business continuity management;
+
+|
+
+(d)
+
+|
+
+monitoring, auditing and testing;
+
+|
+
+(e)
+
+|
+
+compliance with international standards.
+
+|
+
+2. Member States shall ensure that digital service providers take measures to prevent and minimise the impact of incidents affecting the security of their network and information systems on the services referred to in Annex III that are offered within the Union, with a view to ensuring the continuity of those services.
+
+3. Member States shall ensure that digital service providers notify the competent authority or the CSIRT without undue delay of any incident having a substantial impact on the provision of a service as referred to in Annex III that they offer within the Union. Notifications shall include information to enable the competent authority or the CSIRT to determine the significance of any cross-border impact. Notification shall not make the notifying party subject to increased liability.
+
+4. In order to determine whether the impact of an incident is substantial, the following parameters in particular shall be taken into account:
+
+(a)
+
+|
+
+the number of users affected by the incident, in particular users relying on the service for the provision of their own services;
+
+|
+
+(b)
+
+|
+
+the duration of the incident;
+
+|
+
+(c)
+
+|
+
+the geographical spread with regard to the area affected by the incident;
+
+|
+
+(d)
+
+|
+
+the extent of the disruption of the functioning of the service;
+
+|
+
+(e)
+
+|
+
+the extent of the impact on economic and societal activities.
+
+|
+
+The obligation to notify an incident shall only apply where the digital service provider has access to the information needed to assess the impact of an incident against the parameters referred to in the first subparagraph.
+
+5. Where an operator of essential services relies on a third-party digital service provider for the provision of a service which is essential for the maintenance of critical societal and economic activities, any significant impact on the continuity of the essential services due to an incident affecting the digital service provider shall be notified by that operator.
+
+6. Where appropriate, and in particular if the incident referred to in paragraph 3 concerns two or more Member States, the competent authority or the CSIRT shall inform the other affected Member States. In so doing, the competent authorities, CSIRTs and single points of contact shall, in accordance with Union law, or national legislation that complies with Union law, preserve the digital service provider's security and commercial interests as well as the confidentiality of the information provided.
+
+7. After consulting the digital service provider concerned, the competent authority or the CSIRT and, where appropriate, the authorities or the CSIRTs of other Member States concerned may inform the public about individual incidents or require the digital service provider to do so, where public awareness is necessary in order to prevent an incident or to deal with an ongoing incident, or where disclosure of the incident is otherwise in the public interest.
+
+8. The Commission shall adopt implementing acts in order to specify further the elements referred to in paragraph 1 and the parameters listed in paragraph 4 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22(2) by 9 August 2017.
+
+9. The Commission may adopt implementing acts laying down the formats and procedures applicable to notification requirements. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22(2).
+
+10. Without prejudice to Article 1(6), Member States shall not impose any further security or notification requirements on digital service providers.
+
+11. Chapter V shall not apply to micro- and small enterprises as defined in Commission Recommendation 2003/361/EC (19).
+
+Article 17
+
+Implementation and enforcement
+
+1. Member States shall ensure that the competent authorities take action, if necessary, through ex post supervisory measures, when provided with evidence that a digital service provider does not meet the requirements laid down in Article 16. Such evidence may be submitted by a competent authority of another Member State where the service is provided.
+
+2. For the purposes of paragraph 1, the competent authorities shall have the necessary powers and means to require digital service providers to:
+
+(a)
+
+|
+
+provide the information necessary to assess the security of their network and information systems, including documented security policies;
+
+|
+
+(b)
+
+|
+
+remedy any failure to meet the requirements laid down in Article 16.
+
+|
+
+3. If a digital service provider has its main establishment or a representative in a Member State, but its network and information systems are located in one or more other Member States, the competent authority of the Member State of the main establishment or of the representative and the competent authorities of those other Member States shall cooperate and assist each other as necessary. Such assistance and cooperation may cover information exchanges between the competent authorities concerned and requests to take the supervisory measures referred to in paragraph 2.
+
+Article 18
+
+Jurisdiction and territoriality
+
+1. For the purposes of this Directive, a digital service provider shall be deemed to be under the jurisdiction of the Member State in which it has its main establishment. A digital service provider shall be deemed to have its main establishment in a Member State when it has its head office in that Member State.
+
+2. A digital service provider that is not established in the Union, but offers services referred to in Annex III within the Union, shall designate a representative in the Union. The representative shall be established in one of those Member States where the services are offered. The digital service provider shall be deemed to be under the jurisdiction of the Member State where the representative is established.
+
+3. The designation of a representative by the digital service provider shall be without prejudice to legal actions which could be initiated against the digital service provider itself.
+
+CHAPTER VI
+
+STANDARDISATION AND VOLUNTARY NOTIFICATION
+
+Article 19
+
+Standardisation
+
+1. In order to promote convergent implementation of Article 14(1) and (2) and Article 16(1) and (2), Member States shall, without imposing or discriminating in favour of the use of a particular type of technology, encourage the use of European or internationally accepted standards and specifications relevant to the security of network and information systems.
+
+2. ENISA, in collaboration with Member States, shall draw up advice and guidelines regarding the technical areas to be considered in relation to paragraph 1 as well as regarding already existing standards, including Member States' national standards, which would allow for those areas to be covered.
+
+Article 20
+
+Voluntary notification
+
+1. Without prejudice to Article 3, entities which have not been identified as operators of essential services and are not digital service providers may notify, on a voluntary basis, incidents having a significant impact on the continuity of the services which they provide.
+
+2. When processing notifications, Member States shall act in accordance with the procedure set out in Article 14. Member States may prioritise the processing of mandatory notifications over voluntary notifications. Voluntary notifications shall only be processed where such processing does not constitute a disproportionate or undue burden on Member States concerned.
+
+Voluntary notification shall not result in the imposition upon the notifying entity of any obligations to which it would not have been subject had it not given that notification.
+
+CHAPTER VII
+
+FINAL PROVISIONS
+
+Article 21
+
+Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall, by 9 May 2018, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendment affecting them.
+
+Article 22
+
+Committee procedure
+
+1. The Commission shall be assisted by the Network and Information Systems Security Committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Article 23
+
+Review
+
+1. By 9 May 2019, the Commission shall submit a report to the European Parliament and to Council, assessing the consistency of the approach taken by Member States in the identification of the operators of essential services.
+
+2. The Commission shall periodically review the functioning of this Directive and report to the European Parliament and to the Council. For this purpose and with a view to further advancing the strategic and operational cooperation, the Commission shall take into account the reports of the Cooperation Group and the CSIRTs network on the experience gained at a strategic and operational level. In its review, the Commission shall also assess the lists contained in Annexes II and III, and the consistency in the identification of operators of essential services and services in the sectors referred to in Annex II. The first report shall be submitted by 9 May 2021.
+
+Article 24
+
+Transitional measures
+
+1. Without prejudice to Article 25 and with a view to providing Member States with additional possibilities for appropriate cooperation during the period of transposition, the Cooperation Group and the CSIRTs network shall begin to perform the tasks set out in Articles 11(3) and 12(3) respectively by 9 February 2017.
+
+2. For the period from 9 February 2017 to 9 November 2018, and for the purposes of supporting Member States in taking a consistent approach in the process of identification of operators of essential services, the Cooperation Group shall discuss the process, substance and type of national measures allowing for the identification of operators of essential services within a specific sector in accordance with the criteria set out in Articles 5 and 6. The Cooperation Group shall also discuss, at the request of a Member State, specific draft national measures of that Member State, allowing for the identification of operators of essential services within a specific sector in accordance with the criteria set out in Articles 5 and 6.
+
+3. By 9 February 2017 and for the purposes of this Article, Member States shall ensure appropriate representation in the Cooperation Group and the CSIRTs network.
+
+Article 25
+
+Transposition
+
+1. Member States shall adopt and publish, by 9 May 2018, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall immediately inform the Commission thereof.
+
+They shall apply those measures from 10 May 2018.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+Article 26
+
+Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Article 27
+
+Addressees
+
+This Directive is addressed to the Member States.
+
+Done at Strasbourg, 6 July 2016.
+
+For the European Parliament
+
+The President
+
+M. SCHULZ
+
+For the Council
+
+The President
+
+I. KORČOK
+
+(1)
+OJ C 271, 19.9.2013, p. 133.
+
+(2) Position of the European Parliament of 13 March 2014 (not yet published in the Official Journal) and position of the Council at first reading of 17 May 2016 (not yet published in the Official Journal). Position of the European Parliament of 6 July 2016 (not yet published in the Official Journal).
+
+(3) Directive 2002/21/EC of the European Parliament and of the Council of 7 March 2002 on a common regulatory framework for electronic communications networks and services (Framework Directive) (OJ L 108, 24.4.2002, p. 33).
+
+(4) Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73).
+
+(5) Council Decision 2013/488/EU of 23 September 2013 on the security rules for protecting EU classified information (OJ L 274, 15.10.2013, p. 1).
+
+(6)
+OJ C 352, 7.10.2014, p. 4.
+
+(7) Regulation (EU) No 526/2013 of the European Parliament and the Council of 21 May 2013 concerning the European Union Agency for Network and Information Security (ENISA) and repealing Regulation (EC) No 460/2004 (OJ L 165, 18.6.2013, p. 41).
+
+(8) Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council (OJ L 316, 14.11.2012, p. 12).
+
+(9) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).
+
+(10) Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, 23.11.1995, p. 31).
+
+(11) Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).
+
+(12) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43).
+
+(13)
+OJ C 32, 4.2.2014, p. 19.
+
+(14) Council Directive 2008/114/EC of 8 December 2008 on the identification and designation of European critical infrastructures and the assessment of the need to improve their protection (OJ L 345, 23.12.2008, p. 75).
+
+(15) Directive 2011/93/EU of the European Parliament and of the Council of 13 December 2011 on combating the sexual abuse and sexual exploitation of children and child pornography, and replacing Council Framework Decision 2004/68/JHA (OJ L 335, 17.12.2011, p. 1).
+
+(16) Directive 2013/40/EU of the European Parliament and of the Council of 12 August 2013 on attacks against information systems and replacing Council Framework Decision 2005/222/JHA (OJ L 218, 14.8.2013, p. 8).
+
+(17) Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (OJ L 241, 17.9.2015, p. 1).
+
+(18) Directive 2013/11/EU of the European Parliament and of the Council of 21 May 2013 on alternative dispute resolution for consumer disputes and amending Regulation (EC) No 2006/2004 and Directive 2009/22/EC (Directive on consumer ADR) (OJ L 165, 18.6.2013, p. 63).
+
+(19) Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium–sized enterprises (OJ L 124, 20.5.2003, p. 36).
+
+ANNEX I
+
+REQUIREMENTS AND TASKS OF COMPUTER SECURITY INCIDENT RESPONSE TEAMS (CSIRTs)
+
+The requirements and tasks of CSIRTs shall be adequately and clearly defined and supported by national policy and/or regulation. They shall include the following:
+
+(1)
+
+|
+
+Requirements for CSIRTs:
+
+(a)
+
+|
+
+CSIRTs shall ensure a high level of availability of their communications services by avoiding single points of failure, and shall have several means for being contacted and for contacting others at all times. Furthermore, the communication channels shall be clearly specified and well known to the constituency and cooperative partners.
+
+|
+
+(b)
+
+|
+
+CSIRTs' premises and the supporting information systems shall be located in secure sites.
+
+|
+
+(c)
+
+|
+
+Business continuity:
+
+(i)
+
+|
+
+CSIRTs shall be equipped with an appropriate system for managing and routing requests, in order to facilitate handovers.
+
+|
+
+(ii)
+
+|
+
+CSIRTs shall be adequately staffed to ensure availability at all times.
+
+|
+
+(iii)
+
+|
+
+CSIRTs shall rely on an infrastructure the continuity of which is ensured. To that end, redundant systems and backup working space shall be available.
+
+|
+
+|
+
+(d)
+
+|
+
+CSIRTs shall have the possibility to participate, where they wish to do so, in international cooperation networks.
+
+|
+
+|
+
+(2)
+
+|
+
+CSIRTs' tasks:
+
+(a)
+
+|
+
+CSIRTs' tasks shall include at least the following:
+
+(i)
+
+|
+
+monitoring incidents at a national level;
+
+|
+
+(ii)
+
+|
+
+providing early warning, alerts, announcements and dissemination of information to relevant stakeholders about risks and incidents;
+
+|
+
+(iii)
+
+|
+
+responding to incidents;
+
+|
+
+(iv)
+
+|
+
+providing dynamic risk and incident analysis and situational awareness;
+
+|
+
+(v)
+
+|
+
+participating in the CSIRTs network.
+
+|
+
+|
+
+(b)
+
+|
+
+CSIRTs shall establish cooperation relationships with the private sector.
+
+|
+
+(c)
+
+|
+
+To facilitate cooperation, CSIRTs shall promote the adoption and use of common or standardised practices for:
+
+(i)
+
+|
+
+incident and risk-handling procedures;
+
+|
+
+(ii)
+
+|
+
+incident, risk and information classification schemes.
+
+|
+
+|
+
+|
+
+ANNEX II
+
+TYPES OF ENTITIES FOR THE PURPOSES OF POINT (4) OF ARTICLE 4
+
+Sector
+
+|
+
+Subsector
+
+|
+
+Type of entity
+
+|
+
+1.
+
+|
+
+Energy
+
+|
+
+|
+
+(a)
+
+|
+
+Electricity
+
+|
+
+|
+
+—
+
+|
+
+Electricity undertakings as defined in point (35) of Article 2 of Directive 2009/72/EC of the European Parliament and of the Council (1), which carry out the function of ‘supply’ as defined in point (19) of Article 2 of that Directive
+
+|
+
+|
+
+—
+
+|
+
+Distribution system operators as defined in point (6) of Article 2 of Directive 2009/72/EC
+
+|
+
+|
+
+—
+
+|
+
+Transmission system operators as defined in point (4) of Article 2 of Directive 2009/72/EC
+
+|
+
+|
+
+(b)
+
+|
+
+Oil
+
+|
+
+|
+
+—
+
+|
+
+Operators of oil transmission pipelines
+
+|
+
+|
+
+—
+
+|
+
+Operators of oil production, refining and treatment facilities, storage and transmission
+
+|
+
+|
+
+(c)
+
+|
+
+Gas
+
+|
+
+|
+
+—
+
+|
+
+Supply undertakings as defined in point (8) of Article 2 of Directive 2009/73/EC of the European Parliament and of the Council (2)
+
+|
+
+|
+
+—
+
+|
+
+Distribution system operators as defined in point (6) of Article 2 of Directive 2009/73/EC
+
+|
+
+|
+
+—
+
+|
+
+Transmission system operators as defined in point (4) of Article 2 of Directive 2009/73/EC
+
+|
+
+|
+
+—
+
+|
+
+Storage system operators as defined in point (10) of Article 2 of Directive 2009/73/EC
+
+|
+
+|
+
+—
+
+|
+
+LNG system operators as defined in point (12) of Article 2 of Directive 2009/73/EC
+
+|
+
+|
+
+—
+
+|
+
+Natural gas undertakings as defined in point (1) of Article 2 of Directive 2009/73/EC
+
+|
+
+|
+
+—
+
+|
+
+Operators of natural gas refining and treatment facilities
+
+|
+
+|
+
+2.
+
+|
+
+Transport
+
+|
+
+|
+
+(a)
+
+|
+
+Air transport
+
+|
+
+|
+
+—
+
+|
+
+Air carriers as defined in point (4) of Article 3 of Regulation (EC) No 300/2008 of the European Parliament and of the Council (3)
+
+|
+
+|
+
+—
+
+|
+
+Airport managing bodies as defined in point (2) of Article 2 of Directive 2009/12/EC of the European Parliament and of the Council (4), airports as defined in point (1) of Article 2 of that Directive, including the core airports listed in Section 2 of Annex II to Regulation (EU) No 1315/2013 of the European Parliament and of the Council (5), and entities operating ancillary installations contained within airports
+
+|
+
+|
+
+—
+
+|
+
+Traffic management control operators providing air traffic control (ATC) services as defined in point (1) of Article 2 of Regulation (EC) No 549/2004 of the European Parliament and of the Council (6)
+
+|
+
+|
+
+(b)
+
+|
+
+Rail transport
+
+|
+
+|
+
+—
+
+|
+
+Infrastructure managers as defined in point (2) of Article 3 of Directive 2012/34/EU of the European Parliament and of the Council (7)
+
+|
+
+|
+
+—
+
+|
+
+Railway undertakings as defined in point (1) of Article 3 of Directive 2012/34/EU, including operators of service facilities as defined in point (12) of Article 3 of Directive 2012/34/EU
+
+|
+
+|
+
+(c)
+
+|
+
+Water transport
+
+|
+
+|
+
+—
+
+|
+
+Inland, sea and coastal passenger and freight water transport companies, as defined for maritime transport in Annex I to Regulation (EC) No 725/2004 of the European Parliament and of the Council (8), not including the individual vessels operated by those companies
+
+|
+
+|
+
+—
+
+|
+
+Managing bodies of ports as defined in point (1) of Article 3 of Directive 2005/65/EC of the European Parliament and of the Council (9), including their port facilities as defined in point (11) of Article 2 of Regulation (EC) No 725/2004, and entities operating works and equipment contained within ports
+
+|
+
+|
+
+—
+
+|
+
+Operators of vessel traffic services as defined in point (o) of Article 3 of Directive 2002/59/EC of the European Parliament and of the Council (10)
+
+|
+
+|
+
+(d)
+
+|
+
+Road transport
+
+|
+
+|
+
+—
+
+|
+
+Road authorities as defined in point (12) of Article 2 of Commission Delegated Regulation (EU) 2015/962 (11) responsible for traffic management control
+
+|
+
+|
+
+—
+
+|
+
+Operators of Intelligent Transport Systems as defined in point (1) of Article 4 of Directive 2010/40/EU of the European Parliament and of the Council (12)
+
+|
+
+|
+
+3.
+
+|
+
+Banking
+
+|
+
+|
+
+|
+
+Credit institutions as defined in point (1) of Article 4 of Regulation (EU) No 575/2013 of the European Parliament and of the Council (13)
+
+|
+
+4.
+
+|
+
+Financial market infrastructures
+
+|
+
+|
+
+|
+
+—
+
+|
+
+Operators of trading venues as defined in point (24) of Article 4 of Directive 2014/65/EU of the European Parliament and of the Council (14)
+
+|
+
+|
+
+—
+
+|
+
+Central counterparties (CCPs) as defined in point (1) of Article 2 of Regulation (EU) No 648/2012 of the European Parliament and of the Council (15)
+
+|
+
+|
+
+5.
+
+|
+
+Health sector
+
+|
+
+|
+
+Health care settings (including hospitals and private clinics)
+
+|
+
+Healthcare providers as defined in point (g) of Article 3 of Directive 2011/24/EU of the European Parliament and of the Council (16)
+
+|
+
+6.
+
+|
+
+Drinking water supply and distribution
+
+|
+
+|
+
+|
+
+Suppliers and distributors of water intended for human consumption as defined in point (1)(a) of Article 2 of Council Directive 98/83/EC (17) but excluding distributors for whom distribution of water for human consumption is only part of their general activity of distributing other commodities and goods which are not considered essential services
+
+|
+
+7.
+
+|
+
+Digital Infrastructure
+
+|
+
+|
+
+|
+
+—
+
+|
+
+IXPs
+
+|
+
+|
+
+—
+
+|
+
+DNS service providers
+
+|
+
+|
+
+—
+
+|
+
+TLD name registries
+
+|
+
+|
+
+(1) Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC (OJ L 211, 14.8.2009, p. 55).
+
+(2) Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in natural gas and repealing Directive 2003/55/EC (OJ L 211, 14.8.2009, p. 94).
+
+(3) Regulation (EC) No 300/2008 of the European Parliament and of the Council of 11 March 2008 on common rules in the field of civil aviation security and repealing Regulation (EC) No 2320/2002 (OJ L 97, 9.4.2008, p. 72).
+
+(4) Directive 2009/12/EC of the European Parliament and of the Council of 11 March 2009 on airport charges (OJ L 70, 14.3.2009, p. 11).
+
+(5) Regulation (EU) No 1315/2013 of the European Parliament and of the Council of 11 December 2013 on Union guidelines for the development of the trans–European transport network and repealing Decision No 661/2010/EU (OJ L 348, 20.12.2013, p. 1).
+
+(6) Regulation (EC) No 549/2004 of the European Parliament and of the Council of 10 March 2004 laying down the framework for the creation of the single European sky (the framework Regulation) (OJ L 96, 31.3.2004, p. 1).
+
+(7) Directive 2012/34/EU of the European Parliament and of the Council of 21 November 2012 establishing a single European railway area (OJ L 343, 14.12.2012, p. 32).
+
+(8) Regulation (EC) No 725/2004 of the European Parliament and of the Council of 31 March 2004 on enhancing ship and port facility security (OJ L 129, 29.4.2004, p. 6).
+
+(9) Directive 2005/65/EC of the European Parliament and of the Council of 26 October 2005 on enhancing port security (OJ L 310, 25.11.2005, p. 28).
+
+(10) Directive 2002/59/EC of the European Parliament and of the Council of 27 June 2002 establishing a Community vessel traffic monitoring and information system and repealing Council Directive 93/75/EEC (OJ L 208, 5.8.2002, p. 10).
+
+(11) Commission Delegated Regulation (EU) 2015/962 of 18 December 2014 supplementing Directive 2010/40/EU of the European Parliament and of the Council with regard to the provision of EU–wide real–time traffic information services (OJ L 157, 23.6.2015, p. 21).
+
+(12) Directive 2010/40/EU of the European Parliament and of the Council of 7 July 2010 on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport (OJ L 207, 6.8.2010, p. 1).
+
+(13) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).
+
+(14) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+(15) Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1).
+
+(16) Directive 2011/24/EU of the European Parliament and of the Council of 9 March 2011 on the application of patients' rights in cross–border healthcare (OJ L 88, 4.4.2011, p. 45).
+
+(17) Council Directive 98/83/EC of 3 November 1998 on the quality of water intended for human consumption (OJ L 330, 5.12.1998, p. 32).
+
+ANNEX III
+
+TYPES OF DIGITAL SERVICES FOR THE PURPOSES OF POINT (5) OF ARTICLE 4
+
+1.
+
+|
+
+Online marketplace.
+
+|
+
+2.
+
+|
+
+Online search engine.
+
+|
+
+3.
+
+|
+
+Cloud computing service.
+
+|

@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { BookMarked, ExternalLink, Search } from 'lucide-react';
 import type {
   CatalogueInstrument,
@@ -21,6 +21,40 @@ const STATUS_META: Record<InstrumentStatus, { label: string; classes: string }> 
   invalidated: { label: 'Invalidated / enjoined', classes: 'bg-rose-500/15 text-rose-300 border-rose-500/40' },
 };
 
+interface SourceTextEntry {
+  status: 'fetched' | 'blocked' | 'failed' | 'no-source';
+  file?: string;
+  chars?: number;
+  contentCheck?: 'match' | 'mismatch' | 'unchecked';
+  retrievedAt?: string;
+  note?: string;
+  error?: string;
+}
+
+const SOURCE_BASE = '/source-texts/';
+
+/** Provenance manifest written by scripts/fetch-sources.mjs; absent when no texts are bundled. */
+function useSourceManifest(): Record<string, SourceTextEntry> {
+  const [entries, setEntries] = useState<Record<string, SourceTextEntry>>({});
+  useEffect(() => {
+    let live = true;
+    (async () => {
+      try {
+        const res = await fetch(`${SOURCE_BASE}manifest.json`);
+        if (!res.ok) return;
+        const json = (await res.json()) as { entries?: Record<string, SourceTextEntry> };
+        if (live && json.entries) setEntries(json.entries);
+      } catch {
+        /* no manifest available: render without source-text links */
+      }
+    })();
+    return () => {
+      live = false;
+    };
+  }, []);
+  return entries;
+}
+
 export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> = ({
   instruments,
   onOpenTranslatedLaw,
@@ -28,6 +62,7 @@ export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> =
   const [query, setQuery] = useState('');
   const [category, setCategory] = useState<InstrumentCategory | 'all'>('all');
   const [jurisdiction, setJurisdiction] = useState<string>('all');
+  const sources = useSourceManifest();
 
   const categories = useMemo(
     () => Array.from(new Set(instruments.map((i) => i.category))).sort(),
@@ -160,6 +195,36 @@ export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> =
                 )}
               </div>
               {i.statusNote && <p className="mt-1.5 text-amber-300/80">{i.statusNote}</p>}
+              {(() => {
+                const src = sources[i.id];
+                if (!src) return null;
+                if (src.status === 'fetched' && src.file) {
+                  return (
+                    <p className="mt-1.5 text-slate-400">
+                      <a
+                        href={`${SOURCE_BASE}${src.file}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        data-testid={`source-text-${i.id}`}
+                        className="text-cyan-300 underline decoration-cyan-500/40 underline-offset-2 hover:text-cyan-200"
+                      >
+                        Source text
+                      </a>{' '}
+                      ({Math.round((src.chars ?? 0) / 1000).toLocaleString()}k characters, retrieved{' '}
+                      {src.retrievedAt?.slice(0, 10)})
+                      {src.contentCheck === 'mismatch' && (
+                        <span className="ml-1 text-amber-300">content check failed: verify it is the right document</span>
+                      )}
+                      {src.note && <span className="block text-slate-500">{src.note}</span>}
+                    </p>
+                  );
+                }
+                return (
+                  <p className="mt-1.5 text-slate-500">
+                    Source text not bundled{src.note ? `: ${src.note}` : src.error ? `: ${src.error}` : '.'}
+                  </p>
+                );
+              })()}
             </li>
           );
         })}

@@ -1,0 +1,535 @@
+28.7.2023
+
+|
+
+EN
+
+|
+
+Official Journal of the European Union
+
+|
+
+L 191/181
+
+|
+
+DIRECTIVE (EU) 2023/1544 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+of 12 July 2023
+
+laying down harmonised rules on the designation of designated establishments and the appointment of legal representatives for the purpose of gathering electronic evidence in criminal proceedings
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Articles 53 and 62 thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee (1),
+
+Acting in accordance with the ordinary legislative procedure (2),
+
+Whereas:
+
+(1)
+
+|
+
+Network-based services can be provided from anywhere and do not require physical infrastructure, premises or staff in the country where the relevant service is offered, or in the internal market itself. As a consequence, it can be difficult to apply and enforce obligations laid down in national and Union law which apply to the service providers concerned, in particular the obligation to comply with an order or a decision by a judicial authority. This is the case in particular in criminal law, where Member States’ authorities face difficulties with serving, ensuring compliance with and enforcing their decisions, in particular where relevant services are provided from a location outside their territory. Against that background, Member States have taken a variety of disparate measures to more effectively apply and enforce their legislation. This includes measures for addressing service providers to obtain electronic evidence that is of relevance to criminal proceedings. To that end, some Member States have adopted, or are considering adopting, legislation imposing mandatory legal representation within their own territory, for a number of service providers offering services in that territory. Such requirements create obstacles to the free provision of services within the internal market.
+
+|
+
+(2)
+
+|
+
+There is a risk that, in the absence of a Union-wide approach, Member States will try to overcome existing shortcomings related to gathering electronic evidence in criminal proceedings by imposing disparate national obligations. Such disparate national obligations would create further obstacles to the free provision of services within the internal market.
+
+|
+
+(3)
+
+|
+
+The absence of a Union-wide approach results in legal uncertainty affecting both service providers and national authorities. Disparate and possibly conflicting obligations apply to service providers established or offering services in different Member States, which results in such service providers being subject to different penalties in the event of violations. Such divergences in the framework for criminal proceedings will likely further expand because of the growing importance of communication and information society services in our daily lives and our societies. Such divergences not only represent an obstacle to the proper functioning of the internal market, but also entail problems for the establishment and correct functioning of the Union’s area of freedom, security and justice.
+
+|
+
+(4)
+
+|
+
+To avoid divergences in the legal framework and to ensure that undertakings active in the internal market are subject to the same or similar obligations, the Union has adopted a number of legal acts in related fields such as data protection, namely Regulation (EU) 2016/679 of the European Parliament and of the Council (3) and Directive 2002/58/EC of the European Parliament and of the Council (4). To increase the level of protection for the data subjects, Regulation (EU) 2016/679 provides for the designation of a legal representative in the Union by controllers or processors that are not established in the Union but offer goods or services to data subjects in the Union or monitor the behaviour of data subjects if their behaviour takes place within the Union, unless the processing of data is occasional, does not include processing, on a large scale, of special categories of personal data or the processing of personal data relating to criminal convictions and offences, and is unlikely to result in a risk to the rights and freedoms of natural persons, taking into account the nature, context, scope and purposes of the processing or if the controller or processor is a public authority or body.
+
+|
+
+(5)
+
+|
+
+By setting out harmonised rules on the designation of designated establishments and the appointment of legal representatives of certain service providers in the Union for receipt of, compliance with and enforcement of decisions and orders issued by competent authorities of the Member States, for the purposes of gathering electronic evidence in criminal proceedings, the existing obstacles to the free provision of services should be removed, and the imposition of divergent national approaches in that regard, in the future, should be prevented. A level playing field for service providers should therefore be established. Depending on whether service providers are or are not established in the Union, Member States should ensure that service providers designate a designated establishment or appoint a legal representative. Those harmonised rules on the designation of designated establishments and the appointment of legal representatives should not affect the obligations on service providers under other Union legislation. Moreover, more effective criminal law enforcement in the Union’s area of freedom, security and justice should be facilitated.
+
+|
+
+(6)
+
+|
+
+The designated establishments and legal representatives provided for in this Directive should serve as addressees for decisions and orders for the purpose of gathering electronic evidence on the basis of Regulation (EU) 2023/1543 of the European Parliament and of the Council (5), of Directive 2014/41/EU of the European Parliament and of the Council (6) and of the Convention established by the Council in accordance with Article 34 of the Treaty on the European Union, on Mutual Assistance in Criminal Matters between Member States of the European Union (7), including where those decisions and orders are transmitted in the form of a certificate.
+
+Recourse to the designated establishment or the legal representative should be in accordance with the procedures set out in the instruments and legislation applicable to the judicial proceedings, including where the instruments permit the direct serving of orders in cross-border situations on the designated establishment or legal representative of the service provider, or are based on cooperation between competent judicial authorities. The competent authorities of the Member State where the designated establishment is established or the legal representative resides should act in accordance with the role set out for them in the respective instrument where involvement is provided for. Member States should also be able to address decisions and orders for the purpose of gathering electronic evidence on the basis of national law to a natural or legal person acting as legal representative or designated establishment of a service provider on their territory.
+
+|
+
+(7)
+
+|
+
+Member States should ensure that service providers that offer services in the Union on 18 February 2026 have the obligation to designate at least one designated establishment or to appoint at least one legal representative by 18 August 2026 and that service providers that start offering services in the Union after that date designate at least one designated establishment or appoint at least one legal representative within six months of the date when they start offering services in the Union. Without prejudice to data protection safeguards, such designated establishment or legal representative could be shared between several service providers, in particular by service providers that are small or medium-sized enterprises.
+
+|
+
+(8)
+
+|
+
+The obligation to designate a designated establishment or to appoint a legal representative should apply to service providers that offer services in the Union, meaning in one or more Member States. Situations in which a service provider is established on the territory of a Member State and offers services exclusively on the territory of that Member State should not be covered by this Directive.
+
+|
+
+(9)
+
+|
+
+For the purpose of gathering electronic evidence in criminal proceedings, Member States should be able to continue addressing service providers established on their territory for purely domestic situations in accordance with Union law and their respective national law. Notwithstanding the possibilities currently provided for in domestic law to address service providers on their own territory, Member States should not circumvent the principles underlying this Directive or Regulation (EU) 2023/1543.
+
+|
+
+(10)
+
+|
+
+Determining whether a service provider offers services in the Union requires an assessment as to whether the service provider enables natural or legal persons in one or more Member States to use its services. However, the mere accessibility of an online interface in the Union, such as for instance the accessibility of a website or an e-mail address or other contact details of a service provider or an intermediary, taken in isolation, should be considered insufficient to determine that a service provider offers services in the Union within the meaning of this Directive.
+
+|
+
+(11)
+
+|
+
+Determining whether a service provider offers services in the Union requires, in addition to assessing whether the service provider enables natural or legal persons in one or more Member States to use its services, establishing whether there is a substantial connection to the Union. Such a substantial connection to the Union should be considered to exist where the service provider has an establishment in the Union. In the absence of such an establishment, the criterion of a substantial connection should be based on specific factual criteria such as the existence of a significant number of users in one or more Member States, or the targeting of activities towards one or more Member States. The targeting of activities towards one or more Member States should be determined on the basis of all relevant circumstances, including factors such as the use of a language or a currency generally used in that Member State, or the possibility of ordering goods or services.
+
+The targeting of activities towards a Member State could also be derived from the availability of an application (‘app’) in the relevant national app store, from the provision of local advertising or advertising in the language generally used in that Member State, or from the handling of customer relations, such as by the provision of customer service in the language generally used in that Member State. A substantial connection should also be considered to exist where a service provider directs its activities towards one or more Member States as set out in Regulation (EU) No 1215/2012 of the European Parliament and of the Council (8). On the other hand, provision of a service for the purpose of mere compliance with the prohibition of discrimination laid down in Regulation (EU) 2018/302 of the European Parliament and of the Council (9) should not, without additional grounds, be considered as directing or targeting activities towards a given territory within the Union. The same considerations should apply when determining whether a service provider offers services in the territory of a Member State.
+
+|
+
+(12)
+
+|
+
+Different instruments falling within the scope of Title V, Chapter 4, of the Treaty on the Functioning of the European Union apply to the cooperation between Member States when gathering evidence in criminal proceedings. As a consequence of the variable geometry that exists in the Union’s area of freedom, security and justice, there is a need to ensure that this Directive does not facilitate the creation of further disparities or obstacles to the provision of services in the internal market by allowing service providers offering services on the territory of Member States to designate designated establishments or appoint legal representatives within Member States that do not take part in the relevant legal instruments. Therefore, at least one designated establishment or legal representative should be designated or appointed in a Member State that participates in the relevant Union legal instruments to avoid the risk of weakening the effectiveness of the designation or appointment provided for in this Directive and to make use of the synergies of having a designated establishment or a legal representative for the receipt of, compliance with and enforcement of decisions and orders falling within the scope of this Directive, including under Regulation (EU) 2023/1543, Directive 2014/41/EU and the Convention established by the Council in accordance with Article 34 of the Treaty on the European Union, on Mutual Assistance in Criminal Matters between Member States of the Union. In addition, designating a designated establishment or appointing a legal representative, which could also be utilised to ensure compliance with national legal obligations, would make it possible to benefit from the synergies of having a clear point of access to address service providers for the purpose of gathering evidence in criminal proceedings.
+
+|
+
+(13)
+
+|
+
+Service providers should be free to choose in which Member State they designate their designated establishment or, where applicable, appoint their legal representative, and Member States should not be able to restrict that freedom of choice, for example by imposing an obligation to designate the designated establishment or to appoint the legal representative on their territory. However, this Directive should also provide for certain restrictions with regard to that freedom of choice of service providers, in particular concerning the fact that the designated establishment should be established, or where applicable, the legal representative should reside, in a Member State where the service provider provides services or is established, as well as provide for an obligation to designate a designated establishment or to appoint a legal representative in one of the Member States participating in a legal instrument referred to in this Directive. The sole appointment of a legal representative should not be considered to constitute establishment of the service provider.
+
+|
+
+(14)
+
+|
+
+The service providers most relevant for gathering evidence in criminal proceedings are providers of electronic communications services and specific providers of information society services that facilitate interaction between users. Thus, both groups should be covered by this Directive. Electronic communication services are defined in Directive (EU) 2018/1972 of the European Parliament and of the Council (10) and include inter-personal communications services such as voice-over-IP, instant messaging and e-mail services. This Directive should also be applicable to information society service providers within the meaning of Directive (EU) 2015/1535 of the European Parliament and of the Council (11) that do not qualify as electronic communications service providers, but offer their users the ability to communicate with each other or offer their users services that can be used to store or otherwise process data on their behalf. This would be in line with the terms used in the Council of Europe Convention on Cybercrime (ETS No 185), done at Budapest on 23 November 2001, also referred to as the Budapest Convention. Processing of data should be understood in a technical sense, meaning the creation or manipulation of data, that is to say technical operations to produce or alter data by means of computer processing power.
+
+The categories of service providers covered by this Directive should include, for example, online marketplaces providing consumers and businesses with the ability to communicate with each other and other hosting services, including where the service is provided via cloud computing, as well as online gaming platforms and online gambling platforms. Where an information society service provider does not provide its users with the ability to communicate with each other, but only with the service provider, or does not provide the ability to store or otherwise process data, or where the storage of data is not a defining component, that is, an essential part, of the service provided to users, such as legal, architectural engineering and accounting services provided online at a distance, it should not fall within the scope of the definition of ‘service provider’ laid down in this Directive, even if the services provided by that service provider are information society services within the meaning of Directive (EU) 2015/1535.
+
+|
+
+(15)
+
+|
+
+Providers of internet infrastructure services related to the assignment of names and numbers, such as domain name registries and registrars and privacy and proxy service providers or regional internet registries for internet protocol (‘IP’) addresses, are of particular relevance when it comes to the identification of actors behind malicious or compromised websites. They hold data that could make the identification of an individual or entity behind a website used in a criminal activity, or the victim of a criminal activity, possible.
+
+|
+
+(16)
+
+|
+
+Member States should ensure that service providers established or offering services on their territory provide their designated establishments and legal representatives with the necessary powers and resources to comply with decisions and orders falling within the scope of this Directive, received from any Member State. Member States should also verify that the designated establishments or legal representatives residing on their territory have received from the service providers the necessary powers and resources to comply with decisions and orders falling within the scope of this Directive, received from any Member State, and that they cooperate with the competent authorities when receiving such decisions and orders, in accordance with the applicable legal framework. The absence of such measures or shortcomings in those measures should not serve as grounds to justify non-compliance with decisions or orders falling within the scope of this Directive.
+
+In addition, service providers should not be able to justify their non-compliance with obligations deriving from the applicable legal framework upon the receipt of decisions or orders falling within the scope of this Directive on the grounds of the lack of, or of ineffective, internal procedures, as they are responsible for providing the necessary resources and powers to guarantee compliance with such decisions and orders. Designated establishments or legal representatives should also not be able to justify such non-compliance by claiming, for example, that they are not empowered to deliver data. To that end, Member States should ensure that both the designated establishment or the legal representative and the service provider can be held jointly and severally liable for non-compliance with obligations deriving from the applicable legal framework upon the receipt of decisions and orders falling within the scope of this Directive, so that each of them can be subject to penalties for non-compliance by any of them. In particular, it should not be possible for the service provider or the designated establishment, or the legal representative where applicable, to use the lack of appropriate internal procedures between the service provider and the designated establishment or the legal representative as a justification for non-compliance with those obligations. Joint and several liability should not apply for actions or omissions of either the service provider or the designated establishment, or the legal representative where applicable, which constitute a criminal offence in the Member State applying the penalties.
+
+|
+
+(17)
+
+|
+
+Member States should ensure that each service provider established or offering services on their territory notifies in writing the central authority, as designated pursuant to this Directive, of the Member State where its designated establishment is established or its legal representative resides, of the contact details for that designated establishment or legal representative, and of any changes thereto. The notification should also provide information about the languages in which the designated establishment or the legal representative can be addressed, which should include one or more of the official languages as laid down in the national law of the Member State where the designated establishment is established or the legal representative resides, but can also include other official languages of the Union, such as the language of the Member State where their headquarters are located. Where a service provider designates several designated establishments or appoints several legal representatives in accordance with this Directive, Member States should ensure that such service provider indicates, for each designated establishment or legal representative, the precise territorial scope of its designation or appointment. The territory of all the Member States taking part in the instruments within the scope of this Directive should be covered. Member States should ensure that their respective competent authorities address all their decisions and orders pursuant to this Directive to the indicated designated establishment or legal representative of the service provider. Member States should ensure that the information notified to them in accordance with this Directive is publicly available on a dedicated web page of the European Judicial Network in criminal matters to facilitate coordination between Member States and the recourse to the designated establishment or legal representative by authorities from another Member State. Member States should ensure that such information is regularly updated. It should also be possible to further disseminate the information to facilitate access to that information by competent authorities, such as via dedicated intranet sites or forums and platforms.
+
+|
+
+(18)
+
+|
+
+Member States should lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to this Directive and should take all measures necessary to ensure that they are implemented. The penalties provided for should be effective, proportionate and dissuasive. Member States should, by the date set out in this Directive, notify the Commission of those rules and of those measures and should notify it, without delay, of any subsequent amendment affecting them. Member States should also inform the Commission on an annual basis about non-compliant service providers, relevant enforcement action taken against them and the penalties imposed. Under no circumstances should the penalties result in a ban, be it permanent or temporary, of the provision of services. Member States should coordinate their enforcement actions where a service provider offers services in several Member States. Central authorities should coordinate to ensure a coherent and proportionate approach. The Commission should facilitate such coordination if necessary, and should, in any event, be informed of cases of infringement. This Directive does not govern the contractual arrangements for transfer or shifting of financial consequences between service providers, designated establishments and legal representatives of penalties imposed upon them.
+
+|
+
+(19)
+
+|
+
+When determining the appropriate penalties applicable to infringements by service providers, the competent authorities should take into account all relevant circumstances, such as the financial capacity of the service provider, the nature, gravity and duration of the infringement, whether it was committed intentionally or through negligence and whether the service provider was held responsible for similar previous infringements. Particular attention should, in this respect, be given to microenterprises.
+
+|
+
+(20)
+
+|
+
+This Directive is without prejudice to the powers of national authorities in civil or administrative proceedings, including where such proceedings can lead to penalties.
+
+|
+
+(21)
+
+|
+
+In order to ensure that this Directive is applied in a consistent manner, additional mechanisms for the coordination between Member States should be put in place. For that purpose, Member States should designate one or more central authorities that can provide central authorities in other Member States with information and assistance in the application of this Directive, in particular where enforcement actions under this Directive are considered. That coordination mechanism should ensure that relevant Member States are informed of the intention of a Member State to undertake an enforcement action. In addition, Member States should ensure that central authorities are able to provide each other with any relevant information and with assistance in those circumstances, and cooperate with each other where relevant. Cooperation amongst central authorities in the case of an enforcement action could entail the coordination of an enforcement action between competent authorities in different Member States. Such cooperation should aim to avoid positive or negative conflicts of competence. For the coordination of an enforcement action, central authorities should also involve the Commission where relevant. The obligation of those authorities to cooperate should not prejudice the right of an individual Member State to impose penalties on service providers that fail to comply with their obligations under this Directive. The designation and publication of information about central authorities would facilitate the notification by service providers of the designation and contact details of their designated establishment or legal representative to the Member State where their designated establishment is established or legal representative resides. To that end, Member States should inform the Commission of their designated central authority or authorities, and the Commission should forward a list of designated central authorities to the Member States and make it publicly available.
+
+|
+
+(22)
+
+|
+
+Since the objective of this Directive, namely to remove obstacles to the free provision of services in the framework of gathering electronic evidence in criminal proceedings, cannot be sufficiently achieved by the Member States, but can rather, by reason of the borderless nature of such services, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Directive does not go beyond what is necessary in order to achieve that objective.
+
+|
+
+(23)
+
+|
+
+The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European Parliament and of the Council (12) and delivered an opinion on 6 November 2019 (13).
+
+|
+
+(24)
+
+|
+
+The Commission should carry out an evaluation of this Directive that should be based on the five criteria of efficiency, effectiveness, relevance, coherence and EU added value, and that evaluation should provide the basis for impact assessments of possible further measures. The evaluation should be completed by 18 August 2029, to allow for the gathering of sufficient data on its practical implementation. Information should be collected regularly in order to inform the evaluation of this Directive,
+
+|
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+Subject matter and scope
+
+1. This Directive lays down the rules on the designation of designated establishments and the appointment of legal representatives of certain service providers that offer services in the Union, for the receipt of, compliance with and enforcement of decisions and orders issued by competent authorities of the Member States, for the purposes of gathering electronic evidence in criminal proceedings.
+
+2. This Directive applies to decisions and orders for the purpose of gathering electronic evidence on the basis of Regulation (EU) 2023/1543, Directive 2014/41/EU and of the Convention established by the Council in accordance with Article 34 of the Treaty on European Union, on Mutual Assistance in Criminal Matters between Member States of the Union. This Directive equally applies to decisions and orders for the purpose of gathering electronic evidence on the basis of national law addressed by a Member State to a natural or legal person acting as legal representative or designated establishment of a service provider on the territory of that Member State.
+
+3. This Directive is without prejudice to the powers of national authorities in accordance with Union and national law to address service providers established on their territory directly, for the purposes of gathering electronic evidence in criminal proceedings.
+
+4. Member States shall not impose on service providers obligations additional to those deriving from this Directive, in particular with regard to the designation of designated establishments or the appointment of legal representatives, for the purposes set out in paragraph 1.
+
+5. This Directive applies to service providers as defined in Article 2, point (1), that offer their services in the Union. It does not apply to service providers established on the territory of a single Member State that offer services exclusively on the territory of that Member State.
+
+Article 2
+
+Definitions
+
+For the purpose of this Directive, the following definitions apply:
+
+(1)
+
+|
+
+‘service provider’ means any natural or legal person that provides one or more of the following categories of services, with the exception of financial services referred to in Article 2(2), point (b), of Directive 2006/123/EC of the European Parliament and of the Council (14):
+
+(a)
+
+|
+
+electronic communications services as defined in Article 2, point (4), of Directive (EU) 2018/1972;
+
+|
+
+(b)
+
+|
+
+internet domain name and IP numbering services, such as IP address assignment, domain name registry, domain name registrar and domain name-related privacy and proxy services;
+
+|
+
+(c)
+
+|
+
+other information society services as referred to in Article 1(1), point (b), of Directive (EU) 2015/1535 that:
+
+(i)
+
+|
+
+enable their users to communicate with each other; or
+
+|
+
+(ii)
+
+|
+
+make it possible to store or otherwise process data on behalf of the users to whom the service is provided, provided that the storage of data is a defining component of the service provided to the user;
+
+|
+
+|
+
+|
+
+(2)
+
+|
+
+‘offering services on the territory of a Member State’ means:
+
+(a)
+
+|
+
+enabling natural or legal persons in a Member State to use the services listed in point (1); and
+
+|
+
+(b)
+
+|
+
+having a substantial connection, based on specific factual criteria, to the Member State referred to in point (a); such a substantial connection is to be considered to exist where the service provider has an establishment in that Member State, or, in the absence of such an establishment, where there is a significant number of users in that Member State, or where there is targeting of activities towards that Member State;
+
+|
+
+|
+
+(3)
+
+|
+
+‘offering services in the Union’ means:
+
+(a)
+
+|
+
+enabling natural or legal persons in a Member State to use the services listed in point (1); and
+
+|
+
+(b)
+
+|
+
+having a substantial connection, based on specific factual criteria, to the Member State referred to in point (a); such a substantial connection is to be considered to exist where the service provider has an establishment in a Member State, or, in the absence of such an establishment, where there is a significant number of users in one or more Member States, or where there is targeting of activities towards one or more Member States;
+
+|
+
+|
+
+(4)
+
+|
+
+‘establishment’ means an entity that actually pursues an economic activity for an indefinite period through a stable infrastructure from where the business of providing services is carried out or the business is managed;
+
+|
+
+(5)
+
+|
+
+‘designated establishment’ means an establishment with legal personality designated in writing by a service provider established in a Member State taking part in a legal instrument referred to in Article 1(2), for the purposes referred to in Article 1(1) and Article 3(1);
+
+|
+
+(6)
+
+|
+
+‘legal representative’ means a natural or legal person appointed in writing by a service provider not established in a Member State taking part in a legal instrument referred to in Article 1(2), for the purposes referred to in Article 1(1) and Article 3(1).
+
+|
+
+Article 3
+
+Designated establishments and legal representatives
+
+1. Member States shall ensure that service providers offering services in the Union designate or appoint at least one addressee for the receipt of, compliance with and enforcement of decisions and orders falling within the scope laid down in Article 1(2) (‘decisions and orders falling within the scope laid down in Article 1(2)’) issued by competent authorities of Member States for the purpose of gathering evidence in criminal proceedings, as follows:
+
+(a)
+
+|
+
+for service providers established in the Union with legal personality, the Member States where the service providers are established shall ensure that such service providers designate the designated establishment or designated establishments responsible for the activities described in the introductory part of this paragraph;
+
+|
+
+(b)
+
+|
+
+for service providers that are not established in the Union, with legal personality, Member States shall ensure that such service providers offering services on their territory appoint the legal representative or legal representatives responsible for the activities described in the introductory part of this paragraph in Member States taking part in the instruments referred to in Article 1(2);
+
+|
+
+(c)
+
+|
+
+for service providers established in Member States not taking part in the instruments referred to in Article 1(2), Member States shall ensure that such service providers offering services on their territory appoint the legal representative or legal representatives responsible for the activities described in the introductory part of this paragraph in Member States taking part in such instruments.
+
+|
+
+2. Member States shall ensure that the addressees referred to in paragraph 1:
+
+(a)
+
+|
+
+are established or reside in a Member State where the service providers offer their services; and
+
+|
+
+(b)
+
+|
+
+can be subject to enforcement procedures.
+
+|
+
+3. Member States shall ensure that decisions and orders falling within the scope laid down in Article 1(2) are addressed to the designated establishment or legal representative designated or appointed for that purpose in accordance with paragraph 1 of this Article.
+
+4. Member States shall ensure that service providers established or offering services on their territory provide their designated establishments and legal representatives with the necessary powers and resources to comply with decisions and orders falling within the scope laid down in Article 1(2) received from a Member State. Member States shall also verify that the designated establishments established or legal representatives residing on their territory have received from the service providers the necessary powers and resources to comply with those decisions and orders received from a Member State and that they cooperate with the competent authorities when receiving those decisions and orders, in accordance with the applicable legal framework.
+
+5. Member States shall ensure that both the designated establishment or the legal representative and the service provider can be held jointly and severally liable for non-compliance with obligations deriving from the applicable legal framework upon the receipt of decisions and orders falling within the scope laid down in Article 1(2), so that each of them may be subject to penalties for non-compliance by any of them. In particular, Member States shall ensure that it is not possible for the service provider or the designated establishment, or the legal representative where applicable, to use the lack of appropriate internal procedures between the service provider and the designated establishment or the legal representative as a justification for non-compliance with those obligations. Joint and several liability shall not apply for actions or omissions of either the service provider or the designated establishment, or the legal representative where applicable, which constitute a criminal offence in the Member State applying the penalties.
+
+6. Member States shall ensure that service providers that offer services in the Union on 18 February 2026 have the obligation to designate designated establishments or to appoint legal representatives by 18 August 2026 and that service providers that start offering services in the Union after 18 February 2026 have the obligation to designate designated establishments or to appoint legal representatives within six months of the date when they start offering services in the Union.
+
+Article 4
+
+Notifications and languages
+
+1. Member States shall ensure that each service provider established or offering services in their territory notifies in writing the central authority, as designated pursuant to Article 6, of the Member State where its designated establishment is established or where its legal representative resides, of the contact details for that establishment or legal representative, and of any changes thereto.
+
+2. The notification referred to in paragraph 1 shall specify the official language or languages of the Union, as referred to in Council Regulation No 1 (15), in which the legal representative or designated establishment can be addressed. Those languages shall include one or more of the official languages as laid down in the national law of the Member State where the designated establishment is established or where the legal representative resides.
+
+3. Where a service provider designates several designated establishments or appoints several legal representatives in accordance with Article 3(1), Member States shall ensure that such service providers specify, in the notification referred to in paragraph 1 of this Article, the precise territorial scope of the designation or appointment of those designated establishments or legal representatives. The notification shall specify the official language or languages of the Union or Member States in which each of the designated establishments or legal representatives can be addressed.
+
+4. Member States shall ensure that the information notified to them in accordance with this Article is made publicly available on a dedicated web page of the European Judicial Network in criminal matters. Member States shall ensure that that information is regularly updated. That information may be further disseminated to facilitate access by competent authorities.
+
+Article 5
+
+Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to Articles 3 and 4 and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall, by 18 February 2026, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendment affecting them. Member States shall also inform the Commission on an annual basis about non-compliant service providers, relevant enforcement action taken against them and the penalties imposed.
+
+Article 6
+
+Central authorities
+
+1. In accordance with their legal systems, Member States shall designate one or more central authorities to ensure that this Directive is applied in a consistent and proportionate manner.
+
+2. Member States shall inform the Commission of the central authority, or central authorities, they designate pursuant to paragraph 1. The Commission shall forward a list of designated central authorities to the Member States and make it publicly available.
+
+3. Member States shall ensure that their central authorities coordinate and cooperate with each other and, where relevant, with the Commission, and that the central authorities provide any appropriate information and assistance to each other in order to apply this Directive in a consistent and proportionate manner. Such coordination, cooperation and provision of information and assistance shall cover, in particular, enforcement actions.
+
+Article 7
+
+Transposition
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 18 February 2026. They shall immediately communicate the text of those measures to the Commission.
+
+2. When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+3. Member States shall communicate to the Commission the text of the measures of national law which they adopt in the field covered by this Directive.
+
+Article 8
+
+Evaluation
+
+By 18 August 2029, the Commission shall carry out an evaluation of this Directive. The Commission shall transmit the evaluation report to the European Parliament and the Council. The evaluation shall be conducted in accordance with the Commission’s better regulation guidelines. Member States shall provide the Commission with the information necessary for the preparation of that report.
+
+Article 9
+
+Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Article 10
+
+Addressees
+
+This Directive is addressed to the Member States in accordance with the Treaties.
+
+Done at Strasbourg, 12 July 2023.
+
+For the European Parliament
+
+The President
+
+R. METSOLA
+
+For the Council
+
+The President
+
+P. NAVARRO RÍOS
+
+(1)
+OJ C 367, 10.10.2018, p. 88.
+
+(2) Position of the European Parliament of 13 June 2023 (not yet published in the Official Journal) and decision of the Council of 27 June 2023.
+
+(3) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+
+(4) Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ L 201, 31.7.2002, p. 37).
+
+(5) Regulation (EU) 2023/1543 of the European Parliament and of the Council of 12 July 2023 on European Production Orders and European Preservation orders for electronic evidence in criminal proceedings and for the execution of custodial sentences following criminal proceedings (see page 118 of this Official Journal).
+
+(6) Directive 2014/41/EU of the European Parliament and of the Council of 3 April 2014 regarding the European Investigation Order in criminal matters (OJ L 130, 1.5.2014, p. 1).
+
+(7) Convention established by the Council in accordance with Article 34 of the Treaty on the European Union, on Mutual Assistance in Criminal Matters between the Member States of the European Union (OJ C 197, 12.7.2000, p. 3) and its Protocol (OJ C 326, 21.11.2001, p. 2).
+
+(8) Regulation (EU) No 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 351, 20.12.2012, p. 1).
+
+(9) Regulation (EU) 2018/302 of the European Parliament and of the Council of 28 February 2018 on addressing unjustified geo-blocking and other forms of discrimination based on customers’ nationality, place of residence or place of establishment within the internal market and amending Regulations (EC) No 2006/2004 and (EU) 2017/2394 and Directive 2009/22/EC (OJ L 60 I, 2.3.2018, p. 1).
+
+(10) Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December 2018 establishing the European Electronic Communications Code (OJ L 321, 17.12.2018, p. 36).
+
+(11) Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (OJ L 241, 17.9.2015, p. 1).
+
+(12) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+
+(13)
+OJ C 32, 31.1.2020, p. 11.
+
+(14) Directive 2006/123/EC of the European Parliament and of the Council of 12 December 2006 on services in the internal market (OJ L 376, 27.12.2006, p. 36).
+
+(15) Council Regulation No 1 determining the languages to be used by the European Economic Community (OJ 17, 6.10.1958, p. 385).

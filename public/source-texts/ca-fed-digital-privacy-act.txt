@@ -1,0 +1,565 @@
+This Web page has been archived on the Web.
+
+Assented to 2015-06-18
+
+An Act to amend the Personal Information Protection and Electronic Documents Act and to make a consequential amendment to another Act
+
+SUMMARY
+
+This enactment amends the Personal Information Protection and Electronic Documents Act to, among other things,
+
+(a) specify the elements of valid consent for the collection, use or disclosure of personal information;
+
+(b) permit the disclosure of personal information without the knowledge or consent of an individual for the purposes of
+
+(i) identifying an injured, ill or deceased individual and communicating with their next of kin,
+
+(ii) preventing, detecting or suppressing fraud, or
+
+(iii) protecting victims of financial abuse;
+
+(c) permit organizations, for certain purposes, to collect, use and disclose, without the knowledge or consent of an individual, personal information
+
+(i) contained in witness statements related to insurance claims, or
+
+(ii) produced by the individual in the course of their employment, business or profession;
+
+(d) permit organizations, for certain purposes, to use and disclose, without the knowledge or consent of an individual, personal information related to prospective or completed business transactions;
+
+(e) permit federal works, undertakings and businesses to collect, use and disclose personal information, without the knowledge or consent of an individual, to establish, manage or terminate their employment relationships with the individual;
+
+(f) require organizations to notify certain individuals and organizations of certain breaches of security safeguards that create a real risk of significant harm and to report them to the Privacy Commissioner;
+
+(g) require organizations to keep and maintain a record of every breach of security safeguards involving personal information under their control;
+
+(h) create offences in relation to the contravention of certain obligations respecting breaches of security safeguards;
+
+(i) extend the period within which a complainant may apply to the Federal Court for a hearing on matters related to their complaint;
+
+(j) provide that the Privacy Commissioner may, in certain circumstances, enter into a compliance agreement with an organization to ensure compliance with Part 1 of the Act; and
+
+(k) modify the information that the Privacy Commissioner may make public if he or she considers that it is in the public interest to do so.
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+SHORT TITLE
+
+Marginal note:Short title
+
+1. This Act may be cited as the Digital Privacy Act.
+
+2000, c. 5PERSONAL INFORMATION PROTECTION AND ELECTRONIC DOCUMENTS ACT
+
+2. (1) The definition “personal information” in subsection 2(1) of the Personal Information Protection and Electronic Documents Act is replaced by the following:
+
+“personal information”
+
+« renseignement personnel »
+
+“personal information” means information about an identifiable individual.
+
+(2) Paragraph (g) of the definition “federal work, undertaking or business” in subsection 2(1) of the Act is replaced by the following:
+
+(g) a bank or an authorized foreign bank as defined in section 2 of the Bank Act;
+
+(3) Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
+
+“breach of security safeguards”
+
+« atteinte aux mesures de sécurité »
+
+“breach of security safeguards” means the loss of, unauthorized access to or unauthorized disclosure of personal information resulting from a breach of an organization’s security safeguards that are referred to in clause 4.7 of Schedule 1 or from a failure to establish those safeguards.
+
+“business contact information”
+
+« coordonnées d’affaires »
+
+“business contact information” means any information that is used for the purpose of communicating or facilitating communication with an individual in relation to their employment, business or profession such as the individual’s name, position name or title, work address, work telephone number, work fax number or work electronic address.
+
+“business transaction”
+
+« transaction commerciale »
+
+“business transaction” includes
+
+(a) the purchase, sale or other acquisition or disposition of an organization or a part of an organization, or any of its assets;
+
+(b) the merger or amalgamation of two or more organizations;
+
+(c) the making of a loan or provision of other financing to an organization or a part of an organization;
+
+(d) the creating of a charge on, or the taking of a security interest in or a security on, any assets or securities of an organization;
+
+(e) the lease or licensing of any of an organization’s assets; and
+
+(f) any other prescribed arrangement between two or more organizations to conduct a business activity.
+
+“prescribed”
+
+Marginal note:Version anglaise seulement
+
+“prescribed” means prescribed by regulation.
+
+3. Paragraph 4(1)(b) of the Act is replaced by the following:
+
+(b) is about an employee of, or an applicant for employment with, the organization and that the organization collects, uses or discloses in connection with the operation of a federal work, undertaking or business.
+
+4. The Act is amended by adding the following after section 4:
+
+Marginal note:Business contact information
+
+4.01 This Part does not apply to an organization in respect of the business contact information of an individual that the organization collects, uses or discloses solely for the purpose of communicating or facilitating communication with the individual in relation to their employment, business or profession.
+
+5. The Act is amended by adding the following after section 6:
+
+Marginal note:Valid consent
+
+6.1 For the purposes of clause 4.3 of Schedule 1, the consent of an individual is only valid if it is reasonable to expect that an individual to whom the organization’s activities are directed would understand the nature, purpose and consequences of the collection, use or disclosure of the personal information to which they are consenting.
+
+6. (1) The portion of subsection 7(1) of the French version of the Act before paragraph (a) is replaced by the following:
+
+Marginal note:Collecte à l’insu de l’intéressé ou sans son consentement
+
+7. (1) Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut recueillir de renseignement personnel à l’insu de l’intéressé ou sans son consentement que dans les cas suivants :
+
+(2) Paragraph 7(1)(b) of the French version of the Act is replaced by the following:
+
+b) il est raisonnable de s’attendre à ce que la collecte effectuée au su ou avec le consentement de l’intéressé compromette l’exactitude du renseignement ou l’accès à celui-ci, et la collecte est raisonnable à des fins liées à une enquête sur la violation d’un accord ou la contravention au droit fédéral ou provincial;
+
+(3) Subsection 7(1) of the Act is amended by adding the following after paragraph (b):
+
+(b.1) it is contained in a witness statement and the collection is necessary to assess, process or settle an insurance claim;
+
+(b.2) it was produced by the individual in the course of their employment, business or profession and the collection is consistent with the purposes for which the information was produced;
+
+(4) The portion of subsection 7(2) of the French version of the Act before paragraph (a) is replaced by the following:
+
+Marginal note:Utilisation à l’insu de l’intéressé ou sans son consentement
+
+(2) Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut utiliser de renseignement personnel à l’insu de l’intéressé ou sans son consentement que dans les cas suivants :
+
+(5) Subsection 7(2) of the Act is amended by adding the following after paragraph (b):
+
+(b.1) the information is contained in a witness statement and the use is necessary to assess, process or settle an insurance claim;
+
+(b.2) the information was produced by the individual in the course of their employment, business or profession and the use is consistent with the purposes for which the information was produced;
+
+(6) The portion of subsection 7(3) of the French version of the Act before paragraph (a) is replaced by the following:
+
+Marginal note:Communication à l’insu de l’intéressé ou sans son consentement
+
+(3) Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut communiquer de renseignement personnel à l’insu de l’intéressé ou sans son consentement que dans les cas suivants :
+
+(7) Paragraph 7(3)(c.1) of the Act is amended by striking out “or” at the end of subparagraph (ii), by adding “or” at the end of subparagraph (iii) and by adding the following after subparagraph (iii):
+
+(iv) the disclosure is requested for the purpose of communicating with the next of kin or authorized representative of an injured, ill or deceased individual;
+
+Marginal note:2000, c. 17, par. 97(1)(a)
+
+(8) Paragraph 7(3)(c.2) of the Act, as enacted by paragraph 97(1)(a) of chapter 17 of the Statutes of Canada, 2000, is repealed.
+
+(9) The portion of paragraph 7(3)(d) of the Act before subparagraph (ii) is replaced by the following:
+
+(d) made on the initiative of the organization to a government institution or a part of a government institution and the organization
+
+(i) has reasonable grounds to believe that the information relates to a contravention of the laws of Canada, a province or a foreign jurisdiction that has been, is being or is about to be committed, or
+
+(10) Subsection 7(3) of the Act is amended by adding the following after paragraph (d):
+
+(d.1) made to another organization and is reasonable for the purposes of investigating a breach of an agreement or a contravention of the laws of Canada or a province that has been, is being or is about to be committed and it is reasonable to expect that disclosure with the knowledge or consent of the individual would compromise the investigation;
+
+(d.2) made to another organization and is reasonable for the purposes of detecting or suppressing fraud or of preventing fraud that is likely to be committed and it is reasonable to expect that the disclosure with the knowledge or consent of the individual would compromise the ability to prevent, detect or suppress the fraud;
+
+(d.3) made on the initiative of the organization to a government institution, a part of a government institution or the individual’s next of kin or authorized representative and
+
+(i) the organization has reasonable grounds to believe that the individual has been, is or may be the victim of financial abuse,
+
+(ii) the disclosure is made solely for purposes related to preventing or investigating the abuse, and
+
+(iii) it is reasonable to expect that disclosure with the knowledge or consent of the individual would compromise the ability to prevent or investigate the abuse;
+
+(d.4) necessary to identify the individual who is injured, ill or deceased, made to a government institution, a part of a government institution or the individual’s next of kin or authorized representative and, if the individual is alive, the organization informs that individual in writing without delay of the disclosure;
+
+(11) Subsection 7(3) of the Act is amended by adding the following after paragraph (e):
+
+(e.1) of information that is contained in a witness statement and the disclosure is necessary to assess, process or settle an insurance claim;
+
+(e.2) of information that was produced by the individual in the course of their employment, business or profession and the disclosure is consistent with the purposes for which the information was produced;
+
+(12) Paragraph 7(3)(f) of the French version of the Act is replaced by the following:
+
+f) la communication est faite à des fins statistiques ou à des fins d’étude ou de recherche érudites, ces fins ne peuvent être réalisées sans que le renseignement soit communiqué, le consentement est pratiquement impossible à obtenir et l’organisation informe le commissaire de la communication avant de la faire;
+
+(13) Subsection 7(3) of the Act is amended by adding “or” at the end of paragraph (h.1) and by repealing paragraph (h.2).
+
+(14) Paragraph 7(3)(i) of the French version of the Act is replaced by the following:
+
+i) la communication est exigée par la loi.
+
+(15) Subsection 7(5) of the Act is replaced by the following:
+
+Marginal note:Disclosure without consent
+
+(5) Despite clause 4.5 of Schedule 1, an organization may disclose personal information for purposes other than those for which it was collected in any of the circumstances set out in paragraphs (3)(a) to (h.1).
+
+7. The Act is amended by adding the following before section 8:
+
+Marginal note:Prospective business transaction
+
+7.2 (1) In addition to the circumstances set out in subsections 7(2) and (3), for the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, organizations that are parties to a prospective business transaction may use and disclose personal information without the knowledge or consent of the individual if
+
+(a) the organizations have entered into an agreement that requires the organization that receives the personal information
+
+(i) to use and disclose that information solely for purposes related to the transaction,
+
+(ii) to protect that information by security safeguards appropriate to the sensitivity of the information, and
+
+(iii) if the transaction does not proceed, to return that information to the organization that disclosed it, or destroy it, within a reasonable time; and
+
+(b) the personal information is necessary
+
+(i) to determine whether to proceed with the transaction, and
+
+(ii) if the determination is made to proceed with the transaction, to complete it.
+
+Marginal note:Completed business transaction
+
+(2) In addition to the circumstances set out in subsections 7(2) and (3), for the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, if the business transaction is completed, organizations that are parties to the transaction may use and disclose personal information, which was disclosed under subsection (1), without the knowledge or consent of the individual if
+
+(a) the organizations have entered into an agreement that requires each of them
+
+(i) to use and disclose the personal information under its control solely for the purposes for which the personal information was collected, permitted to be used or disclosed before the transaction was completed,
+
+(ii) to protect that information by security safeguards appropriate to the sensitivity of the information, and
+
+(iii) to give effect to any withdrawal of consent made under clause 4.3.8 of Schedule 1;
+
+(b) the personal information is necessary for carrying on the business or activity that was the object of the transaction; and
+
+(c) one of the parties notifies the individual, within a reasonable time after the transaction is completed, that the transaction has been completed and that their personal information has been disclosed under subsection (1).
+
+Marginal note:Agreements binding
+
+(3) An organization shall comply with the terms of any agreement into which it enters under paragraph (1)(a) or (2)(a).
+
+Marginal note:Exception
+
+(4) Subsections (1) and (2) do not apply to a business transaction of which the primary purpose or result is the purchase, sale or other acquisition or disposition, or lease, of personal information.
+
+Marginal note:Employment relationship
+
+7.3 In addition to the circumstances set out in section 7, for the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, a federal work, undertaking or business may collect, use and disclose personal information without the consent of the individual if
+
+(a) the collection, use or disclosure is necessary to establish, manage or terminate an employment relationship between the federal work, undertaking or business and the individual; and
+
+(b) the federal work, undertaking or business has informed the individual that the personal information will be or may be collected, used or disclosed for those purposes.
+
+Marginal note:Use without consent
+
+7.4 (1) Despite clause 4.5 of Schedule 1, an organization may use personal information for purposes other than those for which it was collected in any of the circumstances set out in subsection 7.2(1) or (2) or section 7.3.
+
+Marginal note:Disclosure without consent
+
+(2) Despite clause 4.5 of Schedule 1, an organization may disclose personal information for purposes other than those for which it was collected in any of the circumstances set out in subsection 7.2(1) or (2) or section 7.3.
+
+8. Subsection 8(8) of the French version of the Act is replaced by the following:
+
+Marginal note:Conservation des renseignements
+
+(8) Malgré l’article 4.5 de l’annexe 1, l’organisation qui détient un renseignement faisant l’objet d’une demande doit le conserver le temps nécessaire pour permettre au demandeur d’épuiser tous les recours qu’il a en vertu de la présente partie.
+
+Marginal note:2000, c. 17, par. 97(1)(c)
+
+9. (1) Paragraph 9(2.3)(a.1) of the Act, as enacted by paragraph 97(1)(c) of chapter 17 of the Statutes of Canada, 2000, is repealed.
+
+(2) Subparagraph 9(2.4)(c)(iii) of the French version of the Act is replaced by the following:
+
+(iii) ni le fait que l’institution ou la subdivision s’oppose à ce que l’organisation acquiesce à la demande.
+
+(3) Paragraph 9(3)(a) of the Act is replaced by the following:
+
+(a) the information is protected by solicitor-client privilege or, in civil law, by the professional secrecy of lawyers and notaries;
+
+10. The Act is amended by adding the following after section 10:
+
+Division 1.1Breaches of Security Safeguards
+
+Marginal note:Report to Commissioner
+
+10.1 (1) An organization shall report to the Commissioner any breach of security safeguards involving personal information under its control if it is reasonable in the circumstances to believe that the breach creates a real risk of significant harm to an individual.
+
+Marginal note:Report requirements
+
+(2) The report shall contain the prescribed information and shall be made in the prescribed form and manner as soon as feasible after the organization determines that the breach has occurred.
+
+Marginal note:Notification to individual
+
+(3) Unless otherwise prohibited by law, an organization shall notify an individual of any breach of security safeguards involving the individual’s personal information under the organization’s control if it is reasonable in the circumstances to believe that the breach creates a real risk of significant harm to the individual.
+
+Marginal note:Contents of notification
+
+(4) The notification shall contain sufficient information to allow the individual to understand the significance to them of the breach and to take steps, if any are possible, to reduce the risk of harm that could result from it or to mitigate that harm. It shall also contain any other prescribed information.
+
+Marginal note:Form and manner
+
+(5) The notification shall be conspicuous and shall be given directly to the individual in the prescribed form and manner, except in prescribed circumstances, in which case it shall be given indirectly in the prescribed form and manner.
+
+Marginal note:Time to give notification
+
+(6) The notification shall be given as soon as feasible after the organization determines that the breach has occurred.
+
+Definition of “significant harm”
+
+(7) For the purpose of this section, “significant harm” includes bodily harm, humiliation, damage to reputation or relationships, loss of employment, business or professional opportunities, financial loss, identity theft, negative effects on the credit record and damage to or loss of property.
+
+Marginal note:Real risk of significant harm — factors
+
+(8) The factors that are relevant to determining whether a breach of security safeguards creates a real risk of significant harm to the individual include
+
+(a) the sensitivity of the personal information involved in the breach;
+
+(b) the probability that the personal information has been, is being or will be misused; and
+
+(c) any other prescribed factor.
+
+Marginal note:Notification to organizations
+
+10.2 (1) An organization that notifies an individual of a breach of security safeguards under subsection 10.1(3) shall notify any other organization, a government institution or a part of a government institution of the breach if the notifying organization believes that the other organization or the government institution or part concerned may be able to reduce the risk of harm that could result from it or mitigate that harm, or if any of the prescribed conditions are satisfied.
+
+Marginal note:Time to give notification
+
+(2) The notification shall be given as soon as feasible after the organization determines that the breach has occurred.
+
+Marginal note:Disclosure of personal information
+
+(3) In addition to the circumstances set out in subsection 7(3), for the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may disclose personal information without the knowledge or consent of the individual if
+
+(a) the disclosure is made to the other organization, the government institution or the part of a government institution that was notified of the breach under subsection (1); and
+
+(b) the disclosure is made solely for the purposes of reducing the risk of harm to the individual that could result from the breach or mitigating that harm.
+
+Marginal note:Disclosure without consent
+
+(4) Despite clause 4.5 of Schedule 1, an organization may disclose personal information for purposes other than those for which it was collected in the circumstance set out in subsection (3).
+
+Marginal note:Records
+
+10.3 (1) An organization shall, in accordance with any prescribed requirements, keep and maintain a record of every breach of security safeguards involving personal information under its control.
+
+Marginal note:Provision to Commissioner
+
+(2) An organization shall, on request, provide the Commissioner with access to, or a copy of, a record.
+
+11. Subsection 11(1) of the Act is replaced by the following:
+
+Marginal note:Contravention
+
+11. (1) An individual may file with the Commissioner a written complaint against an organization for contravening a provision of Division 1 or 1.1 or for not following a recommendation set out in Schedule 1.
+
+12. Subsection 12.2(1) of the Act is amended by adding the following after paragraph (c):
+
+(c.1) the matter is the object of a compliance agreement entered into under subsection 17.1(1);
+
+Marginal note:2010, c. 23, s. 85
+
+13. Subsections 14(1) and (2) of the Act are replaced by the following:
+
+Marginal note:Application
+
+14. (1) A complainant may, after receiving the Commissioner’s report or being notified under subsection 12.2(3) that the investigation of the complaint has been discontinued, apply to the Court for a hearing in respect of any matter in respect of which the complaint was made, or that is referred to in the Commissioner’s report, and that is referred to in clause 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 or 4.8 of Schedule 1, in clause 4.3, 4.5 or 4.9 of that Schedule as modified or clarified by Division 1 or 1.1, in subsection 5(3) or 8(6) or (7), in section 10 or in Division 1.1.
+
+Marginal note:Time for application
+
+(2) A complainant shall make an application within one year after the report or notification is sent or within any longer period that the Court may, either before or after the expiry of that year, allow.
+
+14. Paragraph 16(a) of the Act is replaced by the following:
+
+(a) order an organization to correct its practices in order to comply with Divisions 1 and 1.1;
+
+15. The Act is amended by adding the following after section 17:
+
+Compliance Agreements
+
+Marginal note:Compliance agreement
+
+17.1 (1) If the Commissioner believes on reasonable grounds that an organization has committed, is about to commit or is likely to commit an act or omission that could constitute a contravention of a provision of Division 1 or 1.1 or a failure to follow a recommendation set out in Schedule 1, the Commissioner may enter into a compliance agreement, aimed at ensuring compliance with this Part, with that organization.
+
+Marginal note:Terms
+
+(2) A compliance agreement may contain any terms that the Commissioner considers necessary to ensure compliance with this Part.
+
+Marginal note:Effect of compliance agreement — no application
+
+(3) When a compliance agreement is entered into, the Commissioner, in respect of any matter covered under the agreement,
+
+(a) shall not apply to the Court for a hearing under subsection 14(1) or paragraph 15(a); and
+
+(b) shall apply to the court for the suspension of any pending applications that were made by the Commissioner under those provisions.
+
+Marginal note:For greater certainty
+
+(4) For greater certainty, a compliance agreement does not preclude
+
+(a) an individual from applying for a hearing under section 14; or
+
+(b) the prosecution of an offence under the Act.
+
+Marginal note:Agreement complied with
+
+17.2 (1) If the Commissioner is of the opinion that a compliance agreement has been complied with, the Commissioner shall provide written notice to that effect to the organization and withdraw any applications that were made under subsection 14(1) or paragraph 15(a) in respect of any matter covered under the agreement.
+
+Marginal note:Agreement not complied with
+
+(2) If the Commissioner is of the opinion that an organization is not complying with the terms of a compliance agreement, the Commissioner shall notify the organization and may apply to the Court for
+
+(a) an order requiring the organization to comply with the terms of the agreement, in addition to any other remedies it may give; or
+
+(b) a hearing under subsection 14(1) or paragraph 15(a) or to reinstate proceedings that have been suspended as a result of an application made under paragraph 17.1(3)(b).
+
+Marginal note:Time for application
+
+(3) Despite subsection 14(2), the application shall be made within one year after notification is sent or within any longer period that the Court may, either before or after the expiry of that year, allow.
+
+16. The portion of subsection 18(1) of the Act before paragraph (a) is replaced by the following:
+
+Marginal note:To ensure compliance
+
+18. (1) The Commissioner may, on reasonable notice and at any reasonable time, audit the personal information management practices of an organization if the Commissioner has reasonable grounds to believe that the organization has contravened a provision of Division 1 or 1.1 or is not following a recommendation set out in Schedule 1, and for that purpose may
+
+Marginal note:2010, c. 23, s. 86(1)
+
+17. (1) Subsection 20(1) of the Act is replaced by the following:
+
+Marginal note:Confidentiality
+
+20. (1) Subject to subsections (2) to (6), 12(3), 12.2(3), 13(3), 19(1), 23(3) and 23.1(1) and section 25, the Commissioner or any person acting on behalf or under the direction of the Commissioner shall not disclose any information that comes to their knowledge as a result of the performance or exercise of any of the Commissioner’s duties or powers under this Part other than those referred to in subsection 10.1(1) or 10.3(2).
+
+Marginal note:Confidentiality — reports and records
+
+(1.1) Subject to subsections (2) to (6), 12(3), 12.2(3), 13(3), 19(1), 23(3) and 23.1(1) and section 25, the Commissioner or any person acting on behalf or under the direction of the Commissioner shall not disclose any information contained in a report made under subsection 10.1(1) or in a record obtained under subsection 10.3(2).
+
+(2) Subsection 20(2) of the Act is replaced by the following:
+
+Marginal note:Public interest
+
+(2) The Commissioner may, if the Commissioner considers that it is in the public interest to do so, make public any information that comes to his or her knowledge in the performance or exercise of any of his or her duties or powers under this Part.
+
+(3) Subsection 20(4) of the Act is amended by striking out “or” at the end of paragraph (c), by adding “or” at the end of paragraph (d) and by adding the following after that paragraph:
+
+(e) a judicial review in relation to the performance or exercise of any of the Commissioner’s duties or powers under this Part.
+
+(4) Section 20 of the Act is amended by adding the following after subsection (5):
+
+Marginal note:Disclosure of breach of security safeguards
+
+(6) The Commissioner may disclose, or may authorize any person acting on behalf or under the direction of the Commissioner to disclose to a government institution or a part of a government institution, any information contained in a report made under subsection 10.1(1) or in a record obtained under subsection 10.3(2) if the Commissioner has reasonable grounds to believe that the information could be useful in the investigation of a contravention of the laws of Canada or a province that has been, is being or is about to be committed.
+
+18. (1) The portion of subsection 22(2) of the Act before paragraph (a) is replaced by the following:
+
+Marginal note:Defamation
+
+(2) No action lies in defamation with respect to
+
+(2) Paragraphs 22(2)(a) and (b) of the English version of the Act are replaced by the following:
+
+(a) anything said, any information supplied or any record or thing produced in good faith in the course of an investigation or audit carried out by or on behalf of the Commissioner under this Part; and
+
+(b) any report made in good faith by the Commissioner under this Part and any fair and accurate account of the report made in good faith for the purpose of news reporting.
+
+19. Paragraph 24(c) of the Act is replaced by the following:
+
+(c) encourage organizations to develop detailed policies and practices, including organizational codes of practice, to comply with Divisions 1 and 1.1; and
+
+20. (1) Subsection 25(1) of the Act is replaced by the following:
+
+Marginal note:Annual report
+
+25. (1) The Commissioner shall, within three months after the end of each financial year, submit to Parliament a report concerning the application of this Part, the extent to which the provinces have enacted legislation that is substantially similar to this Part and the application of any such legislation.
+
+(2) Subsection 25(2) of the English version of the Act is replaced by the following:
+
+Marginal note:Consultation
+
+(2) Before preparing the report, the Commissioner shall consult with those persons in the provinces who, in the Commissioner’s opinion, are in a position to assist the Commissioner in making a report respecting personal information that is collected, used or disclosed interprovincially or internationally.
+
+21. (1) The portion of subsection 26(1) of the Act before paragraph (a) is replaced by the following:
+
+Marginal note:Regulations
+
+26. (1) The Governor in Council may make regulations for carrying out the purposes and provisions of this Part, including regulations
+
+(2) Paragraph 26(1)(a.01) of the Act is repealed.
+
+(3) Subsection 26(1) of the Act is amended by striking out “and” at the end of paragraph (a.1) and by replacing paragraph (b) with the following:
+
+(b) specifying information to be kept and maintained under subsection 10.3(1); and
+
+(c) prescribing anything that by this Part is to be prescribed.
+
+22. Subsection 27(1) of the Act is replaced by the following:
+
+Marginal note:Whistleblowing
+
+27. (1) Any person who has reasonable grounds to believe that a person has contravened or intends to contravene a provision of Division 1 or 1.1 may notify the Commissioner of the particulars of the matter and may request that their identity be kept confidential with respect to the notification.
+
+23. Paragraphs 27.1(1)(a) to (c) of the Act are replaced by the following:
+
+(a) the employee, acting in good faith and on the basis of reasonable belief, has disclosed to the Commissioner that the employer or any other person has contravened or intends to contravene a provision of Division 1 or 1.1;
+
+(b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is a contravention of a provision of Division 1 or 1.1;
+
+(c) the employee, acting in good faith and on the basis of reasonable belief, has done or stated an intention of doing anything that is required to be done in order that a provision of Division 1 or 1.1 not be contravened; or
+
+24. The portion of section 28 of the Act before paragraph (a) is replaced by the following:
+
+Marginal note:Offence and punishment
+
+28. Every organization that knowingly contravenes subsection 8(8), section 10.1 or subsection 10.3(1) or 27.1(1) or that obstructs the Commissioner or the Commissioner’s delegate in the investigation of a complaint or in conducting an audit is guilty of
+
+CONSEQUENTIAL AMENDMENT
+
+R.S., c. A-1Access to Information Act
+
+25. Schedule II to the Access to Information Act is amended by adding, in alphabetical order, a reference to
+
+Personal Information Protection and Electronic Documents Act
+
+Loi sur la protection des renseignements personnels et les documents électroniques.
+
+and a corresponding reference to “subsection 20(1.1)”.
+
+COORDINATING AMENDMENTS
+
+Marginal note:2010, c. 23
+
+26. (1) In this section “other Act” means An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act, chapter 23 of the Statutes of Canada, 2010.
+
+(2) On the first day on which both section 82 of the other Act and subsection 6(3) of this Act are in force, the portion of subsection 7.1(2) of the Personal Information Protection and Electronic Documents Act before paragraph (a) is replaced by the following:
+
+Marginal note:Collection of electronic addresses, etc.
+
+(2) Paragraphs 7(1)(a) and (b.1) to (d) and (2)(a) to (c.1) and the exception set out in clause 4.3 of Schedule 1 do not apply in respect of
+
+(3) On the first day on which both subsection 20(6) of the Personal Information Protection and Electronic Documents Act, as enacted by subsection 86(2) of the other Act, and subsection 20(6) of the Personal Information Protection and Electronic Documents Act, as enacted by subsection 17(4) of this Act, are in force,
+
+(a) subsections 20(1) and (1.1) of the Personal Information Protection and Electronic Documents Act are replaced by the following:
+
+Marginal note:Confidentiality
+
+20. (1) Subject to subsections (2) to (7), 12(3), 12.2(3), 13(3), 19(1), 23(3) and 23.1(1) and section 25, the Commissioner or any person acting on behalf or under the direction of the Commissioner shall not disclose any information that comes to their knowledge as a result of the performance or exercise of any of the Commissioner’s duties or powers under this Part other than those referred to in subsection 10.1(1) or 10.3(2).
+
+Marginal note:Confidentiality — reports and records
+
+(1.1) Subject to subsections (2) to (7), 12(3), 12.2(3), 13(3), 19(1), 23(3) and 23.1(1) and section 25, the Commissioner or any person acting on behalf or under the direction of the Commissioner shall not disclose any information contained in a report made under subsection 10.1(1) or in a record obtained under subsection 10.3(2).
+
+(b) subsection 20(6) of the Personal Information Protection and Electronic Documents Act, as enacted by subsection 86(2) of the other Act, is renumbered as subsection 20(7) and is repositioned accordingly if required.
+
+COMING INTO FORCE
+
+Marginal note:Order in council
+
+27. Sections 10, 11 and 14, subsections 17(1) and (4) and sections 19 and 22 to 25 come into force on a day to be fixed by order of the Governor in Council.
+
+Date modified:
+
+﻿2026-10-15
