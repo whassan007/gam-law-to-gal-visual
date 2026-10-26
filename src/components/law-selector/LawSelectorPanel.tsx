@@ -437,6 +437,16 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
           </div>
         </div>
 
+        {/* Catalogue of further instruments (metadata only) */}
+        <div id="instrument-catalogue-anchor" />
+        <InstrumentCataloguePanel
+          instruments={catalogue}
+          onOpenTranslatedLaw={(id) => {
+            const law = laws.find((l) => l.id === id);
+            if (law) onSelectLaw(law);
+          }}
+        />
+
         {/* Step 2: Provision Selector */}
         {activeLaw.provisions.length > 0 && (
           <div>
@@ -610,16 +620,6 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
             </div>
           </div>
         )}
-
-        {/* Catalogue of further instruments (metadata only) */}
-        <div id="instrument-catalogue-anchor" />
-        <InstrumentCataloguePanel
-          instruments={catalogue}
-          onOpenTranslatedLaw={(id) => {
-            const law = laws.find((l) => l.id === id);
-            if (law) onSelectLaw(law);
-          }}
-        />
       </div>
 
       {/* Bottom Action Footer: Mode Selector + Process Law Button */}

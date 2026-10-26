@@ -94,22 +94,31 @@ describe('InstrumentCataloguePanel', () => {
 });
 
 describe('InstrumentCataloguePanel source texts', () => {
-  it('links fetched source texts and explains missing ones from the manifest', async () => {
+  it('opens a fetched source text in the reader and explains missing ones', async () => {
     const original = globalThis.fetch;
-    globalThis.fetch = (async () =>
-      new Response(
-        JSON.stringify({
-          entries: {
-            'ca-fed-pipeda': { status: 'fetched', file: 'ca-fed-pipeda.txt', chars: 111217, contentCheck: 'match', retrievedAt: '2026-10-25T00:00:00Z' },
-            'ca-fed-casl': { status: 'blocked', note: 'Site rejected automated requests.' },
-          },
-        }),
-        { status: 200 },
-      )) as typeof fetch;
+    globalThis.fetch = (async (url: string) => {
+      if (String(url).endsWith('manifest.json')) {
+        return new Response(
+          JSON.stringify({
+            entries: {
+              'ca-fed-pipeda': { status: 'fetched', file: 'ca-fed-pipeda.txt', chars: 111217, contentCheck: 'match', retrievedAt: '2026-10-25T00:00:00Z', sha256: 'abc123abc123abc123' },
+              'ca-fed-casl': { status: 'blocked', note: 'Site rejected automated requests.' },
+            },
+          }),
+          { status: 200 },
+        );
+      }
+      return new Response('Accountability\n\nAn organization is responsible for personal information.\n', { status: 200 });
+    }) as typeof fetch;
     try {
       render(<InstrumentCataloguePanel instruments={getCatalogueForCountry('CA')} />);
-      const link = await screen.findByTestId('source-text-ca-fed-pipeda');
-      expect(link.getAttribute('href')).toContain('source-texts/ca-fed-pipeda.txt');
+      fireEvent.click(await screen.findByTestId('source-text-ca-fed-pipeda'));
+      const viewer = await screen.findByTestId('source-text-viewer');
+      expect(await within(viewer).findByText(/An organization is responsible/)).toBeTruthy();
+      fireEvent.change(within(viewer).getByPlaceholderText(/find in text/i), { target: { value: 'organization' } });
+      expect(within(viewer).getByText(/1 matching paragraph/)).toBeTruthy();
+      fireEvent.click(within(viewer).getByRole('button', { name: /close source text/i }));
+      expect(screen.queryByTestId('source-text-viewer')).toBeNull();
       expect(await screen.findByText(/Site rejected automated requests/)).toBeTruthy();
     } finally {
       globalThis.fetch = original;

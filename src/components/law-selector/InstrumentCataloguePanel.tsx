@@ -1,5 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { BookMarked, ExternalLink, Search } from 'lucide-react';
+import { SourceTextViewer } from './SourceTextViewer';
 import type {
   CatalogueInstrument,
   InstrumentCategory,
@@ -27,6 +28,7 @@ interface SourceTextEntry {
   chars?: number;
   contentCheck?: 'match' | 'mismatch' | 'unchecked';
   retrievedAt?: string;
+  sha256?: string;
   note?: string;
   error?: string;
 }
@@ -63,6 +65,7 @@ export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> =
   const [category, setCategory] = useState<InstrumentCategory | 'all'>('all');
   const [jurisdiction, setJurisdiction] = useState<string>('all');
   const sources = useSourceManifest();
+  const [reading, setReading] = useState<CatalogueInstrument | null>(null);
 
   const categories = useMemo(
     () => Array.from(new Set(instruments.map((i) => i.category))).sort(),
@@ -201,15 +204,14 @@ export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> =
                 if (src.status === 'fetched' && src.file) {
                   return (
                     <p className="mt-1.5 text-slate-400">
-                      <a
-                        href={`${SOURCE_BASE}${src.file}`}
-                        target="_blank"
-                        rel="noopener noreferrer"
+                      <button
+                        type="button"
+                        onClick={() => setReading(i)}
                         data-testid={`source-text-${i.id}`}
                         className="text-cyan-300 underline decoration-cyan-500/40 underline-offset-2 hover:text-cyan-200"
                       >
-                        Source text
-                      </a>{' '}
+                        Read source text
+                      </button>{' '}
                       ({Math.round((src.chars ?? 0) / 1000).toLocaleString()}k characters, retrieved{' '}
                       {src.retrievedAt?.slice(0, 10)})
                       {src.contentCheck === 'mismatch' && (
@@ -234,6 +236,18 @@ export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> =
           </li>
         )}
       </ul>
+      {reading && sources[reading.id]?.file && (
+        <SourceTextViewer
+          title={reading.name}
+          citation={reading.citation}
+          file={sources[reading.id].file!}
+          officialSourceUrl={reading.officialSourceUrl}
+          retrievedAt={sources[reading.id].retrievedAt}
+          sha256={sources[reading.id].sha256}
+          note={sources[reading.id].note}
+          onClose={() => setReading(null)}
+        />
+      )}
     </div>
   );
 };
