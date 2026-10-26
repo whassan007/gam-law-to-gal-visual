@@ -1,0 +1,174 @@
+import React, { useMemo, useState } from 'react';
+import { BookMarked, ExternalLink, Search } from 'lucide-react';
+import type {
+  CatalogueInstrument,
+  InstrumentCategory,
+  InstrumentStatus,
+} from '../../types/contracts';
+
+export interface InstrumentCataloguePanelProps {
+  instruments: CatalogueInstrument[];
+  /** Called for entries that have a bundled translation. */
+  onOpenTranslatedLaw?: (lawId: string) => void;
+}
+
+const STATUS_META: Record<InstrumentStatus, { label: string; classes: string }> = {
+  'in-force': { label: 'In force', classes: 'bg-emerald-500/15 text-emerald-300 border-emerald-500/40' },
+  phased: { label: 'Phased', classes: 'bg-sky-500/15 text-sky-300 border-sky-500/40' },
+  proposed: { label: 'Proposed', classes: 'bg-amber-500/15 text-amber-300 border-amber-500/40' },
+  lapsed: { label: 'Lapsed', classes: 'bg-slate-500/15 text-slate-300 border-slate-500/40' },
+  repealed: { label: 'Repealed', classes: 'bg-slate-500/15 text-slate-300 border-slate-500/40' },
+  invalidated: { label: 'Invalidated / enjoined', classes: 'bg-rose-500/15 text-rose-300 border-rose-500/40' },
+};
+
+export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> = ({
+  instruments,
+  onOpenTranslatedLaw,
+}) => {
+  const [query, setQuery] = useState('');
+  const [category, setCategory] = useState<InstrumentCategory | 'all'>('all');
+  const [jurisdiction, setJurisdiction] = useState<string>('all');
+
+  const categories = useMemo(
+    () => Array.from(new Set(instruments.map((i) => i.category))).sort(),
+    [instruments],
+  );
+  const jurisdictions = useMemo(
+    () => Array.from(new Set(instruments.map((i) => i.jurisdiction))),
+    [instruments],
+  );
+
+  const filtered = useMemo(() => {
+    const q = query.trim().toLowerCase();
+    return instruments.filter((i) => {
+      if (category !== 'all' && i.category !== category) return false;
+      if (jurisdiction !== 'all' && i.jurisdiction !== jurisdiction) return false;
+      if (!q) return true;
+      return [i.name, i.shortName, i.citation, i.jurisdiction].some((f) => f.toLowerCase().includes(q));
+    });
+  }, [instruments, query, category, jurisdiction]);
+
+  if (instruments.length === 0) return null;
+
+  return (
+    <div data-testid="instrument-catalogue">
+      <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
+        <h3 className="flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-slate-400">
+          <BookMarked className="h-4 w-4 text-cyan-400" />
+          Catalogued Instruments ({instruments.length})
+        </h3>
+        <span className="text-xs text-slate-400">
+          Metadata and source links only. Not translated unless marked.
+        </span>
+      </div>
+
+      <div className="mb-3 flex flex-wrap items-center gap-2">
+        <label className="relative flex-1 min-w-[200px]">
+          <span className="sr-only">Search catalogued instruments</span>
+          <Search className="pointer-events-none absolute left-2.5 top-2 h-3.5 w-3.5 text-slate-500" />
+          <input
+            type="search"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            placeholder="Search by name or citation"
+            className="w-full rounded-lg border border-slate-800 bg-navy-950/70 py-1.5 pl-8 pr-3 text-xs text-slate-200 placeholder:text-slate-500 focus:border-cyan-500/60 focus:outline-none"
+          />
+        </label>
+        {jurisdictions.length > 1 && (
+          <select
+            aria-label="Filter by jurisdiction"
+            value={jurisdiction}
+            onChange={(e) => setJurisdiction(e.target.value)}
+            className="rounded-lg border border-slate-800 bg-navy-950/70 px-2 py-1.5 text-xs text-slate-200"
+          >
+            <option value="all">All jurisdictions ({jurisdictions.length})</option>
+            {jurisdictions.map((j) => (
+              <option key={j} value={j}>{j}</option>
+            ))}
+          </select>
+        )}
+      </div>
+
+      <div className="mb-3 flex flex-wrap gap-1.5" role="group" aria-label="Filter by category">
+        {(['all', ...categories] as const).map((c) => (
+          <button
+            key={c}
+            type="button"
+            onClick={() => setCategory(c)}
+            aria-pressed={category === c}
+            className={`rounded-full border px-2.5 py-0.5 text-[11px] transition ${
+              category === c
+                ? 'border-cyan-400 bg-cyan-500/15 text-cyan-200'
+                : 'border-slate-800 bg-navy-950/70 text-slate-400 hover:border-slate-700'
+            }`}
+          >
+            {c === 'all' ? 'All' : c}
+          </button>
+        ))}
+      </div>
+
+      <p className="mb-2 text-[11px] text-slate-500" aria-live="polite">
+        Showing {filtered.length} of {instruments.length}. Citations were compiled without
+        machine verification; confirm against the official source before relying on them.
+      </p>
+
+      <ul className="space-y-2">
+        {filtered.map((i) => {
+          const status = STATUS_META[i.status];
+          return (
+            <li
+              key={i.id}
+              data-testid={`catalogue-item-${i.id}`}
+              className="rounded-xl border border-slate-800 bg-navy-950/70 p-3 text-xs"
+            >
+              <div className="flex flex-wrap items-start justify-between gap-2">
+                <div className="min-w-0">
+                  <div className="font-semibold text-slate-100">{i.shortName}</div>
+                  <div className="mt-0.5 text-slate-400">{i.name}</div>
+                  <div className="mt-1 font-mono text-[11px] text-cyan-300/90">{i.citation}</div>
+                </div>
+                <div className="flex flex-wrap items-center gap-1.5">
+                  <span className={`rounded-full border px-2 py-0.5 ${status.classes}`}>{status.label}</span>
+                  <span className="rounded-full border border-slate-700 bg-slate-800/70 px-2 py-0.5 text-slate-300">
+                    {i.instrumentType}
+                  </span>
+                  {i.translatedLawId && (
+                    <button
+                      type="button"
+                      onClick={() => onOpenTranslatedLaw?.(i.translatedLawId!)}
+                      className="rounded-full border border-cyan-500/40 bg-cyan-500/15 px-2 py-0.5 text-cyan-200 hover:bg-cyan-500/25"
+                    >
+                      Translated excerpts available
+                    </button>
+                  )}
+                </div>
+              </div>
+              <div className="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1 text-slate-500">
+                <span>{i.jurisdiction}</span>
+                <span>{i.category}</span>
+                {i.effectiveDate && <span>Effective {i.effectiveDate}</span>}
+                {i.officialSourceUrl && (
+                  <a
+                    href={i.officialSourceUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1 text-cyan-400 underline decoration-cyan-500/40 underline-offset-2 hover:text-cyan-300"
+                  >
+                    Official source
+                    <ExternalLink className="h-3 w-3" />
+                  </a>
+                )}
+              </div>
+              {i.statusNote && <p className="mt-1.5 text-amber-300/80">{i.statusNote}</p>}
+            </li>
+          );
+        })}
+        {filtered.length === 0 && (
+          <li className="rounded-xl border border-slate-800 p-4 text-center text-xs text-slate-500">
+            No catalogued instruments match these filters.
+          </li>
+        )}
+      </ul>
+    </div>
+  );
+};

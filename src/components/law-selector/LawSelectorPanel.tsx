@@ -20,7 +20,9 @@ import {
   Sparkles,
   AlertTriangle,
 } from 'lucide-react';
+import { InstrumentCataloguePanel } from './InstrumentCataloguePanel';
 import type {
+  CatalogueInstrument,
   CountryMetadata,
   LawMetadata,
   LawProvision,
@@ -30,6 +32,8 @@ import type {
 export interface LawSelectorPanelProps {
   country: CountryMetadata | null;
   laws: LawMetadata[];
+  /** Metadata-only catalogue of further instruments for this jurisdiction. */
+  catalogue?: CatalogueInstrument[];
   selectedLaw: LawMetadata | null;
   selectedProvision: LawProvision | null;
   onSelectLaw: (law: LawMetadata) => void;
@@ -92,6 +96,7 @@ const LEVEL_BADGE_STYLES: Record<LawMetadata['jurisdictionLevel'], string> = {
 export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
   country,
   laws,
+  catalogue = [],
   selectedLaw,
   selectedProvision,
   onSelectLaw,
@@ -266,6 +271,7 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
             <p className="mt-0.5 text-xs text-slate-400">
               {country.region} • {laws.length}{' '}
               {laws.length === 1 ? 'Verified Statute' : 'Verified Statutes'} Available
+              {catalogue.length > 0 && ` • ${catalogue.length} catalogued instruments`}
             </p>
           </div>
         </div>
@@ -590,6 +596,15 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
             </div>
           </div>
         )}
+
+        {/* Catalogue of further instruments (metadata only) */}
+        <InstrumentCataloguePanel
+          instruments={catalogue}
+          onOpenTranslatedLaw={(id) => {
+            const law = laws.find((l) => l.id === id);
+            if (law) onSelectLaw(law);
+          }}
+        />
       </div>
 
       {/* Bottom Action Footer: Mode Selector + Process Law Button */}

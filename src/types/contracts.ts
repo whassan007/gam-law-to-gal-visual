@@ -307,6 +307,58 @@ export interface LawMetadata {
   provisions: LawProvision[];
 }
 
+export type InstrumentCategory =
+  | 'Privacy & data protection'
+  | 'Health privacy'
+  | 'Financial privacy'
+  | 'Cybersecurity'
+  | 'Breach notification'
+  | 'Cross-border transfer'
+  | 'Access to information'
+  | 'Surveillance & cybercrime'
+  | 'AI & digital governance'
+  | 'Children & education'
+  | 'Communications & marketing'
+  | 'Standards & guidance';
+
+export type InstrumentType =
+  | 'Statute'
+  | 'Regulation'
+  | 'Directive'
+  | 'Decision'
+  | 'Standard / guidance'
+  | 'Bill / proposal';
+
+export type InstrumentStatus =
+  | 'in-force'
+  | 'phased'
+  | 'proposed'
+  | 'lapsed'
+  | 'repealed'
+  | 'invalidated';
+
+/**
+ * A catalogued (NOT translated) legal instrument: metadata and a pointer to the
+ * authoritative source only. No statutory text, clauses or GAL model is bundled.
+ * `translatedLawId` links an entry to a bundled LawMetadata when one exists.
+ */
+export interface CatalogueInstrument {
+  id: string;
+  countryCode: 'CA' | 'US' | 'EU';
+  jurisdiction: string;
+  jurisdictionLevel: LawMetadata['jurisdictionLevel'];
+  name: string;
+  shortName: string;
+  citation: string;
+  category: InstrumentCategory;
+  instrumentType: InstrumentType;
+  status: InstrumentStatus;
+  statusNote?: string;
+  effectiveDate?: string;
+  officialSourceUrl?: string;
+  translatedLawId?: string;
+}
+
 export type PipelineStageId =
   | 'source'
   | 'segment'

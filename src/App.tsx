@@ -23,6 +23,7 @@ import {
   VERIFIED_LAWS,
   ENTERPRISE_COMPARISON_CASES,
   getLawsForCountry,
+  getCatalogueForCountry,
 } from './data/verified-examples';
 import {
   translateLawProvision,
@@ -722,6 +723,7 @@ export function App() {
           <LawSelectorPanel
             country={selectedCountry}
             laws={countryLaws}
+            catalogue={selectedCountry ? getCatalogueForCountry(selectedCountry.code) : []}
             selectedLaw={selectedLaw}
             selectedProvision={selectedProvision}
             onSelectLaw={handleSelectLaw}
