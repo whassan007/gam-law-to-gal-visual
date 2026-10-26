@@ -35,4 +35,27 @@ describe('eCFR source provenance', () => {
     expect(result.finalUrl).toBe('https://www.ecfr.gov/redirected/versioned-section.xml');
     expect(result.url).toBe('https://www.ecfr.gov/current/title-45/section-164.502');
   });
+
+  it('keeps the fetched URL distinct from the canonical URL for a PDF mirror', async () => {
+    const politeFetch = vi.fn(async (url: string) => ({
+      status: 200,
+      buf: Buffer.from(`%PDF-1.7 ${'mock source '.repeat(50)}`),
+      finalUrl: url,
+    }));
+    const pdfToText = vi.fn(async () => 'Personal Data Protection Law');
+    vi.doMock('../scripts/source-fetch/lib.mjs', async () => {
+      const actual = await vi.importActual<typeof import('../scripts/source-fetch/lib.mjs')>('../scripts/source-fetch/lib.mjs');
+      return { ...actual, politeFetch, pdfToText };
+    });
+
+    const { ADAPTERS } = await import('../scripts/source-fetch/adapters.mjs');
+    const result = await ADAPTERS.pdf({
+      url: 'https://archive.example/source.pdf',
+      officialUrl: 'https://publisher.example/current-law.pdf',
+    });
+
+    expect(result.url).toBe('https://publisher.example/current-law.pdf');
+    expect(result.requestedUrl).toBe('https://archive.example/source.pdf');
+    expect(result.finalUrl).toBe('https://archive.example/source.pdf');
+  });
 });

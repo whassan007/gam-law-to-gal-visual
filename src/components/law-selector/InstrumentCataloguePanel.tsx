@@ -29,6 +29,7 @@ interface SourceTextEntry {
   contentCheck?: 'match' | 'mismatch' | 'unchecked';
   retrievedAt?: string;
   sha256?: string;
+  sources?: { url: string; kind: string }[];
   note?: string;
   error?: string;
 }
@@ -185,9 +186,9 @@ export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> =
                 <span>{i.jurisdiction}</span>
                 <span>{i.category}</span>
                 {i.effectiveDate && <span>Effective {i.effectiveDate}</span>}
-                {i.officialSourceUrl && (
+                {(i.officialSourceUrl ?? sources[i.id]?.sources?.[0]?.url) && (
                   <a
-                    href={i.officialSourceUrl}
+                    href={i.officialSourceUrl ?? sources[i.id]?.sources?.[0]?.url}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-cyan-400 underline decoration-cyan-500/40 underline-offset-2 hover:text-cyan-300"
@@ -241,7 +242,7 @@ export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> =
           title={reading.name}
           citation={reading.citation}
           file={sources[reading.id].file!}
-          officialSourceUrl={reading.officialSourceUrl}
+          officialSourceUrl={reading.officialSourceUrl ?? sources[reading.id]?.sources?.[0]?.url}
           retrievedAt={sources[reading.id].retrievedAt}
           sha256={sources[reading.id].sha256}
           note={sources[reading.id].note}

@@ -61,7 +61,7 @@ const CANADA_PROVINCIAL: CatalogueInstrument[] = [
     ['ca-qc-health-info-act', 'Quebec Health Information Act', 'Act respecting health and social services information and amending various legislative provisions', 'CQLR c. R-22.1', HEALTH, { url: qcAct('R-22.1') }],
     ['ca-qc-info-resources-act', 'Quebec Information Resources Governance Act', 'Act respecting the governance and management of the information resources of public bodies and government enterprises', 'CQLR c. G-1.03', CYBER, { url: qcAct('G-1.03') }],
     ['ca-qc-charter', 'Quebec Charter (s. 5)', 'Charter of human rights and freedoms (right to respect for private life, s. 5)', 'CQLR c. C-12', PRIV, { url: qcAct('C-12') }],
-    ['ca-qc-confidentiality-incidents-regs', 'Quebec Confidentiality Incidents Reg', 'Regulation respecting confidentiality incidents', 'CQLR c. P-39.1, r. 3.1', BREACH, { type: 'Regulation' }],
+    ['ca-qc-confidentiality-incidents-regs', 'Quebec Confidentiality Incidents Reg', 'Regulation respecting confidentiality incidents', 'CQLR c. A-2.1, r. 3.1', BREACH, { type: 'Regulation', url: 'https://www.legisquebec.gouv.qc.ca/en/document/cr/A-2.1,%20r.%203.1' }],
   ]),
   ...build('CA', 'Canada (Ontario)', 'Provincial', [
     ['ca-on-phipa', 'PHIPA', 'Personal Health Information Protection Act, 2004', 'S.O. 2004, c. 3, Sch. A', HEALTH, { url: onAct('04p03'), law: 'ca-on-phipa', eff: '2004-11-01' }],

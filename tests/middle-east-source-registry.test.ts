@@ -17,20 +17,21 @@ describe('Middle East legal source registry', () => {
     expect(source && 'note' in source ? source.note : undefined).toMatch(/does not verify|not verify/i);
   });
 
-  it('records UAE Arabic and ADGM consolidated primary source provenance without asserting model verification', () => {
-    const uae = fetchable('ae-pdpl');
-    const adgm = fetchable('ae-adgm-dpr');
+  it('retains UAE and ADGM canonical links while reporting inaccessible source texts honestly', () => {
+    const uae = REGISTRY.find((entry) => entry.id === 'ae-pdpl');
+    const adgm = REGISTRY.find((entry) => entry.id === 'ae-adgm-dpr');
+    const uaeCatalogue = INSTRUMENT_CATALOGUE.find((instrument) => instrument.id === 'ae-pdpl');
+    const adgmCatalogue = INSTRUMENT_CATALOGUE.find((instrument) => instrument.id === 'ae-adgm-dpr');
 
-    expect(uae?.parts?.[0]?.kind).toBe('pdf');
-    expect(uae?.parts?.[0]?.url).toContain('uaelegislation.gov.ae/ar/legislations/1972/download');
-    expect(uae?.expect?.length).toBeGreaterThan(0);
-    expect(uae && 'note' in uae ? uae.note : undefined).toMatch(/Arabic/i);
+    expect(uae && 'parts' in uae).toBe(false);
+    expect(uae && 'status' in uae ? uae.status : undefined).toBe('blocked');
+    expect(uaeCatalogue?.officialSourceUrl).toContain('uaelegislation.gov.ae');
+    expect(uae && 'note' in uae ? uae.note : undefined).toMatch(/prior text snapshot.*unverified/i);
 
-    expect(adgm?.parts?.[0]?.kind).toBe('pdf');
-    expect(adgm?.parts?.[0]?.url).toContain('ADGM1547_23167_VER992025.pdf');
-    expect(adgm?.expect).toEqual([]);
-    expect(adgm && 'note' in adgm ? adgm.note : undefined).toMatch(/August 2025/);
-    expect(adgm && 'note' in adgm ? adgm.note : undefined).toMatch(/independent review/i);
+    expect(adgm && 'parts' in adgm).toBe(false);
+    expect(adgm && 'status' in adgm ? adgm.status : undefined).toBe('blocked');
+    expect(adgmCatalogue?.officialSourceUrl).toContain('ADGM1547_23167_VER992025.pdf');
+    expect(adgm && 'note' in adgm ? adgm.note : undefined).toMatch(/prior text snapshot.*unverified/i);
   });
 
   it('records the DIFC publisher consolidation and cited amendment', () => {

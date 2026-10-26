@@ -219,7 +219,7 @@ export const ADAPTERS = {
   async xml({ url, officialUrl }) {
     return cached('xml:' + url, async () => {
       const r = ok(await politeFetch(url, { accept: 'application/xml,text/xml,*/*' }), url);
-      return { text: xmlToText(r.buf.toString('utf8')), url: officialUrl || url };
+      return { text: xmlToText(r.buf.toString('utf8')), url: officialUrl || url, requestedUrl: url, finalUrl: r.finalUrl };
     });
   },
 
@@ -227,15 +227,18 @@ export const ADAPTERS = {
   async html({ url, selector, drop, officialUrl, useSystemCa, encoding }) {
     return cached(url + '|' + selector, async () => {
       let buf;
+      let finalUrl;
       if (useSystemCa) {
         const { stdout } = await execFileAsync('curl', ['-sSL', '--max-time', '30', '-A', UA, url], { encoding: 'buffer', maxBuffer: 20 * 1024 * 1024 });
         if (stdout.length < 400) throw new Error(`${url}: curl returned ${stdout.length} bytes`);
         buf = stdout;
       } else {
-        buf = ok(await politeFetch(url), url).buf;
+        const r = ok(await politeFetch(url), url);
+        buf = r.buf;
+        finalUrl = r.finalUrl;
       }
       const rawHtml = encoding ? new TextDecoder(encoding).decode(buf) : buf.toString('utf8');
-      return { text: htmlToText(rawHtml, { selector, drop }), url: officialUrl || url };
+      return { text: htmlToText(rawHtml, { selector, drop }), url: officialUrl || url, requestedUrl: url, ...(finalUrl ? { finalUrl } : {}) };
     });
   },
 
@@ -261,7 +264,7 @@ export const ADAPTERS = {
     return cached(url, async () => {
       const r = ok(await politeFetch(url, { accept: 'application/pdf,*/*;q=0.8' }), url);
       if (!r.buf.subarray(0, 5).toString().startsWith('%PDF')) throw new Error(`${url}: not a PDF (${r.type})`);
-      return { text: await pdfToText(r.buf), url: officialUrl || url };
+      return { text: await pdfToText(r.buf), url: officialUrl || url, requestedUrl: url, finalUrl: r.finalUrl };
     });
   },
 };

@@ -4082,7 +4082,8 @@
    "sources": [
     {
      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/ce84f976-2fdf-4a76-a8c4-638b7ca9e3ba/Personal%2BData%2BEnglish.pdf?CACHEID=ROOTWORKSPACE-ce84f976-2fdf-4a76-a8c4-638b7ca9e3ba-oMcvYOB&CONVERT_TO=url&MOD=AJPERES",
-     "kind": "pdf"
+     "kind": "pdf",
+     "requestedUrl": "https://dgp.sdaia.gov.sa/wps/wcm/connect/ce84f976-2fdf-4a76-a8c4-638b7ca9e3ba/Personal%2BData%2BEnglish.pdf?CACHEID=ROOTWORKSPACE-ce84f976-2fdf-4a76-a8c4-638b7ca9e3ba-oMcvYOB&CONVERT_TO=url&MOD=AJPERES"
     }
    ],
    "contentCheck": "match",
@@ -4420,20 +4421,21 @@
    "contentCheck": "match"
   },
   "ca-nu-atipp": {
-   "status": "blocked",
+   "status": "fetched",
    "file": "ca-nu-atipp.txt",
-   "chars": 110897,
-   "sha256": "c437408162247aec41fe55ec15fd4a3803be187ec4cc9c6553f249fa205bf0bf",
-   "retrievedAt": "2026-10-26T03:27:14.563Z",
+   "chars": 110620,
+   "sha256": "2a7f3c1e6ee4d7a79295d7ae54515caae266e25a46dcebd0dab98a8df1b6aa17",
+   "retrievedAt": "2026-10-26T03:48:33.421Z",
    "sources": [
     {
-     "url": "https://www.justice.gov.nt.ca/en/files/legislation/access-to-information-and-protection-of-privacy/access-to-information-and-protection-of-privacy.a.pdf",
-     "kind": "a2aj"
+     "url": "https://www.nunavutlegislation.ca/en/consolidated-law/access-information-and-protection-privacy-act-consolidation",
+     "kind": "pdf",
+     "requestedUrl": "https://web.archive.org/web/20240501000000id_/https://www.nunavutlegislation.ca/en/file-download/download/public/684",
+     "finalUrl": "https://web.archive.org/web/20211218124130id_/https://www.nunavutlegislation.ca/en/file-download/download/public/684"
     }
    ],
    "contentCheck": "match",
-   "note": "The available fixture is byte-identical to the NWT text and its publisher URL identifies the NWT statute. The Nunavut adoption and current amendments have not been independently verified; retain the existing text as an unverified artifact, not as validated Nunavut source coverage.",
-   "sourceAuthorityMismatch": true
+   "note": "Nunavut Legislative Assembly official consolidation of the ATIPP Act (S.N.W.T. 1994, c. 20, as amended for Nunavut by Statutes of Nunavut) via Internet Archive."
   },
   "jp-appi": {
    "status": "fetched",
@@ -4444,18 +4446,28 @@
    "sources": [
     {
      "url": "https://laws.e-gov.go.jp/api/1/lawdata/415AC0000000057",
-     "kind": "xml"
+     "kind": "xml",
+     "requestedUrl": "https://laws.e-gov.go.jp/api/1/lawdata/415AC0000000057"
     }
    ],
    "contentCheck": "match",
    "note": "Japan, Act No. 57 of 2003. Current Japanese-language text from the official e-Gov Law API; English translations are separate and tentative, not authoritative. Phrase check identifies document text only."
   },
   "in-dpdp-act": {
-   "status": "failed",
-   "error": "https://www.meity.gov.in/static/uploads/2024/02/Digital-Personal-Data-Protection-Act-2023.pdf: HTTP 403, 480 bytes",
-   "lastFetchError": "https://www.meity.gov.in/static/uploads/2024/02/Digital-Personal-Data-Protection-Act-2023.pdf: HTTP 403, 480 bytes",
-   "lastAttemptAt": "2026-10-26T03:46:22.649Z",
-   "note": "India, Act No. 22 of 2023. Assented 11 August 2023; commencement is phased under Gazette notification G.S.R. 843(E), 13 November 2025. Phrase check identifies document text only and does not verify commencement or legal effect."
+   "status": "fetched",
+   "file": "in-dpdp-act.txt",
+   "chars": 63617,
+   "sha256": "1b5a78d4882da19b909757cbb18b2517d131c4956cc87ea679c839acc46a3a4e",
+   "retrievedAt": "2026-10-26T03:47:13.215Z",
+   "sources": [
+    {
+     "url": "https://www.meity.gov.in/static/uploads/2024/02/Digital-Personal-Data-Protection-Act-2023.pdf",
+     "kind": "pdf",
+     "requestedUrl": "https://web.archive.org/web/20250901000000id_/https://www.meity.gov.in/static/uploads/2024/02/Digital-Personal-Data-Protection-Act-2023.pdf"
+    }
+   ],
+   "contentCheck": "match",
+   "note": "India, Act No. 22 of 2023 (via Internet Archive). Assented 11 August 2023; commencement is phased under Gazette notification G.S.R. 843(E), 13 November 2025. Phrase check identifies document text only and does not verify commencement or legal effect."
   },
   "au-privacy-act": {
    "status": "fetched",
@@ -4466,14 +4478,15 @@
    "sources": [
     {
      "url": "https://www.legislation.gov.au/C2004A03712/2026-06-04/2026-06-04/text/original/epub/OEBPS/document_1/document_1.html",
-     "kind": "html"
+     "kind": "html",
+     "requestedUrl": "https://www.legislation.gov.au/C2004A03712/2026-06-04/2026-06-04/text/original/epub/OEBPS/document_1/document_1.html"
     }
    ],
    "contentCheck": "match",
    "note": "Australia, Privacy Act 1988 (Cth), compilation 104 (C2026C00227), compilation date 4 June 2026. Pinned compilation; uncommenced amendments are not included in compiled text. Phrase check identifies document text only."
   },
   "ae-pdpl": {
-   "status": "fetched",
+   "status": "blocked",
    "file": "ae-pdpl.txt",
    "chars": 32059,
    "sha256": "b2e694bb462704cea63717ec4202fd9822a5324c79cffe8e332627d1888922e9",
@@ -4485,10 +4498,12 @@
     }
    ],
    "contentCheck": "match",
-   "note": "UAE official legislation portal primary Arabic text for Federal Decree-Law No. 45 of 2021 (via Internet Archive). Arabic text only; phrase check identifies document text only and does not imply translation or legal-status verification."
+   "note": "The UAE official legislation portal rejected a current download (HTTP 403). A prior text snapshot remains in the source directory, but its retrieval path and legal currency are unverified; the snapshot is not treated as verified current source.",
+   "error": "Official publisher refused automated text access; canonical source link is retained.",
+   "unverifiedSnapshot": true
   },
   "ae-adgm-dpr": {
-   "status": "fetched",
+   "status": "blocked",
    "file": "ae-adgm-dpr.txt",
    "chars": 137848,
    "sha256": "c722a71454e79b04babc6f24fc0eb186515c9f1ef451105b0d3a00b6848806c8",
@@ -4500,7 +4515,9 @@
     }
    ],
    "contentCheck": "match",
-   "note": "Official ADGM legal database consolidated text, February 2024 (via Internet Archive). Phrase check identifies document text only; amendments, current status, and legal interpretation require independent review."
+   "note": "The ADGM legal database rejected a current consolidated-text download (HTTP 403). A prior text snapshot remains in the source directory, but its retrieval path and legal currency are unverified; the snapshot is not treated as verified current source.",
+   "error": "Official publisher refused automated text access; canonical source link is retained.",
+   "unverifiedSnapshot": true
   },
   "ae-difc-dpl": {
    "status": "fetched",
@@ -4511,12 +4528,13 @@
    "sources": [
     {
      "url": "https://assets.difc.com/v1/media/edge/images/dubaiintern0078-difcexperie96c5-production-3253/media/project/difcexperiences/difc/difcwebsite/documents/laws--regulations/data-protection-law.pdf",
-     "kind": "pdf"
+     "kind": "pdf",
+     "requestedUrl": "https://assets.difc.com/v1/media/edge/images/dubaiintern0078-difcexperie96c5-production-3253/media/project/difcexperiences/difc/difcwebsite/documents/laws--regulations/data-protection-law.pdf"
     }
    ],
    "contentCheck": "match",
    "note": "DIFC publisher consolidated text, July 2025. The published consolidation states it includes DIFC Laws Amendment Law No. 1 of 2025; phrase check identifies document text only and does not independently determine current legal status or interpretation."
   }
  },
- "generatedAt": "2026-10-26T03:46:39.932Z"
+ "generatedAt": "2026-10-26T03:48:33.422Z"
 }
