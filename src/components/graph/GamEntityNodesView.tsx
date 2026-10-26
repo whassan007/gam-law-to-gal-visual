@@ -895,21 +895,13 @@ export const GamEntityNodesView: React.FC<GamEntityNodesViewProps> = ({
               <div
                 key={concept.id}
                 data-testid={`unmapped-concept-${concept.id}`}
-                onClick={() =>
-                  onHighlightSpan({
-                    start: concept.sourceSpan.start,
-                    end: concept.sourceSpan.end,
-                  })
-                }
-                role="button"
-                tabIndex={0}
+                onClick={() => concept.sourceSpan && onHighlightSpan({ start: concept.sourceSpan.start, end: concept.sourceSpan.end })}
+                role={concept.sourceSpan ? 'button' : undefined}
+                tabIndex={concept.sourceSpan ? 0 : undefined}
                 onKeyDown={(e) => {
-                  if (e.key === 'Enter' || e.key === ' ') {
+                  if (concept.sourceSpan && (e.key === 'Enter' || e.key === ' ')) {
                     e.preventDefault();
-                    onHighlightSpan({
-                      start: concept.sourceSpan.start,
-                      end: concept.sourceSpan.end,
-                    });
+                    onHighlightSpan({ start: concept.sourceSpan.start, end: concept.sourceSpan.end });
                   }
                 }}
                 className="flex flex-col justify-between gap-1.5 rounded-lg border border-amber-500/30 bg-slate-950/75 p-2.5 text-left transition hover:border-amber-400/60 cursor-pointer"
@@ -928,7 +920,7 @@ export const GamEntityNodesView: React.FC<GamEntityNodesViewProps> = ({
                 <div className="flex items-center justify-between text-[10px] font-mono text-slate-400">
                   <span>id: {concept.id}</span>
                   <span className="text-amber-300">
-                    span [{concept.sourceSpan.start}..{concept.sourceSpan.end}]
+                    {concept.sourceSpan ? `span [${concept.sourceSpan.start}..${concept.sourceSpan.end}]` : 'No source span available'}
                   </span>
                 </div>
               </div>

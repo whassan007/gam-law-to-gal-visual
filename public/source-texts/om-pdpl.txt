@@ -1,0 +1,301 @@
+Consolidated Text Arabic Toolkit
+
+We, Haitham bin Tarik, the Sultan of Oman
+
+after perusal of the Basic Statute of the State,
+
+the Electronic Transactions Law promulgated by Royal Decree 69/2008,
+
+and Royal‌ ‌Decree‌ ‌64/2020‌ ‌Establishing‌ ‌the‌ ‌Cyber‌ ‌Defence‌ ‌Centre‌ ‌and‌ ‌Issuing‌ ‌Its‌ ‌System‌,
+
+and after presentation to Majlis Oman,
+
+and in pursuance of public interest,
+
+have decreed as follows
+
+Article I
+
+The attached Personal Data Protection Law shall apply.
+
+Article II
+
+The Minister of Transport, Communications, and Information Technology shall issue the executive regulation of the attached law and shall also issue the necessary decisions for implementing its provisions, and until they are issued, the existing regulations and decisions continue to operate to the degree that they do not contradict with it.
+
+Article III
+
+Chapter seven of the aforementioned Electronic Transactions Law is hereby repealed, as well as all that is contrary to the attached law or in conflict with its provisions.
+
+Article IV
+
+This decree shall be published in the Official Gazette, and comes into force after the lapse of one year from the date of its issuance.
+
+Issued on: 7 Rajab 1443
+
+Corresponding to: 9 February 2022
+
+Haitham bin Tarik
+
+Sultan of Oman
+
+Published in Official Gazette 1429 issued on 13 February 2022.
+
+The Personal Data Protection Law
+
+Chapter One
+
+Definitions and General Provisions
+
+Article 1
+
+In the application of the provisions of this law, the following words and phrases have the meaning assigned to each of them, unless the context requires otherwise:
+
+Ministry: The Ministry of Transport, Communications, and Information Technology.
+
+Minister: The Minister of Transport, Communications, and Information Technology.
+
+Personal data: Data that identifies a natural person or makes him identifiable, directly or indirectly, by reference to one or more identifiers such as the name, civil number, or electronic identifiers data or spatial data, or by reference to one or more factors specific to the genetic, physical, mental, psychological, social, cultural, or economic identity.
+
+Genetic data: Personal data relating to the inherited or acquired genetic characteristics, and which result from an analysis of a biological sample.
+
+Biometric data: Personal data resulting from specific technical processing relating to the physical, psychological, or behavioural characteristics such as the facial image or the genetic fingerprint data.
+
+Health data: Personal data relating to physical, mental, and psychological health.
+
+Processing: An operation or a set of operations performed on personal data that include its collection, recording, analysing, organising, storage, alteration or adaptation, retrieval, consultation, alignment, combination, blocking, erasure, destruction, or disclosure by transmission, dissemination, transportation, transferring, or otherwise making available.
+
+Data subject: The natural person who is identifiable through his personal data.
+
+Controller: The person who determines the purpose and means of the processing of personal data, and carries out this processing himself or entrusts it to someone else.
+
+Processor: The person who processes personal data on behalf of the controller.
+
+Regulation: The executive regulation of this law.
+
+Article 2
+
+The provisions of this law apply to personal data that is processed.
+
+Article 3
+
+The provisions of this law do not apply to the processing of personal data carried out in the following cases:
+
+(a) Protection of national security or public interest.
+
+(b) Implementation of the units of the administrative apparatus of the state and other public legal persons of the competences prescribed to them by law.
+
+(c) Implementation of a legal obligation imposed on the controller by virtue of any law, judgment, or decision by the court.
+
+(d) Protection of the economic and financial interests of the state.
+
+(e) Protection of a vital interest of the data subject.
+
+(f) Detection or prevention of a crime on the basis of a formal written request by the investigation entities.
+
+(g) Execution of a contract to which the data subject is a party.
+
+(h) If the processing is within the personal or family sphere.
+
+(i) For the purposes of historical, statistical, scientific, literary, or economic research, by entities authorised to carry out such works, provided that no indication or reference relating to the data subject is used in the published research and statistics, to guarantee that the personal data is not attributed to an identified or identifiable natural person.
+
+(j) If the data is available to the public in a manner that is not contrary to the provisions of this law.
+
+Article 4
+
+Personal data is deemed protected by virtue of the provisions of this law.
+
+Article 5
+
+It is prohibited to process personal data relating to genetic data, biometric data, health data, racial origin, sex life, political or religious opinions, philosophical beliefs, criminal convictions, or those relating to security measures, except after obtaining a permit for this from the ministry, in accordance with the controls and procedures determined by the regulation.
+
+Article 6
+
+It is prohibited to process personal data of a child except with the approval of his guardian, unless such processing is in the best interest of the child, in accordance with the controls and procedures determined by the regulation.
+
+Chapter Two
+
+Duties and Powers of the Ministry
+
+Article 7
+
+Without prejudice to the competences prescribed to the Cyber Defence Centre, the ministry shall undertake the responsibility of implementing the provisions of this law, and in particular the following:
+
+(a) Preparing and adopting the controls and procedures relating to the protection of personal data, including determining the necessary safeguards, required measures, and code of conduct relating to the protection of personal data.
+
+(b) Issuing the necessary controls and procedures for processing personal data and verifying the compliance of the controller and processor with them.
+
+(c) Receiving reports and complaints filed by data subjects and deciding on them, within the period determined by the regulation.
+
+(d) Cooperating with the entities competent with the protection of personal data in other states.
+
+(e) Providing advice and support to, and coordinating with, units of the administrative apparatus of the state and other public legal persons in any matter relating to the protection of personal data.
+
+(f) Issuing and revoking licences to service providers entrusted with studying and evaluating the compliance of the controller and the processor with the provisions of this law, in accordance with the controls and provisions determined by the regulation.
+
+(g) Preparing guidance forms for the purpose of the implementation of the provisions of this law, whenever necessary.
+
+(h) Preparing periodic reports on its activity in the field of the protection of personal data, and publishing them on its website.
+
+(i) Preparing a register in which controllers and processors who meet the prescribed conditions are recorded, in the manner determined by the regulation.
+
+Article 8
+
+The ministry shall, for the purpose of protecting the rights of data subjects, undertake any of the following measures:
+
+(a) Warning the controller or processor for committing a violation of the provisions of this law.
+
+(b) Ordering a rectification and erasure of personal data processed in violation of the provisions of this law.
+
+(c) Suspending the processing of personal data temporarily or permanently.
+
+(d) Suspending the transfer of personal data to another state or an international organisation.
+
+(e) Any other measure it deems necessary for the protection of personal data, in the manner determined by the regulation.
+
+Article 9
+
+Employees of the ministry identified by a decision issued by the competent entity, in agreement with the minister, shall have judicial enforcement status in application of the provisions of this law, the regulation, and the decisions issued in its implementation.
+
+Chapter Three
+
+Rights of the Data Subject
+
+Article 10
+
+It is not permitted to process personal data except within the framework of transparency, honesty, and respect for human dignity, and after the explicit consent of the data subject.
+
+The request for processing personal data must be written in a clear, explicit, and understandable manner. The controller shall prove the written consent of the data subject to process his data.
+
+Article 11
+
+The data subject has the right to the following:
+
+(a) Revoke his consent to the processing of his personal data, without prejudice to the processing that took place prior to the revocation.
+
+(b) Request to have his personal data amended, updated, or blocked.
+
+(c) Obtain a copy of his processed personal data.
+
+(d) Transfer his personal data to another controller.
+
+(e) Request the erasure of his personal data unless such processing is necessary for the purposes of national archiving and documentation.
+
+(f) Be notified of any breach or infringement of his personal data, and of the actions taken in this regard.
+
+The regulation shall determine the controls and procedures for the exercise of these rights.
+
+Article 12
+
+The data subject has the right to submit a complaint to the ministry if he sees or considers that the processing of his personal data is not in compliance with the provisions of this law, in accordance with the controls and procedures determined by the regulation.
+
+Chapter Four
+
+Obligations of the Controller and the Processor
+
+Article 13
+
+The controller shall put in place the controls and procedures required to be complied with when processing personal data, and they shall include in particular the following:
+
+(a) Determining the risks that the data subject will be exposed to as a result of the processing.
+
+(b) The procedures and controls for transporting and transferring personal data.
+
+(c) The technical and procedural measures to guarantee the implementation of the processing in accordance with the provisions of this law.
+
+(d) Any other controls or procedures determined by the regulation.
+
+Article 14
+
+The controller shall, prior to processing any personal data, notify the data subject in writing of the following:
+
+(a) The details of the controller and the processor.
+
+(b) The contact details of the personal data protection officer.
+
+(c) The purpose for processing personal data and the source from which it is collected.
+
+(d) A comprehensive and accurate description of the processing and its procedures, and the degrees of disclosure of personal data.
+
+(e) The rights of the data subject, including the right to access the data, rectify it, transport it, and update it.
+
+(f) Any other information that may be necessary to fulfil the conditions for processing.
+
+Article 15
+
+The controller and processor shall abide by the controls and procedures prescribed by the ministry to ensure that the processing of personal data is done in accordance with the provisions of this law.
+
+Article 16
+
+The controller and the processor shall—on the basis of a request by the ministry—appoint an external auditor to verify that the processing of personal data is done in accordance with the provisions of this law and in accordance with the procedures and controls of the controller stipulated in article 13 of this law, and the regulation shall determine the controls and procedures for appointing the external auditor.
+
+The controller and the processor shall also provide the ministry with a copy of the report of the external auditor.
+
+Article 17
+
+The controller and processor shall retain the documents of the data processing operations, in accordance with the periods and procedures determined by the regulation.
+
+Article 18
+
+The controller and the processor shall cooperate with the ministry and provide the data and documents it requests and deems necessary to exercise its competences in accordance with the provisions of this law, within the period determined by the regulation.
+
+Article 19
+
+The controller shall, in the event of a personal data breach that leads to its destruction, alteration, disclosure, access, or processing in an illegal manner, notify the ministry and the data subject of the breach, in accordance with the controls and procedures determined by the regulation.
+
+Article 20
+
+The controller shall identify a personal data protection officer, and the regulation shall determine the controls for selecting this officer and his duties.
+
+Article 21
+
+The controller shall guarantee the confidentiality of personal data and its non-publication except with the prior consent of the data subject, in the manner determined by the regulation.
+
+Article 22
+
+The controller shall obtain the written consent of the data subject prior to transmitting any advertising or marketing material of a commercial nature, in the manner determined by the regulation.
+
+Article 23
+
+Without prejudice to the competences prescribed to the Cyber Defence Centre, the controller may transport personal data and permit its transfer outside the borders of the Sultanate of Oman, in accordance with the controls and procedures determined by the regulation.
+
+He is prohibited from transporting personal data if it has been processed in violation of the provisions of this law, or if it would cause harm to the data subject.
+
+Chapter Five
+
+Punishments
+
+Article 24
+
+Without prejudice to any punishment more severe stipulated in the Penal Law or any other law, the crimes specified in this law are punished with the punishments stipulated in it.
+
+Article 25
+
+Whoever violates the provisions of article 14 of this law shall be punished by a fine no less than 500 (five hundred) Rial Omani and not exceeding 2,000 (two thousand) Rial Omani.
+
+Article 26
+
+Whoever violates the provisions of articles 15, 16, 17, 18, 20, and 22 of this law shall be punished by a fine no less than 1,000 (one thousand) Rial Omani and not exceeding 5,000 (five thousand) Rial Omani.
+
+Article 27
+
+Whoever violates the provisions of article 13 of this law shall be punished by a fine no less than 5,000 (five thousand) Rial Omani and not exceeding 10,000 (ten thousand) Rial Omani.
+
+Article 28
+
+Whoever violates the provisions of articles 5, 6, 19, and 21 of this law shall be punished by a fine no less than 15,000 (fifteen thousand) Rial Omani and not exceeding 20,000 (twenty thousand) Rial Omani.
+
+Article 29
+
+Whoever violates the provisions of article 23 of this law shall be punished by a fine no less than 100,000 (one hundred thousand) Rial Omani and not exceeding 500,000 (five hundred thousand) Rial Omani.
+
+Article 30
+
+Without prejudice to the criminal liability of natural persons, the legal person shall be punished by a fine no less than 5,000 (five thousand) Rial Omani and not exceeding 100,000 (one hundred thousand) Rial Omani, if the crime is committed in its name or for its account by the chairman or a member of its board of directors, its manager, or any other official by its approval, or under its concealment or gross negligence.
+
+Article 31
+
+The competent court may, within the scope of implementing the provisions of this law, rule, in addition to the fine, to confiscate the tools used in committing the crime.
+
+Article 32
+
+Without prejudice to the punishments prescribed in this law, the ministry may impose administrative penalties for offences committed in violation of the provisions of this law, its regulation, or the decisions issued in its implementation, provided that the administrative fine does not exceed 2,000 (two thousand) Rial Omani.

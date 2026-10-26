@@ -1,0 +1,2923 @@
+© Published by Alberta King’s Printer
+Alberta King’s Printer
+Suite 700, Park Plaza
+10611 - 98 Avenue
+Edmonton, AB T5K 2P7
+Phone: 780-427-4952
+E-mail: kings-printer@gov.ab.ca
+Shop on-line at kings-printer.alberta.ca
+Province of Alberta
+Office Consolidation
+Statutes of Alberta, 2024
+Chapter A-1.4
+Current as of December 18, 2025
+ACCESS TO INFORMATION ACT
+Copyright and Permission Statement
+The Government of Alberta, through the Alberta King’s Printer, holds copyright
+for all Alberta legislation. Alberta King’s Printer permits any person to reproduce
+Alberta’s statutes and regulations without seeking permission and without charge,
+provided due diligence is exercised to ensure the accuracy of the materials
+produced, and copyright is acknowledged in the following format:
+© Alberta King’s Printer, 20__.*
+*The year of first publication of the legal materials is to be completed.
+Note
+All persons making use of this consolidation are reminded that it has no
+legislative sanction, that amendments have been embodied for convenience of
+reference only. The official Statutes and Regulations should be consulted for all
+purposes of interpreting and applying the law.
+Amendments Not in Force
+This consolidation incorporates only those amendments in force on the
+consolidation date shown on the cover. It does not include the following
+amendments:
+2025 c10 s1 amends s1(i).
+Regulations
+The following is a list of the regulations made under the Access to Information
+Act that are filed as Alberta Regulations under the Regulations Act
+Alta. Reg. Amendments
+Access to Information Act
+Access to Information Act...........................133/2025
+Designation of Public Bodies ......................144/2025 ............ 1/2026, 172/2026,
+224/2026
+1
+ACCESS TO INFORMATION ACT
+Chapter A-1.4
+Table of Contents
+1 Definitions
+2 Purposes of this Act
+3 Scope of this Act
+4 Records to which this Act applies
+5 Relationship to other Acts
+Part 1
+Freedom of Information
+Division 1
+Obtaining Access to Records
+6 Information rights
+7 How to make a request
+8 Requests by public bodies
+9 Power to disregard requests
+10 Abandoned request
+11 Continuing request
+12 Duty to assist applicants
+13 Time limit for responding
+14 Contents of response
+15 How access will be given
+16 Extending time limit for responding
+17 Transferring a request
+18 Request under section 7 deemed to be a request under HIA
+Division 2
+Exceptions to Disclosure
+19 Disclosure harmful to business interests of a third party
+20 Disclosure harmful to personal privacy
+21 Disclosure harmful to individual or public safety
+22 Confidential evaluations
+23 Disclosure harmful to law enforcement
+2024
+Chapter A-1.4
+2
+ACCESS TO INFORMATION ACT
+24 Workplace investigations
+25 Disclosure and complaints
+26 Disclosure harmful to intergovernmental relations
+27 Cabinet and Treasury Board confidences
+28 Local public body confidences
+29 Advice from officials
+30 Disclosure harmful to economic and
+other interests of a public body
+31 Testing procedures, tests and audits
+32 Privileged information
+33 Disclosure harmful to conservation of heritage sites, etc.
+34 Information that is or will be available to the public
+Division 3
+Third Party Intervention
+35 Notifying third parties
+36 Time limit and notice of decision
+Division 4
+Public Health and Safety
+37 Information must be disclosed if in the public interest
+Part 2
+Office and Powers of Information
+and Privacy Commissioner
+38 Definition
+39 Appointment of Commissioner
+40 Term of office
+41 Resignation, removal or suspension of Commissioner
+42 Acting Commissioner
+43 Remuneration
+44 Oath
+45 Office of the Commissioner
+46 Financing of operations
+47 Records management
+48 General powers of Commissioner
+49 Advice and recommendations
+50 Powers of Commissioner in conducting
+investigations or inquiries
+51 Statements made to Commissioner not
+admissible in evidence
+52 Privileged information
+2024
+Chapter A-1.4
+3
+ACCESS TO INFORMATION ACT
+53 Restrictions on disclosure of information by
+Commissioner and staff
+54 Protection of Commissioner and staff
+55 Delegation by Commissioner
+56 Role of Ombudsman
+57 Annual report of Commissioner
+Part 3
+Reviews and Complaints
+Division 1
+Reviews by Commissioner
+58 Right to ask for review by Commissioner
+59 How to ask for review by Commissioner
+60 Notifying others of review by Commissioner
+61 Mediation may be authorized
+62 Inquiry by Commissioner
+63 Burden of proof
+64 Commissioner’s orders
+65 No appeal
+66 Duty to comply with orders
+Division 2
+Reviews of Decisions of the Registrar
+of Motor Vehicle Services
+67 Definitions
+68 Right to ask for review by Commissioner
+69 How to ask for review by Commissioner
+70 Notifying others of review by Commissioner
+71 Inquiry by Commissioner
+72 Refusal to conduct inquiry
+73 Commissioner’s orders
+74 No appeal
+75 Duty to comply with orders
+76 Application of other sections
+Division 3
+Investigations and Reviews by
+Independent Adjudicator
+77 Independent adjudicator to investigate
+complaints and review decisions
+78 Powers, duties, functions and protections
+of independent adjudicator
+79 Right to ask for review by independent adjudicator
+2024
+Section 1 Chapter A-1.4
+4
+ACCESS TO INFORMATION ACT
+80 Review where Commissioner in conflict
+81 How to ask for review by independent adjudicator
+82 Notifying others of review by independent adjudicator
+83 Conduct and outcome of review
+Division 4
+Disclosure to Commissioner
+84 Disclosure to Commissioner
+Part 4
+General Provisions
+85 Manner of giving notice
+86 Exercise of rights by other persons
+87 Delegation by head of public body
+88 Annual report of Minister
+89 Directory of public bodies
+90 Records available without request
+91 Access to manuals, handbooks and guidelines
+92 No right to request publicly available records
+93 Protection of public body from legal suit
+94 Protection of employee
+95 Offences and penalties
+96 Fees
+97 Power to make regulations
+98 Power to make bylaws
+99 Application of this Act
+100 Review of Act
+Part 5
+Transitional Provisions, Repeal
+and Coming into Force
+101 Transitional
+102 Repeal
+103 Coming into force
+HIS MAJESTY, by and with the advice and consent of the
+Legislative Assembly of Alberta, enacts as follows:
+Definitions
+1 In this Act,
+(a) “applicant” means a person who makes a request for access
+to a record under section 7(1);
+2024
+Section 1 Chapter A-1.4
+5
+ACCESS TO INFORMATION ACT
+(b) “biometric information” means information derived from an
+individual’s unique measurable characteristics;
+(c) “business day” means a day other than
+(i) a Saturday,
+(ii) a holiday, or
+(iii) a day when Government of Alberta offices are closed as
+part of the Government of Alberta’s Christmas closure;
+(d) “Commissioner” means the Information and Privacy
+Commissioner appointed under Part 2;
+(e) “educational body” means
+(i) a university as defined in the Post-secondary Learning
+Act,
+(ii) a polytechnic institution as defined in the
+Post-secondary Learning Act,
+(iii) a comprehensive community college as defined in the
+Post-secondary Learning Act,
+(iv) the Banff Centre as defined in the Post-secondary
+Learning Act,
+(v) a board as defined in the Education Act,
+(vi) a charter school as defined in the Education Act, or
+(vii) a Francophone regional authority as defined in the
+Education Act;
+(f) “electronic record” means a record that exists at the time a
+request for access is made or that is routinely generated by a
+public body that can be any combination of texts, graphics,
+data, audio, pictorial or other information represented in a
+digital form that is created, maintained, archived, retrieved
+or distributed by a computer system;
+(g) “employee”, in relation to a public body, includes a person
+who performs a service for the public body as an appointee,
+volunteer or student or under a contract or agency
+relationship with the public body;
+(h) “head”, in relation to a public body, means,
+2024
+Section 1 Chapter A-1.4
+6
+ACCESS TO INFORMATION ACT
+(i) if the public body is a department, branch or office of the
+Government of Alberta, the member of the Executive
+Council who presides over it,
+(ii) if the public body is an agency, board, commission,
+corporation, office or other body designated as a public
+body in the regulations, the person designated by the
+member of the Executive Council responsible for that
+body to act as the head of that body or, if a head is not so
+designated, the person who acts as the chief officer and
+is charged with the administration and operation of that
+body,
+(iii) if the public body is a local public body, the person or
+group of persons designated under section 98(a) as the
+head of the public body, and
+(iv) in any other case, the chief officer of the public body;
+(i) “health care body” means
+(i) a hospital operator of a health services sector in an
+approved hospital under the Provincial Health Agencies
+Act, other than a hospital operator that is a provincial
+health agency, regional health authority or provincial
+health corporation under the Provincial Health Agencies
+Act,
+(ii) the Health Quality Council of Alberta,
+(iii) a provincial health agency under the Provincial Health
+Agencies Act,
+(iv) a provincial health corporation under the Provincial
+Health Agencies Act,
+(v) a regional health authority under the Provincial Health
+Agencies Act,
+(vi) a community health council established under the
+Provincial Health Agencies Act,
+(vii) a subsidiary health corporation as defined in the
+Provincial Health Agencies Act, or
+(viii) the Canadian Centre of Recovery Excellence;
+(j) “independent adjudicator” means a person designated under
+section 77;
+2024
+Section 1 Chapter A-1.4
+7
+ACCESS TO INFORMATION ACT
+(k) “information” means content contained in a record;
+(l) “law enforcement” means
+(i) policing, including criminal intelligence operations,
+(ii) a police, security or administrative investigation,
+including the complaint giving rise to the investigation,
+that leads or could lead to a penalty or sanction,
+including a penalty or sanction imposed by the body
+conducting the investigation or by another body to which
+the results of the investigation are referred, or
+(iii) proceedings that lead or could lead to a penalty or
+sanction, including a penalty or sanction imposed by the
+body conducting the proceedings or by another body to
+which the results of the proceedings are referred;
+(m) “local government body” means
+(i) a municipality as defined in the Municipal Government
+Act,
+(ii) an improvement district under the Municipal
+Government Act,
+(iii) a special area as defined in the Special Areas Act,
+(iv) a regional services commission as defined in the
+Municipal Government Act,
+(v) a growth management board as defined in the Municipal
+Government Act,
+(vi) a board established under the Drainage Districts Act,
+(vii) a board established under the Irrigation Districts Act,
+(viii) a management body as defined in the Alberta Housing
+Act,
+(ix) a Metis settlement,
+(x) the Metis Settlements General Council established under
+the Metis Settlements Act,
+(xi) any
+(A) commission,
+2024
+Section 1 Chapter A-1.4
+8
+ACCESS TO INFORMATION ACT
+(B) police service, or
+(C) policing committee,
+as defined in the Police Act,
+(xii) any municipal library board, library system board or
+intermunicipal library board continued or established
+under the Libraries Act, or
+(xiii) any board, committee, commission, panel, agency or
+corporation that is created or owned by a body referred
+to in subclauses (i) to (xii) and all the members or
+officers of which are appointed or chosen by that body,
+but does not include EPCOR Utilities Inc. or ENMAX
+Corporation or any of their respective subsidiaries
+(A) that own a gas utility as defined in the Gas Utilities
+Act,
+(B) that own a generating unit, transmission facility or
+electric distribution system as defined in the Electric
+Utilities Act, or
+(C) whose primary business activity consists of
+providing electricity services as defined in the
+Electric Utilities Act;
+(n) “local public body” means
+(i) an educational body,
+(ii) a health care body, or
+(iii) a local government body;
+(o) “Minister” means the Minister determined under section 16
+of the Government Organization Act as the Minister
+responsible for this Act;
+(p) “offence” means an offence under an enactment of Alberta
+or Canada;
+(q) “officer of the Legislature” means the Auditor General, the
+Ombudsman, the Chief Electoral Officer, the Ethics
+Commissioner, the Information and Privacy Commissioner,
+the Child and Youth Advocate or the Public Interest
+Commissioner;
+2024
+Section 1 Chapter A-1.4
+9
+ACCESS TO INFORMATION ACT
+(r) “personal information” means recorded information about
+an identifiable individual, including
+(i) the individual’s name, home or business address, home
+or business telephone number, home or business email
+address or other contact information, except where the
+individual has provided the information on behalf of the
+individual’s employer or principal, in the individual’s
+capacity as an employee or agent,
+(ii) the individual’s race, national or ethnic origin, colour or
+religious or political beliefs or associations,
+(iii) the individual’s age, gender identity, sex, sexual
+orientation, marital status or family status,
+(iv) an identifying number, symbol or other particular
+assigned to the individual,
+(v) the individual’s fingerprints, other biometric
+information, blood type, genetic information or
+inheritable characteristics,
+(vi) information about the individual’s health and health care
+history, including information about the individual’s
+physical or mental health,
+(vii) information about the individual’s educational, financial,
+employment or criminal history, including criminal
+records where a pardon has been given,
+(viii) anyone else’s opinions about the individual, and
+(ix) the individual’s personal views or opinions, except if
+they are about someone else;
+(s) “prescribed” means prescribed by the regulations;
+(t) “public body” means
+(i) a department, branch or office of the Government of
+Alberta,
+(ii) an agency, board, commission, corporation, office or
+other body designated as a public body in the
+regulations,
+(iii) the Executive Council Office,
+(iv) the office of a member of the Executive Council,
+2024
+Section 2 Chapter A-1.4
+10
+ACCESS TO INFORMATION ACT
+(v) the Legislative Assembly Office,
+(vi) the office of the Auditor General, the Ombudsman, the
+Chief Electoral Officer, the Ethics Commissioner, the
+Information and Privacy Commissioner, the Child and
+Youth Advocate or the Public Interest Commissioner, or
+(vii) a local public body,
+but does not include
+(viii) the office of the Speaker of the Legislative Assembly
+and the office of a Member of the Legislative Assembly,
+or
+(ix) the Court of Appeal, the Court of King’s Bench or the
+Court of Justice;
+(u) “record” means any electronic record or other record in any
+form in which information is contained or stored, including
+information in any written, graphic, electronic, digital,
+photographic, audio or other medium, but does not include
+any software or other mechanism used to store or produce
+the record;
+(v) “third party” means a person, a group of persons or an
+organization other than an applicant or a public body;
+(w) “trade secret” means information, a formula, a pattern, a
+compilation, a program, a device, a product, a method, a
+technique or a process
+(i) that is used, or may be used, in business or for any
+commercial purpose,
+(ii) that derives independent economic value, actual or
+potential, from not being generally known to anyone
+who can obtain economic value from its disclosure or
+use,
+(iii) that is the subject of reasonable efforts to prevent it from
+becoming generally known, and
+(iv) the disclosure of which would result in significant harm
+or undue financial loss or gain. 2024 cA-1.4 s1;2025 c10 s1
+Purposes of this Act
+2 The purposes of this Act are
+2024
+Section 3 Chapter A-1.4
+11
+ACCESS TO INFORMATION ACT
+(a) to allow any person a right of access to the records in the
+custody or under the control of a public body subject to
+limited and specific exceptions as set out in this Act,
+(b) to allow individuals, subject to limited and specific
+exceptions as set out in this Act, a right of access to personal
+information about themselves that is held by a public body,
+and
+(c) to provide for independent reviews of decisions made by
+public bodies under this Act and the resolution of
+complaints under this Act.
+Scope of this Act
+3 This Act
+(a) is in addition to and does not replace existing procedures for
+access to information or records,
+(b) does not affect access to records deposited in
+(i) the Provincial Archives of Alberta, or
+(ii) the archives of a public body
+that were unrestricted before the coming into force of this
+Act,
+(c) does not limit the information otherwise available by law to
+a party to legal proceedings,
+(d) does not affect the power of any court or tribunal in Canada
+to compel a witness to testify or to compel the production of
+documents, and
+(e) does not prohibit the transfer, storage or destruction of a
+record in accordance with
+(i) an enactment of Alberta or Canada, or
+(ii) a bylaw, resolution or other legal instrument by which a
+local public body acts or, if a local public body does not
+have a bylaw, resolution or other legal instrument in
+respect of the transfer, storage or destruction of a record,
+as authorized by the governing body of the local public
+body.
+Records to which this Act applies
+4(1) This Act applies to all records in the custody or under the
+control of a public body, but does not apply to the following:
+2024
+Section 4 Chapter A-1.4
+12
+ACCESS TO INFORMATION ACT
+(a) information in a court file, court database or any other
+record system used by a court, a record of a judge of the
+Court of Appeal, the Court of King’s Bench or the Court of
+Justice, a record of an applications judge of the Court of
+King’s Bench, a record of a justice of the peace other than a
+non-presiding justice of the peace under the Justice of the
+Peace Act, a judicial administration record or a record
+relating to support services provided to the judges of any of
+the courts referred to in this clause;
+(b) a personal note, communication or draft decision created by
+or on behalf of a person acting in a judicial or quasi‑judicial
+capacity, including any authority designated by the
+Lieutenant Governor in Council to which the Administrative
+Procedures and Jurisdiction Act applies;
+(c) a quality assurance record as defined in section 9 of the
+Alberta Evidence Act;
+(d) a record that is created by or on behalf of or is in the
+custody or under the control of an officer of the Legislature
+and relates to the exercise of that officer’s functions under
+an Act of Alberta;
+(e) information that is collected by or on behalf of or is in the
+custody or under the control of the Ethics Commissioner
+and relates to the disclosure statements of deputy ministers
+and other senior officers that have been filed with the Ethics
+Commissioner;
+(f) information that is collected by or on behalf of or is in the
+custody or under the control of the Ethics Commissioner
+and relates to the disclosure statements of designated senior
+officials that have been filed with the Ethics Commissioner
+under Part 4.3 of the Conflicts of Interest Act;
+(g) a record that is created by or on behalf of or is in the
+custody or under the control of the Ethics Commissioner
+and relates to any advice relating to conflicts of interest
+whether or not the advice was given under the Conflicts of
+Interest Act;
+(h) a question to be used on an examination or test;
+(i) teaching materials of
+(i) an employee of a post‑secondary educational body,
+(ii) a post‑secondary educational body, or
+2024
+Section 4 Chapter A-1.4
+13
+ACCESS TO INFORMATION ACT
+(iii) both an employee of a post‑secondary educational body
+and the post‑secondary educational body;
+(j) research information of an employee of a post‑secondary
+educational body;
+(k) material that has been deposited in the Provincial Archives
+of Alberta or the archives of a public body by or on behalf
+of a person or entity other than a public body;
+(l) published works collected by a library of a public body in
+accordance with the library’s acquisition of materials policy;
+(m) a record relating to a prosecution or potential prosecution,
+including any charging recommendation, if all proceedings
+in respect of the prosecution have not been completed;
+(n) a record, including any charging recommendation, created
+by or on behalf of or that is in the custody or under the
+control of a prosecutor relating to a prosecution or potential
+prosecution;
+(o) a record in the custody or under the control of, or a record
+made from information in,
+(i) the Personal Property Registry,
+(ii) the office of the Registrar of Motor Vehicle Services,
+(iii) the office of the Registrar of Corporations,
+(iv) the office of the Registrar of Companies,
+(v) a Land Titles Office,
+(vi) the office of the Registrar of Vital Statistics, or
+(vii) a registry operated by a public body if that registry is
+authorized or recognized by an enactment and public
+access to the registry is normally permitted;
+(p) a personal record or constituency record of an elected
+member of a local public body;
+(q) a personal record of an appointed or elected member of the
+governing body of a local public body;
+(r) a personal record or constituency record of a member of the
+Executive Council;
+2024
+Section 4 Chapter A-1.4
+14
+ACCESS TO INFORMATION ACT
+(s) a record created by or on behalf of the office of the Speaker
+of the Legislative Assembly or the office of a Member of
+the Legislative Assembly that is in the custody or under the
+control of the Legislative Assembly Office;
+(t) a record created by or on behalf of
+(i) a member of the Executive Council,
+(ii) a Member of the Legislative Assembly, or
+(iii) a chair of a Provincial agency as defined in the Financial
+Administration Act who is a Member of the Legislative
+Assembly
+that has been sent or is to be sent to a member of the
+Executive Council, a Member of the Legislative Assembly
+or a chair of a Provincial agency as defined in the Financial
+Administration Act who is a Member of the Legislative
+Assembly;
+(u) a record created solely for the purpose of briefing a member
+of the Executive Council in respect of assuming
+responsibility for a ministry;
+(v) a record created solely for the purpose of briefing a member
+of the Executive Council in preparation for a sitting of the
+Legislative Assembly;
+(w) a record of communication between
+(i) political staff, or
+(ii) a member of Executive Council and political staff
+that does not involve any other employee of a public body;
+(x) a record in the custody or under the control of ATB
+Financial other than a record that relates to a non-arm’s
+length transaction between the Government of Alberta and
+another party;
+(y) a record relating to the business or affairs of Credit Union
+Central Alberta Limited, a credit union or a dissolved credit
+union or relating to an application for incorporation as a
+credit union that is obtained or produced in the course of
+administering or enforcing the Credit Union Act or the
+regulations under it, other than a record that relates to a
+non‑arm’s length transaction between the Government and
+another party;
+2024
+Section 4 Chapter A-1.4
+15
+ACCESS TO INFORMATION ACT
+(z) a record of the information referred to in section 120(3) of
+the Credit Union Act or respecting loans made by a credit
+union that are subsequently assumed by the Credit Union
+Deposit Guarantee Corporation;
+(aa) health information as defined in the Health Information Act
+that is in the custody or under the control of a public body
+that is a custodian as defined in the Health Information Act;
+(bb) a record relating to an audit by the Chief Internal Auditor of
+Alberta that is in the custody of the Chief Internal Auditor
+of Alberta or any person under the administration of the
+Chief Internal Auditor of Alberta, irrespective of whether
+the record was created by or for or supplied to the Chief
+Internal Auditor of Alberta;
+(cc) a record that is available to the public under section 90;
+(dd) a record in the custody or under the control of
+(i) the Government of Canada or its agencies, or
+(ii) the government of a province or territory of Canada or
+its agencies, other than the Government of Alberta or its
+agencies.
+(2) Despite subsection (1)(u), this Act applies to a record described
+in that clause if 5 years or more has elapsed since the member of
+the Executive Council was appointed as a member responsible for
+the ministry.
+(3) Despite subsection (1)(v), this Act applies to a record described
+in that clause if 5 years or more has elapsed since the beginning of
+the sitting in respect of which the record was created.
+(4) Despite subsection (1)(bb), this Act applies to a record
+described in that clause
+(a) if 15 years or more has elapsed since the audit to which the
+record relates was completed, or
+(b) if the audit to which the record relates was discontinued or if
+no progress has been made on the audit for 15 years or
+more.
+(5) In this section and sections 28(1)(b) and 97(1)(j), “governing
+body” means,
+2024
+Section 5 Chapter A-1.4
+16
+ACCESS TO INFORMATION ACT
+(a) in relation to a university, the board of governors or the
+general faculties council as described in the Post-secondary
+Learning Act, and
+(b) in relation to a comprehensive community college or
+polytechnic institution, the board of governors or the
+academic council as described in the Post-secondary
+Learning Act.
+(6) In this section, “judicial administration record” means a record
+containing information relating to a judge of the Court of Appeal,
+the Court of King’s Bench or the Court of Justice, to an
+applications judge of the Court of King’s Bench or to a justice of
+the peace other than a non-presiding justice of the peace under the
+Justice of the Peace Act, and includes
+(a) the scheduling of judges and trials,
+(b) the content of judicial training programs,
+(c) statistics of judicial activity prepared by or on behalf of a
+judge, and
+(d) any record of the Judicial Council established under Part 6
+of the Judicature Act.
+(7) In this section, “political staff” means political staff as defined
+in the regulations.
+(8) For the purposes of subsection (1)(x) and (y), a non-arm’s
+length transaction is any transaction that has been approved by
+(a) the Executive Council or any of its committees,
+(b) the Treasury Board or any of its committees, or
+(c) a member of the Executive Council. 2024 cA-1.4 s4;2025 c11 s1
+Relationship to other Acts
+5 If a provision of this Act is inconsistent or in conflict with a
+provision of another enactment, the provision of this Act prevails
+unless
+(a) another Act, or
+(b) a regulation under this Act
+expressly provides that the other Act or regulation, or a provision
+of it, prevails despite this Act.
+2024
+Section 6 Chapter A-1.4
+17
+ACCESS TO INFORMATION ACT
+Part 1
+Freedom of Information
+Division 1
+Obtaining Access to Records
+Information rights
+6(1) An applicant has a right of access to any record in the custody
+or under the control of a public body, including a record containing
+personal information about the applicant.
+(2) The right of access to a record does not extend to information
+excepted from disclosure under Division 2 of this Part, but if that
+information can reasonably be severed from a record, an applicant
+has a right of access to the remainder of the record.
+(3) The right of access to a record is subject to the payment of any
+fee required under this Act.
+How to make a request
+7(1) To obtain access to a record, a person must make a request to
+the public body that the person believes has custody or control of
+the record.
+(2) A request must
+(a) be in writing,
+(b) be submitted to the public body the applicant believes has
+custody or control of the record,
+(c) provide enough detail to enable the public body to locate
+and identify the record within a reasonable time with
+reasonable effort, and
+(d) be accompanied by a fee where a fee is required under this
+Act.
+(3) If a request does not provide enough detail to enable a public
+body to locate or identify a record within a reasonable time with
+reasonable effort, the public body may request further information
+from the applicant that is necessary to process the request, and the
+applicant shall respond within 30 business days with the
+information being requested.
+(4) In a request, the applicant may ask
+(a) for a copy of the record, or
+(b) to examine the record.
+2024
+Section 8 Chapter A-1.4
+18
+ACCESS TO INFORMATION ACT
+Requests by public bodies
+8 A public body may not make a request to another public body
+under section 7(1) to obtain access to a record in the custody or
+under the control of the other public body.
+Power to disregard requests
+9(1) The head of a public body may disregard a request made
+under section 7(1) if
+(a) responding to the request would unreasonably interfere with
+the operations of the public body or amount to an abuse of
+the right to make a request because the request has been
+made repeatedly or in a systematic nature,
+(b) the request is abusive, threatening, frivolous or vexatious or
+is made in an abusive or threatening manner,
+(c) the information the request relates to has already been
+provided to the applicant, or has been made available to the
+public under section 90 or 91,
+(d) despite receiving further information from an applicant
+under section 7(3), the request does not meet the
+requirements of section 7(2)(c) because the public body
+does not have information that is sufficiently clear to enable
+the public body to locate and identify the record within a
+reasonable time with reasonable effort, or
+(e) the request is otherwise overly broad or incomprehensible.
+(2) Where the head of a public body has disregarded a request, the
+applicant must be told
+(a) the reasons for the decision to disregard the request, and
+(b) that the applicant may ask for a review of that decision
+under Part 3.
+(3) The public body must notify the applicant that the applicant’s
+request has been disregarded within 30 business days after the
+public body receives the request.
+(4) Despite subsection (3), if the applicant’s request is being
+disregarded under subsection (1)(d), the public body must notify
+the applicant that the applicant’s request has been disregarded
+within 30 days after receiving the applicant’s response to the public
+body’s request for further information under section 7(3).
+2024
+Section 10 Chapter A-1.4
+19
+ACCESS TO INFORMATION ACT
+Abandoned request
+10(1) Where the head of a public body contacts an applicant in
+writing respecting the applicant’s request, including
+(a) seeking further information from the applicant that is
+necessary to process the request, including but not limited to
+a request for further information under section 7(3), or
+(b) requesting the applicant to pay a fee or to agree to pay a fee,
+and the applicant fails to respond to the head of the public body, as
+requested by the head, within 30 business days after being
+contacted, the head of the public body may, by notice in writing to
+the applicant, declare the request abandoned.
+(2) A notice under subsection (1) must state that the applicant may
+ask for a review under Part 3.
+Continuing request
+11(1) An applicant may indicate in a request that the request, if
+granted, continues to have effect for a specified period of up to 2
+years.
+(2) The head of a public body granting a request that continues to
+have effect for a specified period must provide to the applicant
+(a) a schedule showing dates in the specified period on which
+the request will be deemed to have been received and
+explaining why those dates were chosen, and
+(b) a statement that the applicant may ask the Commissioner to
+review the schedule.
+(3) This Act applies to a request that continues to have effect for a
+specified period as if a new request were made on each of the dates
+shown in the schedule.
+Duty to assist applicants
+12(1) Subject to the regulations, the head of a public body must
+make every reasonable effort to assist applicants and to respond to
+each applicant openly, accurately and completely, and in
+accordance with the regulations.
+(2) The head of a public body must, subject to the exceptions set
+out in this Act, provide an applicant access to a record if providing
+the record
+(a) can be done using the public body’s normal computer
+hardware and software and technical expertise,
+2024
+Section 13 Chapter A-1.4
+20
+ACCESS TO INFORMATION ACT
+(b) would not unreasonably interfere with the operations of the
+public body, and
+(c) would be reasonable and practical.
+Time limit for responding
+13(1) The head of a public body must make every reasonable
+effort to respond to a request not later than 30 business days after
+the requirements of section 7(2) have been met unless
+(a) the request has been disregarded under section 9 or declared
+abandoned under section 10,
+(b) the time limit is extended under section 16, or
+(c) the request has been transferred under section 17 to another
+public body.
+(2) The failure of the head to respond to a request within the
+30-day period or any extended period is to be treated as a decision
+to refuse access to the record.
+Contents of response
+14(1) In a response under section 13, the applicant must be told
+(a) whether access to the record or part of it is granted or
+refused,
+(b) if access to the record or part of it is granted, where, when
+and how access will be given, and
+(c) if access to the record or part of it is refused,
+(i) the reasons for the refusal and the provision of this Act
+on which the refusal is based,
+(ii) the email address, telephone number or other contact
+information to which the applicant may direct the
+applicant’s questions about the refusal, and
+(iii) that the applicant may ask for a review of that decision
+by the Commissioner or an independent adjudicator, as
+the case may be.
+(2) Despite subsection (1)(c)(i), the head of a public body may, in
+a response, refuse to confirm or deny the existence of
+(a) a record containing information described in section 21 or
+23, or
+2024
+Section 15 Chapter A-1.4
+21
+ACCESS TO INFORMATION ACT
+(b) a record containing personal information about a third party
+if disclosing the existence of the information would be an
+unreasonable invasion of the third party’s personal privacy.
+How access will be given
+15(1) If an applicant is told under section 14(1) that access will be
+granted, the head of the public body must comply with this section.
+(2) If the applicant has asked for a copy of a record and the record
+can reasonably be reproduced,
+(a) a copy of the record or part of it must be provided with the
+response, or
+(b) the applicant must be given reasons for any delay in
+providing the copy.
+(3) If there will be a delay in providing the copy under subsection
+(2), the applicant must be told where, when and how the copy will
+be provided.
+(4) If the applicant has asked to examine a record or for a copy of
+a record that cannot reasonably be reproduced, the applicant
+(a) must be permitted to examine the record or part of it, or
+(b) must be given access in accordance with the regulations.
+Extending time limit for responding
+16(1) The head of a public body may extend the time for
+responding to a request for up to 30 business days if
+(a) the applicant agrees,
+(b) a large number of records are requested and more time is
+required to process the request, or
+(c) more time is needed to consult with a third party, another
+public body or another entity before deciding whether to
+grant access to a record.
+(2) The head of a public body may extend the time for responding
+to a request for additional reasonable periods in a circumstance
+described in subsection (1)(a) to (c).
+(3) The head of a public body may extend the time for responding
+to a request if multiple concurrent requests have been made by the
+same applicant or by 2 or more applicants who work for the same
+organization or who work in association with each other.
+2024
+Section 16 Chapter A-1.4
+22
+ACCESS TO INFORMATION ACT
+(4) Where the head of a public body is considering giving access
+to a record that may contain information
+(a) described in section 19(1) or (2), or
+(b) the disclosure of which may be an unreasonable invasion of
+a third party’s personal privacy under section 20,
+the head of a public body may extend the time for responding to a
+request or part of a request for the period of time necessary to
+enable the head to comply with the requirements of section 36.
+(5) If the time for responding to a request is extended under
+subsection (1), (2), (3) or (4), the head of the public body must tell
+the applicant
+(a) the reason for the extension,
+(b) when a response can be expected, and
+(c) that the applicant may request a review of the extension by
+the Commissioner.
+(6) Notwithstanding anything to the contrary in subsection (5), if
+the time for responding to a request is extended under subsection
+(1), (2), (3) or (4) by the Commissioner, acting as the head of a
+public body, the Commissioner must tell the applicant that the
+applicant may seek a review by an independent adjudicator with
+respect to the extension.
+(7) Where a third party asks for a review under section 58(2) or
+79(3), the time for responding to a request or part of a request is
+automatically extended with respect to a record or part of a record
+that is the subject of the request for review until the review and
+inquiry process has concluded.
+(8) If the time for responding to a request or part of a request is
+automatically extended under subsection (7), the public body must
+notify the applicant of the extension and the basis for the extension.
+(9) The time for responding to a request is automatically extended
+during an emergency, disaster or other unforeseen event that results
+in an unplanned operational closure or interruption.
+(10) If the time for responding to a request is automatically
+extended under subsection (9), the public body must
+(a) notify the Commissioner as soon as practicable
+2024
+Section 17 Chapter A-1.4
+23
+ACCESS TO INFORMATION ACT
+(i) of the emergency, disaster or other unforeseen event and
+the anticipated end to the unplanned operational closure
+or interruption, and
+(ii) of the date when the emergency, disaster or other
+unforeseen event has ended or when normal operations
+have resumed,
+and
+(b) notify the applicant as soon as practicable
+(i) when normal operations have resumed,
+(ii) when a response to the applicant’s request may be
+expected, and
+(iii) that the applicant may request a review of the extension
+by the Commissioner.
+Transferring a request
+17(1) Within 15 business days after a request for access to a
+record is received by a public body, the head of the public body
+may transfer the request and, if necessary, the record to another
+public body if
+(a) the record was produced by or for the other public body,
+(b) the other public body was the first to obtain the record, or
+(c) the record is in the custody or under the control of the other
+public body.
+(2) If a request is transferred under subsection (1),
+(a) the head of the public body who transferred the request must
+notify the applicant of the transfer as soon as possible, and
+(b) the head of the public body to which the request is
+transferred must make every reasonable effort to respond to
+the request not later than 30 business days after receiving
+the request unless that time limit is extended under section
+16.
+Request under section 7 deemed to be a request under HIA
+18(1) If a request is made under section 7(1) for access to a record
+that contains information to which the Health Information Act
+applies, the part of the request that relates to that information is
+deemed to be a request under section 8(1) of the Health
+2024
+Section 19 Chapter A-1.4
+24
+ACCESS TO INFORMATION ACT
+Information Act, and that Act applies as if the request had been
+made under section 8(1) of that Act.
+(2) Subsection (1) does not apply if the public body that receives
+the request is not a custodian as defined in the Health Information
+Act.
+Division 2
+Exceptions to Disclosure
+Disclosure harmful to business interests of a third party
+19(1) The head of a public body must refuse to disclose to an
+applicant information
+(a) that would reveal
+(i) trade secrets of a third party, or
+(ii) commercial, financial, labour relations, scientific or
+technical information of a third party,
+(b) that is supplied, explicitly or implicitly, in confidence, and
+(c) the disclosure of which could reasonably be expected to
+(i) harm significantly the competitive position or interfere
+significantly with the negotiating position of the third
+party,
+(ii) result in similar information no longer being supplied to
+the public body when it is in the public interest that
+similar information continue to be supplied,
+(iii) result in undue financial loss or gain to any person or
+organization, or
+(iv) reveal information supplied to, or the report of, an
+arbitrator, mediator, labour relations officer or other
+person or body appointed to resolve or inquire into a
+labour relations dispute.
+(2) The head of a public body must refuse to disclose to an
+applicant information about a third party that was collected on a tax
+return or collected for the purpose of determining tax liability or
+collecting a tax.
+(3) Subsections (1) and (2) do not apply if
+(a) the third party consents to the disclosure,
+2024
+Section 20 Chapter A-1.4
+25
+ACCESS TO INFORMATION ACT
+(b) an enactment of Alberta or Canada authorizes or requires
+the information to be disclosed,
+(c) the information relates to a non-arm’s length transaction
+between a public body and another party, or
+(d) the information is in a record that is in the custody or under
+the control of the Provincial Archives of Alberta or the
+archives of a public body and has been in existence for 50
+years or more.
+Disclosure harmful to personal privacy
+20(1) The head of a public body must refuse to disclose personal
+information to an applicant if the disclosure would be an
+unreasonable invasion of a third party’s personal privacy.
+(2) A disclosure of personal information is not an unreasonable
+invasion of a third party’s personal privacy if
+(a) the third party has, in the prescribed manner, consented to or
+requested the disclosure,
+(b) there are compelling circumstances affecting anyone’s
+health or safety and written notice of the disclosure is given
+to the third party,
+(c) an Act of Alberta or Canada authorizes or requires the
+disclosure,
+(d) the information is about the third party’s classification,
+salary range, discretionary benefits or employment
+responsibilities as an officer, employee or member of a
+public body or as a member of the staff of a member of the
+Executive Council,
+(e) the disclosure reveals financial and other details of a
+contract to supply goods or services to a public body,
+(f) the information is about a licence, permit or other similar
+discretionary benefit granted to the third party by a public
+body relating to
+(i) a commercial or professional activity, or
+(ii) real property, including a development permit or
+building permit,
+and the disclosure is limited to the name of the third party
+and the nature of the licence, permit or other similar
+discretionary benefit,
+2024
+Section 20 Chapter A-1.4
+26
+ACCESS TO INFORMATION ACT
+(g) the disclosure reveals details of a discretionary benefit of a
+financial nature granted to the third party by a public body,
+(h) the personal information is about an individual who has
+been dead for 25 years or more, or
+(i) subject to subsection (3), the disclosure is not contrary to the
+public interest and reveals only the following personal
+information about a third party:
+(i) enrolment in a school of an educational body or in a
+program offered by a post-secondary educational body;
+(ii) attendance at or participation in a public event or activity
+related to a public body, including a graduation
+ceremony, sporting event, cultural program or club, or a
+field trip;
+(iii) receipt of an honour or award granted by or through a
+public body.
+(3) The disclosure of personal information under subsection (2)(i)
+is an unreasonable invasion of personal privacy if the third party
+whom the information is about has requested that the information
+not be disclosed.
+(4) A disclosure of personal information is presumed to be an
+unreasonable invasion of a third party’s personal privacy if
+(a) the personal information relates to a medical, psychiatric or
+psychological history, diagnosis, condition, treatment or
+evaluation,
+(b) the personal information is an identifiable part of a law
+enforcement record, except to the extent that the disclosure
+is necessary to dispose of the law enforcement matter or to
+continue an investigation,
+(c) the personal information relates to eligibility for income
+assistance or social service benefits or to the determination
+of benefit levels,
+(d) the personal information relates to employment or
+educational history,
+(e) the personal information was collected on a tax return or
+gathered for the purpose of collecting a tax,
+(f) the personal information consists of an individual’s bank
+account information or credit card information,
+2024
+Section 20 Chapter A-1.4
+27
+ACCESS TO INFORMATION ACT
+(g) the personal information consists of personal
+recommendations or evaluations, character references or
+personnel evaluations,
+(h) the personal information consists of the third party’s name
+or a unique identifier with respect to the third party when
+(i) the name or unique identifier appears with other personal
+information about the third party, or
+(ii) the disclosure of the name or unique identifier itself
+would reveal personal information about the third party,
+or
+(i) the personal information indicates the third party’s racial or
+ethnic origin or religious or political beliefs or associations.
+(5) In determining under subsections (1) and (4) whether a
+disclosure of personal information constitutes an unreasonable
+invasion of a third party’s personal privacy, the head of a public
+body must consider all the relevant circumstances, including
+whether
+(a) the disclosure is desirable for the purpose of subjecting the
+activities of the Government of Alberta or a public body to
+public scrutiny,
+(b) the disclosure is likely to promote public health and safety
+or the protection of the environment,
+(c) the personal information is relevant to a fair determination
+of the applicant’s rights,
+(d) the disclosure will assist in researching or validating the
+claims, disputes or grievances of aboriginal people,
+(e) the third party will be exposed unfairly to financial or other
+harm,
+(f) the personal information has been supplied in confidence,
+(g) the personal information is likely to be inaccurate or
+unreliable,
+(h) the disclosure may unfairly damage the reputation of any
+person referred to in the record requested by the applicant,
+and
+2024
+Section 21 Chapter A-1.4
+28
+ACCESS TO INFORMATION ACT
+(i) the personal information was originally provided by the
+applicant.
+Disclosure harmful to individual or public safety
+21(1) The head of a public body may refuse to disclose to an
+applicant information, including personal information about the
+applicant, if the disclosure could reasonably be expected to
+(a) threaten anyone else’s safety or mental or physical health, or
+(b) interfere with public safety.
+(2) The head of a public body may refuse to disclose to an
+applicant personal information about the applicant if, in the opinion
+of a physician, a regulated member of the College of Alberta
+Psychologists or a psychiatrist or any other appropriate expert
+depending on the circumstances of the case, the disclosure could
+reasonably be expected to result in immediate and grave harm to
+the applicant’s health or safety.
+(3) The head of a public body may refuse to disclose to an
+applicant information that reveals the identity of an individual who
+has provided information to the public body in confidence about a
+threat to an individual’s safety or mental or physical health.
+Confidential evaluations
+22(1) The head of a public body may refuse to disclose to an
+applicant personal information that is evaluative or opinion
+material compiled for the purpose of determining the applicant’s
+suitability, eligibility or qualifications for employment or for the
+awarding of contracts or other benefits by a public body when the
+information is provided, explicitly or implicitly, in confidence.
+(2) The head of a public body may refuse to disclose to an
+applicant personal information that identifies or could reasonably
+identify a participant in a formal employee evaluation process
+concerning the applicant when the information is provided,
+explicitly or implicitly, in confidence.
+(3) For the purpose of subsection (2), “participant” includes a peer,
+subordinate or client of an applicant, but does not include the
+applicant’s supervisor or superior.
+Disclosure harmful to law enforcement
+23(1) The head of a public body may refuse to disclose
+information to an applicant if the disclosure could reasonably be
+expected to
+(a) harm a law enforcement matter,
+2024
+Section 23 Chapter A-1.4
+29
+ACCESS TO INFORMATION ACT
+(b) prejudice the defence of Canada or of any foreign state
+allied to or associated with Canada,
+(c) disclose activities suspected of constituting threats to the
+security of Canada within the meaning of the Canadian
+Security Intelligence Service Act (Canada),
+(d) harm the effectiveness of investigative techniques and
+procedures currently used, or likely to be used, in law
+enforcement,
+(e) reveal the identity of a confidential source of law
+enforcement information,
+(f) reveal criminal intelligence that has a reasonable connection
+with the detection, prevention or suppression of organized
+criminal activities or of serious and repetitive criminal
+activities,
+(g) interfere with or harm an ongoing or unsolved law
+enforcement investigation, including a police investigation,
+(h) reveal any information relating to or used in the exercise of
+prosecutorial discretion,
+(i) deprive a person of the right to a fair trial or impartial
+adjudication,
+(j) reveal a record that has been confiscated from a person by a
+peace officer in accordance with a law,
+(k) facilitate the escape from custody of an individual who is
+being lawfully detained,
+(l) facilitate the commission of an unlawful act or hamper the
+control of crime,
+(m) reveal technical information relating to weapons or potential
+weapons,
+(n) harm the security of any property or system, including a
+building, a vehicle, a computer system or a communications
+system, or
+(o) reveal information in a correctional record supplied,
+explicitly or implicitly, in confidence.
+(2) Subsection (1)(h) does not apply to information that has been
+in existence for 10 years or more.
+2024
+Section 24 Chapter A-1.4
+30
+ACCESS TO INFORMATION ACT
+(3) The head of a public body may refuse to disclose information
+to an applicant if the information is
+(a) in a law enforcement record and the disclosure could
+reasonably be expected to expose to civil liability the author
+of the record or an individual who has been quoted or
+paraphrased in the record, or
+(b) about the history, supervision or release of an individual
+who is under the control or supervision of a correctional
+authority and the disclosure could reasonably be expected to
+harm the proper custody or supervision of that person.
+(4) The head of a public body must refuse to disclose information
+to an applicant if the information is in a law enforcement record
+and the disclosure would be an offence under an Act of Canada.
+(5) Subsections (1) and (3) do not apply to
+(a) a report prepared in the course of routine inspections by an
+agency that is authorized to enforce compliance with an Act
+of Alberta, or
+(b) a report, including statistical analysis, on the degree of
+success achieved in a law enforcement program unless
+disclosure of the report could reasonably be expected to
+interfere with or harm any of the matters referred to in
+subsection (1) or (3).
+(6) After a police investigation is completed, the head of a public
+body may disclose under this section the reasons for a decision not
+to prosecute to
+(a) a person who knew of and was significantly interested in the
+investigation, including a victim or a relative or friend of a
+victim, or
+(b) any other member of the public, if the fact of the
+investigation was made public.
+Workplace investigations
+24 The head of a public body may refuse to disclose information
+to an applicant if the disclosure could reasonably be expected to
+(a) interfere with, prejudice or otherwise harm a workplace
+investigation, or
+(b) cause harm to a witness or third party, or prevent a witness
+from coming forward as a witness, in a workplace
+investigation.
+2024
+Section 25 Chapter A-1.4
+31
+ACCESS TO INFORMATION ACT
+Disclosure and complaints
+25(1) The head of a public body may refuse to disclose
+information to an applicant if the disclosure could reasonably be
+expected to reveal the identity of a person who has requested
+advice about making a disclosure, made a disclosure or submitted a
+complaint of a reprisal or whose complaint has been referred to the
+Labour Relations Board pursuant to the Public Interest Disclosure
+(Whistleblower Protection) Act.
+(2) Subsection (1) does not apply to the person who requested
+advice about making a disclosure, made the disclosure, submitted
+the complaint of a reprisal or whose complaint has been referred to
+the Labour Relations Board pursuant to the Public Interest
+Disclosure (Whistleblower Protection) Act.
+Disclosure harmful to intergovernmental relations
+26(1) The head of a public body may refuse to disclose
+information to an applicant if the disclosure could reasonably be
+expected to
+(a) harm relations between the Government of Alberta or its
+agencies and any of the following or their agencies:
+(i) the Government of Canada or a province or territory of
+Canada;
+(ii) a local government body;
+(iii) an aboriginal organization that exercises government
+functions, including
+(A) the council of a band as defined in the Indian Act
+(Canada), and
+(B) an organization established to negotiate or
+implement, on behalf of aboriginal people, a treaty or
+land claim agreement with the Government of
+Canada;
+(iv) the government of a foreign state;
+(v) an international organization of states,
+or
+(b) reveal information supplied, explicitly or implicitly, in
+confidence by a government, local government body or an
+organization listed in clause (a) or its agencies.
+2024
+Section 27 Chapter A-1.4
+32
+ACCESS TO INFORMATION ACT
+(2) The head of a public body may disclose information referred to
+in subsection (1)(a) only with the consent of the Minister in
+consultation with the Executive Council.
+(3) The head of a public body may disclose information referred to
+in subsection (1)(b) only with the consent of the government, local
+government body or organization that supplies the information, or
+its agency.
+(4) This section does not apply to information that has been in
+existence in a record for 15 years or more.
+Cabinet and Treasury Board confidences
+27(1) The head of a public body must refuse to disclose to an
+applicant a record that
+(a) was submitted to or prepared for submission to the
+Executive Council, the Treasury Board or a committee of
+the Executive Council or Treasury Board, or
+(b) was created by or on behalf of the Executive Council, the
+Treasury Board or a committee of the Executive Council or
+Treasury Board.
+(2) The head of a public body must refuse to disclose to an
+applicant information that would reveal the subject or substance of
+deliberations of the Executive Council or any of its committees or
+of the Treasury Board or any of its committees, including any
+background or factual information, and any advice, analysis,
+recommendations, policy considerations or draft legislation or
+regulations submitted or prepared for submission to the Executive
+Council or any of its committees or to the Treasury Board or any of
+its committees.
+(3) This section does not apply to information that has been in a
+record for 15 years or more.
+Local public body confidences
+28(1) The head of a local public body may refuse to disclose
+information to an applicant if the disclosure could reasonably be
+expected to reveal
+(a) a draft of a resolution, bylaw or other legal instrument by
+which the local public body acts, or
+(b) the substance of deliberations of a meeting of its elected
+officials or of its governing body or a committee of its
+governing body, if an Act or a regulation under this Act
+2024
+Section 29 Chapter A-1.4
+33
+ACCESS TO INFORMATION ACT
+authorizes the holding of that meeting in the absence of the
+public.
+(2) Subsection (1) does not apply if
+(a) the draft of the resolution, bylaw or other legal instrument or
+the subject-matter of the deliberation has been considered in
+a meeting open to the public, or
+(b) the information referred to in that subsection is in a record
+that has been in existence for 15 years or more.
+Advice from officials
+29(1) The head of a public body may refuse to disclose
+information to an applicant if the disclosure could reasonably be
+expected to reveal
+(a) advice, proposals, recommendations, analyses or policy
+options developed by or for a public body or a member of
+the Executive Council, including background factual
+information and information provided for informational
+purposes only,
+(b) consultations or deliberations involving
+(i) officers or employees of a public body,
+(ii) a member of the Executive Council, or
+(iii) the staff of a member of the Executive Council,
+(c) positions, plans, procedures, criteria or instructions
+developed for the purpose of contractual or other
+negotiations by or on behalf of the Government of Alberta
+or a public body, or considerations that relate to those
+negotiations,
+(d) plans relating to the management of personnel or the
+administration of a public body that have not yet been
+implemented,
+(e) the contents of draft legislation, regulations and orders of
+members of the Executive Council or the Lieutenant
+Governor in Council,
+(f) the contents of agendas or minutes of meetings of
+(i) the governing body of an agency, board, commission,
+corporation, office or other body designated as a public
+body in the regulations, or
+2024
+Section 29 Chapter A-1.4
+34
+ACCESS TO INFORMATION ACT
+(ii) a committee of a governing body referred to in subclause
+(i),
+(g) information, including the proposed plans, policies or
+projects of a public body, the disclosure of which could
+reasonably be expected to result in disclosure of a pending
+policy or budgetary decision, or
+(h) the contents of a formal research or audit report that in the
+opinion of the head of the public body is incomplete unless
+no progress has been made on the report for at least 3 years.
+(2) This section does not apply to information that
+(a) has been in existence for 15 years or more,
+(b) is a statement of the reasons for a decision made in the
+exercise of a discretionary power or an adjudicative
+function,
+(c) is the result of product or environmental testing carried out
+by or for a public body, that is complete or on which no
+progress has been made for at least 3 years, unless the
+testing was done
+(i) for a fee as a service to a person other than a public
+body, or
+(ii) for the purpose of developing methods of testing or
+testing products for possible purchase,
+(d) is a statistical survey,
+(e) is the result of background research of a scientific or
+technical nature undertaken in connection with the
+formulation of a policy proposal, that is complete or on
+which no progress has been made for at least 3 years,
+(f) is an instruction or guideline issued to the officers or
+employees of a public body, or
+(g) is a substantive rule or statement of policy that has been
+adopted by a public body for the purpose of interpreting an
+Act or regulation or administering a program or activity of
+the public body.
+(3) The head of a public body must refuse to disclose to an
+applicant
+2024
+Section 30 Chapter A-1.4
+35
+ACCESS TO INFORMATION ACT
+(a) a record relating to an audit by the Chief Internal Auditor of
+Alberta that is created by or for the Chief Internal Auditor of
+Alberta, or
+(b) information that would reveal information about an audit by
+the Chief Internal Auditor of Alberta.
+(4) Subsection (3) does not apply to a record or information
+described in that subsection if
+(a) 15 years or more has elapsed since the audit to which the
+record or information relates was completed, or
+(b) the audit to which the record or information relates was
+discontinued or if no progress has been made on the audit
+for 15 years or more.
+(5) In this section, “audit” means a financial or other formal and
+systematic examination or review of a program, portion of a
+program or activity.
+Disclosure harmful to economic and
+other interests of a public body
+30(1) The head of a public body may refuse to disclose
+information to an applicant if the disclosure could reasonably be
+expected to harm the economic interest of a public body or the
+Government of Alberta or the ability of the Government to manage
+the economy, including the following information:
+(a) trade secrets of a public body or the Government of Alberta;
+(b) financial, commercial, scientific, technical or other
+information in which a public body or the Government of
+Alberta has a proprietary interest or a right of use and that
+has, or is reasonably likely to have, monetary value;
+(c) information the disclosure of which could reasonably be
+expected to
+(i) result in financial loss to,
+(ii) prejudice the competitive position of, or
+(iii) interfere with contractual or other negotiations of
+the Government of Alberta or a public body;
+(d) information obtained through research by an employee of a
+public body, the disclosure of which could reasonably be
+2024
+Section 31 Chapter A-1.4
+36
+ACCESS TO INFORMATION ACT
+expected to deprive the employee or the public body of
+priority of publication;
+(e) information about the labour relations of a public body,
+including information used by a public body during
+collective bargaining conducted by or on behalf of a public
+body.
+(2) The head of a public body must not refuse to disclose under
+subsection (1) the results of product or environmental testing
+carried out by or for a public body, unless the testing was done
+(a) for a fee as a service to a person, other than the public body,
+or
+(b) for the purpose of developing methods of testing or testing
+products for possible purchase.
+Testing procedures, tests and audits
+31 The head of a public body may refuse to disclose to an
+applicant information relating to
+(a) testing or auditing procedures or techniques,
+(b) details of specific tests to be given or audits to be
+conducted, or
+(c) standardized tests used by a public body, including
+intelligence tests,
+if disclosure could reasonably be expected to prejudice the use or
+results of particular tests or audits.
+Privileged information
+32(1) The head of a public body may refuse to disclose to an
+applicant
+(a) information or a record that is subject to any type of legal
+privilege, including solicitor-client privilege or
+parliamentary privilege,
+(b) information prepared by or for
+(i) the Minister of Justice,
+(ii) an agent or lawyer of the Minister of Justice, or
+(iii) an agent or lawyer of a public body
+2024
+Section 33 Chapter A-1.4
+37
+ACCESS TO INFORMATION ACT
+in relation to a matter involving the provision of legal
+services, or
+(c) information in correspondence between
+(i) the Minister of Justice,
+(ii) an agent or lawyer of the Minister of Justice, or
+(iii) an agent or lawyer of a public body
+and any other person in relation to a matter involving the
+provision of advice or other services by the Minister of
+Justice or by the agent or lawyer.
+(2) The head of a public body must refuse to disclose information
+or a record described in subsection (1)(a) that relates to a person
+other than a public body.
+(3) Only the Speaker of the Legislative Assembly may determine
+whether information is subject to parliamentary privilege, and a
+public body must not disclose information that may be subject to
+parliamentary privilege without the Speaker’s consent.
+Disclosure harmful to conservation of heritage sites, etc.
+33 The head of a public body may refuse to disclose information
+to an applicant if the disclosure could reasonably be expected to
+result in damage to or interfere with the conservation of any
+(a) historic resource as defined in the Historical Resources Act,
+or
+(b) rare, endangered, threatened or vulnerable form of life.
+Information that is or will be available to the public
+34(1) The head of a public body may refuse to disclose to an
+applicant information that is
+(a) readily available to the public,
+(b) available for purchase by the public, or
+(c) to be published or released to the public within 60 business
+days after the applicant’s request is received.
+(2) The head of a public body must notify an applicant of the
+publication or release of information that the head has refused to
+disclose under subsection (1)(c).
+2024
+Section 35 Chapter A-1.4
+38
+ACCESS TO INFORMATION ACT
+(3) If the information is not published or released within 60
+business days after the applicant’s request is received, the head of
+the public body must reconsider the request as if it were a new
+request received on the last business day of that period, and access
+to the information requested must not be refused under subsection
+(1)(c).
+Division 3
+Third Party Intervention
+Notifying third parties
+35(1) When the head of a public body is considering giving access
+to a record that may contain information
+(a) described in section 19(1) or (2), or
+(b) the disclosure of which may be an unreasonable invasion of
+a third party’s personal privacy under section 20,
+the head must, where practicable and as soon as practicable, give
+written notice to the third party in accordance with subsection (5).
+(2) Subsection (1) does not apply to information that the head of a
+public body may refuse to disclose in accordance with section 34.
+(3) Subsection (1) does not apply to a record containing
+information described in section 20(2)(i).
+(4) If the head of a public body does not intend to give access to a
+record that contains information excepted from disclosure under
+section 19 or 20, the head may give written notice to the third party
+in accordance with subsection (5).
+(5) A notice under this section must
+(a) state that a request has been made for access to a record that
+may contain information the disclosure of which would
+affect the interests or invade the personal privacy of the
+third party,
+(b) include a copy of the record or part of it containing the
+information in question or describe the contents of the
+record, and
+(c) state that, within 20 business days after the notice is given,
+the third party may, in writing, consent to the disclosure or
+make representations to the public body explaining why the
+information should not be disclosed.
+2024
+Section 36 Chapter A-1.4
+39
+ACCESS TO INFORMATION ACT
+(6) When notice is given under subsection (1), the head of the
+public body must also give the applicant a notice stating that
+(a) the record requested by the applicant may contain
+information the disclosure of which would affect the
+interests or invade the personal privacy of a third party,
+(b) the third party is being given an opportunity to make
+representations concerning disclosure, and
+(c) a decision will be made within 30 business days after the
+day notice is given under subsection (1).
+Time limit and notice of decision
+36(1) Within 30 business days after notice is given under section
+35(1) or (4), the head of the public body must decide whether to
+give access to the record or to part of the record, but no decision
+may be made before the earlier of
+(a) 21 business days after the day notice is given, and
+(b) the day a response is received from the third party.
+(2) The 30-day period referred to in subsection (1) may be
+extended during an emergency, disaster or other unforeseen event
+that results in an unplanned operational closure or interruption.
+(3) If the 30-day period is extended under subsection (2), the head
+of the public body must
+(a) notify the Commissioner of the date when the emergency,
+disaster or other unforeseen event has ended or when normal
+operations have resumed, and
+(b) notify the applicant and the third party as soon as
+practicable
+(i) when normal operations have resumed,
+(ii) when a decision may be expected, and
+(iii) that the applicant or third party may request a review of
+the extension by the Commissioner.
+(4) On reaching a decision under subsection (1), the head of the
+public body must give written notice of the decision, including
+reasons for the decision, to the applicant and the third party.
+(5) If the head of the public body decides to give access to the
+record or part of the record, the notice under subsection (4) must
+2024
+Section 37 Chapter A-1.4
+40
+ACCESS TO INFORMATION ACT
+state that the applicant will be given access unless the third party
+asks for a review under Part 3 within 20 business days after that
+notice is given.
+(6) If the head of the public body decides not to give access to the
+record or part of the record, the notice under subsection (4) must
+state that the applicant may ask for a review under Part 3.
+(7) Subsection (5) does not apply where the third party has
+consented to the disclosure of the record or the part of the record.
+Division 4
+Public Health and Safety
+Information must be disclosed if in the public interest
+37(1) Whether or not a request for access is made, the head of a
+public body must, without delay, disclose to the public, to an
+affected group of people, to any person or to an applicant
+(a) information about a risk of significant harm to the
+environment or to the health or safety of the public, of the
+affected group of people, of the person or of the applicant,
+or
+(b) information the disclosure of which is, for any other reason,
+clearly in the public interest.
+(2) Subsection (1) applies despite any other provision of this Act.
+(3) Before disclosing information under subsection (1), the head of
+a public body must, where practicable,
+(a) notify any third party to whom the information relates,
+(b) give the third party an opportunity to make representations
+relating to the disclosure, and
+(c) notify the Commissioner.
+(4) If it is not practicable to comply with subsection (3), the head
+of the public body must give written notice of the disclosure to
+(a) the third party, and
+(b) the Commissioner.
+2024
+Section 38 Chapter A-1.4
+41
+ACCESS TO INFORMATION ACT
+Part 2
+Office and Powers of Information and
+Privacy Commissioner
+Definition
+38 In this Part, “Standing Committee” means the Standing
+Committee on Legislative Offices.
+Appointment of Commissioner
+39(1) The Lieutenant Governor in Council, on the
+recommendation of the Legislative Assembly, must appoint an
+Information and Privacy Commissioner to carry out the duties and
+functions set out in this Act.
+(2) The Commissioner is an officer of the Legislature.
+(3) The Commissioner may not be a Member of the Legislative
+Assembly.
+Term of office
+40(1) Except as provided for in section 41, the Commissioner
+holds office for a term not exceeding 5 years.
+(2) A person holding office as Commissioner continues to hold
+office after the expiry of that person’s term of office until that
+person is reappointed, a successor is appointed or a period of 6
+months has expired, whichever occurs first.
+(3) A person is eligible for reappointment as Commissioner.
+Resignation, removal or suspension of Commissioner
+41(1) The Commissioner may resign at any time by notifying the
+Speaker of the Legislative Assembly or, if there is no Speaker or
+the Speaker is absent from Alberta, by notifying the Clerk of the
+Legislative Assembly.
+(2) The Lieutenant Governor in Council must remove the
+Commissioner from office or suspend the Commissioner for cause
+or incapacity on the recommendation of the Legislative Assembly.
+(3) If the Legislative Assembly is not sitting, the Lieutenant
+Governor in Council may suspend the Commissioner for cause or
+incapacity on the recommendation of the Standing Committee.
+Acting Commissioner
+42(1) The Lieutenant Governor in Council, on the
+recommendation of the Standing Committee, may appoint an acting
+Commissioner if
+2024
+Section 43 Chapter A-1.4
+42
+ACCESS TO INFORMATION ACT
+(a) the office of Commissioner is or becomes vacant when the
+Legislative Assembly is not sitting,
+(b) the Commissioner is suspended when the Legislative
+Assembly is not sitting, or
+(c) the Commissioner is removed or suspended or the office of
+the Commissioner becomes vacant when the Legislative
+Assembly is sitting but no recommendation is made by the
+Assembly under section 39(1) before the end of the session.
+(2) The Lieutenant Governor in Council may appoint an acting
+Commissioner if the Commissioner is temporarily absent because
+of illness or for another reason.
+(3) An acting Commissioner holds office until
+(a) a person is appointed under section 39(1),
+(b) the suspension of the Commissioner ends, or
+(c) the Commissioner returns to office after a temporary
+absence.
+Remuneration
+43 The Commissioner must be remunerated as determined by the
+Standing Committee, and it must review that remuneration at least
+once a year.
+Oath
+44(1) Before beginning the duties of office, the Commissioner
+must take an oath to faithfully and impartially perform the duties of
+the office and not to disclose any information received by the
+Office of the Information and Privacy Commissioner under this Act
+except as provided in this Act.
+(2) The oath must be administered by the Speaker of the
+Legislative Assembly or the Clerk of the Legislative Assembly.
+Office of the Commissioner
+45(1) There may be a part of the public service of Alberta called
+the Office of the Information and Privacy Commissioner consisting
+of the Commissioner and those persons employed under the Public
+Service Act that are necessary to assist the Commissioner in
+carrying out the Commissioner’s duties and functions under this or
+any other enactment.
+2024
+Section 46 Chapter A-1.4
+43
+ACCESS TO INFORMATION ACT
+(2) The Commissioner may engage the services of any persons
+necessary to assist the Commissioner in carrying out the
+Commissioner’s duties and functions.
+(3) On the recommendation of the Commissioner, the Standing
+Committee may order that
+(a) any regulation, order or directive made under the Financial
+Administration Act,
+(b) any regulation, order, directive, rule, procedure, direction,
+allocation, designation or other decision under the Public
+Service Act, or
+(c) any regulation, order, determination, direction or other
+decision under the Public Sector Compensation
+Transparency Act
+does not apply to, or is varied in respect of, the Office of the
+Information and Privacy Commissioner or any particular employee
+or class of employees in the Office.
+(4) An order made under subsection (3)(a) operates despite section
+2 of the Financial Administration Act.
+(5) An order made under subsection (3)(c) in relation to a
+regulation, order, determination, direction or other decision under
+the Public Sector Compensation Transparency Act operates
+notwithstanding that Act.
+(6) The Regulations Act does not apply to orders made under
+subsection (3).
+(7) The chair of the Standing Committee must lay a copy of each
+order made under subsection (3) before the Legislative Assembly if
+it is then sitting or, if it is not then sitting, within 15 business days
+after the start of the next sitting.
+(8) Every person employed or engaged by the Office of the
+Information and Privacy Commissioner must, before beginning to
+perform duties under this Act, take an oath, to be administered by
+the Commissioner, not to disclose any information received by that
+person under this Act except as provided in this Act.
+Financing of operations
+46(1) The Commissioner must submit to the Standing Committee
+in respect of each fiscal year an estimate of the public money that
+will be required to be provided by the Legislature to defray the
+2024
+Section 46 Chapter A-1.4
+44
+ACCESS TO INFORMATION ACT
+several charges and expenses of the Office of the Information and
+Privacy Commissioner in that fiscal year.
+(2) The Standing Committee must review each estimate submitted
+under subsection (1) and, on the completion of the review, the chair
+of the Committee must transmit the estimate to the President of
+Treasury Board and Minister of Finance for presentation to the
+Legislative Assembly.
+(3) If at any time the Legislative Assembly is not in session the
+Standing Committee or, if there is no Standing Committee, the
+President of Treasury Board and Minister of Finance reports that
+(a) the Commissioner has certified that, in the public interest,
+an expenditure of public money is urgently required in
+respect of any matter pertaining to the Commissioner’s
+office, and
+(b) either
+(i) there is no supply vote under which an expenditure with
+respect to that matter may be made, or
+(ii) there is a supply vote under which an expenditure with
+respect to that matter may be made but the authority
+available under the supply vote is insufficient,
+the Lieutenant Governor in Council may order a special warrant to
+be prepared to be signed by the Lieutenant Governor authorizing
+the expenditure of the amount estimated to be required.
+(4) For the purposes of subsection (3), when the Legislative
+Assembly is adjourned for a period of more than 14 business days,
+the Assembly is deemed not to be in session during the period of
+the adjournment.
+(5) When a special warrant is prepared and signed under
+subsection (3) on the basis of a report referred to in subsection
+(3)(b)(i), the authority to spend the amount of money specified in
+the special warrant for the purpose specified in the special warrant
+is deemed to be a supply vote for the purposes of the Financial
+Administration Act for the fiscal year in which the special warrant
+is signed.
+(6) When a special warrant is prepared and signed under
+subsection (3) on the basis of a report referred to in subsection
+(3)(b)(ii), the authority to spend the amount of money specified in
+the special warrant is, for the purposes of the Financial
+2024
+Section 47 Chapter A-1.4
+45
+ACCESS TO INFORMATION ACT
+Administration Act, added to and deemed to be part of the supply
+vote to which the report relates.
+(7) When a special warrant has been prepared and signed in
+accordance with this section, the amounts authorized by it are
+deemed to be included in, and not to be in addition to, the amounts
+authorized by the Act, not being an Act for interim supply, enacted
+next after it for granting to His Majesty sums of money to defray
+certain expenditures of the Public Service of Alberta.
+Records management
+47 On the recommendation of the Commissioner, the Standing
+Committee may make an order
+(a) respecting the management of records in the custody or
+under the control of the Office of the Information and
+Privacy Commissioner, including their creation, handling,
+control, organization, retention, maintenance, security,
+preservation, disposition, alienation and destruction and
+their transfer to the Provincial Archives of Alberta,
+(b) establishing or governing the establishment of programs for
+any matter referred to in clause (a),
+(c) defining and classifying records, and
+(d) respecting the records or classes of records to which the
+order or any provision of it applies.
+General powers of Commissioner
+48(1) In addition to the Commissioner’s powers and duties under
+Part 3 with respect to reviews, the Commissioner is generally
+responsible for monitoring how this Act is administered to ensure
+that its purposes are achieved and may
+(a) conduct investigations to ensure compliance with any
+provision of this Act or compliance with rules relating to the
+destruction of records
+(i) set out in any other enactment of Alberta, or
+(ii) set out in a bylaw, resolution or other legal instrument
+by which a local public body acts or, if a local public
+body does not have a bylaw, resolution or other legal
+instrument setting out rules related to the destruction of
+records, as authorized by the governing body of a local
+public body,
+2024
+Section 49 Chapter A-1.4
+46
+ACCESS TO INFORMATION ACT
+(b) make an order under section 64(3) whether or not a review
+is requested,
+(c) inform the public about this Act,
+(d) receive comments from the public concerning the
+administration of this Act,
+(e) engage in or commission research into anything affecting
+the achievement of the purposes of this Act,
+(f) comment on the implications for freedom of information of
+proposed legislative schemes or programs of public bodies,
+(g) bring to the attention of the head of a public body any
+failure by the public body to assist applicants under section
+12, and
+(h) give advice and recommendations of general application to
+the head of a public body on matters respecting the rights or
+obligations of a head under this Act.
+(2) Without limiting subsection (1), the Commissioner may
+investigate and attempt to resolve complaints that
+(a) a duty imposed by section 12 has not been performed,
+(b) an extension of time for responding to a request is not in
+accordance with section 16, and
+(c) a fee required under this Act is inappropriate.
+Advice and recommendations
+49(1) The head of a public body may ask the Commissioner to
+give advice and recommendations on any matter respecting any
+rights or duties under this Act.
+(2) The Commissioner may provide the head with advice and
+recommendations in writing that
+(a) state the material facts either expressly or by incorporating
+facts stated by the head,
+(b) are based on the facts referred to in clause (a), and
+(c) may be based on any other considerations the Commissioner
+considers appropriate.
+2024
+Section 50 Chapter A-1.4
+47
+ACCESS TO INFORMATION ACT
+Powers of Commissioner in conducting
+investigations or inquiries
+50(1) In conducting an investigation under section 48(1)(a) or an
+inquiry under section 62 or 71 or in giving advice and
+recommendations under section 49, the Commissioner has all the
+powers, privileges and immunities of a commissioner under the
+Public Inquiries Act and the powers given by subsection (2).
+(2) The Commissioner may require any record to be produced to
+the Commissioner and may examine any information in a record,
+including personal information, whether or not the record is subject
+to the provisions of this Act.
+(3) Despite any other enactment, a public body must produce to
+the Commissioner within 10 business days any record or a copy of
+any record required under subsection (1) or (2).
+(4) If a public body is required to produce a record under
+subsection (1) or (2) and it is not practicable to make a copy of the
+record, the head of that public body may require the Commissioner
+to examine the original at its site.
+(5) After completing a review or investigation, the Commissioner
+must
+(a) return any original paper record produced to the
+Commissioner, and
+(b) destroy any copy of any record, including any electronic
+record, produced to the Commissioner.
+(6) Despite subsections (1) to (3), the Commissioner must not
+require any of the following records or information to be produced
+to the Commissioner:
+(a) a record or information described in section 4(1)(a), (s), (t)
+or (w);
+(b) a record or information described in section 27;
+(c) a record or information described in section 32(1)(a) or (2).
+(7) The Commissioner may require the public body who has refused
+to produce a record or information on the basis that subsection (6)(b)
+applies to attest, in accordance with the regulations, that the record or
+information is a record or information described in section 27.
+2024
+Section 51 Chapter A-1.4
+48
+ACCESS TO INFORMATION ACT
+Statements made to Commissioner not
+admissible in evidence
+51(1) A statement made or an answer given by a person during an
+investigation or inquiry by the Commissioner is inadmissible in
+evidence in court or in any other proceeding, except in
+(a) a prosecution for perjury in respect of sworn testimony,
+(b) a prosecution for an offence under this Act, or
+(c) an application for judicial review or an appeal from a
+decision with respect to that application.
+(2) Subsection (1) applies also in respect of evidence of the
+existence of proceedings conducted before the Commissioner.
+Privileged information
+52 Anything said, any information supplied or any record
+produced by a person during an investigation or inquiry by the
+Commissioner is privileged in the same manner as if the
+investigation or inquiry were a proceeding in a court.
+Restrictions on disclosure of information by
+Commissioner and staff
+53(1) The Commissioner, and anyone acting for or under the
+direction of the Commissioner, must not disclose any information
+obtained in performing their powers, duties and functions under
+this Act, except as provided in subsections (2) to (5).
+(2) The Commissioner may disclose, or may authorize anyone
+acting for or under the direction of the Commissioner to disclose,
+information that is necessary to
+(a) conduct an investigation or inquiry under this Act, or
+(b) establish the grounds for findings and recommendations
+contained in a report under this Act.
+(3) In conducting an investigation or inquiry under this Act and in
+a report under this Act, the Commissioner and anyone acting for or
+under the direction of the Commissioner must take every
+reasonable precaution to avoid disclosing and must not disclose
+(a) any information the head of a public body would be
+required or authorized to refuse to disclose if it were
+contained in a record requested under section 7(1), or
+2024
+Section 54 Chapter A-1.4
+49
+ACCESS TO INFORMATION ACT
+(b) whether information exists, if the head of a public body in
+refusing to provide access does not indicate whether the
+information exists.
+(4) The Commissioner may disclose to the Minister of Justice
+information relating to the commission of an offence against an
+enactment of Alberta or Canada if the Commissioner considers
+there is evidence of an offence.
+(5) The Commissioner may disclose, or may authorize anyone
+acting for or under the direction of the Commissioner to disclose,
+information in the course of a prosecution, application or appeal
+referred to in section 51.
+Protection of Commissioner and staff
+54 No proceedings lie against the Commissioner, or against a
+person acting for or under the direction of the Commissioner, for
+anything done, reported or said in good faith in the exercise or
+performance or the intended exercise or performance of a power,
+duty or function under this Part or Part 3.
+Delegation by Commissioner
+55(1) The Commissioner may delegate to any person any power,
+duty or function of the Commissioner under this Act, except the
+power to delegate.
+(2) A delegation under subsection (1) must be in writing and may
+contain any conditions or restrictions the Commissioner considers
+appropriate.
+Role of Ombudsman
+56 The Ombudsman may not investigate any matter that the
+Commissioner has the power to investigate or review under this
+Act unless the Commissioner agrees.
+Annual report of Commissioner
+57(1) The Commissioner must submit a written report annually to
+the Speaker of the Legislative Assembly on
+(a) the work of the Commissioner’s office,
+(b) any reviews resulting from a decision, act or failure to act of
+the Commissioner as head of a public body, and
+(c) any other matters relating to freedom of information that the
+Commissioner considers appropriate.
+(2) The Speaker must lay each annual report before the Legislative
+Assembly as soon as possible.
+2024
+Section 58 Chapter A-1.4
+50
+ACCESS TO INFORMATION ACT
+Part 3
+Reviews and Complaints
+Division 1
+Reviews by Commissioner
+Right to ask for review by Commissioner
+58(1) A person who makes a request to the head of a public body
+for access to a record may ask the Commissioner to review any
+decision, act or failure to act of the head that relates to the request.
+(2) A third party notified under section 36 of a decision by the
+head of a public body to give access may ask the Commissioner to
+review that decision.
+(3) This section does not apply
+(a) to a decision, act or failure to act of the Commissioner when
+acting as the head of the Office of the Information and
+Privacy Commissioner,
+(b) to a decision by the Speaker of the Legislative Assembly
+that a record is subject to parliamentary privilege, or
+(c) if the person appointed as the Commissioner is, at the same
+time, appointed as any other officer of the Legislature, to a
+decision, act or failure to act of that person when acting as
+the head of that office.
+How to ask for review by Commissioner
+59(1) To ask for a review under this Division, a written request
+must be delivered to the Commissioner and the head of the public
+body that received the request for access that the review relates to.
+(2) A request for a review of a decision of the head of a public
+body must be delivered,
+(a) if the request is made under section 58(1), within
+(i) 60 business days after the person asking for the review is
+notified of the decision, act or failure to act that is the
+subject of the request, or
+(ii) any longer period of up to 30 additional business days
+allowed by the Commissioner,
+or
+2024
+Section 60 Chapter A-1.4
+51
+ACCESS TO INFORMATION ACT
+(b) if the request is made under section 58(2), within 20
+business days after the person asking for the review is
+notified of the decision.
+(3) The failure of the head of a public body to respond in time to a
+request for access to a record is to be treated as a decision to refuse
+access, but the time limit in subsection (2)(a) for delivering a
+request for review does not apply.
+Notifying others of review by Commissioner
+60(1) On receiving a request for a review, the Commissioner must,
+as soon as practicable,
+(a) give a copy of the request
+(i) to the head of the public body concerned, and
+(ii) to any other person who, in the opinion of the
+Commissioner, is affected by the request,
+and
+(b) provide a summary of the review procedures and an
+anticipated date for a decision on the review
+(i) to the person who asked for the review,
+(ii) to the head of the public body concerned, and
+(iii) to any other person who, in the opinion of the
+Commissioner, is affected by the request.
+(2) A third party who asked for a review under section 58(2) and
+the public body concerned may each identify one or more persons
+who are affected by the review and if, in the opinion of the
+Commissioner it is appropriate to do so, the Commissioner may
+(a) give a copy of the request to those persons, and
+(b) provide a summary of the review procedures and an
+anticipated date for a decision on the review to those
+persons.
+(3) The Commissioner may sever any information in the request
+that the Commissioner considers appropriate before giving a copy
+of the request under this section.
+2024
+Section 61 Chapter A-1.4
+52
+ACCESS TO INFORMATION ACT
+Mediation may be authorized
+61 The Commissioner may authorize a mediator to investigate
+and try to settle any matter that is the subject of a request for a
+review.
+Inquiry by Commissioner
+62(1) Subject to subsections (2), (3) and (4), if a matter is not
+settled under section 61, the Commissioner must conduct an
+inquiry and decide all questions of fact and law arising in the
+course of the inquiry.
+(2) The Commissioner may refuse to conduct an inquiry if, in the
+opinion of the Commissioner,
+(a) the subject-matter of a request for a review under section 58
+has been dealt with in an order or investigation report of the
+Commissioner,
+(b) the person who asked for a review has not attempted to
+resolve the matter directly with the public body concerned,
+or
+(c) the circumstances otherwise warrant refusing to conduct an
+inquiry.
+(3) The Commissioner must not commence an inquiry until the
+Commissioner notifies the person who asked for the review of the
+pending inquiry, and the person who asked for the review confirms
+in writing to the Commissioner that the person wants the inquiry to
+proceed.
+(4) If the person who asked for the review does not confirm in
+writing, within 30 business days of being notified of the pending
+inquiry under subsection (3), that the person wants the inquiry to
+proceed, the inquiry will not be conducted.
+(5) An inquiry may be conducted in private.
+(6) The person who asked for the review, the head of the public
+body concerned and any other person given a copy of the request
+for the review must be given an opportunity to make
+representations to the Commissioner during the inquiry, but no one
+is entitled to be present during, to have access to or to comment on
+representations made to the Commissioner by another person.
+(7) The Commissioner may decide whether the representations are
+to be made orally or in writing.
+2024
+Section 63 Chapter A-1.4
+53
+ACCESS TO INFORMATION ACT
+(8) The person who asked for the review, the head of the public
+body concerned and any other person given a copy of the request
+for the review may be represented at the inquiry by counsel or an
+agent.
+(9) The Commissioner must complete an inquiry within 180
+business days after receiving the request for the review unless
+(a) the Commissioner has refused under subsection (2) to
+conduct an inquiry,
+(b) the inquiry will not be conducted pursuant to subsection (4),
+(c) the Commissioner discontinues the inquiry under subsection
+(11), or
+(d) the Commissioner
+(i) notifies the person who asked for the review, the head of
+the public body concerned and any other person given a
+copy of the request for the review that the Commissioner
+is extending that period, and
+(ii) provides an anticipated date for the completion of the
+inquiry.
+(10) An extension under subsection (9)(d) must not exceed a total
+of 180 business days beyond the original 180 business days for
+completing an inquiry unless there is an emergency, disaster or
+other unforeseen event that, in the opinion of the Commissioner,
+necessitates a further extension.
+(11) The Commissioner may discontinue an inquiry if, in the
+opinion of the Commissioner, it is appropriate to do so.
+(12) If the Commissioner discontinues an inquiry under subsection
+(11), the Commissioner must give notice in writing to the person
+who asked for the review, the head of the public body concerned and
+any other person given a copy of the request for the review, and the
+notice must include the reasons for the discontinuation.
+Burden of proof
+63(1) If the inquiry relates to a decision to refuse an applicant
+access to all or part of a record, it is up to the head of the public
+body to prove that the applicant has no right of access to the record
+or part of the record.
+(2) Despite subsection (1), if the record or part of the record that
+the applicant is refused access to contains personal information
+about a third party, it is up to the applicant to prove that disclosure
+2024
+Section 64 Chapter A-1.4
+54
+ACCESS TO INFORMATION ACT
+of the information would not be an unreasonable invasion of the
+third party’s personal privacy.
+(3) If the inquiry relates to a decision to give an applicant access to
+all or part of a record containing information about a third party,
+(a) in the case of personal information, it is up to the applicant
+to prove that disclosure of the information would not be an
+unreasonable invasion of the third party’s personal privacy,
+and
+(b) in any other case, it is up to the third party to prove that the
+applicant has no right of access to the record or part of the
+record.
+Commissioner’s orders
+64(1) On completing an inquiry under section 62, the
+Commissioner must dispose of the issues by making an order under
+this section.
+(2) If the inquiry relates to a decision to give or to refuse to give
+access to all or part of a record, the Commissioner may, by order,
+do the following:
+(a) require the head to give the applicant access to all or part of
+the record, if the Commissioner determines that the head is
+not authorized or required to refuse access;
+(b) either confirm the decision of the head or require the head to
+reconsider it, if the Commissioner determines that the head
+is authorized to refuse access;
+(c) require the head to refuse access to all or part of the record,
+if the Commissioner determines that the head is required to
+refuse access;
+(d) order that no further action is required.
+(3) If the inquiry relates to any other matter, the Commissioner
+may, by order, do one or more of the following:
+(a) require that a duty imposed by this Act or the regulations be
+performed;
+(b) confirm or reduce the extension of a time limit under section
+16;
+(c) confirm or reduce a fee or order a refund, in the appropriate
+circumstances, including if a time limit is not met.
+2024
+Section 65 Chapter A-1.4
+55
+ACCESS TO INFORMATION ACT
+(4) The Commissioner may specify any terms or conditions in an
+order made under this section.
+(5) The Commissioner must give a copy of an order made under
+this section to
+(a) the person who asked for the review,
+(b) the head of the public body concerned,
+(c) any other person given a copy of the request for the review,
+and
+(d) the Minister.
+(6) A copy of an order made by the Commissioner under this
+section may be filed with a clerk of the Court of King’s Bench and,
+after filing, the order is enforceable as a judgment or order of that
+Court.
+No appeal
+65 An order made by the Commissioner under this Act is final.
+Duty to comply with orders
+66(1) Subject to subsection (2), not later than 50 business days
+after being given a copy of an order of the Commissioner, the head
+of a public body concerned must comply with the order.
+(2) The head of a public body must not take any steps to comply
+with a Commissioner’s order until the period for bringing an
+application for judicial review under subsection (3) ends.
+(3) An application for judicial review of a Commissioner’s order
+must be made to the Court of King’s Bench not later than 45
+business days after the person making the application is given a
+copy of the order.
+(4) If an application for judicial review is made in accordance with
+subsection (3), the Commissioner’s order is stayed until
+(a) the application is dealt with by the Court of King’s Bench
+and the period for making an appeal of the decision of the
+Court of King’s Bench to the Court of Appeal ends, or
+(b) the appeal of the decision of the Court of King’s Bench to
+the Court of Appeal is dealt with by the Court of Appeal, if
+an appeal of that decision is made to the Court of Appeal.
+(5) Despite subsection (3), the Court of King’s Bench, on
+application made either before or after the expiry of the period
+2024
+Section 67 Chapter A-1.4
+56
+ACCESS TO INFORMATION ACT
+referred to in subsection (3), may extend that period if it considers
+it appropriate to do so.
+Division 2
+Reviews of Decisions of the Registrar
+of Motor Vehicle Services
+Definitions
+67 In this Division,
+(a) “personal driving and motor vehicle information” means
+personal driving and motor vehicle information as defined
+in section 8(1) of the Traffic Safety Act;
+(b) “Registrar” means the Registrar of Motor Vehicle Services.
+Right to ask for review by Commissioner
+68(1) Despite section 4(1)(o)(ii), if a person makes a request to the
+Registrar for access to personal driving and motor vehicle
+information and a notification is published in accordance with the
+regulations made under section 8 of the Traffic Safety Act, the
+Commissioner may review the Registrar’s decision as set out in the
+notification.
+(2) The following may ask the Commissioner to review a decision
+of the Registrar that is set out in a notification referred to in
+subsection (1):
+(a) an individual who believes that the individual’s own
+personal driving and motor vehicle information may be
+released as a result of the Registrar’s decision;
+(b) the person who made the request to the Registrar for access
+to personal driving and motor vehicle information.
+How to ask for review by Commissioner
+69(1) To ask for a review under this Division, a written request
+must be delivered to the Commissioner.
+(2) A request for a review under this Division must be delivered to
+the Commissioner within 60 days after the date the notification of
+the decision was published in accordance with the regulations
+under section 8 of the Traffic Safety Act.
+Notifying others of review by Commissioner
+70(1) On receiving a request for a review, the Commissioner must
+as soon as practicable
+(a) give a copy of the request
+2024
+Section 71 Chapter A-1.4
+57
+ACCESS TO INFORMATION ACT
+(i) to the Registrar, and
+(ii) to any person the Commissioner considers appropriate,
+and
+(b) provide a summary of the review procedures and an
+anticipated date for a decision on the review
+(i) to the person who asked for the review,
+(ii) to the Registrar, and
+(iii) to any person the Commissioner considers appropriate.
+(2) Despite subsection (1)(a), the Commissioner may sever any
+information in the request that the Commissioner considers
+appropriate before giving a copy of the request to the Registrar or a
+person referred to in subsection (1)(a)(ii).
+Inquiry by Commissioner
+71(1) Unless section 72 applies, the Commissioner must conduct
+an inquiry and may decide all questions of fact and law arising in
+the course of the inquiry.
+(2) An inquiry under subsection (1) may be conducted in private.
+(3) The person who asked for the review, the Registrar and any
+other person given a copy of the request for the review must be
+given an opportunity to make representations to the Commissioner
+during the inquiry, but no one is entitled to be present during, to
+have access to or to comment on representations made to the
+Commissioner by another person.
+(4) The Commissioner may decide whether the representations are
+to be made orally or in writing.
+(5) The person who asked for the review, the Registrar and any
+other person given a copy of the request for the review may be
+represented at the inquiry by counsel or an agent.
+(6) An inquiry under this section must be completed within 90
+days after receiving the request for the review unless the
+Commissioner
+(a) notifies the person who asked for the review, the Registrar
+and any other person given a copy of the request for the
+review that the Commissioner is extending that period, and
+2024
+Section 72 Chapter A-1.4
+58
+ACCESS TO INFORMATION ACT
+(b) provides an anticipated date for the completion of the
+review.
+Refusal to conduct inquiry
+72 The Commissioner may refuse to conduct an inquiry pursuant
+to section 71 if, in the opinion of the Commissioner,
+(a) the subject-matter of the request for a review has been dealt
+with in an order of the Commissioner, or
+(b) the circumstances warrant refusing to conduct an inquiry.
+Commissioner’s orders
+73(1) On completing an inquiry under section 71, the
+Commissioner must dispose of the issues by making an order under
+this section.
+(2) The Commissioner may, by order, do the following:
+(a) require the Registrar to give the person who made the
+request access to all or part of the personal driving and
+motor vehicle information to which access was requested if
+the Commissioner determines that the Registrar is not
+authorized to refuse access under the regulations made
+under section 8 of the Traffic Safety Act;
+(b) either confirm the decision of the Registrar or require the
+Registrar to reconsider it if the Commissioner determines
+that the Registrar is authorized to refuse access under the
+regulations made under section 8 of the Traffic Safety Act;
+(c) require the Registrar to refuse access to all or part of the
+personal driving and motor vehicle information if the
+Commissioner determines that the Registrar is required
+under the regulations made under section 8 of the Traffic
+Safety Act to refuse access.
+(3) The Commissioner may specify any terms or conditions in an
+order made under this section.
+(4) The Commissioner must give a copy of an order made under
+this section
+(a) to the person who asked for the review,
+(b) to the Registrar,
+(c) to any other person given a copy of the request for the
+review,
+2024
+Section 74 Chapter A-1.4
+59
+ACCESS TO INFORMATION ACT
+(d) to the Minister, and
+(e) to the Minister designated under section 16 of the
+Government Organization Act as the Minister responsible
+for the Traffic Safety Act.
+(5) A copy of an order made by the Commissioner under this
+section may be filed with a clerk of the Court of King’s Bench and,
+after filing, the order is enforceable as a judgment or order of that
+Court.
+No appeal
+74 An order made by the Commissioner under this Division is
+final.
+Duty to comply with orders
+75(1) Subject to subsection (2), not later than 50 days after being
+given a copy of an order of the Commissioner, the Registrar must
+comply with the order.
+(2) The Registrar must not take any steps to comply with a
+Commissioner’s order until the period for bringing an application
+for judicial review under subsection (3) ends.
+(3) An application for judicial review of a Commissioner’s order
+must be made not later than 45 days after the person making the
+application is given a copy of the order.
+(4) If an application for judicial review is made pursuant to
+subsection (3), the Commissioner’s order is stayed until the
+application is dealt with by the Court.
+(5) Despite subsection (3), the Court may, on application made
+either before or after the expiry of the period referred to in
+subsection (3), extend that period if it considers it appropriate to do
+so.
+Application of other sections
+76 Sections 48(1)(a) and 49 and Division 1 do not apply to a
+review under this Division.
+Division 3
+Investigations and Reviews by
+Independent Adjudicator
+Independent adjudicator to investigate
+complaints and review decisions
+77(1) The Minister may make an order designating a judge of the
+Court of King’s Bench to act as an independent adjudicator
+2024
+Section 77 Chapter A-1.4
+60
+ACCESS TO INFORMATION ACT
+(a) to investigate complaints made against the Commissioner as
+the head of the Office of the Information and Privacy
+Commissioner with respect to any matter referred to in
+section 48(2),
+(b) if the person appointed as the Commissioner is, at the same
+time, appointed as any other officer of the Legislature, to
+investigate complaints respecting any matter referred to in
+section 48(2) made against that person when acting as the
+head of that office,
+(c) to investigate complaints respecting any matter referred to in
+section 48(2) made against a head of a public body if the
+Commissioner was a member, employee or head of that
+public body during the relevant period or, in the
+Commissioner’s opinion, the Commissioner has a conflict
+with respect to that public body,
+(d) to review, if requested under section 79, any decision, act or
+failure to act of the Commissioner as the head of the Office
+of the Information and Privacy Commissioner,
+(e) if the person appointed as the Commissioner is, at the same
+time, appointed as any other officer of the Legislature, to
+review, if requested under section 79, any decision, act or
+failure to act of that person when acting as the head of that
+office, and
+(f) to review, if requested under section 80, a decision, act or
+failure to act of a head of a public body if the Commissioner
+was a member, employee or head of that public body during
+the relevant period or, in the Commissioner’s opinion, the
+Commissioner has a conflict with respect to that public
+body.
+(2) An independent adjudicator must not review an order of the
+Commissioner made under this Act.
+(3) An independent adjudicator may retain the services of any
+persons necessary to assist in performing the independent
+adjudicator’s functions under this Act.
+(4) The Government of Alberta may pay out of the General
+Revenue Fund,
+(a) to an independent adjudicator, the expenses a judge is
+entitled to receive under subsection 57(3) of the Judges Act
+(Canada) while acting as an adjudicator, and
+2024
+Section 78 Chapter A-1.4
+61
+ACCESS TO INFORMATION ACT
+(b) to a person whose services are retained under subsection (3),
+remuneration for those services.
+Powers, duties, functions and protections
+of independent adjudicator
+78(1) For the purposes of section 77, an independent adjudicator
+has the powers, duties and functions given to the Commissioner by
+sections 48(2), 50 and 53(1), (2)(a) and (3) to (5).
+(2) Sections 51, 52, 54 and 56 apply for the purposes of an
+investigation, inquiry or review by an independent adjudicator.
+Right to ask for review by independent adjudicator
+79(1) This section applies
+(a) to a decision, act or failure to act of the Commissioner when
+acting as the head of the Office of the Information and
+Privacy Commissioner, and
+(b) if the person appointed as the Commissioner is, at the same
+time, appointed as any other officer of the Legislature, to a
+decision, act or failure to act of that person when acting as
+the head of that office.
+(2) A person who makes a request to the Commissioner for access
+to a record may ask an independent adjudicator to review any
+decision, act or failure to act of the Commissioner that relates to the
+request.
+(3) A third party notified under section 36 of a decision by the
+Commissioner to give access may ask an independent adjudicator
+to review that decision.
+Review where Commissioner in conflict
+80(1) This section applies where the Commissioner is asked under
+section 58(1) or (2) to review a decision, act or failure to act of a
+head of a public body if the Commissioner was a member,
+employee or head of that public body during the relevant period or,
+in the Commissioner’s opinion, the Commissioner has a conflict
+with respect to that public body.
+(2) A person who makes a request to the head of a public body for
+access to a record may ask an independent adjudicator to review
+any decision, act or failure to act of the head of the public body that
+relates to the request.
+(3) A third party notified under section 36 of a decision by the
+head of a public body to give access may ask an independent
+adjudicator to review that decision.
+2024
+Section 81 Chapter A-1.4
+62
+ACCESS TO INFORMATION ACT
+How to ask for review by independent adjudicator
+81(1) To ask for a review under this Division, a written request
+must be delivered to the Minister and the Commissioner.
+(2) A request for a review must be delivered
+(a) if the request is made under section 79(2) or 80(2), within
+(i) 60 business days after the person asking for the review is
+notified of the decision, act or failure to act that is the
+subject of the request, or
+(ii) any longer period of up to 30 additional business days
+allowed by the independent adjudicator,
+or
+(b) if the request is made under section 79(3) or 80(3), within
+20 business days after the person asking for the review is
+notified of the decision.
+(3) The failure of the Commissioner, as the head of a public body,
+to respond within the period required by this Act, including any
+extended period permitted by this Act, to a request for access to a
+record is to be treated as a decision to refuse access to the record,
+but the time limit in subsection (2)(a) for delivering a request for
+review does not apply.
+Notifying others of review by independent adjudicator
+82(1) On receiving a request for a review, the Minister must as
+soon as practicable
+(a) give the request to an independent adjudicator,
+(b) give a copy of the request to
+(i) the Commissioner, and
+(ii) any other person who, in the opinion of the Minister, is
+affected by the request,
+and
+(c) provide a summary of the review procedures to
+(i) the person who asked for the review,
+(ii) the Commissioner, and
+2024
+Section 83 Chapter A-1.4
+63
+ACCESS TO INFORMATION ACT
+(iii) any other person who in the opinion of the Minister is
+affected by the request.
+(2) A third party who has asked for a review under section 79(3) or
+80(3) and the Commissioner may each identify one or more
+persons who are affected by the review being requested, and the
+independent adjudicator may
+(a) give a copy of the request to those persons, and
+(b) provide a summary of the review procedures and an
+anticipated date for a decision on the review to those
+persons.
+(3) The independent adjudicator may sever any information in the
+request the independent adjudicator considers appropriate before
+giving a copy of the request under this section.
+Conduct and outcome of review
+83(1) An independent adjudicator has the powers and duties given
+to the Commissioner by sections 61 and 62(1), (2), (3), (5), (7),
+(11) and (12) and sections 62(6) and (8) and 63 apply to an inquiry
+conducted by an independent adjudicator.
+(2) On completing an inquiry, an independent adjudicator has the
+same duty to dispose of the issues, the same power to make orders
+and the same duty to give copies of those orders as the
+Commissioner has under section 64(1) to (5).
+(3) An independent adjudicator must give a copy of an order made
+by the independent adjudicator under this Act to the Commissioner.
+(4) A copy of an order made by an independent adjudicator under
+this section may be filed with a clerk of the Court of King’s Bench
+and, after filing, the order is enforceable as a judgment or order of
+that Court.
+(5) Section 66 applies to an order of an independent adjudicator.
+(6) An order made by an independent adjudicator under this Act is
+final.
+Division 4
+Disclosure to Commissioner
+Disclosure to Commissioner
+84(1) An employee of a public body may disclose to the
+Commissioner any information that the employee is required to
+keep confidential and that the employee, acting in good faith,
+believes ought to be disclosed by a head under section 37.
+2024
+Section 85 Chapter A-1.4
+64
+ACCESS TO INFORMATION ACT
+(2) The Commissioner must investigate and review any disclosure
+made under subsection (1).
+(3) If an employee makes a disclosure under subsection (1), the
+Commissioner must not disclose the identity of the employee to
+any person without the employee’s consent.
+(4) An employee is not liable to a prosecution for an offence under
+any Act for doing any of the following, unless the employee acted
+in bad faith:
+(a) copying a record or disclosing it to the Commissioner;
+(b) disclosing information to the Commissioner.
+(5) A public body or person acting on behalf of a public body must
+not take any adverse employment action against an employee
+because the employee, acting in good faith, has
+(a) disclosed information to the Commissioner under this
+section, or
+(b) exercised or may exercise a right under this section.
+(6) A person who contravenes subsection (5) is guilty of an
+offence and liable to a fine of not more than $10 000.
+(7) In carrying out an investigation and review under this section,
+the Commissioner has all of the powers and duties set out in
+sections 50, 53, 61, 62 and 64(1) to (5), and sections 51, 52, 54 and
+56 apply.
+Part 4
+General Provisions
+Manner of giving notice
+85 Where this Act requires any notice or other document to be
+given to a person, it is to be given
+(a) by sending it to that person by prepaid mail to the last
+known address of that person,
+(b) by personal service,
+(c) by substitutional service if so authorized by the
+Commissioner,
+(d) by fax, or
+2024
+Section 86 Chapter A-1.4
+65
+ACCESS TO INFORMATION ACT
+(e) in an electronic form other than fax if that person’s contact
+information for that electronic form is publicly available or
+has been provided by that person.
+Exercise of rights by other persons
+86(1) Any right or power conferred on an individual by this Act
+may be exercised
+(a) if the individual is deceased, by the individual’s personal
+representative if the exercise of the right or power relates to
+the administration of the individual’s estate,
+(b) if a guardian or trustee has been appointed for the individual
+under the Adult Guardianship and Trusteeship Act, by the
+guardian or trustee if the exercise of the right or power
+relates to the powers and duties of the guardian or trustee,
+(c) if an agent has been designated under a personal directive
+under the Personal Directives Act, by the agent under the
+authority of the directive if the directive so authorizes,
+(d) if a power of attorney has been granted by the individual, by
+the attorney if the exercise of the right or power relates to
+the powers and duties of the attorney conferred by the power
+of attorney,
+(e) if the individual is a minor, by a guardian of the minor in
+circumstances where, in the opinion of the head of the
+public body concerned, the exercise of the right or power by
+the guardian would not constitute an unreasonable invasion
+of the personal privacy of the minor, or
+(f) by any person with written authorization from the individual
+to act on the individual’s behalf.
+(2) Any notice required to be given to an individual under this Act
+may be given to the person entitled to exercise the individual’s
+rights or powers referred to in subsection (1).
+Delegation by head of public body
+87(1) The head of a public body may delegate to any person any
+power, duty or function of the head under this Act, except the
+power to delegate under this section.
+(2) A delegation under subsection (1) must be in writing and may
+contain any conditions or restrictions the head of the public body
+considers appropriate.
+2024
+Section 88 Chapter A-1.4
+66
+ACCESS TO INFORMATION ACT
+Annual report of Minister
+88 The Minister must prepare an annual report about the
+operation of this Act and lay the report before the Legislative
+Assembly.
+Directory of public bodies
+89(1) The Minister must publish, in printed or electronic form, a
+directory to assist in identifying and locating records.
+(2) The directory must list each public body and include for each
+public body
+(a) the business contact information for the public body for
+matters relating to the administration of this Act, or
+(b) if the public body does not have a contact person for matters
+relating to the administration of this Act, the name and
+business contact information of the head of the public body.
+Records available without request
+90(1) The head of a public body may specify categories of records
+that are in the custody or under the control of the public body and
+are available to the public without a request for access under this
+Act.
+(2) Any information that the head of a public body would be
+authorized or required to refuse to give access to under this Act
+may be excluded from a record that is available to the public
+without a request for access under this Act.
+(3) The head of a public body may require a person who asks for a
+copy of an available record to pay a fee to the public body, unless
+such a record can otherwise be accessed without a fee.
+(4) Subsection (1) does not limit the discretion of the Government
+of Alberta or a public body to release records that do not contain
+personal information.
+(5) Despite anything to the contrary in this Act, there is no right to
+request a review in relation to a decision respecting whether to
+make a record available to the public under this section.
+Access to manuals, handbooks and guidelines
+91(1) The head of every public body must make any manual,
+handbook or other guideline used by employees of the public body
+in decision-making processes that affect the public available to the
+public without a request for access under this Act.
+2024
+Section 92 Chapter A-1.4
+67
+ACCESS TO INFORMATION ACT
+(2) Any information that the head of a public body would be
+authorized or required to refuse to give access to under this Act
+may be excluded from the manuals, handbooks or other guidelines
+that must be made available to the public under subsection (1).
+(3) The head of a public body may require a person who asks for a
+copy of a manual, handbook or other guideline to pay a fee to the
+public body unless the manual, handbook or other guideline can
+otherwise be accessed without a fee.
+(4) Subsection (1) does not limit the discretion of the Government
+of Alberta or a public body to release a manual, handbook or other
+guideline that does not contain personal information.
+No right to request publicly available records
+92 A person may not make a request to a public body under
+section 7(1) to obtain access to a record that is made available to
+the public under section 90 or 91.
+Protection of public body from legal suit
+93 No action lies and no proceeding may be brought against the
+Crown, a public body, the head of a public body, an elected official
+of a local public body or any person acting for or under the
+direction of the head of a public body for damages resulting from
+(a) the disclosure of or failure to disclose, in good faith, all or
+part of a record or information under this Act or any
+consequences of that disclosure or failure to disclose, or
+(b) the failure to give a notice required under this Act if
+reasonable care is taken to give the required notice.
+Protection of employee
+94(1) A public body or person acting on behalf of a public body
+must not take any adverse employment action against an employee
+as a result of the employee properly disclosing information in
+accordance with this Act.
+(2) A person who contravenes subsection (1) is guilty of an
+offence and liable to a fine of not more than $10 000.
+Offences and penalties
+95(1) A person must not knowingly
+(a) make a false statement to, or mislead or attempt to mislead,
+the Commissioner or another person in the performance of
+the powers, duties or functions of the Commissioner or
+other person under this Act,
+2024
+Section 96 Chapter A-1.4
+68
+ACCESS TO INFORMATION ACT
+(b) obstruct the Commissioner or another person in the
+performance of the powers, duties or functions of the
+Commissioner or other person under this Act,
+(c) alter, falsify or conceal any record, or direct another person
+to do so, with the intent to evade a request for access to the
+record,
+(d) fail to comply with an order made by the Commissioner
+under section 64 or by an independent adjudicator under
+section 83(2), or
+(e) destroy any records subject to this Act, or direct another
+person to do so, with the intent to evade a request for access
+to the records.
+(2) A person who contravenes subsection (1) is guilty of an
+offence and liable to a fine of not more than $50 000.
+(3) A prosecution under this Act may be commenced within 2
+years after the day on which evidence of the alleged offence first
+came to the attention of the Commissioner, but not afterwards.
+Fees
+96(1) The head of a public body may require an applicant to pay
+to the public body fees for services as provided for in the
+regulations.
+(2) Subsection (1) does not apply to a request for the applicant’s
+own personal information, except for the cost of producing the
+copy.
+(3) If an applicant is required to pay fees for services under
+subsection (1), the public body must give the applicant an estimate
+of the total fee before providing the services.
+(4) An applicant may, in writing, request that the head of a public
+body excuse the applicant from paying all or part of a fee for
+services under subsection (1).
+(5) The head of a public body may excuse the applicant from
+paying all or part of a fee if, in the opinion of the head,
+(a) the applicant cannot afford the payment or for any other
+reason it is fair to excuse payment, or
+(b) the record relates to a matter of public interest, including the
+environment or public health or safety.
+2024
+Section 97 Chapter A-1.4
+69
+ACCESS TO INFORMATION ACT
+(6) If an applicant has, under subsection (4), requested the head of
+a public body to excuse the applicant from paying all or part of a
+fee, the head must give written notice of the head’s decision to
+grant or refuse the request to the applicant within 30 business days
+after receiving the request.
+(7) If the head of a public body refuses an applicant’s request
+under subsection (4), the notice referred to in subsection (6) must
+state that the applicant may ask for a review under Part 3.
+(8) The fees referred to in subsection (1) must not exceed the
+actual costs of the services.
+Power to make regulations
+97(1) The Lieutenant Governor in Council may make regulations
+(a) defining political staff for the purposes of section 4(1)(w);
+(b) respecting procedures to be followed in making, transferring
+and responding to requests under this Act;
+(c) respecting procedures to be followed in giving access where
+an applicant has asked to examine a record or for a copy of a
+record that cannot reasonably be reproduced;
+(d) respecting the making of requests under this Act orally
+instead of in writing;
+(e) respecting the duty of the head of a public body to assist
+applicants, including respecting standards to be observed by
+officers or employees of a public body in fulfilling the duty
+to assist applicants;
+(f) prescribing the manner of giving consent for the purposes of
+section 20(2)(a);
+(g) authorizing the disclosure of information relating to the
+mental or physical health of individuals to medical or other
+experts to determine, for the purposes of section 21(2), if
+disclosure of that information could reasonably be expected
+to result in immediate and grave harm to the safety of or the
+mental or physical health of those individuals;
+(h) respecting procedures to be followed or restrictions
+considered necessary with respect to the disclosure and
+examination of information referred to in clause (g);
+(i) respecting special procedures for giving individuals access
+to personal information about their mental or physical
+health;
+2024
+Section 97 Chapter A-1.4
+70
+ACCESS TO INFORMATION ACT
+(j) authorizing, for the purposes of section 28(1)(b), a local
+public body to hold meetings of its elected officials, or of its
+governing body or a committee of its governing body, to
+consider specified matters in the absence of the public
+unless another Act
+(i) expressly authorizes the local public body to hold
+meetings of its elected officials, or of its governing body
+or a committee of its governing body in the absence of
+the public, and
+(ii) specifies the matters that may be discussed at those
+meetings;
+(k) respecting attestations under section 50(7);
+(l) respecting fees to be paid under this Act and providing for
+circumstances when fees may be waived in whole or in part;
+(m) respecting forms for the purposes of this Act;
+(n) respecting any matter that is to be included in a notice
+required by this Act;
+(o) defining, enlarging or restricting the meaning of any term
+used in this Act but not defined in this Act;
+(p) requiring public bodies to provide to the Minister
+information that relates to the administration of this Act or
+is required for preparing the Minister’s annual report or the
+directory referred to in section 89;
+(q) respecting the establishment of criteria to be used for
+designating or de-designating agencies, boards,
+commissions, corporations, offices or other bodies as public
+bodies;
+(r) exempting any public body or class of public body from the
+operation of a regulation made under this subsection;
+(s) providing that other Acts or regulations, or any provisions
+of them, prevail despite this Act;
+(t) respecting any other matter or thing that the Lieutenant
+Governor in Council considers necessary to carry out the
+intent of this Act.
+(2) The Minister may, on the Minister’s own initiative or at the
+request of another Minister, make regulations designating an
+agency, board, commission, corporation, office or other body as a
+2024
+Section 98 Chapter A-1.4
+71
+ACCESS TO INFORMATION ACT
+public body in accordance with the criteria established in the
+regulations made under subsection (1)(q).
+(3) The Minister, on the Minister’s own initiative or at the request
+of another Minister, may de-designate a body designated under
+subsection (2) in accordance with the criteria established in the
+regulations made under subsection (1)(q), but only if
+(a) the body
+(i) has been discontinued or no longer exists,
+(ii) has been amalgamated with another body, and use of the
+name under which it was designated has been
+discontinued,
+(iii) is a public body described in section 1(t)(i), (iii), (iv),
+(v), (vi) or (vii), or
+(iv) would more appropriately be subject to another Act of
+Alberta or Canada that provides for access to
+information or protection of privacy or both,
+or
+(b) all of the following apply:
+(i) the Government of Alberta does not appoint a majority
+of members to the body or to the governing board of the
+body;
+(ii) the Government of Alberta does not provide the majority
+of the body’s continuing funding;
+(iii) the Government of Alberta does not hold a controlling
+interest in the share capital of the body.
+97.1 Repealed 2025 c23 s1.
+Power to make bylaws
+98 A local public body, by bylaw or other legal instrument by
+which the local public body acts,
+(a) must designate a person or group of persons as the head of
+the local public body for the purposes of this Act, and
+(b) may set any fees the local public body requires to be paid
+under section 96, which must not exceed the fees provided
+for in the regulations.
+2024
+Section 99 Chapter A-1.4
+72
+ACCESS TO INFORMATION ACT
+Application of this Act
+99 This Act applies to any record in the custody or under the
+control of a public body regardless of whether it comes into
+existence before or after this Act comes into force.
+Review of Act
+100(1) A special committee of the Legislative Assembly must
+begin a comprehensive review of this Act and the regulations
+(a) within 6 years of this Act coming into force, and
+(b) thereafter, every 6 years after the date on which the previous
+special committee submits its report under subsection (2).
+(2) A special committee must submit a final report to the
+Legislative Assembly within 18 months after beginning a review
+under subsection (1).
+(3) The report of a special committee may include the special
+committee’s recommendations for amendments to this Act, the
+regulations or any other enactment.
+Part 5
+Transitional Provisions, Repeal and
+Coming into Force
+Transitional
+101(1) In this section, “former Act” means the Freedom of
+Information and Protection of Privacy Act.
+(2) Notwithstanding the repeal of the former Act,
+(a) a person designated as the head of a public body for the
+purposes of section 1(f)(ii) of the former Act continues as
+the head of the public body for the purposes of this Act until
+a new person is designated as the head of the public body
+for the purposes of section 1(h)(ii) of this Act,
+(b) a person or group of persons designated as the head of a
+local public body under section 95(a) of the former Act
+continues as the head of the local public body under this Act
+until a new person or group of persons is designated as the
+head of the local public body under section 98(a) of this
+Act,
+(c) a request made in accordance with section 7 of the former
+Act prior to the coming into force of this Act will be dealt
+with by a public body in accordance with the former Act as
+it read immediately before the repeal of the former Act, and
+2024
+Section 102 Chapter A-1.4
+73
+ACCESS TO INFORMATION ACT
+(d) the former Act as it read immediately before its repeal
+continues in effect and applies
+(i) to a review, inquiry or investigation if the matter,
+decision, disclosure, act or failure to act that is the
+subject of the review, inquiry or investigation occurred
+before the repeal of the former Act, and
+(ii) subject to subsection (3), to an offence committed under
+the former Act before the repeal of the former Act.
+(3) A prosecution under the former Act of an offence committed
+under that Act before the repeal of the former Act may be
+commenced in accordance with section 95(3) of this Act.
+Repeal
+102 The Freedom of Information and Protection of Privacy Act is
+repealed.
+Coming into force
+103 This Act comes into force on Proclamation.
+(NOTE: Proclaimed in force June 11, 2025.)
+Printed on Recycled Paper
+*9780779860791*

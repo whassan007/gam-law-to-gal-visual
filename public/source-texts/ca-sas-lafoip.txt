@@ -1,0 +1,1434 @@
+1LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+The
+Local Authority
+Freedom of
+Information and
+Protection of
+Privacy Act
+being
+Chapter L‑27.1 of the Statutes of Saskatchewan, 1990-91
+(consult Table of Saskatchewan Statutes for effective dates)
+as amended by the Statutes of Saskatchewan, 1993, c 55;
+1996, c 9; 1999, c H‑0.021; 2001, c 50; 2002, c C‑11.1 and c R‑8.2;
+2003, c 29; 2005, c M‑36.1; 2006, c 19; 2009, c 32; 2010, c N‑5.2;
+2014, c E‑13.1 and c S‑32.21; 2015, c 21; 2017, c P‑30.3 and c 17;
+2018, c 42; 2022, c 9; and 2024, c 4.
+NOTE:
+This consolidation is not official. Amendments have been
+incorporated for convenience of reference and the original statutes
+and regulations should be consulted for all purposes of interpretation
+and application of the law. In order to preserve the integrity of the
+original statutes and regulations, errors that may have appeared
+are reproduced in this consolidation.
+2LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+Table of Contents
+PART I
+Short Title, Interpretation and Application
+1 Short title
+2 Interpretation
+3 Application
+4 Existing rights preserved
+PART II
+Access to Records
+5 Right of access
+5.1 Duty of local authority to assist
+6 Application
+7 Response required
+7.1 Applications deemed abandoned
+8 Severability
+9 Fee
+10 Manner of access
+11 Transfer of application
+12 Extension of time
+PART III
+Exemptions
+13 Records from other governments
+14 Law enforcement and investigations
+15 Documents of a local authority
+16 Advice from officials
+17 Economic and other interests
+18 Third party information
+19 Testing procedures, tests and audits
+20 Danger to health or safety
+21 Solicitor‑client privilege
+22 Confidentiality provisions in other enactments
+PART IV
+Protection of Privacy
+23 Interpretation
+23.1 Duty of local authority to protect
+23.2 Information management service provider
+24 Purpose of information
+25 Manner of collection
+26 Standard of accuracy
+27 Use of personal information
+28 Disclosure of personal information
+28.1 Notification
+29 Personal information of deceased individual
+30 Individual’s access to personal information
+31 Right of correction
+32 Privacy powers of commissioner
+PART V
+Third Party Intervention
+33 Notice to third party
+34 Waiver of notice
+35 Right to make representations
+36 Decision
+PART VI
+Review and Appeal
+37 Interpretation of Part
+38 Application for review
+39 Review or refusal to review
+40 Notice of intention to investigate or review
+41 Notice of application for review
+42 Conduct of review
+43 Power to authorize a local authority to
+disregard applications or requests
+43.1 Power to authorize a local authority to disregard
+applications or requests
+44 Report of commissioner
+45 Decision of head
+46 Appeal to court
+47 Powers of court on appeal
+PART VII
+General
+48 Certain provisions adopted
+49 Exercise of rights by other persons
+50 Delegation
+51 Burden of proof
+52 Annual report
+53 Repealed
+53.1 Access to manuals
+53.2 Records available without an application
+54 Proceedings prohibited
+55 Immunity from prosecution
+56 Offence
+57 Regulations
+58 Coming into force
+3LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+CHAPTER L-27.1
+An Act respecting a right of access to documents of local authorities
+and a right of privacy with respect to personal
+information held by local authorities
+PART I
+Short Title, Interpretation and Application
+Short title
+1 This Act may be cited as The Local Authority Freedom of Information and
+Protection of Privacy Act.
+Interpretation
+2(1) In this Act:
+(a) “applicant” means a person who makes an application for access to a
+record pursuant to section 6;
+(b) “commissioner” means the Information and Privacy Commissioner
+appointed pursuant to The Freedom of Information and Protection of Privacy
+Act;
+(b.1) “employee” means an individual employed by a local authority and
+includes an individual retained under a contract to perform services for the
+local authority;
+(c) “fiscal year” means the period commencing on April 1 in one year and
+ending on March 31 in the following year;
+(d) “government institution” means a government institution as defined
+in The Freedom of Information and Protection of Privacy Act;
+(e) “head” means:
+(i) in the case of a municipality, the mayor, reeve or chairperson of the
+local advisory committee, as the case may be;
+(i.1) in the case of a police service, the chief as defined in The Police
+Act, 1990; or
+(ii) in the case of any other local authority:
+(A) the chairperson of the governing body of the local
+authority; or
+(B) the individual designated as the head by the governing body
+of the local authority;
+4LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+(e.1) “information management service provider” means a person who
+or body that:
+(i) processes, stores, archives or destroys records of a local authority
+containing personal information; or
+(ii) provides information management or information technology services
+to a local authority with respect to records of the local authority containing
+personal information;
+(f) “local authority” means:
+(i) a municipality;
+(ii) Repealed. 2002, c C‑11.1, s 389.
+(iii) Repealed. 2002, c C‑11.1, s 389.
+(iv) a committee of a council of a municipality;
+(v) any board, commission or other body that:
+(A) is appointed pursuant to The Cities Act, The Municipalities Act
+or The Northern Municipalities Act, 2010; and
+(B) is prescribed;
+(vi) the board of a public library within the meaning of The Public
+Libraries Act, 1984;
+(vii) the Northern Library Office established pursuant to The Public
+Libraries Act, 1984;
+(viii) any board of education or conseil scolaire within the meaning of
+The Education Act;
+(viii.1) a police service or regional police service as defined in The Police
+Act, 1990;
+(ix) a regional college within the meaning of The Regional Colleges Act,
+other than the Saskatchewan Indian Community College;
+(x) the Saskatchewan Polytechnic;
+(xi) the University of Saskatchewan, including Saint Thomas More
+College;
+(xii) the University of Regina, including:
+(A) Campion College; and
+(B) Luther College with respect to its post‑secondary level
+activities;
+(xiii) the provincial health authority or an affiliate, as defined in The
+Provincial Health Authority Act;
+(xiii.1) subject to subsection (2), Health Shared Services Saskatchewan
+within the meaning of The Health Shared Services Saskatchewan
+(3sHealth) Act;
+5LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+(xiv) Repealed. 2002, c R‑8.2, s 83.
+(xv) Repealed. 2002, c R‑8.2, s 120.
+(xvi) Repealed. 2002, c R‑8.2, s 83.
+(xvii) any board, commission or other body that:
+(A) receives more than 50% of its annual budget from the
+Government of Saskatchewan or a government institution; and
+(B) is prescribed;
+(g) “minister” means the member of the Executive Council to whom for the
+time being the administration of this Act is assigned;
+(h) “personal information” means personal information within the meaning
+of section 23;
+(i) “prescribed” means prescribed in the regulations;
+(j) “record” means a record of information in any form and includes informa‑
+tion that is written, photographed, recorded or stored in any manner, but does
+not include computer programs or other mechanisms that produce records;
+(k) “third party” means a person, including an unincorporated entity, other
+than an applicant or a local authority.
+(2) This Act does not apply to plan trusts within the meaning of The Health Shared
+Services Saskatchewan (3sHealth) Act and the trustees of those plan trusts.
+1990‑91, c L‑27.1, s 2; 1993, c 55, s 180; 2002,
+c R‑8.2, s 83 and s 120; 2002, c C‑11.1, s 389;
+2005, c M‑36.1, s 435; 2010, c N‑5.2, s 449; 2014,
+c S‑32.21, s 34; 2015, c 21, s 64; 2017, c P‑30.3,
+s 11‑1; 2017, c 17, s 3; 2022, c 9, s 9‑3.
+Application
+3(1) This Act does not apply to:
+(a) published material or material that is available for purchase by the public;
+(b) material that is a matter of public record; or
+(c) material that is placed in the custody of a local authority by or on behalf of
+persons or organizations other than the local authority for archival purposes.
+(2) This Act binds the Crown.
+1990‑91, c L‑27.1, s 3.
+Existing rights preserved
+4 This Act:
+(a) complements and does not replace existing procedures for access to
+information or records in the possession or under the control of a local authority;
+(b) does not in any way limit access to the type of information or records that
+is normally available to the public;
+6LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+(c) does not limit the information otherwise available by law to a party to
+litigation;
+(d) does not affect the power of any court or tribunal to compel a witness to
+testify or to compel the production of documents;
+(e) does not prevent access to a registry operated by a local authority where
+access to the registry is normally allowed to the public.
+1990‑91, c L‑27.1, s 4.
+PART II
+Access to Records
+Right of access
+5 Subject to this Act and the regulations, every person has a right to and, on an
+application made in accordance with this Part, shall be permitted access to records
+that are in the possession or under the control of a local authority.
+1990‑91, c L‑27.1, s 5.
+Duty of local authority to assist
+5.1(1) Subject to this Act and the regulations, a local authority shall respond to a
+written request for access openly, accurately and completely.
+(2) On the request of an applicant, the local authority shall:
+(a) provide an explanation of any term, code or abbreviation used in the
+information; or
+(b) if the local authority is unable to provide an explanation in accordance
+with clause (a), endeavour to refer the applicant to a person who is able to
+provide an explanation.
+2017, c 17, s 4.
+Application
+6(1) An applicant shall:
+(a) make the application in the prescribed form to the local authority in which
+the record containing the information is kept; and
+(b) specify the subject matter of the record requested with sufficient
+particularity as to time, place and event to enable an individual familiar with
+the subject‑matter to identify the record.
+(2) Subject to subsection (4) and subsection 11(3), an application is deemed to be
+made when the application is received by the local authority to which it is directed.
+(3) Where the head is unable to identify the record requested, the head shall advise
+the applicant, and shall invite the applicant to supply additional details that might
+lead to identification of the record.
+(4) Where additional details are invited to be supplied pursuant to subsection (3),
+the application is deemed to be made when the record is identified.
+1990‑91, c L‑27.1, s 6; 2015, c 21, s 64.
+7LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+Response required
+7(1) Where an application is made pursuant to this Act for access to a record, the
+head of the local authority to which the application is made shall:
+(a) consider the application and give written notice to the applicant of the
+head’s decision with respect to the application in accordance with subsection (2);
+or
+(b) transfer the application to another local authority or to a government
+institution in accordance with section 11.
+(2) The head shall give written notice to the applicant within 30 days after the
+application is made:
+(a) stating that access to the record or part of it will be given on payment of
+the prescribed fee and setting out the place where, or manner in which, access
+will be available;
+(b) if the record requested is published, referring the applicant to the
+publication;
+(c) if the record is to be published within 90 days, informing the applicant of
+that fact and of the approximate date of publication;
+(d) stating that access is refused, setting out the reason for the refusal and
+identifying the specific provision of this Act on which the refusal is based;
+(e) stating that access is refused for the reason that the record does not exist;
+(f) stating that confirmation or denial of the existence of the record is refused
+pursuant to subsection (4); or
+(g) stating that the request has been disregarded pursuant to section 43.1
+and setting out the reason for which the request was disregarded.
+(3) A notice given pursuant to subsection (2) is to state that the applicant may
+request a review by the commissioner within one year after the notice is given.
+(4) If an application is made with respect to a record that is exempt from access
+pursuant to section 14, 20 or 21 or subsection 28(1), the head may refuse to confirm
+or deny that the record exists or ever did exist.
+(5) A head who fails to give notice pursuant to subsection (2) is deemed to have
+given notice, on the last day of the period set out in that subsection, of a decision to
+refuse to give access to the record.
+1990‑91, c L‑27.1, s 7; 2017, c 17, s 7.
+Applications deemed abandoned
+7.1(1) If the head has invited the applicant to supply additional details pursuant to
+subsection 6(3) or has given the applicant notice pursuant to clause 7(2)(a) and the
+applicant does not respond within 30 days after receiving the invitation or notice,
+the application is deemed to be abandoned.
+8LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+(2) The head shall provide the applicant with a notice advising that the application
+is deemed to be abandoned.
+(3) A notice provided pursuant to subsection (2) is to state that the applicant may
+request a review by the commissioner within one year after the notice is given.
+2017, c 17, s 6.
+Severability
+8 Where a record contains information to which an applicant is refused access, the
+head shall give access to as much of the record as can reasonably be severed without
+disclosing the information to which the applicant is refused access.
+1990‑91, c L‑27.1, s 8.
+Fee
+9(1) An applicant who is given notice pursuant to clause 7(2)(a) is entitled to obtain
+access to the record on payment of the prescribed fee.
+(2) Where the amount of fees to be paid by an applicant for access to records is
+greater than a prescribed amount, the head shall give the applicant a reasonable
+estimate of the amount, and the applicant shall not be required to pay an amount
+greater than the estimated amount.
+(3) Where an estimate is provided pursuant to subsection (2), the time within
+which the head is required to give written notice to the applicant pursuant to
+subsection 7(2) is suspended until the applicant notifies the head that the applicant
+wishes to proceed with the application.
+(4) Where an estimate is provided pursuant to subsection (2), the head may require
+the applicant to pay a deposit of an amount that does not exceed one‑half of the
+estimated amount before a search is commenced for the records for which access
+is sought.
+(5) Where a prescribed circumstance exists, the head may waive payment of all
+or any part of the prescribed fee.
+1990‑91, c L‑27.1, s 9.
+Manner of access
+10(1) If an applicant is entitled to access pursuant to subsection 9(1), a head shall
+provide the applicant with access to the record in accordance with this section.
+(2) Subject to subsection (3), if a record is in electronic form, a head shall give
+access to the record in electronic form if:
+(a) it can be produced using the normal computer hardware and software
+and technical expertise of the local authority;
+(b) producing it would not interfere unreasonably with the operations of the
+local authority; and
+(c) it is reasonably practicable to do so.
+9LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+(3) If a record is a microfilm, film, sound or video recording or machine-readable
+record, a head may give access to the record:
+(a) by permitting the applicant to examine a transcript of the record;
+(b) by providing the applicant with a copy of the transcript of the record; or
+(c) in the case of a record produced for visual or aural reception, by permitting
+the applicant to view or hear the record or by providing the applicant with a
+copy of it.
+(4) A head may give access to a record:
+(a) by providing the applicant with a copy of the record; or
+(b) if it is not reasonable to reproduce the record, by giving the applicant an
+opportunity to examine the record.
+2017, c 17, s 7.
+Transfer of application
+11(1) Where the head of the local authority to which an application is made
+considers that another local authority or a government institution has a greater
+interest in the record, the head:
+(a) may, within 15 days after the application is made, transfer the application
+and, if necessary, the record to the other local authority or government
+institution; and
+(b) if a record is transferred pursuant to clause (a), shall give written notice
+of the transfer and the date of the transfer to the applicant.
+(2) For the purposes of this section, another local authority or a government
+institution has a greater interest in a record if:
+(a) the record was originally prepared in or for the other local authority or
+the government institution; or
+(b) the other local authority or the government institution was the first to
+obtain the record or a copy of the record.
+(3) For the purposes of section 7 and section 7 of The Freedom of Information
+and Protection of Privacy Act, an application that is transferred pursuant to
+subsection (1) is deemed to have been made to the local authority or the government
+institution on the day of the transfer.
+(4) Where the application is transferred to a government institution, The Freedom of
+Information and Protection of Privacy Act, and not this Act, applies to the application.
+1990‑91, c L‑27.1, s 11.
+10LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+Extension of time
+12(1) The head of a local authority may extend the period set out in section 7
+or 11 for a reasonable period not exceeding 30 days:
+(a) where:
+(i) the application is for access to a large number of records or necessitates
+a search through a large number of records; or
+(ii) there is a large number of requests;
+and completing the work within the original period would unreasonably
+interfere with the operations of the local authority;
+(b) where consultations that are necessary to comply with the application
+cannot reasonably be completed within the original period; or
+(c) where a third party notice is required to be given pursuant to
+subsection 33(1).
+(2) A head who extends a period pursuant to subsection (l) shall give notice of the
+extension to the applicant within 30 days after the application is made.
+(3) Within the period of extension, the head shall give written notice to the applicant
+in accordance with section 7.
+1990‑91, c L‑27.1, s 12.
+PART III
+Exemptions
+Records from other governments
+13(1) A head shall refuse to give access to information contained in a record that
+was obtained in confidence, implicitly or explicitly, from:
+(a) the Government of Canada or its agencies, Crown corporations or other
+institutions;
+(b) the Government of Saskatchewan or a government institution;
+(c) the government of another province or territory of Canada, or its agencies,
+Crown corporations or other institutions;
+(d) the government of a foreign jurisdiction or its institutions; or
+(e) an international organization of states or its institutions;
+unless the government or institution from which the information was obtained
+consents to the disclosure or makes the information public.
+(2) A head may refuse to give access to information contained in a record that
+was obtained in confidence, implicitly or explicitly, from another local authority or
+a similar body in another province or territory of Canada.
+1990‑91, c L‑27.1, s 13.
+11LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+Law enforcement and investigations
+14(1) A head may refuse to give access to a record, the release of which could:
+(a) prejudice, interfere with or adversely affect the detection, investigation,
+prevention or prosecution of an offence or the security of a centre of lawful
+detention;
+(a.1) prejudice, interfere with or adversely affect the detection, investigation
+or prevention of an act or omission that might constitute a terrorist activity
+as defined in the Criminal Code;
+(b) be injurious to the enforcement of:
+(i) an Act or a regulation;
+(ii) an Act of the Parliament of Canada or a regulation made pursuant
+to an Act of the Parliament of Canada; or
+(iii) a resolution or bylaw;
+(c) interfere with a lawful investigation or disclose information with respect
+to a lawful investigation;
+(d) be injurious to the local authority in the conduct of existing or anticipated
+legal proceedings;
+(e) reveal investigative techniques or procedures currently in use or likely
+to be used;
+(f) disclose the identity of a confidential source of information or disclose
+information furnished by that source with respect to a lawful investigation or
+a law enforcement matter;
+(g) deprive a person of a fair trial or impartial adjudication;
+(h) facilitate the escape from custody of an individual who is under lawful
+detention;
+(i) reveal law enforcement intelligence information;
+(j) facilitate the commission of an offence or tend to impede the detection of
+an offence;
+(k) interfere with a law enforcement matter or disclose information respecting
+a law enforcement matter;
+(k.1) endanger the life or physical safety of a law enforcement officer or any
+other person;
+(k.2) reveal any information relating to or used in the exercise of prosecutorial
+discretion;
+(k.3) reveal a record that has been seized by a law enforcement officer in
+accordance with an Act or Act of Parliament.
+12LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+(l) reveal technical information relating to weapons or potential weapons; or
+(m) reveal the security arrangements of particular vehicles, buildings or
+other structures or systems, including computer or communication systems, or
+methods employed to protect those vehicles, buildings, structures or systems.
+(2) Subsection (1) does not apply to a record that:
+(a) provides a general outline of the structure or programs of a law
+enforcement agency; or
+(b) reports, by means of statistical analysis or otherwise, on the degree of
+success achieved in a law enforcement program.
+1990‑91, c L‑27.1, s 14; 2003, c 29, s 33 2017, c 17,
+s 8.
+Documents of a local authority
+15(1) A head may refuse to give access to a record that:
+(a) contains a draft of a resolution or bylaw; or
+(b) discloses agendas or the substance of deliberations of meetings of a local
+authority if:
+(i) an Act authorizes holding the meetings in the absence of the
+public; or
+(ii) the matters discussed at the meetings are of such a nature that
+access to the records could be refused pursuant to this Part or Part IV.
+(2) Subject to section 29, a head shall not refuse to give access pursuant to
+subsection (1) to a record where the record has been in existence for more than 25
+years.
+1990‑91, c L‑27.1, s 15.
+Advice from officials
+16(1) Subject to subsection (2), a head may refuse to give access to a record that
+could reasonably be expected to disclose:
+(a) advice, proposals, recommendations, analyses or policy options developed
+by or for the local authority;
+(b) consultations or deliberations involving officers or employees of the local
+authority;
+(c) positions, plans, procedures, criteria or instructions developed for the
+purpose of contractual or other negotiations by or on behalf of the local
+authority, or considerations that relate to those negotiations;
+(d) plans that relate to the management of personnel or the administration
+of the local authority and that have not yet been implemented; or
+(e) information, including the proposed plans, policies or projects of the local
+authority, the disclosure of which could reasonably be expected to result in
+disclosure of a pending policy or budgetary decision.
+13LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+(2) This section does not apply to a record that:
+(a) has been in existence for more than 25 years;
+(b) is an official record that contains a statement of the reasons for a decision
+that is made in the exercise of a discretionary power or an adjudicative function;
+(c) is the result of product or environmental testing carried out by or for a
+local authority, unless the testing was conducted:
+(i) as a service to a person, a group of persons or an organization other
+than the local authority, and for a fee; or
+(ii) as preliminary or experimental tests for the purpose of:
+(A) developing methods of testing; or
+(B) testing products for possible purchase;
+(d) is a statistical survey;
+(e) is the result of background research of a scientific or technical nature
+undertaken in connection with the formulation of a policy proposal; or
+(f) is:
+(i) an instruction or guide-line issued to the officers or employees of a
+local authority; or
+(ii) a substantive rule or statement of policy that has been adopted
+by a local authority for the purpose of interpreting an Act, regulation,
+resolution or bylaw or administering a program or activity of the local
+authority.
+(3) A head may refuse to give access to any report, statement, memorandum,
+recommendation, document, information, data or record, within the meaning of
+section 10 of The Evidence Act, that, pursuant to that section, is not admissible as
+evidence in any legal proceeding.
+1990‑91, c L‑27.1, s 16; 2006, c 19, s 10.
+Economic and other interests
+17(1) Subject to subsection (3), a head may refuse to give access to a record that
+could reasonably be expected to disclose:
+(a) trade secrets;
+(b) financial, commercial, scientific, technical or other information:
+(i) in which the local authority has a proprietary interest or a right of
+use; and
+(ii) that has monetary value or is reasonably likely to have monetary
+value;
+(c) scientific or technical information obtained through research by an
+employee of the local authority, the disclosure of which could reasonably be
+expected to deprive the employee of priority of publication;
+14LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+(d) information, the disclosure of which could reasonably be expected to
+interfere with contractual or other negotiations of the local authority;
+(e) positions, plans, procedures, criteria or instructions developed for the
+purpose of contractual or other negotiations by or on behalf of the local
+authority, or considerations that relate to those negotiations;
+(f) information, the disclosure of which could reasonably be expected to
+prejudice the economic interest of the local authority; or
+(g) information, the disclosure of which could reasonably be expected to result
+in an undue benefit or loss to a person.
+(2) A head shall not refuse, pursuant to subsection (1), to give access to a record
+that contains the results of product or environmental testing carried out by or for
+the local authority, unless the testing was conducted:
+(a) as a service to a person, a group of persons or an organization other than
+the local authority, and for a fee; or
+(b) as preliminary or experimental tests for the purpose of:
+(i) developing methods of testing; or
+(ii) testing products for possible purchase.
+(3) The head of the University of Saskatchewan, the University of Regina or a
+facility designated as a hospital or a health centre pursuant to The Provincial
+Health Authority Act may refuse to disclose details of the academic research being
+conducted by an employee of the university, hospital or health centre, as the case
+may be, in the course of the employee’s employment.
+(4) Notwithstanding subsection (3), where possible, the head of the University of
+Saskatchewan, the University of Regina or a facility designated as a hospital or a
+health centre pursuant to The Provincial Health Authority Act shall disclose:
+(a) the title of; and
+(b) the amount of funding being received with respect to;
+the academic research mentioned in subsection (3).
+1990‑91, c L‑27.1, s 17; 2002, c R‑8.2, s 105; 2017,
+c P‑30.3, s 11‑1.
+Third party information
+18(1) Subject to Part V and this section, a head shall refuse to give access to a
+record that contains:
+(a) trade secrets of a third party;
+(b) financial, commercial, scientific, technical or labour relations information
+that is supplied in confidence, implicitly or explicitly, to the local authority
+by a third party;
+15LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+(c) information, the disclosure of which could reasonably be expected to:
+(i) result in financial loss or gain to;
+(ii) prejudice the competitive position of; or
+(iii) interfere with the contractual or other negotiations of;
+a third party; or
+(d) a statement of a financial account relating to a third party with respect
+to the provision of routine services from a local authority.
+(2) A head may give access to a record that contains information described in
+subsection (1) with the written consent of the third party to whom the information
+relates.
+(3) Subject to Part V, a head may give access to a record that contains information
+described in clauses (1)(b) to (d) if:
+(a) disclosure of that information could reasonably be expected to be in the
+public interest as it relates to public health, public safety or protection of the
+environment; and
+(b) the public interest in disclosure could reasonably be expected to clearly
+outweigh in importance any:
+(i) financial loss or gain to;
+(ii) prejudice to the competitive position of; or
+(iii) interference with contractual or other negotiations of;
+a third party.
+1990‑91, c L‑27.1, s 18.
+Testing procedures, tests and audits
+19 A head may refuse to give access to a record that contains information
+relating to:
+(a) testing or auditing procedures or techniques; or
+(b) details of specific tests to be given or audits to be conducted;
+if disclosure could reasonably be expected to prejudice the use or results of particular
+tests or audits.
+1990‑91, c L‑27.1, s 19.
+Danger to health or safety
+20 A head may refuse to give access to a record if the disclosure could threaten
+the safety or the physical or mental health of an individual.
+1990‑91, c L‑27.1, s 20.
+16LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+Solicitor-client privilege
+21 A head may refuse to give access to a record that:
+(a) contains any information that is subject to any privilege that is available
+at law, including solicitor‑client privilege;
+(b) was prepared by or for legal counsel for the local authority in relation to
+a matter involving the provision of advice or other services by legal counsel; or
+(c) contains correspondence between legal counsel for the local authority and
+any other person in relation to a matter involving the provision of advice or
+other services by legal counsel.
+1990‑91, c L‑27.1, s 21; 2017, c 17, s 9.
+Confidentiality provisions in other enactments
+22(1) Where a provision of:
+(a) any other Act;
+(b) a regulation made pursuant to any other Act; or
+(c) a resolution or bylaw;
+that restricts or prohibits access by any person to a record or information in the
+possession or under the control of a local authority conflicts with this Act or the
+regulations made pursuant to it, the provisions of this Act and the regulations made
+pursuant to it shall prevail.
+(2) Subject to subsection (3), subsection (1) applies notwithstanding any provision
+in the other Act, regulation, resolution or bylaw that states that the provision is to
+apply notwithstanding any other Act or law.
+(3) Subsection (1) does not apply to:
+(a) The Health Information Protection Act;
+(a.01) Part VIII of The Vital Statistics Act, 2009;
+(a.1) any prescribed Act or prescribed provisions of an Act; or
+(b) any prescribed regulation or prescribed provisions of a regulation;
+and the provisions mentioned in clauses (a), (a.01), (a.1) and (b) shall prevail.
+1990‑91, c L‑27.1, s 22; 1999, c H‑0.021, s 68;
+2009, c 32, s 7.
+17LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+PART IV
+Protection of Privacy
+Interpretation
+23(1) Subject to subsections (1.1) and (2), “personal information” means
+personal information about an identifiable individual that is recorded in any form,
+and includes:
+(a) information that relates to the race, creed, religion, colour, sex, sexual
+orientation, family status or marital status, disability, age, nationality, ancestry
+or place of origin of the individual;
+(b) information that relates to the education or the criminal or employment
+history of the individual or information relating to financial transactions in
+which the individual has been involved;
+(c) information that relates to health care that has been received by the
+individual or to the health history of the individual;
+(d) any identifying number, symbol or other particular assigned to the
+individual;
+(e) the home or business address, home or business telephone number,
+fingerprints or blood type of the individual;
+(f) the personal opinions or views of the individual except where they are
+about another individual;
+(g) correspondence sent to a local authority by the individual that is implicitly
+or explicitly of a private or confidential nature, and replies to the correspondence
+that would reveal the content of the original correspondence, except where the
+correspondence contains the views or opinions of the individual with respect
+to another individual;
+(h) the views or opinions of another individual with respect to the individual;
+(i) information that was obtained on a tax return or gathered for the purpose
+of collecting a tax;
+(j) information that describes an individual’s finances, assets, liabilities, net
+worth, bank balance, financial history or activities or credit worthiness; or
+(k) the name of the individual where:
+(i) it appears with other personal information that relates to the
+individual; or
+(ii) the disclosure of the name itself would reveal personal information
+about the individual.
+(1.1) On and after the coming into force of subsections 4(3) and (6) of The Health
+Information Protection Act, with respect to a local authority that is a trustee as
+defined in that Act, “personal information” does not include information that
+constitutes personal health information as defined in that Act.
+18LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+(2) “Personal information” does not include information that discloses:
+(a) the classification, salary, discretionary benefits or employment
+responsibilities of an individual who is or was an officer or employee of a local
+authority;
+(b) the personal opinions or views of an individual employed by a local
+authority given in the course of employment, other than personal opinions or
+views with respect to another individual;
+(c) financial or other details of a contract for personal services;
+(d) details of a licence, permit or other similar discretionary benefit granted
+to an individual by a local authority;
+(e) details of a discretionary benefit of a financial nature granted to an
+individual by a local authority;
+(f) expenses incurred by an individual travelling at the expense of a local
+authority;
+(g) the academic ranks or departmental designations of members of the
+faculties of the University of Saskatchewan or the University of Regina; or
+(h) the degrees, certificates or diplomas received by individuals from the
+Saskatchewan Polytechnic, the University of Saskatchewan or the University
+of Regina.
+(3) Notwithstanding clauses (2)(d) and (e), “personal information” includes
+information that:
+(a) is supplied by an individual to support an application for a discretionary
+benefit; and
+(b) is personal information within the meaning of subsection (1).
+1990‑91, c L‑27.1, s 23; 1999, c H‑0.021, s 68;
+2001, c 50, s 10; 2014, c S‑32.21, s 34.
+Duty of local authority to protect
+23.1 Subject to the regulations, a local authority shall establish policies and
+procedures to maintain administrative, technical and physical safeguards that:
+(a) protect the integrity, accuracy and confidentiality of the personal
+information in its possession or under its control;
+(b) protect against any reasonably anticipated:
+(i) threat or hazard to the security or integrity of the personal information
+in its possession or under its control;
+(ii) loss of the personal information in its possession or under its control;
+or
+(iii) unauthorized access to or use, disclosure or modification of the
+personal information in its possession or under its control; and
+(c) otherwise ensure compliance with this Act by its employees.
+2017, c 17, s 10.
+19LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+Information management service provider
+23.2(1) A local authority may provide personal information to an information
+management service provider for the purpose of:
+(a) having the information management service provider process, store,
+archive or destroy the personal information for the local authority;
+(b) enabling the information management service provider to provide the local
+authority with information management or information technology services;
+(c) having the information management service provider take possession or
+control of the personal information;
+(d) combining records containing personal information; or
+(e) providing consulting services.
+(2) Before disclosing personal information to an information management
+service provider, the local authority shall enter into a written agreement with the
+information management service provider that:
+(a) governs the access to and use, disclosure, storage, archiving, modification
+and destruction of the personal information;
+(b) provides for the protection of the personal information; and
+(c) meets the requirements of this Act and the regulations.
+(3) An information management service provider shall not obtain access to, use,
+disclose, process, store, archive, modify or destroy personal information received
+from a local authority except for the purposes set out in subsection (1).
+(4) An information management service provider shall comply with the terms and
+conditions of the agreement entered into pursuant to subsection (2).
+2017, c 17, s 10.
+Purpose of information
+24 No local authority shall collect personal information unless the information is
+collected for a purpose that relates to an existing or proposed program or activity
+of the local authority.
+1990‑91, c L‑27.1, s 24.
+Manner of collection
+25(1) A local authority shall, where reasonably practicable, collect personal
+information directly from the individual to whom it relates.
+(2) A local authority that collects personal information that is required by
+subsection (1) to be collected directly from an individual shall, where reasonably
+practicable, inform the individual of the purpose for which the information is
+collected.
+(3) Subsections (1) and (2) do not apply where compliance with them might result
+in the collection of inaccurate information or defeat the purpose or prejudice the
+use for which the information is collected.
+1990‑91, c L‑27.1, s 25.
+20LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+Standard of accuracy
+26 A local authority shall ensure that personal information being used by the
+local authority for an administrative purpose is as accurate and complete as is
+reasonably possible.
+1990‑91, c L‑27.1, s 26.
+Use of personal information
+27 No local authority shall use personal information under its control without the
+consent, given in the prescribed manner, of the individual to whom the information
+relates, except:
+(a) for the purpose for which the information was obtained or compiled, or
+for a use that is consistent with that purpose; or
+(b) for a purpose for which the information may be disclosed to the local
+authority pursuant to subsection 28(2).
+1990‑91, c L‑27.1, s 27.
+Disclosure of personal information
+28(1) No local authority shall disclose personal information in its possession
+or under its control without the consent, given in the prescribed manner, of the
+individual to whom the information relates except in accordance with this section
+or section 29.
+(2) Subject to any other Act or regulation, personal information in the possession
+or under the control of a local authority may be disclosed:
+(a) for the purpose for which the information was obtained or compiled by
+the local authority or for a use that is consistent with that purpose;
+(b) for the purpose of complying with:
+(i) a subpoena or warrant issued or order made by a court, person or
+body that has the authority to compel the production of information; or
+(ii) rules of court that relate to the production of information;
+(c) to the Attorney General for Saskatchewan or to his or her legal counsel
+for use in providing legal services to the Government of Saskatchewan or a
+government institution;
+(d) to legal counsel for a local authority for use in providing legal services to
+the local authority;
+(e) for the purpose of enforcing any legal right that the local authority has
+against any individual;
+(f) for the purpose of locating an individual in order to collect a debt owing
+to the local authority by that individual or make a payment owing to that
+individual by the local authority;
+21LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+(g) to a prescribed law enforcement agency or a prescribed investigative body:
+(i) on the request of the law enforcement agency or investigative body;
+(ii) for the purpose of enforcing a law of Canada or a province or territory
+or carrying out a lawful investigation; and
+(iii) if any prescribed requirements are met;
+(h) pursuant to an agreement or arrangement between the local authority and:
+(i) the Government of Canada or its agencies, Crown corporations or
+other institutions;
+(ii) the Government of Saskatchewan or a government institution;
+(iii) the government of another province or territory of Canada, or its
+agencies, Crown corporations or other institutions;
+(iv) the government of a foreign jurisdiction or its institutions;
+(v) an international organization of states or its institutions; or
+(vi) another local authority;
+for the purpose of administering or enforcing any law or carrying out a lawful
+investigation;
+(h.1) for any purpose related to the detection, investigation or prevention of
+an act or omission that might constitute a terrorist activity as defined in the
+Criminal Code, to:
+(i) a government institution;
+(ii) the Government of Canada or its agencies, Crown corporations or
+other institutions;
+(iii) the government of another province or territory of Canada, or its
+agencies, Crown corporations or other institutions;
+(iv) the government of a foreign jurisdiction or its institutions;
+(v) an international organization of states or its institutions; or
+(vi) another local authority;
+(i) for the purpose of complying with:
+(i) an Act or a regulation;
+(ii) an Act of the Parliament of Canada or a regulation made pursuant
+to an Act of the Parliament of Canada; or
+(iii) a treaty, agreement or arrangement made pursuant to an Act or an
+Act of the Parliament of Canada;
+22LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+(j) where disclosure is by a law enforcement agency:
+(i) to a law enforcement agency in Canada; or
+(ii) to a law enforcement agency in a foreign country;
+pursuant to an arrangement, a written agreement or treaty or to legislative
+authority;
+(k) to any person or body for research or statistical purposes if the head:
+(i) is satisfied that the purpose for which the information is to be
+disclosed is not contrary to the public interest and cannot reasonably be
+accomplished unless the information is provided in a form that would
+identify the individual to whom it relates; and
+(ii) obtains from the person or body a written agreement not to make a
+subsequent disclosure of the information in a form that could reasonably
+be expected to identify the individual to whom it relates;
+(l) where necessary to protect the mental or physical health or safety of any
+individual;
+(m) in compassionate circumstances, to facilitate contact with the next of kin
+or a friend of an individual who is injured, ill or deceased;
+(n) for any purpose where, in the opinion of the head:
+(i) the public interest in disclosure clearly outweighs any invasion of
+privacy that could result from the disclosure; or
+(ii) disclosure would clearly benefit the individual to whom the
+information relates;
+(o) to the Government of Canada or the Government of Saskatchewan to
+facilitate the auditing of shared cost programs;
+(p) if the information is publicly available, including information that is
+prescribed as publicly available;
+(q) to the commissioner;
+(r) for any purpose in accordance with any Act or regulation that authorizes
+disclosure; or
+(s) as prescribed in the regulations.
+1990‑91, c L‑27.1, s 28; 2003, c 29, s 34; 2017,
+c 17, s 11.
+Notification
+28.1 A local authority shall take all reasonable steps to notify an individual of
+an unauthorized use or disclosure of that individual’s personal information by the
+local authority if it is reasonable in the circumstances to believe that the incident
+creates a real risk of significant harm to the individual.
+2017, c 17, s 12.
+23LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+Personal information of deceased individual
+29(1) Subject to subsection (2) and to any other Act, the personal information of
+a deceased individual shall not be disclosed until 25 years after the death of the
+individual.
+(2) Where, in the opinion of the head, disclosure of the personal information
+of a deceased individual to the individual’s next of kin would not constitute an
+unreasonable invasion of privacy, the head may disclose that personal information
+before 25 years have elapsed after the individual’s death.
+1990‑91, c L‑27.1, s 29.
+Individual’s access to personal information
+30(1) Subject to Part III and subsections (2) and (3), an individual whose personal
+information is contained in a record in the possession or under the control of a local
+authority has a right to, and:
+(a) on an application made in accordance with Part II; and
+(b) on giving sufficient proof of his or her identity;
+shall be given access to the record.
+(2) A head may refuse to disclose to an individual personal information that
+is evaluative or opinion material compiled solely for the purpose of determining
+the individual’s suitability, eligibility or qualifications for employment or for the
+awarding of contracts and other benefits by the local authority, where the information
+is provided explicitly or implicitly in confidence.
+(3) The head of the University of Saskatchewan or the University of Regina may
+refuse to disclose to an individual personal information that is evaluative or opinion
+material compiled solely for the purpose of:
+(a) determining the individual’s suitability for:
+(i) appointment, promotion or tenure as a member of the faculty of the
+University of Saskatchewan or the University of Regina;
+(ii) admission to an academic program; or
+(iii) receipt of an honour or award; or
+(b) evaluating the individual’s research projects or materials for publication;
+where the information is provided explicitly or implicitly in confidence.
+1990‑91, c L‑27.1, s 30.
+Right of correction
+31(1) An individual who is given access to a record that contains personal
+information with respect to himself or herself is entitled:
+(a) to request correction of the personal information contained in the record
+if the person believes that there is an error or omission in it;
+24LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+(b) to require that a notation be made that a correction was requested but
+not made; or
+(c) if the request has been disregarded, to be advised of the reason for which
+it has been disregarded.
+(2) Within 30 days after a request pursuant to clause (1)(a) is received, the head
+shall advise the individual in writing that:
+(a) the correction has been made;
+(b) a notation pursuant to clause (1)(b) has been made; or
+(c) the request has been disregarded, setting out the reason for which the
+request was disregarded pursuant to section 43.1.
+(3) Section 12 applies, with any necessary modification, to the extension of the
+period set out in subsection (2).
+1990‑91, c L‑27.1, s 31; 2017, c 17, s 13.
+Privacy powers of commissioner
+32 The commissioner may:
+(a) offer comment on the implications for privacy protection of proposed
+programs of local authorities;
+(b) after hearing the head, recommend that a local authority:
+(i) cease or modify a specified practice of collecting, using or disclosing
+information that contravenes this Act; and
+(ii) destroy collections of personal information that is collected in
+contravention of this Act;
+(c) in appropriate circumstances, authorize the collection of personal
+information in a manner other than directly from the individual to whom it
+relates;
+(d) from time to time, carry out investigations with respect to personal
+information in the possession or under the control of local authorities to ensure
+compliance with this Part.
+1990‑91, c L‑27.1, s 32.
+PART V
+Third Party Intervention
+Notice to third party
+33(1) Where a head intends to give access to a record that the head has reason to
+believe may contain:
+(a) information described in subsection 18(1) that affects the interest of a
+third party; or
+(b) personal information that may be disclosed pursuant to clause 28(2)(n)
+and that relates to a third party;
+25LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+and, in the opinion of the head, the third party can reasonably be located, the head
+shall give written notice to the third party in accordance with subsection (2).
+(2) The notice mentioned in subsection (1):
+(a) is to include:
+(i) a statement that:
+(A) an application for access to a record described in sub‑
+section (1) has been made; and
+(B) the head intends to give access to the record or to part of it;
+(ii) a description of the record that the head has reason to believe may
+contain:
+(A) information described in subsection 18(1) that affects the
+interest of the third party; or
+(B) personal information that may be disclosed pursuant to clause
+28(2)(n) and that relates to the third party; and
+(iii) a statement that the third party may, within 20 days after the notice
+is given, make representations to the head as to why access to the record
+or part of the record should not be given; and
+(b) subject to subsection (3), is to be given within 30 days after the application
+is made.
+(3) Section 12 applies, with any necessary modification, to the extension of the
+period set out in clause (2)(b).
+(4) Where, in the opinion of the head, it is not reasonable to provide a notice to a
+third party pursuant to subsection (1), the head may dispense with the giving of
+notice.
+1990‑91, c L‑27.1, s 33.
+Waiver of notice
+34(1) A third party to whom a notice is required to be given pursuant to
+subsection 33(1) may waive the requirement for notice.
+(2) A third party who consents to the giving of access to a record containing
+information described in subsection 33(1) is deemed to have waived the requirement
+for notice.
+1990‑91, c L‑27.1, s 34.
+Right to make representations
+35(1) A third party who is given notice pursuant to subsection 33(1):
+(a) is entitled to make representations to the head as to why access to the
+record or part of the record should not be given; and
+(b) within 20 days after the notice is given, shall be given the opportunity to
+make those representations.
+26LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+(2) Representations made by a third party pursuant to clause (1)(b) shall be made
+in writing unless the head waives that requirement, in which case they may be
+made orally.
+1990‑91, c L‑27.1, s 35.
+Decision
+36(1) After a third party has been given an opportunity to make representations
+pursuant to clause 35(1)(b), the head shall, within 30 days after the notice is given:
+(a) decide whether or not to give access to the record or part of the record; and
+(b) give written notice of the decision to the third party and the applicant.
+(2) A notice given pursuant to clause (1)(b) is to include:
+(a) a statement that the third party and applicant are entitled to request
+a review pursuant to section 38 within 20 days after the notice is given; and
+(b) in the case of a decision to give access, a statement that the applicant
+will be given access to the record or to the part of it specified unless, within
+20 days after the notice is given, the third party requests a review pursuant
+to section 38.
+(3) Where, pursuant to clause (1)(a), the head decides to give access to the record
+or a specified part of it, the head shall give the applicant access to the record
+or the specified part unless, within 20 days after a notice is given pursuant to
+clause (1)(b), a third party requests a review pursuant to section 38.
+(4) A head who fails to give notice pursuant to clause (1)(b) is deemed to have
+given notice, on the last day of the period set out in subsection (1), of a decision to
+refuse to give access to the record.
+1990‑91, c L‑27.1, s 36.
+PART VI
+Review and Appeal
+Interpretation of Part
+37 In this Part, “court” means the Court of King’s Bench.
+1990‑91, c L‑27.1, s 37; 2018, c 42, s 65; 2024, c 4,
+s 32.
+Application for review
+38(1) Where:
+(a) an applicant is not satisfied with the decision of a head pursuant to
+section 7, 12 or 36;
+(a.1) an applicant is not satisfied that a reasonable fee was estimated pursuant
+to subsection 9(2);
+27LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+(a.2) an applicant believes that all or part of the fee estimated should be
+waived pursuant to subsection 9(5);
+(a.3) an applicant believes that an application was transferred to another
+local authority pursuant to subsection 11(1) and that local authority did not
+have a greater interest;
+(a.4) an individual believes that his or her personal information has not been
+collected, used or disclosed in accordance with this Act or the regulations;
+(b) a head fails to respond to an application for access to a record within the
+required time; or
+(c) an applicant requests a correction of personal information pursuant to
+clause 31(1)(a) and the correction is not made;
+the applicant or an individual may apply in the prescribed form and manner to the
+commissioner for a review of the matter.
+(2) An applicant or an individual may make an application pursuant to subsection
+(1) within one year after being given written notice of the decision of the head or of
+the expiration of the time mentioned in clause (1)(b).
+(3) A third party may apply in the prescribed form and manner to the commissioner
+for a review of a decision pursuant to section 36 to give access to a record that affects
+the interest of the third party.
+(4) A third party may make an application pursuant to subsection (3) within 20
+days after being given notice of the decision.
+1990‑91, c L‑27.1, s 38; 2017, c 17, s 14.
+Review or refusal to review
+39(1) Where the commissioner is satisfied that there are reasonable grounds to
+review any matter set out in an application pursuant to section 38, the commissioner
+shall review the matter.
+(2) The commissioner may refuse to conduct a review or may discontinue a review
+if, in the opinion of the commissioner, the application for review:
+(a) is frivolous or vexatious;
+(a.1) does not affect the applicant or individual personally;
+(a.2) has not moved forward as the applicant or individual has failed to
+respond to the requests of the commissioner;
+(a.3) concerns a local authority that has an internal review process that has
+not been used;
+(a.4) concerns a professional who is governed by a professional body that
+regulates its members pursuant to an Act, and a complaints procedure available
+through the professional body has not been used;
+28LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+(a.5) may be considered pursuant to another Act that provides a review or
+other mechanism to challenge a local authority’s decision with respect to the
+collection, amendment, use or disclosure of personal information and that
+review or mechanism has not been used;
+(a.6) does not contain sufficient evidence;
+(a.7) has already been the subject of a report pursuant to section 44 by the
+commissioner;
+(b) is not made in good faith; or
+(c) concerns a trivial matter.
+1990‑91, c L‑27.1, s 39; 2017, c 17, s 15.
+Notice of intention to investigate or review
+40 The commissioner shall, immediately on commencing an investigation or review,
+inform the head of:
+(a) the commissioner’s intention to conduct an investigation or review; and
+(b) the substance of the investigation or application for review.
+2017, c 17, s 16.
+Notice of application for review
+41(1) A head who has refused an application for access to a record or part of a
+record shall, immediately on receipt of a notice of review pursuant to section 38,
+give written notice of the review to any third party that the head:
+(a) has notified pursuant to subsection 33(1); or
+(b) would have notified pursuant to subsection 33(1) if the head had intended
+to give access to the record or part of the record.
+(2) A head shall, immediately on receipt of a notice of review pursuant to
+section 38 by a third party, give written notice of the review to the applicant.
+1990‑91, c L‑27.1, s 41; 2017, c 17, s 17.
+Conduct of review
+42(1) The commissioner shall conduct every review in private.
+(2) The:
+(a) person who applies for a review;
+(b) third party or applicant who is entitled to notice pursuant to section 41; and
+(c) head whose decision is the subject of a review;
+are entitled to make representations to the commissioner in the course of the review.
+29LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+(3) No one is entitled as of right:
+(a) to be present during a review; or
+(b) before or after a review:
+(i) to have access to; or
+(ii) to comment on;
+representations made to the commissioner by any other person.
+1990‑91, c L‑27.1, s 42
+Powers of commissioner
+43(1) Notwithstanding any other Act or any privilege available at law, the
+commissioner may, in a review:
+(a) require to be produced and examine any record that is in the possession
+or under the control of a local authority; and
+(b) enter and inspect any premises occupied by a local authority.
+(2) For the purposes of conducting a review, the commissioner may summon and
+enforce the appearance of persons before the commissioner and compel them:
+(a) to give oral or written evidence on oath or affirmation; and
+(b) to produce any documents or things;
+that the commissioner considers necessary for a full review, in the same manner
+and to the same extent as the court.
+(3) For the purposes of subsection (2), the commissioner may administer an oath
+or affirmation.
+1990‑91, c L‑27.1, s 43.
+Power to authorize a local authority to disregard applications or requests
+43.1(1) The head may apply to the commissioner to disregard one or more
+applications pursuant to section 6 or requests pursuant to section 31.
+(2) In determining whether to grant an application or request mentioned in
+subsection (1), the commissioner shall consider whether the application or request:
+(a) would unreasonably interfere with the operations of the local authority
+because of the repetitious or systematic nature of the application or request;
+(b) would amount to an abuse of the right of access or right of correction
+because of the repetitious or systematic nature of the application or request; or
+(c) is frivolous or vexatious, not in good faith or concerns a trivial matter.
+(3) The application pursuant to subsection 6(1) or the request pursuant to
+clause 31(1)(a) is suspended until the commissioner notifies the head of the
+commissioner’s decision with respect to an application or request mentioned in
+subsection (1).
+30LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+(4) If the commissioner grants an application or request mentioned in subsection (1),
+the application pursuant to subsection 6(1) or the request pursuant to clause 31(1) (a)
+is deemed to not have been made.
+(5) If the commissioner refuses an application or request mentioned in subsection (1),
+the 30‑day period mentioned in subsection 7(2) or 31(2) resumes.
+2017, c 17, s 18.
+Report of commissioner
+44(1) On completing a review or investigation, the commissioner may prepare a
+written report setting out the commissioner’s recommendations with respect to the
+matter and the reasons for those recommendations.
+(2) If a report is prepared pursuant to subsection (1), the commissioner shall
+forward a copy of the report to the head and, if the matter was referred to the
+commissioner by:
+(a) an applicant or individual, to the applicant or individual and to any third
+party notified by the head pursuant to section 41; and
+(b) a third party, to the third party and to the applicant.
+(3) In the report mentioned in subsection (1), the commissioner may make any
+recommendations with respect to the matter under review or investigation that the
+commissioner considers appropriate.
+2017, c 17, s 19.
+Decision of head
+45 Within 30 days after receiving a report of the commissioner pursuant to
+subsection 44(1), a head shall:
+(a) make a decision to follow the recommendation of the commissioner or any
+other decision that the head considers appropriate; and
+(b) give written notice of the decision to the commissioner and the persons
+mentioned in subsection 44(2).
+1990‑91, c L‑27.1, s 45; 2017, c 17, s 20.
+Appeal to court
+46(1) Within 30 days after receiving a decision of the head pursuant to section 45,
+an applicant or individual or a third party may appeal that decision to the court.
+(2) A head who has refused an application for access to a record or part of a record
+shall, immediately on receipt of a notice of appeal by an applicant, give written
+notice of the appeal to any third party that the head:
+(a) has notified pursuant to subsection 33(1); or
+31LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+(b) would have notified pursuant to subsection 33(1) if the head had intended
+to give access to the record or part of the record.
+(3) A head who has granted an application for access to a record or part of a record
+shall, immediately on receipt of a notice of appeal by a third party, give written
+notice of the appeal to the applicant.
+(4) A third party who has been given notice of an appeal pursuant to subsection (2)
+or an applicant or individual who has been given notice of an appeal pursuant to
+subsection (3) may appear as a party to the appeal.
+(5) The commissioner shall not be a party to an appeal.
+1990‑91, c L‑27.1, s 46; 2017, c 17, s 21.
+Powers of court on appeal
+47(1) On an appeal, the court:
+(a) shall determine the matter de novo; and
+(b) may examine any record in camera in order to determine on the merits
+whether the information in the record may be withheld pursuant to this Act.
+(2) Notwithstanding any other Act or any privilege that is available at law, the court
+may, on an appeal, examine any record in the possession or under the control of a
+local authority and no information shall be withheld from the court on any grounds.
+(3) The court shall take every reasonable precaution, including, where appropriate,
+receiving representations ex parte and conducting hearings in camera, to avoid
+disclosure by the court or any person of:
+(a) any information or other material if the nature of the information or
+material could justify a refusal by a head to give access to a record or part of
+a record; or
+(b) any information as to whether a record exists if the head, in refusing to
+give access, does not indicate whether the record exists.
+(4) The court may disclose to the Attorney General for Saskatchewan or the
+Attorney General of Canada information that relates to the commission of an offence
+against:
+(a) an Act or a regulation; or
+(b) an Act of the Parliament of Canada or a regulation made pursuant to an
+Act of the Parliament of Canada;
+by an officer or employee of a local authority if, in the opinion of the court, there is
+evidence of the commission of the offence.
+(5) Where a head has refused to give access to a record or part of it, the court, if it
+determines that the head is not authorized to refuse to give access to the information
+or part of it, shall:
+(a) order the head to give the applicant access to the record or part of it,
+subject to any conditions that the court considers appropriate; or
+(b) make any other order that the court considers appropriate.
+32LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+(6) Where the court finds that a record falls within an exemption, the court shall
+not order the head to give the applicant access to the record, regardless of whether
+the exemption requires or merely authorizes the head to refuse to give access to
+the record.
+(7) If, with respect to an appeal of a decision of the head regarding the matters
+mentioned in clauses 38(1)(a.1) to (a.4), the court determines that the decision of
+the head was not authorized pursuant to this Act, the court may:
+(a) order the head to reconsider the decision and proceed in accordance with
+this Act, subject to any conditions that the court considers appropriate; or
+(b) make any other order that the court considers appropriate.
+(8) If, with respect to an appeal mentioned in subsection (7), the court finds that
+the head had authority pursuant to this Act to make the decision that is the subject
+of the appeal, the court shall not order the head to reconsider the decision.
+1990‑91, c L‑27.1, s 47; 2017, c 17, s 22.
+PART VII
+General
+Certain provisions adopted
+48 Subsection 43(1), sections 45 to 47 and subsection 66(3) of The Freedom
+of Information and Protection of Privacy Act are adopted, with any necessary
+modification, for the purposes of this Act.
+1990‑91, c L‑27.1, s 48.
+Exercise of rights by other persons
+49 Any right or power conferred on an individual by this Act may be exercised:
+(a) where the individual is deceased, by the individual’s personal
+representative if the exercise of the right or power relates to the administration
+of the individual’s estate;
+(b) where a personal guardian or property guardian has been appointed for
+the individual, by the guardian if the exercise of the right or power relates to
+the powers and duties of the guardian;
+(c) where a power of attorney has been granted, by the attorney if the exercise
+of the right or power relates to the powers and duties of the attorney conferred
+by the power of attorney;
+(d) where the individual is less than 18 years of age, by the individual’s legal
+custodian in situations where, in the opinion of the head, the exercise of the
+right or power would not constitute an unreasonable invasion of the privacy
+of the individual; or
+(e) by any person with written authorization from the individual to act on
+the individual’s behalf.
+1990‑91, c L‑27.1, s 49.
+33LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+Delegation
+50(1) A head may delegate to one or more officers or employees of the local authority
+a power granted to the head or a duty vested in the head.
+(2) A delegation pursuant to subsection (1):
+(a) is to be in writing; and
+(b) may contain any limitations, restrictions, conditions or requirements that
+the head considers necessary.
+1990‑91, c L‑27.1, s 50; 2017, c 17, s 23.
+Burden of proof
+51 In any proceeding pursuant to this Act, the burden of establishing that access to
+the record applied for may or must be refused or granted is on the head concerned.
+1990‑91, c L‑27.1, s 51.
+Annual report
+52(1) Within three months after the end of each fiscal year, the commissioner
+shall prepare and submit an annual report to the Speaker of the Assembly, and the
+Speaker shall cause the report to be laid before the Assembly in accordance with
+section 13 of The Executive Government Administration Act.
+(2) The annual report of the commissioner is to provide details of the activities
+of the office in relation to the commissioner’s responsibilities pursuant to this Act
+during that fiscal year and, in particular, concerning any instances where the
+commissioner’s recommendations made after a review have not been complied with.
+1990‑91, c L‑27.1, s 52; 2014, c E‑13.1, s 62.
+53 Repealed. 2017, c 17, s 24.
+Access to manuals
+53.1(1) Every local authority shall make reasonable efforts to:
+(a) make available on its website all manuals, policies, guidelines or
+procedures that are used in decision‑making processes that affect the public
+by employees of the local authority in administering or carrying out programs
+or activities of the local authority; or
+(b) provide those documents when requested in electronic or paper form.
+(2) Any information in a record that a head would be authorized to refuse to give
+access to pursuant to this Act or the regulations may be excluded from manuals,
+policies, guidelines or procedures that are made available or provided pursuant to
+subsection (1).
+2017, c 17, s 25.
+34LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+Records available without an application
+53.2(1) Subject to subsection (2), the head may establish categories of records
+that are in the possession or under the control of the local authority and that are
+available to the public within a reasonable time without an application for access
+pursuant to this Act.
+(2) The head shall not establish a category of records that contain personal
+information or third party information unless that information may be disclosed
+pursuant to this Act or the regulations.
+2017, c 17, s 25.
+Proceedings prohibited
+54(1) No proceeding lies or shall be instituted against a local authority or the head
+or other officer or employee of a local authority for:
+(a) the giving or withholding in good faith of access to any record pursuant
+to this Act;
+(b) any consequences that flow from the giving or withholding of access
+mentioned in clause (a); or
+(c) the failure to give any notice required pursuant to this Act, if reasonable
+care is taken to give the required notice.
+(2) For the purposes of clause (1)(c), reasonable care is deemed to have been taken
+if notice required to be sent to an applicant is sent to the address of the applicant
+given on the prescribed application form.
+1990‑91, c L‑27.1, s 54.
+Immunity from prosecution
+55 No person is liable to prosecution for an offence against any Act, regulation,
+resolution or bylaw by reason of that person’s compliance with a requirement of the
+commissioner pursuant to this Act.
+1990‑91, c L‑27.1, s 55.
+Offence
+56(1) Every person who knowingly collects, uses or discloses personal information
+in contravention of this Act or the regulations is guilty of an offence and liable on
+summary conviction to a fine of not more than $50,000, to imprisonment for not
+more than one year or to both.
+(2) No proceeding shall be instituted pursuant to this section except with the
+consent of the Attorney General.
+(3) Any person who:
+(a) without lawful justification or excuse wilfully obstructs, hinders or resists
+the commissioner or any other person in the exercise of the powers, performance
+of the duties or the carrying out of the functions of the commissioner or other
+person pursuant to this Act;
+35LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACY c L-27.1
+(b) without lawful justification or excuse, refuses or wilfully fails to comply
+with any lawful requirement of the commissioner or any other person pursuant
+to this Act;
+(c) wilfully makes any false statement to, or misleads or attempts to mislead,
+the commissioner or any other person in the exercise of the powers, performance
+of the duties or carrying out of the functions of the commissioner or other
+person pursuant to this Act; or
+(d) wilfully destroys any record that is governed by this Act with the intent
+to evade a request for access to the record;
+is guilty of an offence and liable on summary conviction to a fine of not more
+than $50,000, to imprisonment for not more than one year or to both.
+(4) No employee of a local authority or of an information management service
+provider shall knowingly disclose or direct another person to disclose personal
+information in circumstances that would constitute an offence by the local authority
+or an information management service provider pursuant to this Act.
+(5) Every employee of a local authority or of an information management service
+provider who contravenes subsection (4) is guilty of an offence and is liable on
+summary conviction to a fine of not more than $50,000, to imprisonment for not
+more than one year or to both, whether or not the local authority or information
+management service provider has been prosecuted or convicted.
+(6) No employee of a local authority shall wilfully access or use or direct another
+person to access or use personal information that is not reasonably required by that
+individual to carry out a purpose authorized pursuant to this Act.
+(7) Every employee of a local authority who contravenes subsection (6) is guilty of
+an offence and is liable on summary conviction to a fine of not more than $50,000,
+to imprisonment for not more than one year or to both, whether or not the local
+authority has been prosecuted or convicted.
+(8) No employee of an information management service provider shall wilfully
+access or use or direct another person to access or use personal information for a
+purpose that is not authorized by subsection 23.2(1).
+(9) Every employee of an information management service provider who
+contravenes subsection (8) is guilty of an offence and is liable on summary conviction
+to a fine of not more than $50,000, to imprisonment for not more than one year or
+to both, whether or not the information management service provider has been
+prosecuted or convicted.
+(10) No prosecution shall be commenced pursuant to this section after the
+expiration of two years from the date of the discovery of the alleged offence”.
+1990‑91, c L‑27.1, s 56; 2017, c 17, s 26.
+36LOCAL AUTHORITY FREEDOM OF INFORMATION
+AND PROTECTION OF PRIVACYc L-27.1
+Regulations
+57 The Lieutenant Governor in Council may make regulations:
+(a) defining, enlarging or restricting the meaning of any term used in this
+Act but not defined in this Act;
+(b) for the purposes of subclause 2(f)(xvii), prescribing boards, commissions
+or other bodies to be local authorities;
+(c) prescribing procedures to be followed within local authorities in taking
+and processing applications for access;
+(d) prescribing fees to be paid pursuant to this Act;
+(e) for the purposes of subsection 9(2), prescribing an amount of fees in excess
+of which an estimate is required to be given;
+(f) for the purposes of subsection 9(5), prescribing circumstances in which a
+head may waive the payment of all or any part of a prescribed fee;
+(g) exempting from the application of this Act provisions of Acts or regulations
+that restrict or prohibit access to records of local authorities;
+(h) for the purposes of clause 28(2)(g):
+(i) prescribing law enforcement agencies and investigative bodies;
+(ii) prescribing requirements to be met with respect to disclosures of
+information to law enforcement agencies or investigative bodies;
+(i) for the purposes of clause 28(2)(s), prescribing:
+(i) purposes for which personal information may be disclosed;
+(ii) circumstances in which personal information may be disclosed;
+(iii) persons to whom personal information may be disclosed;
+(j) prescribing manners in which the consent of an individual may be given;
+(k) prescribing the manner in which persons may apply to the commissioner
+for a review;
+(l) prescribing any matter that is to be included in a notice that is required
+by this Act;
+(m) prescribing forms for the purposes of this Act;
+(n) prescribing any other matter or thing required or authorized by this Act
+to be prescribed in the regulations;
+(o) respecting any other matter or thing that the Lieutenant Governor in
+Council considers necessary to carry out the intent of this Act.
+1990‑91, c L‑27.1, s 57; 1996, c 9, s 10.
+Coming into force
+58 This Act or any provision of this Act comes into force on a day or days to be
+fixed by proclamation of the Lieutenant Governor.
+1990‑91, c L‑27.1, s 58.
+REGINA, SASKATCHEWAN
+Printed by the authority of
+THE KING’S PRINTER
+Copyright©2024

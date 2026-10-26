@@ -1,0 +1,1155 @@
+§ 56 (CIV)
+This part may be cited as the Confidentiality of Medical Information Act.
+
+[Repealed and added by Stats. 1981, Ch. 782, Sec. 2.]
+
+§ 56.05 (CIV)
+For purposes of this part:
+
+(a)“Authorization” means permission granted in accordance with Section 56.11 or 56.21 for the disclosure of medical information.
+
+(b)“Authorized recipient” means a person who is authorized to receive medical information pursuant to Section 56.10 or 56.20.
+
+(c)“Confidential communications request” means a request by a subscriber or enrollee that health care service plan communications containing medical information be communicated to them at a specific mail or email address or specific telephone number, as designated by the subscriber or enrollee.
+
+(d)“Contractor” means a person or entity that is a medical group, independent practice association, pharmaceutical benefits manager, or a medical service organization and is not a health care service plan or provider of health care. “Contractor” does not include insurance institutions as defined in subdivision (k) of Section 791.02 of the Insurance Code or pharmaceutical benefits managers licensed pursuant to the Knox-Keene Health Care Service Plan Act of 1975 (Chapter 2.2 (commencing with Section 1340) of Division 2 of the Health and Safety Code).
+
+(e)“Enrollee” has the same meaning as that term is defined in Section 1345 of the Health and Safety Code.
+
+(f)“Expiration date or event” means a specified date or an occurrence
+relating to the individual to whom the medical information pertains or the purpose of the use or disclosure, after which the provider of health care, health care service plan,
+pharmaceutical company, or contractor is no longer authorized to disclose the medical information.
+
+(g)“Health care service plan” means an entity regulated pursuant to the Knox-Keene Health Care Service Plan Act of 1975 (Chapter 2.2 (commencing with Section 1340) of Division 2 of the Health and Safety Code).
+
+(h)“Licensed health care professional” means a person licensed or certified pursuant to Division 2 (commencing with Section 500) of the Business and Professions Code, the Osteopathic Initiative Act or the Chiropractic Initiative Act, or Division 2.5 (commencing with Section 1797) of the Health and Safety Code.
+
+(i)“Marketing” means to make a communication about a product or service that encourages
+recipients of the communication to purchase or use the product or service.
+
+“Marketing” does not include any of the following:
+
+(1)Communications made orally or in writing for which the communicator does not receive direct or indirect remuneration, including, but not limited to, gifts, fees, payments, subsidies, or other economic benefits, from a third party for making the communication.
+
+(2)Communications made to current enrollees solely for the purpose of describing a provider’s participation in an existing health care provider network or health plan network of a Knox-Keene licensed health plan to which the enrollees already subscribe; communications made to current enrollees solely for the purpose of describing if, and the extent to
+which, a product or service, or payment for a product or service, is provided by a provider, contractor, or plan or included in a plan of benefits of a Knox-Keene licensed health plan to which the enrollees already subscribe; or communications made to plan enrollees describing the availability of more cost-effective pharmaceuticals.
+
+(3)Communications that are tailored to the circumstances of a particular individual to educate or advise the individual about treatment options, and otherwise maintain the individual’s adherence to a prescribed course of medical treatment, as provided in Section 1399.901 of the Health and Safety Code, for a chronic and seriously debilitating or life-threatening condition as defined in subdivisions (d) and (e) of Section 1367.21 of the Health and Safety Code, if the health care provider, contractor, or health plan receives
+direct or indirect remuneration, including, but not limited to, gifts, fees, payments, subsidies, or other economic benefits, from a third party for making the communication, if all of the following apply:
+
+(A)The individual receiving the communication is notified in the communication in typeface no smaller than 14-point type of the fact that the provider, contractor, or health plan has been remunerated and the source of the remuneration.
+
+(B)The individual is provided the opportunity to opt out of receiving future remunerated communications.
+
+(C)The communication contains instructions in typeface no smaller than 14-point type describing how the individual can opt out of receiving further communications by calling a
+toll-free number of the health care provider, contractor, or health plan making the remunerated communications. Further communication shall not be made to an individual who has opted out after 30 calendar days from the date the individual makes the opt-out request.
+
+(j)(1)“Medical information” means any individually identifiable information, in electronic or physical form, in possession of or derived from a provider of health care, health care service plan, pharmaceutical company, or contractor regarding a patient’s medical history, mental health application information, reproductive or sexual health application information,
+mental or physical condition, or treatment. “Individually identifiable” means that the medical information includes or contains any element of personal identifying information sufficient to allow identification of the individual, such as the patient’s name, address, electronic mail address, telephone number, or social security number, or other information that, alone or in combination with other publicly available information, reveals the identity of the individual.
+
+(2)If individually identifying information regarding immigration status, including current and prior immigration status, or place of birth, is known or collected in electronic or physical form by a provider of health care, health care service plan, pharmaceutical company, or contractor regarding a patient’s medical history, it
+shall be treated as medical information, as defined in paragraph (1).
+
+(k)“Mental health application information” means information related to a consumer’s inferred or diagnosed mental health or substance use disorder, as defined in Section 1374.72 of the Health and Safety Code, collected by a mental health digital service.
+
+(l)“Mental health digital service” means a mobile-based application or internet website that collects mental health application information from a consumer, markets itself as facilitating mental health services to a consumer, and uses the information to facilitate mental health services to a consumer.
+
+(m)“Patient” means a natural person, whether or not still living, who
+received health care services from a provider of health care and to whom medical information pertains.
+
+(n)“Pharmaceutical company” means a company or business, or an agent or representative thereof, that manufactures, sells, or distributes pharmaceuticals, medications, or prescription drugs. “Pharmaceutical company” does not include a pharmaceutical benefits manager, as included in subdivision (c), or a provider of health care.
+
+(o)“Protected individual” means any adult covered by the subscriber’s health care service plan or a minor who can consent to a health care service without the consent of a parent or legal guardian, pursuant to state or federal law. “Protected individual” does not include an individual that lacks the capacity to give informed consent for health care
+pursuant to Section 813 of the Probate Code.
+
+(p)“Provider of health care” means a person licensed or certified pursuant to Division 2 (commencing with Section 500) of the Business and Professions Code; a person licensed pursuant to the
+Osteopathic Initiative Act or the Chiropractic Initiative Act; a person certified pursuant to Division 2.5 (commencing with Section 1797) of the Health and Safety Code; or a clinic, health dispensary, or health facility licensed pursuant to Division 2 (commencing with Section 1200) of the Health and Safety Code. “Provider of health care” does not include insurance institutions as defined in subdivision (k) of Section 791.02 of the Insurance Code.
+
+(q)“Reproductive or sexual health application information” means information about a consumer’s reproductive health, menstrual cycle, fertility, pregnancy, pregnancy outcome, plans to conceive, or type of sexual activity collected by a reproductive or sexual health digital service, including, but not limited to, information from which one can infer someone’s pregnancy status, menstrual
+cycle, fertility, hormone levels, birth control use, sexual activity, or gender identity.
+
+(r)“Reproductive or sexual health digital service” means a mobile-based application or internet website that collects reproductive or sexual health application information from a consumer, markets itself as facilitating reproductive or sexual health services to a consumer, and uses the information to facilitate reproductive or sexual health services to a consumer.
+
+(s)“Sensitive services” means all health care services related to mental or behavioral health, sexual and reproductive health, sexually transmitted infections, substance use disorder, gender-affirming care, and intimate partner violence, and includes services described in Sections 6924, 6925, 6926, 6927, 6928, 6929, and 6930 of
+the Family Code, and Sections 121020 and 124260 of the Health and Safety Code, obtained by a patient at or above the minimum age specified for consenting to the service specified in the section.
+
+(t)“Subscriber” has the same meaning as that term is defined in Section 1345 of the Health and Safety Code.
+
+(u)“Immigration enforcement” means any and all efforts to investigate, enforce, or assist in the investigation or enforcement of any federal civil immigration law, and also includes any and all efforts to investigate, enforce, or assist in the investigation or enforcement of any federal criminal immigration law that penalizes a person’s presence in, entry or reentry to, or employment in, the United States.
+
+[Amended by Stats. 2025, Ch. 123, Sec. 1.   (SB 81)   Effective September 20, 2025.]
+
+§ 56.06 (CIV)
+(a)Any business organized for the purpose of maintaining medical information in order to make the information available to an individual or to a provider of health care at the request of the individual or a provider of health care, for purposes of allowing the individual to manage the individual’s information, or for the diagnosis and treatment of the individual, shall be deemed to be a provider of health care subject to the requirements of this part. However, this section shall not be construed to make a business specified in this subdivision a provider of health care for purposes of any law other than this part, including laws that specifically incorporate by reference the definitions of this part.
+
+(b)Any business that offers software or hardware to consumers,
+including a mobile application or other related device that is designed to maintain medical information in order to make the information available to an individual or a provider of health care at the request of the individual or a provider of health care, for purposes of allowing the individual to manage the individual’s information, or for the diagnosis, treatment, or management of a medical condition of the individual, shall be deemed to be a provider of health care subject to the requirements of this part. However, this section shall not be construed to make a business specified in this subdivision a provider of health care for purposes of any law other than this part, including laws that specifically incorporate by reference the definitions of this part.
+
+(c)Any business that is licensed pursuant to Division 10 (commencing
+with Section 26000) of the Business and Professions Code that is authorized to receive or receives identification cards
+issued pursuant to Section 11362.71 of the Health and Safety Code or information contained in a physician’s recommendation issued in accordance with Article 25 (commencing with Section 2525) of Chapter 5 of Division 2 of the Business and Professions Code shall be deemed to be a provider of health care subject to the requirements of this part. However, this section shall not be construed to make a business specified in this subdivision a provider of health care for purposes of any law other than this part, including laws that specifically incorporate by reference the definitions of this part.
+
+(d)Any business that offers a mental health digital service to a consumer for the purpose of allowing the individual to manage the individual’s information, or for the diagnosis, treatment, or management of a medical condition of the
+individual, shall be deemed to be a provider of health care subject to the requirements of this part. However, this section shall not be construed to make a business specified in this subdivision a provider of health care for purposes of any law other than this part, including laws that specifically incorporate by reference the definitions of this part.
+
+(e)Any business that offers a reproductive or sexual health digital service to a consumer for the purpose of allowing the individual to manage the individual’s information, or for the diagnosis, treatment, or management of a medical condition of the individual, shall be deemed to be a provider of health care subject to the requirements of this part. However, this section shall not be construed to make a business specified in this subdivision a provider of health care for purposes of any law
+other than this part, including, but not limited to, laws that specifically incorporate by reference the definitions of this part.
+
+(f)Any business described in this section shall maintain the same standards of confidentiality required of a provider of health care with respect to medical information disclosed to the business.
+
+(g)Any business described in this section is subject to the penalties for improper use and disclosure of medical information prescribed in this part.
+
+[Amended by Stats. 2023, Ch. 254, Sec. 2.   (AB 254)   Effective January 1, 2024.]
+
+§ 56.07 (CIV)
+(a)Except as provided in subdivision (c), upon the patient’s written request, any corporation described in Section 56.06, or any other entity that compiles or maintains medical information for any reason, shall provide the patient, at no charge, with a copy of any medical profile, summary, or information maintained by the corporation or entity with respect to the patient.
+
+(b)A request by a patient pursuant to this section shall not be deemed to be an authorization by the
+patient for the release or disclosure of any information to any person or entity other than the patient.
+
+(c)This section shall not apply to any patient records that are subject to inspection by the patient pursuant to Section 123110 of the Health and Safety Code and shall not be deemed to limit the right of a health care provider to charge a fee for the preparation of a summary of patient records as provided in Section 123130 of the Health and Safety Code. This section shall not apply to a health care service plan licensed pursuant to Chapter 2.2 (commencing with Section 1340) of Division 2 of the Health and Safety Code or a disability insurer licensed pursuant to the Insurance Code. This section shall not apply to medical information compiled or maintained by a fire and casualty insurer or its retained counsel in the regular course of investigating or litigating a claim under a policy of insurance that it has written. For the purposes of this
+section, a fire and casualty insurer is an insurer writing policies that may be sold by a fire and casualty licensee pursuant to Section 1625 of the Insurance Code.
+
+[Added by Stats. 2000, Ch. 1066, Sec. 1.   Effective January 1, 2001.]
+
+§ 56.10 (CIV)
+(a)A provider of health care, health care service plan, or contractor shall not disclose medical information regarding a patient of the provider of health care or an enrollee or subscriber of a health care service plan without first obtaining an authorization, except as provided in subdivision (b) or (c).
+
+(b)A provider of health care, a health care service plan, or a contractor shall disclose medical information if the disclosure is compelled by any of the following:
+
+(1)(A)A court order issued by a court of this
+state or a federal court, including, but not limited to, a court order issued by a court of this state pursuant to Section 2029.300 of the Code of Civil Procedure relating to a foreign subpoena.
+
+(B)A provider of health care, health care service plan, or contractor shall not comply with a court order that constitutes a foreign subpoena, absent a court order issued pursuant to Section 2029.300 of the Code of Civil Procedure.
+
+(2)A board, commission, or administrative agency for purposes of adjudication pursuant to its lawful authority.
+
+(3)A party to a proceeding before a court or administrative agency pursuant to a subpoena, subpoena duces tecum, notice to appear served pursuant
+to Section 1987 of the Code of Civil Procedure, or any provision authorizing discovery in a proceeding before a court or administrative agency.
+
+(4)A board, commission, or administrative agency pursuant to an investigative subpoena issued under Article 2 (commencing with Section 11180) of Chapter 2 of Part 1 of Division 3 of Title 2 of the Government Code.
+
+(5)An arbitrator or arbitration panel, when arbitration is lawfully requested by either party, pursuant to a subpoena duces tecum issued under Section 1282.6 of the Code of Civil Procedure, or another provision authorizing discovery in a proceeding before an arbitrator or arbitration panel.
+
+(6)A valid search warrant issued by a judicial officer, including a
+magistrate, to a governmental law enforcement agency, including a search warrant from another state that is based on either of the following and execution of the search warrant would not constitute a violation of Section 13778.2 of the Penal Code:
+
+(A)Another state’s law, so long as that state’s law does not interfere with California law, including, but not limited to, the Reproductive Privacy Act (Article 2.5 (commencing with Section 123460) of Chapter 2 of Part 2 of Division 106 of the Health and Safety Code).
+
+(B)A foreign penal civil action, as defined in Section 2029.200 of the Code of Civil Procedure.
+
+(7)The patient or the patient’s representative pursuant to Chapter 1 (commencing with Section 123100) of Part 1 of
+Division 106 of the Health and Safety Code.
+
+(8)A medical examiner, forensic pathologist, or coroner, when requested in the course of an investigation by a medical examiner, forensic pathologist, or coroner’s office for the purpose of identifying the decedent or locating next of kin, or when investigating deaths that may involve public health concerns, organ or tissue donation, child abuse, elder abuse, suicides, poisonings, accidents, sudden infant deaths, suspicious deaths, unknown deaths, or criminal deaths, or upon notification of, or investigation of, imminent deaths that may involve organ or tissue donation pursuant to Section 7151.15 of the Health and Safety Code, or when otherwise authorized by the decedent’s representative. Medical information requested by a medical examiner, forensic pathologist, or coroner under this
+paragraph shall be limited to information regarding the patient who is the decedent and who is the subject of the investigation or who is the prospective donor and shall be disclosed to a medical examiner, forensic pathologist, or coroner without delay upon request. A medical examiner, forensic pathologist, or coroner shall not disclose the information contained in the medical record obtained pursuant to this paragraph to a third party without a court order or authorization pursuant to paragraph (4) of subdivision (c) of Section 56.11.
+
+(9)When otherwise specifically required by law.
+
+(c)A provider of health care or a health care service plan may disclose medical information as follows:
+
+(1)The information may be disclosed
+to providers of health care, health care service plans, contractors, or other health care professionals or facilities for purposes of diagnosis or treatment of the patient. This includes, in an emergency situation, the communication of patient information by radio transmission or other means between emergency medical personnel at the scene of an emergency, or in an emergency medical transport vehicle, and emergency medical personnel at a health facility licensed pursuant to Chapter 2 (commencing with Section 1250) of Division 2 of the Health and Safety Code.
+
+(2)The information may be disclosed to an insurer, employer, health care service plan, hospital service plan, employee benefit plan, governmental authority, contractor, or other person or entity responsible for paying for health care services rendered to the patient, to the extent
+necessary to allow responsibility for payment to be determined and payment to be made. If (A) the patient is, by reason of a comatose or other disabling medical condition, unable to consent to the disclosure of medical information and (B) no other arrangements have been made to pay for the health care services being rendered to the patient, the information may be disclosed to a governmental authority to the extent necessary to determine the patient’s eligibility for, and to obtain, payment under a governmental program for health care services provided to the patient. The information may also be disclosed to another provider of health care or health care service plan as necessary to assist the other provider or health care service plan in obtaining payment for health care services rendered by that provider of health care or health care service plan to the patient.
+
+(3)The information may be disclosed to a person or entity that provides billing, claims management, medical data processing, or other administrative services for providers of health care or health care service plans or for any of the persons or entities specified in paragraph (2). However, that disclosed information shall not be further disclosed by the recipient in a way that would violate this part.
+
+(4)The information may be disclosed to organized committees and agents of professional societies or of medical staffs of licensed hospitals, licensed health care service plans, professional standards review organizations, independent medical review organizations and their selected reviewers, utilization and quality control peer review organizations as established by Congress in Public Law 97-248 in 1982, contractors, or persons or
+organizations insuring, responsible for, or defending professional liability that a provider may incur, if the committees, agents, health care service plans, organizations, reviewers, contractors, or persons are engaged in reviewing the competence or qualifications of health care professionals or in reviewing health care services with respect to medical necessity, level of care, quality of care, or justification of charges.
+
+(5)The information in the possession of a provider of health care or a health care service plan may be reviewed by a private or public body responsible for licensing or accrediting the provider of health care or a health care service plan. However, no patient-identifying medical information may be removed from the premises except as expressly permitted or required elsewhere by law, nor shall that information be
+further disclosed by the recipient in a way that would violate this part.
+
+(6)The information may be disclosed to a medical examiner, forensic pathologist, or county coroner in the course of an investigation by a medical examiner, forensic pathologist, or coroner’s office when requested for all purposes not included in paragraph (8) of subdivision (b). A medical examiner, forensic pathologist, or coroner shall not disclose the information contained in the medical record obtained pursuant to this paragraph to a third party without a court order or authorization pursuant to paragraph (4) of subdivision (c) of Section 56.11.
+
+(7)The information may be disclosed to public agencies, clinical investigators, including investigators conducting epidemiologic studies, health care research
+organizations, and accredited public or private nonprofit educational or health care institutions for bona fide research purposes. However, no information so disclosed shall be further disclosed by the recipient in a way that would disclose the identity of a patient or violate this part.
+
+(8)A provider of health care or health care service plan that has created medical information as a result of employment-related health care services to an employee conducted at the specific prior written request and expense of the employer may disclose to the employee’s employer that part of the information that:
+
+(A)Is relevant in a lawsuit, arbitration, grievance, or other claim or challenge to which the employer and the employee are parties and in which the patient has placed in issue the patient’s
+medical history, mental or physical condition, or treatment, provided that information may only be used or disclosed in connection with that proceeding.
+
+(B)Describes functional limitations of the patient that may entitle the patient to leave from work for medical reasons or limit the patient’s fitness to perform the patient’s present employment, provided that no statement of medical cause is included in the information disclosed.
+
+(9)Unless the provider of health care or a health care service plan is notified in writing of an agreement by the sponsor, insurer, or administrator to the contrary, the information may be disclosed to a sponsor, insurer, or administrator of a group or individual insured or uninsured plan or policy that the patient seeks coverage by or benefits
+from, if the information was created by the provider of health care or health care service plan as the result of services conducted at the specific prior written request and expense of the sponsor, insurer, or administrator for the purpose of evaluating the application for coverage or benefits.
+
+(10)The information may be disclosed to a health care service plan by providers of health care that contract with the health care service plan and may be transferred between providers of health care that contract with the health care service plan, for the purpose of administering the health care service plan. Medical information shall not otherwise be disclosed by a health care service plan except in accordance with this part.
+
+(11)This part does not prevent the disclosure by a provider of health
+care or a health care service plan to an insurance institution, agent, or support organization, subject to Article 6.6 (commencing
+with Section 791) of Chapter 1 of Part 2 of Division 1 of the Insurance Code, of medical information if the insurance institution, agent, or support organization has complied with all of the requirements for obtaining the information pursuant to Article 6.6 (commencing with Section 791) of Chapter 1 of Part 2 of Division 1 of the Insurance Code.
+
+(12)The information relevant to the patient’s condition, care, and treatment provided may be disclosed to a probate court investigator in the course of an investigation required or authorized in a conservatorship proceeding under the Guardianship-Conservatorship Law as defined in Section 1400 of the Probate Code, or to a probate court investigator, probation officer, or domestic relations investigator engaged in determining the need for an initial guardianship or continuation of an
+existing guardianship.
+
+(13)The information may be disclosed to an organ procurement organization or a tissue bank processing the tissue of a decedent for transplantation into the body of another person, but only with respect to the donating decedent, for the purpose of aiding the transplant. For the purpose of this paragraph, “tissue bank” and “tissue” have the same meanings as defined in Section 1635 of the Health and Safety Code.
+
+(14)The information may be disclosed when the disclosure is otherwise specifically authorized by law, including, but not limited to, the voluntary reporting, either directly or indirectly, to the United States Food and Drug Administration of adverse events related to drug products or medical device problems, or to disclosures made pursuant to
+subdivisions (b) and (c) of Section
+11167 of the Penal Code by a person making a report pursuant to Sections 11165.9 and 11166 of the Penal Code, provided that those disclosures concern a report made by that person.
+
+(15)Basic information, including the patient’s name, city of residence, age, sex, and general condition, may be disclosed to a state-recognized or federally recognized disaster relief organization for the purpose of responding to disaster welfare inquiries.
+
+(16)The information may be disclosed to a third party for purposes of encoding, encrypting, or otherwise anonymizing data. However, no information so disclosed shall be further disclosed by the recipient in a way that would violate this part, including the unauthorized manipulation of coded or encrypted medical information that reveals
+individually identifiable medical information.
+
+(17)For purposes of disease management programs and services as defined in Section 1399.901 of the Health and Safety Code, information may be disclosed as follows: (A) to an entity contracting with a health care service plan or the health care service plan’s contractors to monitor or administer care of enrollees for a covered benefit, if the disease management services and care are authorized by a treating physician, or (B) to a disease management organization, as defined in Section 1399.900 of the Health and Safety Code, that complies fully with the physician authorization requirements of Section 1399.902 of the Health and Safety Code, if the health care service plan or its contractor provides or has provided a description of the disease management services to a treating physician or to
+the health care service plan’s or contractor’s network of physicians. This paragraph does not require physician authorization for the care or treatment of the adherents of a well-recognized church or religious denomination who depend solely upon prayer or spiritual means for healing in the practice of the religion of that church or denomination.
+
+(18)The information may be disclosed, as permitted by state and federal law or regulation, to a local health department for the purpose of preventing or controlling disease, injury, or disability, including, but not limited to, the reporting of disease, injury, vital events, including, but not limited to, birth or death, and the conduct of public health surveillance, public health investigations, and public health interventions, as authorized or required by state or federal law or regulation.
+
+(19)The information may be disclosed, consistent with applicable law and standards of ethical conduct, by a psychotherapist, as defined in Section 1010 of the Evidence Code, if the psychotherapist, in good faith, believes the disclosure is necessary to prevent or lessen a serious and imminent threat to the health or safety of a reasonably foreseeable victim or victims, and the disclosure is made to a person or persons reasonably able to prevent or lessen the threat, including the target of the threat.
+
+(20)The information may be disclosed as described in Section 56.103.
+
+(21)(A)The information may be disclosed to an employee welfare benefit plan, as defined under Section 3(1) of the Employee Retirement
+Income Security Act of 1974 (29 U.S.C. Sec. 1002(1)), which is formed under Section 302(c)(5) of the Taft-Hartley Act (29 U.S.C. Sec. 186(c)(5)), to the extent that the employee welfare benefit plan provides medical care, and may also be disclosed to an entity contracting with the employee welfare benefit plan for billing, claims management, medical data processing, or other administrative services related to the provision of medical care to persons enrolled in the employee welfare benefit plan for health care coverage, if all of the following conditions are met:
+
+(i)The disclosure is for the purpose of determining eligibility, coordinating benefits, or allowing the employee welfare benefit plan or the contracting entity to advocate on the behalf of a patient or enrollee with a provider, a health care service plan, or a state or federal
+regulatory agency.
+
+(ii)The request for the information is accompanied by a written authorization for the release of the information submitted in a manner consistent with subdivision (a) and Section 56.11.
+
+(iii)The disclosure is authorized by and made in a manner consistent with the federal Health Insurance Portability and Accountability Act of 1996 (Public Law 104-191).
+
+(iv)Any information disclosed is not further used or disclosed by the recipient in any way that would directly or indirectly violate this part or the restrictions imposed by Part 164 of Title 45 of the Code of Federal Regulations, including the manipulation of the information in any way that might reveal individually identifiable medical information.
+
+(B)For purposes of this paragraph, Section 1374.8 of the Health and Safety Code shall not apply.
+
+(22)Information may be disclosed pursuant to subdivision (a) of Section 15633.5 of the Welfare and Institutions Code by a person required to make a report pursuant to Section 15630 of the Welfare and Institutions Code, provided that the disclosure under subdivision (a) of Section 15633.5 concerns a report made by that person. Covered entities, as they are defined in Section 160.103 of Title 45 of the Code of Federal Regulations, shall comply with the requirements of the federal Health Insurance Portability and Accountability Act of 1996 (HIPAA) privacy rule pursuant to subsection (c) of Section 164.512 of Title 45 of the Code of Federal Regulations if the disclosure is not for the
+purpose of public health surveillance, investigation, intervention, or reporting an injury or death.
+
+(23)The information may be disclosed to a school-linked services coordinator pursuant to a written authorization between the health provider and the patient or client that complies with the federal Health Insurance Portability and Accountability Act of 1996.
+
+(24)Mental health records, as defined in subdivision (c) of Section 5073 of the Penal Code, may be disclosed by a county correctional facility, county medical facility, state correctional facility, or state hospital, as required by Section 5073 of the Penal Code.
+
+(d)Except to the extent expressly authorized by a patient, enrollee, or subscriber, or as
+provided by subdivisions (b) and (c), a provider of health care, health care service plan, contractor, or corporation and its subsidiaries and affiliates shall not intentionally share, sell, use for marketing, or otherwise use medical information for a purpose not necessary to provide health care services to the
+patient.
+
+(e)Except to the extent expressly authorized by a patient or enrollee or subscriber or as provided by subdivisions (b) and (c), a contractor or corporation and its subsidiaries and affiliates shall not further disclose medical information regarding a patient of the provider of health care or an enrollee or subscriber of a health care service plan or insurer or self-insured employer received under this section to a person or entity that is not engaged in providing direct health care services to the patient or the patient’s provider of health care or health care service plan or insurer or self-insured employer.
+
+(f)Except to the extent expressly authorized by a patient, enrollee, or subscriber, or as required by subdivision (b), or as permitted by subdivision
+(c), a provider of health care, health care service plan, contractor, or corporation and its subsidiaries and affiliates shall not disclose medical information for immigration enforcement.
+
+(g)For purposes of this section, the following definitions apply:
+
+(1)“Medical examiner, forensic pathologist, or coroner” means a coroner or deputy coroner, as described in subdivision (c) of Section 830.35 of the Penal Code, or a licensed physician who currently performs official autopsies on behalf of a county coroner’s office or a medical examiner’s office, whether as a government employee or under contract to that office.
+
+(2)“School-linked services coordinator” means an individual located on a school campus or under contract by a
+county behavioral health provider agency for the treatment and health care operations and referrals of students and their families that holds any of the following:
+
+(A)A services credential with a specialization in pupil personnel services, as described in Section 44266 of the Education Code.
+
+(B)A services credential with a specialization in health authorizing service as a school nurse, as described in Section 44877 of the Education Code.
+
+(C)A license to engage in the practice of marriage and family therapy issued pursuant to Chapter 13 (commencing with Section 4980) of Division 2 of the Business and Professions Code.
+
+(D)A license to engage in the practice
+of educational psychology issued pursuant to Chapter 13.5 (commencing with Section 4989.10) of Division 2 of the Business and Professions Code.
+
+(E)A license to engage in the practice of professional clinical counseling issued pursuant to Chapter 16 (commencing with Section 4999.10) of Division 2 of the Business and Professions Code.
+
+[Amended by Stats. 2025, Ch. 123, Sec. 2.   (SB 81)   Effective September 20, 2025.]
+
+§ 56.11 (CIV)
+(a)Any person or entity that wishes to obtain medical information pursuant to subdivision (a) of Section 56.10, other than a person or entity authorized to receive medical information pursuant to subdivision (b) or (c) of Section 56.10, except as provided in paragraph (21) of subdivision (c) of Section 56.10, shall obtain a valid authorization for the release of this information.
+
+(b)An authorization for the release of medical information by a provider of health care, health care service plan, pharmaceutical company, or contractor shall be valid if it meets the following conditions:
+
+(1)Is handwritten or is in a typeface no smaller than 14-point type.
+
+(2)Is clearly separate from any other language present on the same page and is executed by a signature that serves no other purpose than to execute the authorization.
+
+(3)Is signed, including with an electronic or handwritten signature, and dated by one of the following:
+
+(A)The patient. A patient who is a minor may only sign an authorization for the release of medical information obtained by a provider of health care, health care service plan, pharmaceutical company, or contractor in the course of furnishing services to which the minor could lawfully have consented under Part 4 (commencing with Section 6900) of Division 11 of the Family Code.
+
+(B)The legal representative of the patient, if the patient is a minor or lacks the capacity to make the decision to
+authorize the release of medical information. However, authorization may not be given under this subdivision for the disclosure of medical information obtained by the provider of health care, health care service plan, pharmaceutical company, or contractor in the course of furnishing services to which a minor patient could lawfully have consented under Part 4 (commencing with Section 6900) of Division 11 of the Family Code.
+
+(C)The spouse of the patient or the person financially responsible for the patient, where the medical information is being sought for the sole purpose of processing an application for health insurance or for enrollment in a nonprofit hospital plan, a health care service plan, or an employee benefit plan, and where the patient is to be an enrolled spouse or dependent under the policy or plan.
+
+(D)The beneficiary, as defined in Section 24 of the Probate Code, or
+personal representative, as defined in Section 58 of the Probate Code, of a deceased patient.
+
+(4)States the specific uses and limitations on the types of medical information to be disclosed.
+
+(5)States the name or functions of the provider of health care, health care service plan, pharmaceutical company, or contractor that may disclose the medical information.
+
+(6)States the name or functions of the persons or entities authorized to receive the medical information.
+
+(7)States the specific uses and limitations on the use of the medical information by the persons or entities authorized to receive the medical information.
+
+(8)States an expiration date or event. The expiration date or event
+shall limit the duration of the authorization to one year or less, unless the person signing the authorization requests a specific date beyond a year or unless the authorization is related to an approved clinical trial, as defined in Section 1370.6 of the Health and Safety Code, or medical research study, in which case the authorization may extend beyond one year if the expiration date or event extends no longer than the completion of the relevant clinical trial or research study.
+
+(9)Advises the person signing the authorization of the right to receive a copy of the authorization.
+
+(c)If a provider of health care, health care service plan, pharmaceutical company, contractor, or any other entity seeks an authorization from an individual for a use or disclosure of protected health information, the provider of health care, health care service plan, pharmaceutical company, contractor,
+or other entity shall provide the individual with a copy of the signed authorization, and instructions on how to access additional copies or a digital version of the signed authorization.
+
+[Amended by Stats. 2023, Ch. 374, Sec. 2.   (AB 1697)   Effective January 1, 2024.]
+
+§ 56.12 (CIV)
+Upon demand by the patient or the person who signed an authorization, a provider of health care, health care service plan, pharmaceutical company, or contractor possessing the authorization shall furnish a true copy thereof.
+
+[Amended by Stats. 2002, Ch. 853, Sec. 5.   Effective January 1, 2003.]
+
+§ 56.13 (CIV)
+A recipient of medical information pursuant to an authorization as provided by this chapter or pursuant to the provisions of subdivision (c) of Section 56.10 may not further disclose that medical information except in accordance with a new authorization that meets the requirements of Section 56.11, or as specifically required or permitted by other provisions of this chapter or by law.
+
+[Added by Stats. 1981, Ch. 782, Sec. 2.]
+
+§ 56.14 (CIV)
+A provider of health care, health care service plan, or contractor that discloses medical information pursuant to the authorizations required by this chapter shall communicate to the person or entity to which it discloses the medical information any limitations in the authorization regarding the use of the medical information. No provider of health care, health care service plan, or contractor that has attempted in good faith to comply with this provision shall be liable for any unauthorized use of the medical information by the person or entity to which the
+provider, plan, or contractor disclosed the medical information.
+
+[Amended by Stats. 1999, Ch. 526, Sec. 6.   Effective January 1, 2000.]
+
+§ 56.15 (CIV)
+Nothing in this part shall be construed to prevent a person who could sign the authorization pursuant to subdivision (c) of Section 56.11 from cancelling or modifying an authorization. However, the cancellation or modification shall be effective only after the provider of health care actually receives written notice of the cancellation or modification.
+
+[Repealed and added by Stats. 1981, Ch. 782, Sec. 2.]
+
+§ 56.16 (CIV)
+For disclosures not addressed by Section 56.1007, unless there is a specific written request by the patient to the contrary, nothing in this part shall be construed to prevent a general acute care hospital, as defined in subdivision (a) of Section 1250 of the Health and Safety Code, upon an inquiry concerning a specific patient, from releasing at its discretion any of the following information: the patient’s name, address,
+age, and sex; a general description of the reason for treatment (whether an injury, a burn, poisoning, or some unrelated condition); the general nature of the injury, burn, poisoning, or other condition; the general condition of the patient; and any information that is not medical information as defined in Section 56.05.
+
+[Amended by Stats. 2013, Ch. 444, Sec. 5.   (SB 138)   Effective January 1, 2014.]
+
+§ 56.17 (CIV)
+(a)This section shall apply to the disclosure of genetic test results by a health care service plan that are contained in an applicant’s or enrollee’s medical records.
+
+(b)Any person who negligently discloses results of a test for a genetic characteristic to any third party in a manner that identifies or provides identifying characteristics of the person to whom the test results apply, except pursuant to a written authorization as described in subdivision (g), shall be assessed a civil penalty in an amount not to exceed one thousand dollars ($1,000) plus court costs, as determined by the court, which penalty and costs shall be paid to the subject of the test.
+
+(c)Any person who willfully discloses the results of a test for a genetic characteristic to any third party in a manner that identifies or provides identifying characteristics of the person to whom the test results apply, except pursuant to a written authorization as described in subdivision (g), shall be assessed a civil penalty in an amount not less than one thousand dollars ($1,000) and no more than five thousand dollars ($5,000) plus court costs, as determined by the court, which penalty and costs shall be paid to the subject of the test.
+
+(d)Any person who willfully or negligently discloses the results of a test for a genetic characteristic to a third party in a manner that identifies or provides identifying characteristics of the person to whom the test results apply, except pursuant to a written authorization as described in subdivision (g), that results in economic, bodily, or emotional harm to the subject of the test, is
+guilty of a misdemeanor punishable by a fine not to exceed ten thousand dollars ($10,000).
+
+(e)In addition to the penalties listed in subdivisions (b) and (c), any person who commits any act described in subdivision (b) or (c) shall be liable to the subject for all actual damages, including damages for economic, bodily, or emotional harm which is proximately caused by the act.
+
+(f)Each disclosure made in violation of this section is a separate and actionable offense.
+
+(g)The applicant’s “written authorization,” as used in this section, shall satisfy the following requirements:
+
+(1)Is written in plain language and is in a typeface no smaller than 14-point type.
+
+(2)Is dated and signed,
+including with an electronic or handwritten signature, by the individual or a person authorized to act on behalf of the individual.
+
+(3)Specifies the types of persons authorized to disclose information about the individual.
+
+(4)Specifies the nature of the information authorized to be disclosed.
+
+(5)States the name or functions of the persons or entities authorized to receive the information.
+
+(6)Specifies the purposes for which the information is collected.
+
+(7)Specifies the length of time the authorization shall remain valid or states an expiration date or event. The expiration date or event shall limit the duration of the authorization to one year or less, unless the person signing the
+authorization requests a specific date beyond a year or unless the authorization is related to an approved clinical trial, as defined in Section 1370.6 of the Health and Safety Code, or medical research study, in which case the authorization may extend beyond one year if the expiration date or event extends no longer than the completion of the relevant clinical trial or research study.
+
+(8)Advises the person signing the authorization of the right to receive a copy of the authorization. Written authorization is required for each separate disclosure of the test results.
+
+(h)If a provider of health care, health care service plan, pharmaceutical company, contractor, or any other entity seeks an authorization from an individual for a use or disclosure of protected health information, the provider of health care, health care service plan, pharmaceutical company, contractor, or other
+entity shall provide the individual with a copy of the signed authorization and instructions on how to access additional copies or a digital version of the signed authorization.
+
+(i)This section shall not apply to disclosures required by the State Department of Health Care Services necessary to monitor compliance with Chapter 1 (commencing with Section 124975) of Part 5 of Division 106 of the Health and Safety Code, nor to disclosures required by the Department of Managed Health Care necessary to administer and enforce compliance with Section 1374.7 of the Health and Safety Code.
+
+(j)For purposes of this section, “genetic characteristic” has the same meaning as that set forth in subdivision (d) of Section 1374.7 of the Health and Safety Code.
+
+[Amended by Stats. 2023, Ch. 374, Sec. 3.   (AB 1697)   Effective January 1, 2024.]
+
+§ 56.18 (CIV)
+(a)This chapter shall be known, and may be cited, as the Genetic Information Privacy Act.
+
+(b)For purposes of this chapter, the following definitions apply:
+
+(1)“Affirmative authorization” means an action that demonstrates an intentional decision by the consumer.
+
+(2)“Biological sample” means any material part of the human, discharge therefrom, or derivative thereof, such as tissue, blood, urine, or saliva, known to contain deoxyribonucleic acid (DNA).
+
+(3)“Consumer” means a natural person who is a California resident.
+
+(4)“Dark pattern” means a user interface designed or manipulated with the substantial effect of subverting or impairing user autonomy, decisionmaking, or choice.
+
+(5)“Direct-to-consumer genetic testing company” means an entity that does any of the following:
+
+(A)Sells, markets, interprets, or otherwise offers consumer-initiated genetic testing products or services directly to consumers.
+
+(B)Analyzes genetic data obtained from a consumer, except to the extent that the analysis is performed by a person licensed in the healing arts for diagnosis or treatment of a medical condition.
+
+(C)Collects, uses, maintains, or discloses genetic data collected or derived from a direct-to-consumer genetic
+testing product or service, or is directly provided by a consumer.
+
+(6)“Express consent” means a consumer’s affirmative authorization to grant permission in response to a clear, meaningful, and prominent notice regarding the collection, use, maintenance, or disclosure of genetic data for a specific purpose. The nature of the data collection, use, maintenance, or disclosure shall be conveyed in clear and prominent terms in such a manner that an ordinary consumer would notice and understand it. Express consent cannot be inferred from inaction. Agreement obtained through use of dark patterns does not constitute consent.
+
+(7)(A)“Genetic data” means any data, regardless of its format, that results from the analysis of a biological sample from a consumer, or from another element enabling equivalent information to be obtained, and concerns genetic material. Genetic
+material includes, but is not limited to, deoxyribonucleic acids (DNA), ribonucleic acids (RNA), genes, chromosomes, alleles, genomes, alterations or modifications to DNA or RNA, single nucleotide polymorphisms (SNPs), uninterpreted data that results from the analysis of the biological sample, and any information extrapolated, derived, or inferred therefrom.
+
+(B)“Genetic data” does not include deidentified data. For purposes of this subparagraph, “deidentified data” means data that cannot be used to infer information about, or otherwise be linked to, a particular individual, provided that the business that possesses the information does all of the following:
+
+(i)Takes reasonable measures to ensure that the information cannot be associated with a consumer or household.
+
+(ii)Publicly commits to maintain and use the
+information only in deidentified form and not to attempt to reidentify the information, except that the business may attempt to reidentify the information solely for the purpose of determining whether its deidentification processes satisfy the requirements of this subparagraph, provided that the business does not use or disclose any information reidentified in this process and destroys the reidentified information upon completion of that assessment.
+
+(iii)Contractually obligates any recipients of the information to take reasonable measures to ensure that the information cannot be associated with a consumer or household and to commit to maintaining and using the information only in deidentified form and not to reidentify the information.
+
+(C)“Genetic data” does not include data or a biological sample to the extent that data or a biological sample is collected, used, maintained, and
+disclosed exclusively for scientific research conducted by an investigator with an institution that holds an assurance with the United States Department of Health and Human Services pursuant to Part 46 (commencing with Section 46.101) of Title 45 of the Code of Federal Regulations, in compliance with all applicable federal and state laws and regulations for the protection of human subjects in research, including, but not limited to, the Common Rule pursuant to Part 46 (commencing with Section 46.101) of Title 45 of the Code of Federal Regulations, United States Food and Drug Administration regulations pursuant to Parts 50 and 56 of Title 21 of the Code of Federal Regulations, the federal Family Educational Rights and Privacy Act (20 U.S.C. Sec. 1232g), and the Protection of Human Subjects in Medical Experimentation Act, Chapter 1.3 (commencing with Section 24170) of Division 20 of the Health and Safety Code.
+
+(8)“Genetic testing” means any
+laboratory test of a biological sample from a consumer for the purpose of determining information concerning genetic material contained within the biological sample, or any information extrapolated, derived, or inferred therefrom.
+
+(9)“Person” means an individual, partnership, corporation, association, business, business trust, or legal representative of an organization.
+
+(10)“Service provider” means a sole proprietorship, partnership, limited liability company, corporation, association, or other legal entity that is organized or operated for the profit or financial benefit of its shareholders or other owners, that is involved in the collection, transportation, and analysis of the consumer’s biological sample or extracted genetic material on behalf of the direct-to-consumer genetic testing company, or on behalf of any other company that collects, uses, maintains, or discloses
+genetic data collected or derived from a direct-to-consumer genetic testing product or service, or is directly provided by a consumer, or the delivery of the results of the analysis of the biological sample or genetic material. The contract between the company and the service provider shall prohibit the service provider from retaining, using, or disclosing the biological sample, extracted genetic material, genetic data, or any information regarding the identity of the consumer, including whether that consumer has solicited or received genetic testing, as applicable, for any purpose other than for the specific purpose of performing the services specified in the contract for the business, including both of the following:
+
+(A)A provision prohibiting the service provider from retaining, using, or disclosing the biological sample, extracted genetic material, genetic data, or any information regarding the identity of the consumer, including whether
+that consumer has solicited or received genetic testing, as applicable, for a commercial purpose other than providing the services specified in the contract with the business.
+
+(B)A provision prohibiting the service provider from associating or combining the biological sample, extracted genetic material, genetic data, or any information regarding the identity of the consumer, including whether that consumer has solicited or received genetic testing, as applicable, with information the service provider has received from or on behalf of another person or persons, or has collected from its own interaction with consumers or as required by law.
+
+[Added by Stats. 2021, Ch. 596, Sec. 2.   (SB 41)   Effective January 1, 2022.]
+
+§ 56.20 (CIV)
+(a)Each employer who receives medical information shall establish appropriate procedures to ensure the confidentiality and protection from unauthorized use and disclosure of that information. These procedures may include, but are not limited to, instruction regarding confidentiality of employees and agents handling files containing medical information, and security systems restricting access to files containing medical information.
+
+(b)No employee shall be discriminated against in terms or conditions of employment due to that employee’s refusal to sign an authorization
+under this part. However, nothing in this section shall prohibit an employer from taking such action as is necessary in the absence of medical information due to an employee’s refusal to sign an authorization under this part.
+
+(c)No employer shall use, disclose, or knowingly permit its employees or agents to use or disclose medical information which the employer possesses pertaining to its employees without the patient having first signed an authorization under Section 56.11 or Section 56.21 permitting such use or disclosure, except as follows:
+
+(1)The information may be disclosed if the disclosure is compelled by judicial or administrative process or by any other specific provision of law.
+
+(2)That part of the information which is relevant in a lawsuit, arbitration, grievance, or other claim or challenge to which
+the employer and employee are parties and in which the patient has placed in issue his or her medical history, mental or physical condition, or treatment may be used or disclosed in connection with that proceeding.
+
+(3)The information may be used only for the purpose of administering and maintaining employee benefit plans, including health care plans and plans providing short-term and long-term disability income, workers’ compensation and for determining eligibility for paid and unpaid leave from work for medical reasons.
+
+(4)The information may be disclosed to a provider of health care or other health care professional or facility to aid the diagnosis or treatment of the patient, where the patient or other person specified in subdivision (c) of Section 56. 21 is unable to authorize the disclosure.
+
+(d)If an employer
+agrees in writing with one or more of its employees or maintains a written policy which provides that particular types of medical information shall not be used or disclosed by the employer in particular ways, the employer shall obtain an authorization for such uses or disclosures even if an authorization would not otherwise be required by subdivision (c).
+
+[Repealed and added by Stats. 1981, Ch. 782, Sec. 2.]
+
+§ 56.21 (CIV)
+An authorization for an employer to disclose medical information shall be valid if the authorization complies with all of the following:
+
+(a)Is handwritten or is in a typeface no smaller than 14-point type.
+
+(b)Is clearly separate from any other language present on the same page and is executed by a signature that serves no purpose other than to execute the authorization.
+
+(c)Is signed, including with an electronic or handwritten signature, and dated by one of the following:
+
+(1)The patient, except that a patient who is a minor may only sign an
+authorization for the disclosure of medical information obtained by a provider of health care in the course of furnishing services to which the minor could lawfully have consented under Part 4 (commencing with Section 6900) of Division 11 of the Family Code.
+
+(2)The legal representative of the patient, if the patient is a minor or lacks the capacity to make the decision to authorize the release of medical information. However, authorization may not be given under this subdivision for the disclosure of medical information that pertains to a competent minor and that was created by a provider of health care in the course of furnishing services to which a minor patient could lawfully have consented under Part 4 (commencing with Section 6900) of Division 11 of the Family Code.
+
+(3)The beneficiary, as defined in Section 24 of the Probate Code, or personal representative, as defined in
+Section 58 of the Probate Code, of a deceased patient.
+
+(d)States the limitations, if any, on the types of medical information to be disclosed.
+
+(e)States the name or functions of the employer or person authorized to disclose the medical information.
+
+(f)States the names or functions of the persons or entities authorized to receive the medical information.
+
+(g)States the limitations, if any, on the use of the medical information by the persons or entities authorized to receive the medical information.
+
+(h)States an expiration date or event. The expiration date or event shall limit the duration of the authorization to one year or less, unless the person signing the authorization requests a
+specific date beyond a year or unless the authorization is related to an approved clinical trial, as defined in Section 1370.6 of the Health and Safety Code, or medical research study, in which case the authorization may extend beyond one year if the expiration date or event extends no longer than the completion of the relevant clinical trial or research study.
+
+(i)Advises the person who signed the authorization of the right to receive a copy of the authorization.
+
+(j)If an employer or any other entity seeks an authorization from an individual for a use or disclosure of protected health information, the employer or other entity shall provide the individual with a copy of the signed authorization and instructions on how to access additional copies or a digital version of the signed authorization.
+
+[Amended by Stats. 2023, Ch. 374, Sec. 4.   (AB 1697)   Effective January 1, 2024.]
+
+§ 56.22 (CIV)
+Upon demand by the patient or the person who signed an authorization, an employer possessing the authorization shall furnish a true copy thereof.
+
+[Repealed and added by Stats. 1981, Ch. 782, Sec. 2.]
+
+§ 56.23 (CIV)
+An employer that discloses medical information pursuant to an authorization required by this chapter shall communicate to the person or entity to which it discloses the medical information any limitations in the authorization regarding the use of the medical information. No employer that has attempted in good faith to comply with this provision shall be liable for any unauthorized use of the medical information by the person or entity to which the employer disclosed the medical information.
+
+[Added by Stats. 1981, Ch. 782, Sec. 2.]
+
+§ 56.24 (CIV)
+Nothing in this part shall be construed to prevent a person who could sign the authorization pursuant to subdivision (c) of Section 56.21 from cancelling or modifying an authorization. However, the cancellation or modification shall be effective only after the employer actually receives written notice of the cancellation or modification.
+
+[Repealed and added by Stats. 1981, Ch. 782, Sec. 2.]
+
+§ 56.25 (CIV)
+(a)An employer that is a provider of health care shall not be deemed to have violated Section 56.20 by disclosing, in accordance with Chapter 2 (commencing with Section 56.10), medical information possessed in connection with providing health care services to the provider’s patients.
+
+(b)An employer shall not be deemed to have violated Section 56.20 because a provider of health care that is an employee or agent of the employer uses or discloses, in accordance with Chapter 2 (commencing with Section 56.10), medical information possessed by the provider in connection
+with providing health care services to the provider’s patients.
+
+(c)A provider of health care that is an employer shall not be deemed to have violated Section 56.10 by disclosing, in accordance with Chapter 3 (commencing with Section 56.20), medical information possessed in connection with employing the provider’s employees. Information maintained by a provider of health care in connection with employing the provider’s employees shall not be deemed to be medical information for purposes of Chapter 3 (commencing with Section 56.20), unless it would be deemed medical information if received or maintained by an employer that is not a provider of health care.
+
+[Repealed and added by Stats. 1981, Ch. 782, Sec. 2.]
+
+§ 56.26 (CIV)
+(a)No person or entity engaged in the business of furnishing administrative services to programs that provide payment for health care services shall knowingly use, disclose, or permit its employees or agents to use or disclose medical information possessed in connection with performing administrative functions for a program, except as reasonably necessary in connection with the administration or maintenance of the program, or as required by law, or with an authorization.
+
+(b)An authorization required by this section shall be in the same form as described in Section 56.21, except that “third party administrator” shall be substituted for “employer” wherever it appears in Section 56.21.
+
+(c)This section shall not apply to any person or entity that is subject to the Insurance Information Privacy Act or to Chapter 2 (commencing with Section 56.10) or Chapter 3 (commencing with Section 56.20).
+
+[Amended by Stats. 2004, Ch. 183, Sec. 24.   Effective January 1, 2005.]
+
+§ 56.27 (CIV)
+An employer that is an insurance institution, insurance agent, or insurance support organization subject to the Insurance Information and Privacy Protection Act, Article 6.6 (commencing with Section 791) of Part 2 of Division 1 of the Insurance Code, shall not be deemed to have violated Section 56.20 by disclosing medical information gathered in connection with an insurance transaction in accordance with that act.
+
+[Added by Stats. 1981, Ch. 782, Sec. 2.]
+
+§ 56.28 (CIV)
+Nothing in this part shall be deemed to affect existing laws relating to a patient’s right of access to his or her own medical information, or relating to disclosures made pursuant to Section 1158 of the Evidence Code, or relating to privileges established under the Evidence Code.
+
+[Added by Stats. 1981, Ch. 782, Sec. 2.]
+
+§ 56.29 (CIV)
+(a)Nothing in Chapter 1 (commencing with Section 1798) of Title 1.8 of Part 4 of Division 3 shall be construed to permit the acquisition or disclosure of medical information regarding a patient without an authorization, where the authorization is required by this part.
+
+(b)The disclosure of medical information regarding a patient which is subject to subdivision (b) of Section 1798.24 shall be made only with an authorization which complies with the provisions of this part. Such disclosure may be made only within the time limits specified in subdivision (b) of Section
+1798.24.
+
+(c)Where the acquisition or disclosure of medical information regarding a patient is prohibited or limited by any provision of Chapter 1 (commencing with Section 1798) of Title 1.8 of Part 4 of Division 3, the prohibition or limit shall be applicable in addition to the requirements of this part.
+
+[Repealed and added by Stats. 1981, Ch. 782, Sec. 2.]
+
+§ 56.30 (CIV)
+The disclosure and use of the following medical information shall not be subject to the limitations of this part:
+
+(a)(Mental health and developmental disabilities) Information and records obtained in the course of providing services under Division 4 (commencing with Section 4000), Division 4.1 (commencing with Section 4400), Division 4.5 (commencing with
+Section 4500), Division 5 (commencing with Section 5000), Division 6 (commencing with Section 6000), or Division 7 (commencing with Section 7100) of the Welfare and Institutions Code.
+
+(b)(Public social services) Information and records that are subject to Sections 10850, 14124.1, and 14124.2 of the Welfare and Institutions Code.
+
+(c)(State health services, communicable diseases, developmental disabilities) Information and records maintained pursuant to former Chapter 2 (commencing with Section 200) of Part 1 of Division 1 of the Health and Safety Code and pursuant to the Communicable Disease Prevention and Control Act (subdivision (a) of Section 27 of the Health and Safety Code).
+
+(d)(Licensing and statistics) Information and records maintained pursuant to Division 2 (commencing with Section 1200) and Part 1
+(commencing with Section 102100) of Division 102 of the Health and Safety Code; pursuant to Chapter 3 (commencing with Section 1200) of Division 2 of the Business and Professions Code; and pursuant to Section 8608, 8817, or 8909 of the Family Code.
+
+(e)(Medical survey, workers’ safety) Information and records acquired and maintained or disclosed pursuant to Sections 1380 and 1382 of the Health and Safety Code and pursuant to Division 5 (commencing with Section 6300) of the Labor Code.
+
+(f)(Industrial accidents) Information and records acquired, maintained, or disclosed pursuant to Division 1 (commencing with Section 50), Division 4 (commencing with Section 3200), Division 4.5 (commencing with Section 6100), and Division 4.7 (commencing with Section 6200) of the Labor Code.
+
+(g)(Law enforcement) Information and
+records maintained by a health facility which are sought by a law enforcement agency under Chapter 3.5 (commencing with Section 1543) of Title 12 of Part 2 of the Penal Code.
+
+(h)(Investigations of employment accident or illness) Information and records sought as part of an investigation of an on-the-job accident or illness pursuant to Division 5 (commencing with Section 6300) of the Labor Code or pursuant to Section 105200 of the Health and Safety Code.
+
+(i)(Alcohol or drug abuse) Information and records subject to the federal alcohol and drug abuse regulations (Part 2 (commencing with Section 2.1) of Subchapter A of Chapter 1 of Title 42 of the Code of Federal Regulations) or to Section 11845.5 of the Health and Safety Code dealing with alcohol and drug abuse.
+
+(j)(Patient discharge data) Nothing in this part shall
+be construed to limit, expand, or otherwise affect the authority of the California Health Facilities Commission to collect patient discharge information from health facilities.
+
+(k)Medical information and records disclosed to, and their use by, the Insurance Commissioner, the Director of the Department of Managed Health Care, the Division of Industrial Accidents, the Workers’ Compensation Appeals Board, the Department of Insurance, or the Department of Managed Health Care.
+
+(l)Medical information and records related to services provided on and after January 1, 2006, disclosed to, and their use by, the Managed Risk Medical Insurance Board to the same extent that those records are required to be provided to the board related to services provided on and after July 1, 2009, to comply with Section 403 of the federal Children’s Health Insurance Program Reauthorization Act of 2009
+(Public Law 111-3), applying subdivision (c) of Section 1932 of the federal Social Security Act.
+
+[Amended by Stats. 2014, Ch. 71, Sec. 14.   (SB 1304)   Effective January 1, 2015.]
+
+§ 56.31 (CIV)
+Notwithstanding any other provision of law, nothing in subdivision (f) of Section 56.30 shall permit the disclosure or use of medical information regarding whether a patient is infected with or exposed to the human immunodeficiency virus without the prior authorization from the patient unless the patient is an injured worker claiming to be infected with or exposed to the human immunodeficiency virus through an exposure incident arising out of and in the course of employment.
+
+[Added by Stats. 1999, Ch. 766, Sec. 1.   Effective January 1, 2000.]
+
+§ 56.35 (CIV)
+In addition to any other remedies available at law, a patient whose medical information has been used or disclosed in violation of Section 56.10, 56.104, 56.107, or 56.20 or subdivision (a) of Section 56.26 and who has sustained economic loss or personal injury therefrom may recover compensatory damages, punitive damages not to exceed three thousand dollars ($3,000), attorney’s fees not to exceed one thousand dollars ($1,000), and the costs of litigation.
+
+[Amended by Stats. 2021, Ch. 190, Sec. 4.   (AB 1184)   Effective January 1, 2022.]
+
+§ 56.36 (CIV)
+(a)A violation of the provisions of this part that results in economic loss or personal injury to a patient is punishable as a misdemeanor.
+
+(b)In addition to any other remedies available at law, an individual may bring an action against a person or entity who has negligently released confidential information or records concerning him or
+her in violation of this part, for either or both of the following:
+
+(1)Except as provided in subdivision (e), nominal damages of one thousand dollars ($1,000). In order to recover under this paragraph, it is not necessary that the plaintiff suffered or was threatened with actual damages.
+
+(2)The amount of actual damages, if any, sustained by the patient.
+
+(c)(1)In addition, a person or entity that negligently discloses medical information in violation of the provisions of this part shall also be liable, irrespective of the amount of damages suffered by the patient as a result of that violation, for an administrative fine or civil penalty not to exceed two thousand five hundred dollars ($2,500) per violation.
+
+(2)(A)A person or entity, other than a licensed health care professional, who knowingly and willfully obtains, discloses, or uses medical information in violation of this part shall be liable for an administrative fine or civil penalty not to exceed twenty-five thousand dollars ($25,000) per violation.
+
+(B)A licensed health care professional who knowingly and willfully obtains, discloses, or uses medical information in violation of this part shall be liable on a first violation for an administrative fine or civil penalty not to exceed two thousand five hundred dollars ($2,500) per violation, on a second violation for an administrative fine or civil penalty not to exceed ten thousand dollars ($10,000) per violation, or on a third and subsequent violation for an administrative fine or civil penalty not to exceed twenty-five thousand dollars ($25,000) per violation. This subdivision shall not be construed to limit the liability of a
+health care service plan, a contractor, or a provider of health care that is not a licensed health care professional for a violation of this part.
+
+(3)(A)A person or entity, other than a licensed health care professional, who knowingly or willfully obtains or uses medical information in violation of this part for the purpose of financial gain shall be liable for an administrative fine or civil penalty not to exceed two hundred fifty thousand dollars ($250,000) per violation and shall also be subject to disgorgement of any proceeds or other consideration obtained as a result of the violation.
+
+(B)A licensed health care professional who knowingly and willfully obtains, discloses, or uses medical information in violation of this part for financial gain shall be liable on a first violation for an administrative fine or civil penalty not to exceed five thousand
+dollars ($5,000) per violation, on a second violation for an administrative fine or civil penalty not to exceed twenty-five thousand dollars ($25,000) per violation, or on a third and subsequent violation for an administrative fine or civil penalty not to exceed two hundred fifty thousand dollars ($250,000) per violation and shall also be subject to disgorgement of any proceeds or other consideration obtained as a result of the violation. This subdivision shall not be construed to limit the liability of a health care service plan, a contractor, or a provider of health care that is not a licensed health care professional for any violation of this part.
+
+(4)This subdivision shall not be construed as authorizing an administrative fine or civil penalty under both paragraphs (2) and (3) for the same violation.
+
+(5)A person or entity who is not permitted to receive medical information
+pursuant to this part and who knowingly and willfully obtains, discloses, or uses medical information without written authorization from the patient shall be liable for a civil penalty not to exceed two hundred fifty thousand dollars ($250,000) per violation.
+
+(d)In assessing the amount of an administrative fine or civil penalty pursuant to subdivision (c), the State Department of Public Health, licensing agency, or certifying board or court shall consider any of the relevant circumstances presented by any of the parties to the case including, but not limited to, the following:
+
+(1)Whether the defendant has made a reasonable, good faith attempt to comply with this part.
+
+(2)The nature and seriousness of the misconduct.
+
+(3)The harm to the patient,
+enrollee, or subscriber.
+
+(4)The number of violations.
+
+(5)The persistence of the misconduct.
+
+(6)The length of time over which the misconduct occurred.
+
+(7)The willfulness of the defendant’s misconduct.
+
+(8)The defendant’s assets, liabilities, and net worth.
+
+(e)(1)In an action brought by an individual pursuant to subdivision (b) on or after January 1, 2013, in which the defendant establishes the affirmative defense in paragraph (2), the court shall award any actual damages and reasonable attorney’s fees and costs, but shall not award nominal damages for a violation of this part.
+
+(2)The defendant is entitled to an affirmative defense if all of the following are established, subject to the equitable considerations in paragraph (3):
+
+(A)The defendant is a covered entity or business associate, as defined in Section 160.103 of Title 45 of the Code of Federal Regulations, in effect as of January 1, 2012.
+
+(B)The defendant has complied with any obligations to notify all persons entitled to receive notice regarding the release of the information or records.
+
+(C)The release of confidential information or records was solely to another covered entity or business associate.
+
+(D)The release of confidential information or records was not an incident of medical identity theft. For
+purposes of this subparagraph, “medical identity theft” means the use of an individual’s personal information, as defined in Section 1798.80, without the individual’s knowledge or consent, to obtain medical goods or services, or to submit false claims for medical services.
+
+(E)The defendant took appropriate preventive actions to protect the confidential information or records against release consistent with the defendant’s obligations under this part or other applicable state law and the Health Insurance Portability and Accountability Act of 1996 (Public Law 104-191) (HIPAA) and all HIPAA Administrative Simplification Regulations in effect on January 1, 2012, contained in Parts 160, 162, and 164 of Title 45 of the Code of Federal Regulations, and Part 2 of Title 42 of the Code of Federal Regulations, including, but not limited to, all of the following:
+
+(i)Developing and
+implementing security policies and procedures.
+
+(ii)Designating a security official who is responsible for developing and implementing its security policies and procedures, including educating and training the workforce.
+
+(iii)Encrypting the information or records, and protecting against the release or use of the encryption key and passwords, or transmitting the information or records in a manner designed to provide equal or greater protections against improper disclosures.
+
+(F)The defendant took reasonable and appropriate corrective action after the release of the confidential information or records, and the covered entity or business associate that received the confidential information or records destroyed or returned the confidential information or records in the most expedient time possible and without
+unreasonable delay, consistent with any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. A court may consider this subparagraph to be established if the defendant shows in detail that the covered entity or business associate could not destroy or return the confidential information or records because of the technology utilized.
+
+(G)The covered entity or business associate that received the confidential information or records, or any of its agents, independent contractors, or employees, regardless of the scope of the employee’s employment, did not retain, use, or release the information or records.
+
+(H)After the release of the confidential information or records, the defendant took reasonable and appropriate action to prevent a future similar release of confidential information or records.
+
+(I)The defendant has not previously established an affirmative defense pursuant to this subdivision, or the court determines, in its discretion, that application of the affirmative defense is compelling and consistent with the purposes of this section to promote reasonable conduct in light of all the facts.
+
+(3)(A)In determining whether the affirmative defense may be established pursuant to paragraph (2), the court shall consider the equity of the situation, including, but not limited to, (i) whether the defendant has previously violated this part, regardless of whether an action has previously been brought, and (ii) the nature of the prior violation.
+
+(B)To the extent the court allows discovery to determine whether there has been any other violation of this part that the court will consider in
+balancing the equities, the defendant shall not provide any medical information, as defined in Section 56.05. The court, in its discretion, may enter a protective order prohibiting the further use of any personal information, as defined in Section 1798.80, about the individual whose medical information may have been disclosed in a prior violation.
+
+(4)In an action under this subdivision in which the defendant establishes the affirmative defense pursuant to paragraph (2), a plaintiff shall be entitled to recover reasonable attorney’s fees and costs without regard to an award of actual or nominal damages or the imposition of administrative fines or civil penalties.
+
+(5)In an action brought by an individual pursuant to subdivision (b) on or after January 1, 2013, in which the defendant establishes the affirmative defense pursuant to paragraph (2), a defendant shall not be liable for
+more than one judgment on the merits under this subdivision for releases of confidential information or records arising out of the same event, transaction, or occurrence.
+
+(f)(1)The civil penalty pursuant to subdivision (c) shall be assessed and recovered in a civil action brought in the name of the people of the State of California in any court of competent jurisdiction by any of the following:
+
+(A)The Attorney General.
+
+(B)A district attorney.
+
+(C)A county counsel authorized by agreement with the district attorney in actions involving violation of a county ordinance.
+
+(D)A city attorney of a city.
+
+(E)A city attorney of a city and county having a population in excess of 750,000, with the consent of the district attorney.
+
+(F)A city prosecutor in a city having a full-time city prosecutor or, with the consent of the district attorney, by a city attorney in a city and county.
+
+(G)The State Public Health Officer, or his or her designee, may recommend that a person described in subparagraphs (A) to (F), inclusive, bring a civil action under this section.
+
+(2)If the action is brought by the Attorney General, one-half of the penalty collected shall be paid to the treasurer of the county in which the judgment was entered, and one-half to the General Fund. If the action is brought by a district attorney or county counsel, the penalty collected shall be paid to the treasurer of the county in which the
+judgment was entered. Except as provided in paragraph (3), if the action is brought by a city attorney or city prosecutor, one-half of the penalty collected shall be paid to the treasurer of the city in which the judgment was entered and one-half to the treasurer of the county in which the judgment was entered.
+
+(3)If the action is brought by a city attorney of a city and county, the entire amount of the penalty collected shall be paid to the treasurer of the city and county in which the judgment was entered.
+
+(4)This section shall not be construed as authorizing both an administrative fine and civil penalty for the same violation.
+
+(5)Imposition of a fine or penalty provided for in this section shall not preclude imposition of other sanctions or remedies authorized by law.
+
+(6)Administrative fines or penalties issued pursuant to Section 1280.15 of the Health and Safety Code shall offset any other administrative fine or civil penalty imposed under this section for the same violation.
+
+(g)For purposes of this section, “knowing” and “willful” shall have the same meanings as in Section 7 of the Penal Code.
+
+(h)A person who discloses protected medical information in accordance with the provisions of this part is not subject to the penalty provisions of this part.
+
+[Amended by Stats. 2015, Ch. 303, Sec. 26.   (AB 731)   Effective January 1, 2016.]
+
+§ 56.37 (CIV)
+(a)No provider of health care, health care service plan, or contractor may require a patient, as a condition of receiving health care services, to sign an authorization, release, consent, or waiver that would permit the disclosure of medical information that otherwise may not be disclosed under Section 56.10 or any other provision of law. However, a health care service plan or disability insurer may require relevant enrollee or subscriber medical information as a condition of the medical underwriting process, provided that Sections 1374.7
+and 1389.1 of the Health and Safety Code are strictly observed.
+
+(b)Any waiver by a patient of the provisions of this part, except as authorized by Section 56.11 or 56.21 or subdivision (b) of Section 56.26, shall be deemed contrary to public policy and shall be unenforceable.
+
+[Amended by Stats. 1999, Ch. 526, Sec. 9.   Effective January 1, 2000.]
+
+§ 56.101 (CIV)
+(a)Every provider of health care, health care service plan, pharmaceutical company, or contractor who creates, maintains, preserves, stores, abandons, destroys, or disposes of medical information shall do so in a manner that preserves the confidentiality of the information contained therein. Any provider of health care, health care service plan, pharmaceutical company, or contractor who negligently creates, maintains, preserves, stores, abandons, destroys, or disposes of medical information shall be subject to the remedies and penalties provided under subdivisions (b) and (c) of Section 56.36.
+
+(b)(1)An electronic health record system or electronic medical record system shall do all of the following:
+
+(A)Protect and preserve the integrity of electronic medical information.
+
+(B)Automatically record and preserve any change or deletion of any electronically stored medical information. The record of any change or deletion shall include the identity of the person who accessed and changed the medical information, the date and time the medical information was accessed, and the change that was made to the medical information.
+
+(2)A patient’s right to access or receive a copy of the patient’s electronic medical records upon request shall be consistent with applicable state and federal laws governing patient access to, and the use and disclosures of, medical information.
+
+(c)(1)A business, as described in Section 56.06, that electronically
+stores or maintains medical information on the provision of sensitive services, including, but not limited to, on an electronic health record system or electronic medical record system, on behalf of a provider of health care, health care service plan, pharmaceutical company, contractor, or employer, shall develop capabilities, policies, and procedures, on or before July 1, 2024, to enable all of the following:
+
+(A)Limit user access privileges to information systems that contain medical information related to gender affirming care, abortion and abortion-related services, and contraception only to those persons who are authorized to access specified medical information.
+
+(B)Prevent the disclosure, access, transfer, transmission, or processing of medical information related to gender affirming care, abortion and abortion-related services, and contraception to persons and entities
+outside of this state in accordance to this part.
+
+(C)Segregate medical information related to gender affirming care, abortion and abortion-related services, and contraception from the rest of the patient’s record.
+
+(D)Provide the ability to automatically disable access to segregated medical information related to gender affirming care, abortion and abortion-related services, and contraception by individuals and entities in another state.
+
+(2)Any fees charged to providers of health care, health care service plans, pharmaceutical company, contractors, employers, or patients to comply with this subdivision shall be consistent with Section 171.302 of Title 45 of the Code of Federal Regulations.
+
+(3)For the purposes of this subdivision, “gender affirming
+care” means gender affirming health care and gender affirming mental health care as defined in subdivision (b) of Section 16010.2 of the Welfare and Institutions Code.
+
+(4)This subdivision does not apply to a contractor, health care service plan, or provider of health care as those terms are defined in Section 56.05.
+
+(d)This section shall apply to an “electronic medical record” or “electronic health record” that meets the definition of “electronic health record,” as that term is defined in Section 17921(5) of Title 42 of the United States Code.
+
+[Amended by Stats. 2024, Ch. 853, Sec. 9.   (AB 3281)   Effective January 1, 2025.]
+
+§ 56.102 (CIV)
+(a)A pharmaceutical company may not require a patient, as a condition of receiving pharmaceuticals, medications, or prescription drugs, to sign an authorization, release, consent, or waiver that would permit the disclosure of medical information that otherwise may not be disclosed under Section 56.10 or any other provision of law, unless the disclosure is for one of the following purposes:
+
+(1)Enrollment of the patient in a patient assistance program or prescription drug
+discount program.
+
+(2)Enrollment of the patient in a clinical research project.
+
+(3)Prioritization of distribution to the patient of a prescription medicine in limited supply in the United States.
+
+(4)Response to an inquiry from the patient communicated in writing, by telephone, or by electronic mail.
+
+(b)Except as provided in subdivision (a) or Section 56.10, a pharmaceutical company may not disclose medical information provided to it without first obtaining a valid authorization from the patient.
+
+[Added by Stats. 2002, Ch. 853, Sec. 3.   Effective January 1, 2003.]
+
+§ 56.103 (CIV)
+(a)A provider of health care may disclose medical information to a county social worker, a probation officer, a foster care public health nurse acting pursuant to Section 16501.3 of the Welfare and Institutions Code, or any other person who is legally authorized to have custody or care of a minor for the purpose of coordinating health care services and medical treatment provided to the minor,
+including, but not limited to, the sharing of information related to screenings, assessments, and laboratory tests necessary to monitor the administration of psychotropic medications.
+
+(b)For purposes of this section, health care services and medical treatment includes one or more providers of health care providing, coordinating, or managing health care and related services, including, but not limited to, a provider of health care coordinating health care with a third party, consultation between providers of health care and medical treatment relating to a minor, or a provider of health care referring a minor for health care services to another provider of health care.
+
+(c)For purposes of this section, a county social worker, a probation officer, foster care public health nurse, or any other person who is legally authorized to have custody or care of a minor shall be considered a
+third party who may receive any of the following:
+
+(1)Medical information described in Sections 56.05 and 56.10.
+
+(2)Protected health information described in Section 160.103 of Title 45 of the Code of Federal Regulations.
+
+(d)Medical information disclosed to a county social worker, probation officer, foster care public health nurse, or any other person who is legally authorized to have custody or care of a minor shall not be further disclosed by the recipient unless the disclosure is for the purpose of coordinating health care services and medical treatment of the minor and the disclosure is authorized by law. Medical information disclosed pursuant to this section may not be admitted into evidence in any criminal or delinquency proceeding against the minor. Nothing in this subdivision shall prohibit identical
+evidence from being admissible in a criminal proceeding if that evidence is derived solely from lawful means other than this section and is permitted by law.
+
+(e)(1)Notwithstanding Section 56.104, if a provider of health care determines that the disclosure of medical information concerning the diagnosis and treatment of a mental health condition of a minor is reasonably necessary for the purpose of assisting in coordinating the treatment and care of the minor, that information may be disclosed to a county social worker, probation officer, foster care public health nurse, or any other person who is legally authorized to have custody or care of the minor. The information shall not be further disclosed by the recipient unless the disclosure is for the purpose of coordinating mental health services and treatment of the minor and the disclosure is authorized by law.
+
+(2)As used in this subdivision, “medical information” does not include psychotherapy notes as defined in Section 164.501 of Title 45 of the Code of Federal Regulations.
+
+(f)The disclosure of information pursuant to this section is not intended to limit the disclosure of information when that disclosure is otherwise required by law.
+
+(g)For purposes of this section, “minor” means a minor taken into temporary custody or as to whom a petition has been filed with the court, or who has been adjudged to be a dependent child or ward of the juvenile court pursuant to Section 300 or 601 of the Welfare and Institutions Code.
+
+(h)(1)Except as described in paragraph (1) of subdivision (e), nothing in this section shall be construed to limit or otherwise affect existing privacy protections
+provided for in state or federal law.
+
+(2)Nothing in this section shall be construed to expand the authority of a social worker, probation officer, foster care public health nurse, or custodial caregiver beyond the authority provided under existing law to a parent or a patient representative regarding access to medical information.
+
+[Amended by Stats. 2015, Ch. 535, Sec. 1.   (SB 319)   Effective January 1, 2016.]
+
+§ 56.104 (CIV)
+(a)Notwithstanding subdivision (c) of Section 56.10, except as provided in subdivision (e), no provider of health care, health care service plan, or contractor may release medical information to persons or entities who have requested that information and who are authorized by law to receive that information pursuant to subdivision (c) of Section 56.10, if the requested information specifically relates
+to the patient’s participation in outpatient treatment with a psychotherapist, unless the person or entity requesting that information submits to the patient pursuant to subdivision (b) and to the provider of health care, health care service plan, or contractor a written request, signed by the person requesting the information or an authorized agent of the entity requesting the information, that includes all of the following:
+
+(1)The specific information relating to a patient’s participation in outpatient treatment with a psychotherapist being requested and its specific intended use or uses.
+
+(2)The length of time during which the information will be kept before being destroyed or disposed of. A person or entity may extend that timeframe, provided that the person or entity notifies the provider, plan, or contractor of the extension. Any notification of an extension shall include
+the specific reason for the extension, the intended use or uses of the information during the extended time, and the expected date of the destruction of the information.
+
+(3)A statement that the information will not be used for any purpose other than its intended use.
+
+(4)A statement that the person or entity requesting the information will destroy the information and all copies in the person’s or entity’s possession or control, will cause it to be destroyed, or will return the information and all copies of it before or immediately after the length of time specified in paragraph (2) has expired.
+
+(b)The person or entity requesting the information shall submit a copy of the written request required by this section to the patient within 30 days of receipt of the information requested, unless the patient has signed a
+written waiver in the form of a letter signed and submitted by the patient to the provider of health care or health care service plan waiving notification.
+
+(c)For purposes of this section, “psychotherapist” means a person who is both a “psychotherapist” as defined in Section 1010 of the Evidence Code and a “provider of health care” as defined in Section 56.05.
+
+(d)This section does not apply to the disclosure or use of medical information by a law enforcement agency or a regulatory agency when required for an investigation of unlawful activity or for licensing, certification, or regulatory purposes, unless the disclosure is otherwise prohibited by law.
+
+(e)This section shall not apply to any of the following:
+
+(1)Information authorized to be disclosed
+pursuant to paragraph (1) of subdivision (c) of Section 56.10.
+
+(2)Information requested from a psychotherapist by law enforcement or by the target of the threat subsequent to a disclosure by that psychotherapist authorized by paragraph (19) of subdivision (c) of Section 56.10, in which the additional information is clearly necessary to prevent the serious and imminent threat disclosed under that paragraph.
+
+(3)Information disclosed by a psychotherapist pursuant to paragraphs (14) and (22) of subdivision (c) of Section 56.10 and requested by an agency investigating the abuse reported pursuant to those paragraphs.
+
+(f)Nothing in this section shall be construed to grant any additional authority to a provider of health care, health care service plan, or contractor to disclose information to a person or entity without
+the patient’s consent.
+
+[Amended by Stats. 2013, Ch. 444, Sec. 3.   (SB 138)   Effective January 1, 2014.]
+
+§ 56.105 (CIV)
+Whenever, prior to the service of a complaint upon a defendant in any action arising out of the professional negligence of a person holding a valid physician’s and surgeon’s certificate issued pursuant to Chapter 5 (commencing with Section 2000) of Division 2 of the Business and Professions Code, a person holding a valid license as a marriage and family therapist issued pursuant to Chapter 13 (commencing with Section 4980) of Division 2 of
+the Business and Professions Code, a person holding a valid license as a clinical social worker issued pursuant to Chapter 14 (commencing with Section 4991) of Division 2 of the Business and Professions Code, or a person holding a valid license as a professional clinical counselor issued pursuant to Chapter 16 (commencing with Section 4999.10) of Division 2 of the Business and Professions Code, a demand for settlement or offer to compromise is made on a patient’s behalf, the demand or offer shall be accompanied by an authorization to disclose medical information to persons or organizations insuring, responsible for, or defending professional liability that the certificate holder may incur. The authorization shall be in accordance with Section 56.11 and shall authorize disclosure of that information that is necessary to investigate issues of liability and extent of potential damages in evaluating the merits of the demand for settlement or offer to compromise.
+
+Notice
+of any request for medical information made pursuant to an authorization as provided by this section shall be given to the patient or the patient’s legal representative. The notice shall describe the inclusive subject matter and dates of the materials requested and shall also authorize the patient or the patient’s legal representative to receive, upon request, copies of the information at his or her expense.
+
+Nothing in this section shall be construed to waive or limit any applicable privileges set forth in the Evidence Code except for the disclosure of medical information subject to the patient’s authorization. Nothing in this section shall be construed as authorizing a representative of any person from whom settlement has been demanded to communicate in violation of the physician-patient privilege with a treating physician, or to communicate in violation of the psychotherapist-patient privilege with a treating licensed marriage and family therapist, licensed
+clinical social worker, or licensed professional clinical counselor, except for the medical information request.
+
+The requirements of this section are independent of the requirements of Section 364 of the Code of Civil Procedure.
+
+[Amended by Stats. 2018, Ch. 389, Sec. 8.   (AB 2296)   Effective January 1, 2019.]
+
+§ 56.106 (CIV)
+(a)Notwithstanding Section 3025 of the Family Code, paragraph (2) of subdivision (c) of Section 56.11, or any other provision of law, a psychotherapist who knows that a minor has been removed from the custody of his or her parent or guardian pursuant to Article 6 (commencing with Section 300) to Article 10 (commencing with Section 360), inclusive, of Chapter 2 of Part 1 of Division 2 of the Welfare and Institutions Code shall not release the mental health records
+of the minor patient and shall not disclose mental health information about that minor patient based upon an authorization to release those records signed by the minor’s parent or guardian. This restriction shall not apply if the juvenile court has issued an order authorizing the parent or guardian to sign an authorization for the release of the mental health records or the information about the minor patient after finding that such an order would not be detrimental to the minor patient.
+
+(b)For purposes of this section, the following definitions apply:
+
+(1)“Mental health records” means mental health records as defined by subdivision (b) of Section 123105 of the Health and Safety Code.
+
+(2)“Psychotherapist” means a provider of health care as defined in Section 1010 of the Evidence Code.
+
+(c)When the juvenile court has issued an order authorizing the parent or guardian to sign an authorization for the release of the mental health records or information about that minor patient under the circumstances described in subdivision (a), the parent or guardian seeking the release of the minor’s records or information about the minor shall present a copy of the court order to the psychotherapist before any records or information may be released pursuant to the signed authorization.
+
+(d)Nothing in this section shall be construed to prevent or limit a psychotherapist’s authority under subdivision (a) of Section 123115 of the Health and Safety Code to deny a parent’s or guardian’s written request to inspect or obtain copies of the minor patient’s mental health records, notwithstanding the fact that the juvenile court has issued an order authorizing the parent or guardian to sign
+an authorization for the release of the mental health records or information about that minor patient. Liability for a psychotherapist’s decision not to release the mental health records of the minor patient or not to disclose information about the minor patient pursuant to the authority of subdivision (a) of Section 123115 of the Health and Safety Code shall be governed by that section.
+
+(e)Nothing in this section shall be construed to impose upon a psychotherapist a duty to inquire or investigate whether a child has been removed from the physical custody of his or her parent or guardian pursuant to Article 6 (commencing with Section 300) to Article 10 (commencing with Section 360), inclusive, of Chapter 2 of Part 1 of Division 2 of the Welfare and Institutions Code when a parent or guardian presents the minor’s psychotherapist with an authorization to release information or the mental health records regarding the minor
+patient.
+
+[Added by Stats. 2012, Ch. 657, Sec. 1.   (SB 1407)   Effective January 1, 2013.]
+
+§ 56.107 (CIV)
+Notwithstanding any other law, and to the extent permitted by federal law, a health care service plan shall take the following steps to protect the confidentiality of a subscriber’s or enrollee’s medical information:
+
+(a)(1)A health care service plan shall not require a protected individual to obtain the policyholder, primary subscriber, or other enrollee’s authorization to receive sensitive services or to submit a claim for sensitive services if the protected individual has the right to consent to care.
+
+(2)A health care service plan shall recognize the right of a protected
+individual to exclusively exercise rights granted under this section regarding medical information related to sensitive services that the protected individual has received.
+
+(3)A health care service plan shall direct all communications regarding a protected individual’s receipt of sensitive services directly to the protected individual receiving care as follows:
+
+(A)If the protected individual has designated an alternative mailing address, email address, or telephone number pursuant to subdivision (b), the health care service plan shall send or make all communications related to the protected individual’s receipt of sensitive services to the alternative mailing address, email address, or telephone number designated.
+
+(B)If the protected individual has not designated an alternative mailing address, email address, or telephone number pursuant to subdivision (b), the health care service plan shall send or make all communications related to the protected individual’s receipt of sensitive services in the name of the protected individual at the address or telephone number on file.
+
+(C)Communications subject to this paragraph shall include the following written, verbal, or electronic communications related to the receipt of sensitive services:
+
+(i)Bills and attempts to collect payment.
+
+(ii)A notice of
+adverse benefits determinations.
+
+(iii)An explanation of benefits notice.
+
+(iv)A health care service plan’s request for additional information regarding a claim.
+
+(v)A notice of a contested claim.
+
+(vi)The name and address of a provider, description of services provided, and other information related to a visit.
+
+(vii)Any written, oral, or electronic communication from a health care service plan that contains protected health information.
+
+(4)A health care service plan shall not disclose medical information related to sensitive health care services provided to a protected individual to the policyholder, primary subscriber, or any plan enrollees other than the protected individual receiving care, absent an express written authorization of the protected individual receiving care.
+
+(b)(1)A health care service plan shall permit subscribers and enrollees to request, and shall accommodate requests for, confidential communication in the form and format requested by the individual, if it is readily producible in the requested form and format, or at alternative locations.
+
+(2)A health care
+service plan may require the subscriber or enrollee to make a request for a confidential communication described in paragraph (1), in writing or by electronic transmission.
+
+(3)The confidential communication request shall be valid until the subscriber or enrollee submits a revocation of the request or a new confidential communication request is submitted.
+
+(4)The confidential communication request shall apply to all communications that disclose medical information or provider name and address related to receipt of medical services by the individual requesting the confidential communication.
+
+(5)For the purposes of this section, a confidential communications request
+shall be implemented by the health care service plan within 7 calendar days of receipt of an electronic transmission or telephonic request or within 14 calendar days of receipt by first-class mail. The health care service plan shall acknowledge receipt of the confidential communications request and advise the subscriber or enrollee of the status of implementation of the request if a subscriber or enrollee contacts the health care service plan.
+
+(c)(1)A health care service plan shall notify subscribers and enrollees that they may request a confidential communication pursuant to subdivision (b) and how to make the request.
+
+(2)The information required to be provided pursuant to this subdivision shall be
+provided to subscribers and enrollees with individual or group coverage upon initial enrollment and annually thereafter upon renewal. The information shall also be provided in the following manner:
+
+(A)In a conspicuously visible location in the evidence of coverage.
+
+(B)On the health care service plan’s internet website, accessible through a hyperlink on the internet website’s home page and in a manner that allows
+subscribers, enrollees, prospective subscribers, prospective enrollees, and members of the public to easily locate the information.
+
+(d)Notwithstanding subdivision (b), the provider of health care may make arrangements with the subscriber or enrollee for the payment of benefit cost sharing and communicate that arrangement with the health care service plan.
+
+(e)A health care service plan shall not condition enrollment or coverage on the waiver of rights provided in this section.
+
+(f)This section shall become operative on July 1, 2022.
+
+[Repealed (in Sec. 2) and added by Stats. 2021, Ch. 190, Sec. 3.   (AB 1184)   Effective January 1, 2022.   Operative July 1, 2022, by its own provisions.]
+
+§ 56.108 (CIV)
+(a)Notwithstanding subdivisions (b) and (c) of Section 56.10 or subdivision (c) of Section 56.20, a provider of health care, health care service plan, contractor, or employer shall not release medical information related to an individual seeking or obtaining an abortion in response to a subpoena or request if that subpoena or request is based on either another state’s laws that interfere with a person’s rights under the Reproductive Privacy Act (Article 2.5 (commencing with Section 123460) of Chapter 2 of Part 2 of Division 106 of the Health and Safety Code) or a foreign penal civil action, as defined in Section 2029.200 of the Code of Civil Procedure.
+
+(b)A provider of health
+care, health care service plan, contractor, or employer shall not release medical information that would identify an individual or that is related to an individual seeking or obtaining an abortion to law enforcement for either of the following purposes, unless that release is pursuant to a subpoena not otherwise prohibited by subdivision (a):
+
+(1)Enforcement of another state’s law that would interfere with a person’s rights under the Reproductive Privacy Act (Article 2.5 (commencing with Section 123460) of Chapter 2 of Part 2 of Division 106 of the Health and Safety Code).
+
+(2)Enforcement of a foreign penal civil action, as defined in Section 2029.200 of the Code of Civil Procedure.
+
+(c)Notwithstanding subdivisions (b) and
+(c) of Section 56.10 or subdivision (c) of Section 56.20, a provider of health care, health care service plan, contractor, or employer shall not cooperate with any inquiry or investigation by, or provide medical information to, any individual, agency, or department from another state or, to the extent permitted by federal law, to a federal law enforcement agency that would identify an individual and that is related to an individual seeking or obtaining an abortion or abortion-related services that are lawful under the laws of this state, unless the request for medical information is authorized under Section 56.110.
+
+(d)This section does not prohibit compliance with the investigation of activity that is punishable as a crime under the laws of this state.
+
+[Amended by Stats. 2023, Ch. 255, Sec. 2.   (AB 352)   Effective January 1, 2024.]
+
+§ 56.109 (CIV)
+(a)Notwithstanding subdivision (b) of Section 56.10, a provider of health care, health care service plan, or contractor shall not release medical information related to a person seeking or obtaining gender-affirming health care or gender-affirming mental health care or a person or entity allowing a child to receive gender-affirming health care or gender-affirming mental health care in response to any subpoena or request, including a foreign subpoena, based on another state’s law that interferes with an individual’s right to seek or obtain gender-affirming health care or gender-affirming mental health care or authorizes a person to bring a civil or criminal action against a person or entity that allows a child to receive gender-affirming health care or gender-affirming mental health care.
+
+(b)Notwithstanding subdivision (c) of Section 56.10, a provider of health care, health care service plan, or contractor shall not release medical information to persons or entities who have requested that information and who are authorized by law to receive that information pursuant to subdivision (c) of Section 56.10, if the information is related to an individual seeking or obtaining gender-affirming health care or gender-affirming mental health care or to a person or entity allowing a child to receive gender-affirming health care or gender-affirming mental health care, and the information is being requested pursuant to another state’s law that authorizes a person to bring a civil or criminal action against a person or entity that provides, seeks, obtains, or receives gender-affirming health care or gender-affirming mental health care or who allows a child to receive gender-affirming health care or gender-affirming mental health care.
+
+(c)Notwithstanding subdivisions (b) and (c) of Section 56.10 or subdivision (c) of Section 56.20, a provider of health care, health care service plan, contractor, or employer shall not cooperate with any inquiry or investigation by, or provide medical information to, any individual, agency, or department from another state or, to the extent permitted by federal law, to a federal law enforcement agency that would identify an individual and that is related to an individual seeking or obtaining gender-affirming health care or gender-affirming mental health care that is lawful under the laws of this state.
+
+(d)This section does not prohibit compliance with the investigation of activity that is punishable as a crime under the laws of this state.
+
+(e)This section does not prohibit compliance with an audit or investigation of
+activity that is unlawful under the laws of this state or federal law, or with an audit, review, or investigation conducted for purposes of licensure, registration, accreditation, or certification under the laws of this state or federal law or pursuant to an accrediting organization recognized by the State Department of Public Health or the federal Centers for Medicare and Medicaid Services.
+
+(f)This section does not prohibit the Department of Corrections and Rehabilitation from disclosing medical information of an individual to a health care facility that is run by an agency or department from another state, or to a federal law enforcement agency, for treatment purposes and direct medical care for the specified individual and is narrowly limited to the request.
+
+(g)For the purposes of this section, the following terms have the following meanings:
+
+(1)“Gender-affirming health care” and “gender-affirming mental health care” shall have the same meanings as provided in Section 16010.2 of the Welfare and Institutions Code.
+
+(2)“Person” means an individual or governmental subdivision, agency, or instrumentality.
+
+[Amended by Stats. 2025, Ch. 764, Sec. 2.   (SB 497)   Effective October 13, 2025.]
+
+§ 56.110 (CIV)
+(a)Notwithstanding subdivision (c) of Section 56.10, a provider of health care, health care service plan, pharmaceutical company, contractor, or employer shall not knowingly disclose, transmit, transfer, share, or grant access to medical information in an electronic health records system or through a health information exchange that would identify an individual and that is related to an individual seeking, obtaining, providing, supporting, or aiding in the performance of an abortion that is lawful under the laws of this state to any individual or entity from another state, unless the disclosure, transmittal, transfer, sharing, or granting of access is authorized under any of the following conditions:
+
+(1)In accordance with a valid, written authorization
+pursuant to Section 56.11 that clearly states that medical information on abortion or abortion-related services may be disclosed, and only to the extent and for the purposes expressly stated in the authorization.
+
+(2)In accordance with paragraphs (2) and (3) of subdivision (c) of Section 56.10, to the extent necessary to allow responsibility for payment to be determined and payment to be made or to the extent that it is not further disclosed by the recipient in a way that would violate this part.
+
+(3)In accordance with paragraphs (4) and (5) of subdivision (c) of Section 56.10 for the purpose of accreditation, in reviewing the competence or qualifications of health care professionals, or in reviewing health care services with respect to medical necessity, level of care, quality of care, or justification of charges.
+
+(4)In accordance with paragraph (7) of subdivision (c) of Section 56.10, for the purpose of bona fide research. Institutional Review Boards shall consider the potential harm to the patient and the patient’s privacy when the research uses data that contains information related to abortion or abortion-related services and the research is performed out of state.
+
+(b)Notwithstanding subdivision (a), the content of the health records containing medical information described in subdivision (a) shall be disclosed to any of the following:
+
+(1)A patient, or their personal representative, consistent with the Patient Access to Health Records Act (Chapter 1 (commencing with Section 123100) of Part 1 of Division 106 of the Health and Safety Code).
+
+(2)In response to an order of a California or federal court, but
+only to the extent clearly stated in the order and consistent with Section 1543 of the Penal Code, if applicable, and only if all information about the patient’s identity and records are protected from public scrutiny through mechanisms, including, but not limited to, a sealed proceeding or court record.
+
+(3)When expressly required by federal law that preempts California law, but only to the extent expressly required.
+
+(c)Nothing in this section shall prohibit a provider of health care, health care service plan, pharmaceutical company, contractor, or employer from cooperating or complying with the investigation of activity that is punishable as a crime under the laws of California, and that took place in California.
+
+(d)A provider of health care, as defined in Section 56.05, shall not be subject to liability for
+damages or to civil or enforcement actions, including disciplinary actions, fines, or penalties, for failure to meet the requirements of this section before January 31, 2027, if the provider of health care is working diligently and in good faith to come into compliance with this section.
+
+[Amended by Stats. 2025, Ch. 136, Sec. 11.   (AB 260)   Effective September 26, 2025.]
+
+§ 56.181 (CIV)
+(a)To safeguard the privacy, confidentiality, security, and integrity of a consumer’s genetic data, a direct-to-consumer genetic testing company shall do both of the following:
+
+(1)Provide clear and complete information regarding the company’s policies and procedures for the collection, use, maintenance, and disclosure, as applicable, of genetic data by making available to a consumer all of the following:
+
+(A)A summary of its privacy practices, written in plain language, that includes information about the company’s collection, use, maintenance, and disclosure, as applicable, of genetic data.
+
+(B)A prominent and
+easily accessible privacy notice that includes, at a minimum, complete information about the company’s data collection, consent, use, access, disclosure, maintenance, transfer, security, and retention and deletion practices, and information that clearly describes how to file a complaint alleging a violation of this chapter, pursuant to subdivision (c) of Section 56.182.
+
+(C)A notice that the consumer’s deidentified genetic or phenotypic information may be shared with or disclosed to third parties for research purposes in accordance with Part 46 (commencing with Section 46.101) of Title 45 of the Code of Federal Regulations.
+
+(2)Obtain a consumer’s express consent for collection, use, and disclosure of the consumer’s genetic data, including, at a minimum, separate and express consent for each of the following:
+
+(A)The
+use of the genetic data collected through the genetic testing product or service offered to the consumer, including who has access to genetic data, and how genetic data may be shared, and the specific purposes for which it will be collected, used, and disclosed.
+
+(B)The storage of a consumer’s biological sample after the initial testing requested by the consumer has been fulfilled.
+
+(C)Each use of genetic data or the biological sample beyond the primary purpose of the genetic testing or service and inherent contextual uses.
+
+(D)Each transfer or disclosure of the consumer’s genetic data or biological sample to a third party other than to a service provider, including the name of the third party to which the consumer’s genetic data or biological sample will be transferred or disclosed.
+
+(E)(i)The marketing or facilitation of marketing to a consumer based on the consumer’s genetic data or the marketing or facilitation of marketing by a third party based upon the consumer having ordered, purchased, received, or used a genetic testing product or service.
+
+(ii)This subparagraph does not require a direct-to-consumer genetic testing company to obtain a consumer’s express consent to market to the consumer on the company’s own website or mobile application based upon the consumer having ordered, purchased, received, or used a genetic testing product or service from that company if the content of the advertisement does not depend upon any information specific to that consumer, except for the product or service that the consumer ordered, purchased, received, or used, and the placement of the advertisement is not intended to result in disparate exposure
+to advertising content on the basis of any characteristic specified in Section 51. Nothing in this subparagraph alters, limits, or negates the requirements of any other antidiscrimination law or targeted advertising law.
+
+(iii)Any advertisement of a third-party product or service presented to a consumer pursuant to either clause (i) or (ii) shall be prominently labeled as advertising content and be accompanied by the name of any third party that has contributed to the placement of the advertising. If applicable, the advertisement also shall clearly indicate that the advertised product or service, and any associated claims, have not been vetted or endorsed by the direct-to-consumer genetic testing company.
+
+(F)For the purpose of this paragraph, “third party” does not include a public or private nonprofit postsecondary educational institution to the extent that the consumer’s
+genetic data or biological sample is disclosed to a public or private nonprofit postsecondary educational institution for the purpose of scientific research or educational activities as described in paragraph (4) of subdivision (b) of Section 56.184.
+
+(b)A company that is subject to the requirements described in paragraph (2) of subdivision (a) shall provide effective mechanisms, without any unnecessary steps, for a consumer to revoke their consent after it is given, at least one of which utilizes the primary medium through which the company communicates with consumers.
+
+(c)If a consumer revokes the consent that they provided pursuant to paragraph (2) of subdivision (a), the company shall honor the consumer’s consent revocation as soon as practicable, but not later than 30 days after the individual revokes consent, in accordance with both of the following:
+
+(1)Revocation of consent under this section shall comply with Part 46 of Title 45 of the Code of Federal Regulations.
+
+(2)The company shall destroy a consumer’s biological sample within 30 days of receipt of revocation of consent to store the sample.
+
+(d)The direct-to-consumer genetic testing company shall do both of the following:
+
+(1)Implement and maintain reasonable security procedures and practices to protect a consumer’s genetic data against unauthorized access, destruction, use, modification, or disclosure.
+
+(2)Develop procedures and practices to enable a consumer to easily do any of the following:
+
+(A)Access the
+consumer’s genetic data.
+
+(B)Delete the consumer’s account and genetic data, except for genetic data that is required to be retained by the company to comply with applicable legal and regulatory requirements.
+
+(C)Have the consumer’s biological sample destroyed.
+
+(e)A person or public entity shall not discriminate against a consumer because the consumer exercised any of the consumer’s rights under this chapter by doing any of the following, including, but not limited to:
+
+(1)Denying goods, services, or benefits to the customer.
+
+(2)Charging different prices or rates for goods or services, including through the use of discounts or other incentives or imposing penalties.
+
+(3)Providing a different level or quality of goods, services, or benefits to the consumer.
+
+(4)Suggesting that the consumer will receive a different price or rate for goods, services, or benefits, or a different level or quality of goods, services, or benefits.
+
+(5)Considering the consumer’s exercise of rights under this chapter as a basis for suspicion of criminal wrongdoing or unlawful conduct.
+
+(f)(1)Notwithstanding any other provision in this section, and except as provided in paragraph (2), a direct-to-consumer genetic testing company shall not disclose a consumer’s genetic data to any entity that is responsible for administering or making decisions regarding health insurance, life insurance, long-term care insurance,
+disability insurance, or employment or to any entity that provides advice to an entity that is responsible for performing those functions.
+
+(2)A direct-to-consumer genetic testing company may disclose a consumer’s genetic data or biological sample to an entity described in paragraph (1) if all of the following are true:
+
+(A)The entity is not primarily engaged in administering health insurance, life insurance, long-term care insurance, disability insurance, or employment.
+
+(B)The consumer’s genetic data or biological sample is not disclosed to the entity in that entity’s capacity as a party that is responsible for administering, advising, or making decisions regarding health insurance, life insurance, long-term care insurance, disability insurance, or employment.
+
+(C)Any agent or division of the entity that is involved in administering, advising, or making decisions regarding health insurance, life insurance, long-term care insurance, disability insurance, or employment is prohibited from accessing the consumer’s genetic data or biological sample.
+
+[Added by Stats. 2021, Ch. 596, Sec. 2.   (SB 41)   Effective January 1, 2022.]
+
+§ 56.182 (CIV)
+(a)Any person who negligently violates this chapter shall be assessed a civil penalty in an amount not to exceed one thousand dollars ($1,000) plus court costs, as determined by the court.
+
+(b)Any person who willfully violates this chapter shall be assessed a civil penalty in an amount not less than one thousand dollars ($1,000) and not more than ten thousand dollars ($10,000) plus court costs, as determined by the court.
+
+(c)Actions for relief pursuant to this chapter shall be prosecuted exclusively in a court of competent jurisdiction by the Attorney General or a district attorney or by a county counsel authorized by agreement with the district attorney in actions involving
+violation of a county ordinance, or by a city attorney of a city having a population in excess of 750,000, or by a city attorney in a city and county or, with the consent of the district attorney, by a city prosecutor in a city having a full-time city prosecutor in the name of the people of the State of California upon their own complaint or upon the complaint of a board, officer, person, corporation, or association, or upon a complaint by a person who has suffered injury in fact and has lost money or property as a result of the violation of this chapter.
+
+(d)Court costs recovered pursuant to this section shall be paid to the party or parties that prosecuted the violation. Penalties recovered pursuant to this section shall be paid to the individual to whom the genetic data at issue pertains.
+
+(e)Any provision of a contract or agreement between a consumer and a person governed by
+this chapter that has, or would have, the effect of delaying or limiting access to a legal remedy for a violation of this chapter shall not apply to the exercise of rights or enforcement pursuant to this chapter.
+
+(f)Each violation of this chapter is a separate and actionable violation.
+
+[Added by Stats. 2021, Ch. 596, Sec. 2.   (SB 41)   Effective January 1, 2022.]
+
+§ 56.184 (CIV)
+(a)The provisions of this chapter shall not reduce a direct-to-consumer genetic testing company’s duties, obligations, requirements, or standards under any applicable state and federal laws for the protection of privacy and security.
+
+(b)In the event of a conflict between the provisions of this chapter and any other law, the provisions of the law that afford the greatest protection for the right of privacy for consumers shall control.
+
+(c)This chapter shall not apply to any of the following:
+
+(1)Medical information governed by the Confidentiality of Medical Information Act, Part 2.6 (commencing with Section 56),
+or to protected health information that is collected, maintained, used, or disclosed by a covered entity or business associate governed by the privacy, security, and breach notification rules issued by the United States Department of Health and Human Services, Parts 160 and 164 of Title 45 of the Code of Federal Regulations established pursuant to the federal Health Insurance Portability and Accountability Act of 1996 (Public Law 104-191) and the federal Health Information Technology for Economic and Clinical Health Act (Public Law 111-5).
+
+(2)A provider of health care governed by the Confidentiality of Medical Information Act (Part 2.6 (commencing with Section 56)) or a covered entity governed by the privacy, security, and breach notification rules issued by the United States Department of Health and Human Services, Parts 160 and 164 of Title 45 of the Code of Federal Regulations, established pursuant to the Health Insurance Portability and
+Accountability Act of 1996 (Public Law 104-191) and the federal Health Information Technology for Economic and Clinical Health Act, Title XIII of the federal American Recovery and Reinvestment Act of 2009 (Public Law 111-5), to the extent that the provider or covered entity maintains, uses, and discloses genetic information in the same manner as medical information or protected health information, as described in paragraph (1).
+
+(3)A business associate of a covered entity governed by the privacy, security, and data breach notification rules issued by the United States Department of Health and Human Services, Parts 160 and 164 of Title 45 of the Code of Federal Regulations, established pursuant to the federal Health Insurance Portability and Accountability Act of 1996 (Public Law 104-191) and the federal Health Information Technology for Economic and Clinical Health Act, Title XIII of the federal American Recovery and Reinvestment Act of 2009
+(Public Law 111-5), to the extent that the business associate maintains, uses, and discloses genetic information in the same manner as medical information or protected health information, as described in paragraph (1).
+
+(4)Scientific research or educational activities conducted by a public or private nonprofit postsecondary educational institution that holds an assurance with the United States Department of Health and Human Services pursuant to Part 46 of Title 45 of the Code of Federal Regulations, to the extent that the scientific research and educational activities conducted by that institution comply with all applicable federal and state laws and regulations for the protection of human subjects in research, including, but not limited to, the Common Rule pursuant to Part 46 (commencing with Section 46.101) of Title 45 of the Code of Federal Regulations, United States Food and Drug Administration regulations pursuant to Parts 50 and 56 of
+Title 21 of the Code of Federal Regulations, the federal Family Educational Rights and Privacy Act (20 U.S.C. Sec. 1232g), and the Protection of Human Subjects in Medical Experimentation Act, Chapter 1.3 (commencing with Section 24170) of Division 20 of the Health and Safety Code.
+
+(5)The California Newborn Screening Program authorized by Chapter 1 (commencing with Section 124975) of Part 5 of Division 106 of the Health and Safety Code.
+
+(6)Tests conducted exclusively to diagnose whether an individual has a specific disease, to the extent that all persons involved in the conduct of the test maintain, use, and disclose genetic information in the same manner as medical information or protected health information, as described in paragraph (1).
+
+(7)Genetic data used or maintained by an employer, or disclosed by an
+employee to an employer, to the extent that the use, maintenance, or disclosure of that data is necessary to comply with a local, state, or federal workplace health and safety ordinance, law, or regulation.
+
+(d)Nothing in this chapter shall be construed to affect access to information made available to the public by the consumer.
+
+[Added by Stats. 2021, Ch. 596, Sec. 2.   (SB 41)   Effective January 1, 2022.]
+
+§ 56.186 (CIV)
+The provisions of this chapter are severable. If any provision of this chapter or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+
+[Added by Stats. 2021, Ch. 596, Sec. 2.   (SB 41)   Effective January 1, 2022.]
+
+§ 56.245 (CIV)
+A recipient of medical information pursuant to an authorization as provided by this chapter may not further disclose such medical information unless in accordance with a new authorization that meets the requirements of Section 56. 21, or as specifically required or permitted by other provisions of this chapter or by law.
+
+[Added by Stats. 1981, Ch. 782, Sec. 2.]
+
+§ 56.251 (CIV)
+When partnering with a provider of health care to provide a mental health digital service, any business that offers a mental health digital service shall
+provide to the provider of health care information regarding how to find data breaches reported pursuant to Section 1798.82 on the internet website of the Attorney General.
+
+[Added by Stats. 2022, Ch. 690, Sec. 3.   (AB 2089)   Effective January 1, 2023.]
+
+§ 56.265 (CIV)
+A person or entity that underwrites or sells annuity contracts or contracts insuring, guaranteeing, or indemnifying against loss, harm, damage, illness, disability, or death, and any affiliate of that person or entity, shall not disclose individually identifiable information concerning the health of, or the medical or genetic history of, a customer, to any affiliated or nonaffiliated depository institution, or to any other affiliated or nonaffiliated third party for use with regard to the granting of credit.
+
+[Added by Stats. 2000, Ch. 278, Sec. 2.   Effective January 1, 2001.]
+
+§ 56.1007 (CIV)
+(a)A provider of health care, health care service plan, or contractor may, in accordance with subdivision (c) or (d), disclose to a family member, other relative, domestic partner, or a close personal friend of the patient, or any other person identified by the patient, the medical information directly relevant to that person’s involvement with the patient’s care or payment related to the patient’s health care.
+
+(b)A provider of health care, health care service plan, or
+contractor may use or disclose medical information to notify, or assist in the notification of, including identifying or locating, a family member, a personal representative of the patient, a domestic partner, or another person responsible for the care of the patient of the patient’s location, general condition, or death. Any use or disclosure of medical information for those notification purposes shall be in accordance with the provisions of subdivision (c), (d), or (e), as applicable.
+
+(c)(1)Except as provided in paragraph (2), if the patient is present for, or otherwise available prior to, a use or disclosure permitted by subdivision (a) or (b) and has the capacity to make health care decisions, the provider of health care, health care service plan, or contractor may use or disclose the medical information if it does any of the following:
+
+(A)Obtains the
+patient’s agreement.
+
+(B)Provides the patient with the opportunity to object to the disclosure, and the patient does not express an objection.
+
+(C)Reasonably infers from the circumstances, based on the exercise of professional judgment, that the patient does not object to the disclosure.
+
+(2)A provider of health care who is a psychotherapist, as defined in Section 1010 of the Evidence Code, may use or disclose medical information pursuant to this subdivision only if the psychotherapist complies with subparagraph (A) or (B) of paragraph (1).
+
+(d)If the patient is not present, or the opportunity to agree or object to the use or disclosure cannot practicably be provided because of the patient’s incapacity or an emergency circumstance, the provider of
+health care, health care service plan, or contractor may, in the exercise of professional judgment, determine whether the disclosure is in the best interests of the patient and, if so, disclose only the medical information that is directly relevant to the person’s involvement with the patient’s health care. A provider of health care, health care service plan, or contractor may use professional judgment and its experience with common practice to make reasonable inferences of the patient’s best interest in allowing a person to act on behalf of the patient to pick up filled prescriptions, medical supplies, X-rays, or other similar forms of medical information.
+
+(e)A provider of health care, health care service plan, or contractor may use or disclose medical information to a public or private entity authorized by law or by its charter to assist in disaster relief efforts, for the purpose of coordinating with those entities the uses or disclosures
+permitted by subdivision (b). The requirements in subdivisions (c) and (d) apply to those uses and disclosures to the extent that the provider of health care, health care service plan, or contractor, in the exercise of professional judgment, determines that the requirements do not interfere with the ability to respond to the emergency circumstances.
+
+(f)Nothing in this section shall be construed to interfere with or limit the access authority of Protection and Advocacy, Inc., the Office of Patients’ Rights, or any county patients’ rights advocates to access medical information pursuant to any state or federal law.
+
+[Added by Stats. 2006, Ch. 833, Sec. 1.   Effective January 1, 2007.]

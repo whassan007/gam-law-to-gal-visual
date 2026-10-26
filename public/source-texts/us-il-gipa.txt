@@ -1,0 +1,981 @@
+|
+
+Home |
+
+Legislation & Laws |
+
+Senate |
+
+House |
+
+My Legislation |
+
+Site Map |
+
+|
+
+|
+
+Bills & Resolutions |
+
+Compiled Statutes |
+
+Public Acts |
+
+Legislative Reports |
+
+IL Constitution |
+
+Legislative Guide |
+
+Legislative Glossary |
+
+|
+
+Search By Number
+
+(example: HB0001) |
+
+|
+
+Search By Keyword |
+
+|
+
+|
+
+|
+
+Illinois Compiled Statutes
+
+Back to Act Listing Public Acts Search Guide Disclaimer Printer-Friendly Version
+
+Information maintained by the Legislative Reference Bureau
+
+Updating the database of the Illinois Compiled Statutes (ILCS) is an ongoing process. Recent laws may not yet be included in the ILCS database, but they are found on this site as Public Acts soon after they become law. For information concerning the relationship between statutes and Public Acts, refer to the Guide.
+
+Because the statute database is maintained primarily for legislative drafting purposes, statutory changes are sometimes included in the statute database before they take effect. If the source note at the end of a Section of the statutes includes a Public Act that has not yet taken effect, the version of the law that is currently in effect may have already been removed from the database and you should refer to that Public Act to see the changes made to the current law.
+
+PUBLIC HEALTH
+
+(410 ILCS 513/) Genetic Information Privacy Act.
+
+410 ILCS 513/1
+
+(410 ILCS 513/1)
+
+Sec. 1.
+Short title.
+This Act may be cited as the Genetic Information Privacy Act.
+
+(Source: P.A. 90-25, eff. 1-1-98.)
+
+|
+
+410 ILCS 513/5
+
+(410 ILCS 513/5)
+
+Sec. 5. Legislative findings; intent. The General Assembly finds that:
+
+(1) The use of genetic testing can be valuable to an
+|
+
+|
+
+individual.
+|
+
+|
+
+(2) Despite existing laws, regulations, and
+|
+
+|
+
+professional standards which require or promote voluntary and confidential use of genetic testing information, many members of the public are deterred from seeking genetic testing because of fear that test results will be disclosed without consent in a manner not permitted by law or will be used in a discriminatory manner.
+|
+
+|
+
+(3) The public health will be served by facilitating
+|
+
+|
+
+voluntary and confidential nondiscriminatory use of genetic testing information.
+|
+
+|
+
+(4) The use of electronic health record systems and
+|
+
+|
+
+the exchange of patient records, both paper and electronic, through secure means, including through secure health information exchanges, should be encouraged to improve patient health care and care coordination, facilitate public health reporting, and control health care costs, among other purposes.
+|
+
+|
+
+(5) Limiting the use or disclosure of, and requests
+|
+
+|
+
+for, protected health information to the minimum necessary to accomplish an intended purpose, when being transmitted by or on behalf of a covered entity under HIPAA, is a key component of health information privacy. The disclosure of genetic information, when allowed by this Act, shall be performed in accordance with the minimum necessary standard when required under HIPAA.
+|
+
+|
+
+(Source: P.A. 98-1046, eff. 1-1-15.)
+
+|
+
+410 ILCS 513/10
+
+(410 ILCS 513/10)
+
+Sec. 10. Definitions. As used in this Act:
+
+"Business associate" has the meaning ascribed to it under HIPAA, as specified in 45 CFR 160.103.
+
+"Covered entity" has the meaning ascribed to it under HIPAA, as specified in 45 CFR 160.103.
+
+"De-identified information" means health information that is not individually identifiable as described under HIPAA, as specified in 45 CFR 164.514(b).
+
+"Disclosure" has the meaning ascribed to it under HIPAA, as specified in 45 CFR 160.103.
+
+"Employer" means the State of Illinois, any unit of local government, and any board, commission, department, institution, or school district, any party to a public contract, any joint apprenticeship or training committee within the State, and every other person employing employees within the State.
+
+"Employment agency" means both public and private employment agencies and any person, labor organization, or labor union having a hiring hall or hiring office regularly undertaking, with or without compensation, to procure opportunities to work, or to procure, recruit, refer, or place employees.
+
+"Family member" means, with respect to an individual, (i) the spouse of the individual; (ii) a dependent child of the individual, including a child who is born to or placed for adoption with the individual; (iii) any other person qualifying as a covered dependent under a managed care plan; and (iv) all other individuals related by blood or law to the individual or the spouse or child described in subsections (i) through (iii) of this definition.
+
+"Genetic information" has the meaning ascribed to it under HIPAA, as specified in 45 CFR 160.103.
+
+"Genetic monitoring" means the periodic examination of employees to evaluate acquired modifications to their genetic material, such as chromosomal damage or evidence of increased occurrence of mutations that may have developed in the course of employment due to exposure to toxic substances in the workplace in order to identify, evaluate, and respond to effects of or control adverse environmental exposures in the workplace.
+
+"Genetic services" has the meaning ascribed to it under HIPAA, as specified in 45 CFR 160.103.
+
+"Genetic testing" and "genetic test" have the meaning ascribed to "genetic test" under HIPAA, as specified in 45 CFR 160.103. "Genetic testing" includes direct-to-consumer commercial genetic testing.
+
+"Health care operations" has the meaning ascribed to it under HIPAA, as specified in 45 CFR 164.501.
+
+"Health care professional" means (i) a licensed physician, (ii) a licensed physician assistant, (iii) a licensed advanced practice registered nurse, (iv) a licensed dentist, (v) a licensed podiatrist, (vi) a licensed genetic counselor, or (vii) an individual certified to provide genetic testing by a state or local public health department.
+
+"Health care provider" has the meaning ascribed to it under HIPAA, as specified in 45 CFR 160.103.
+
+"Health facility" means a hospital, blood bank, blood center, sperm bank, or other health care institution, including any "health facility" as that term is defined in the Illinois Finance Authority Act.
+
+"Health information exchange" or "HIE" means a health information exchange or health information organization that exchanges health information electronically. In certain circumstances, in accordance with HIPAA, an HIE will be a business associate.
+
+"Health oversight agency" has the meaning ascribed to it under HIPAA, as specified in 45 CFR 164.501.
+
+"HIPAA" means the Health Insurance Portability and Accountability Act of 1996, Public Law 104-191, as amended by the Health Information Technology for Economic and Clinical Health Act of 2009, Public Law 111-05, and any subsequent amendments thereto and any regulations promulgated thereunder.
+
+"Insurer" means (i) an entity that is subject to the jurisdiction of the Director of Insurance and (ii) a
+managed care plan.
+
+"Labor organization" includes any organization, labor union, craft union, or any voluntary unincorporated association designed to further the cause of the rights of union labor that is constituted for the purpose, in whole or in part, of collective bargaining or of dealing with employers concerning grievances, terms or conditions of employment, or apprenticeships or applications for apprenticeships, or of other mutual aid or protection in connection with employment, including apprenticeships or applications for apprenticeships.
+
+"Licensing agency" means a board, commission, committee, council, department, or officers, except a judicial officer, in this State or any political subdivision authorized to grant, deny, renew, revoke, suspend, annul, withdraw, or amend a license or certificate of registration.
+
+"Limited data set" has the meaning ascribed to it under HIPAA, as described in 45 CFR 164.514(e)(2).
+
+"Managed care plan" means a plan that establishes, operates, or maintains a
+network of health care providers that have entered into agreements with the
+plan to provide health care services to enrollees where the plan has the
+ultimate and direct contractual obligation to the enrollee to arrange for the
+provision of or pay for services
+through:
+
+(1) organizational arrangements for ongoing quality
+|
+
+|
+
+assurance, utilization review programs, or dispute resolution; or
+|
+
+|
+
+(2) financial incentives for persons enrolled in the
+|
+
+|
+
+plan to use the participating providers and procedures covered by the plan.
+|
+
+|
+
+A managed care plan may be established or operated by any entity including
+a licensed insurance company, hospital or medical service plan, health
+maintenance organization, limited health service organization, preferred
+provider organization, third party administrator, or an employer or employee
+organization.
+
+"Minimum necessary" means HIPAA's standard for using, disclosing, and requesting protected health information found in 45 CFR 164.502(b) and 164.514(d).
+
+"Nontherapeutic purpose" means a purpose that is not intended to improve or preserve the life or health of the individual whom the information concerns.
+
+"Organized health care arrangement" has the meaning ascribed to it under HIPAA, as specified in 45 CFR 160.103.
+
+"Patient safety activities" has the meaning ascribed to it under 42 CFR 3.20.
+
+"Payment" has the meaning ascribed to it under HIPAA, as specified in 45 CFR 164.501.
+
+"Person" includes any natural person, partnership, association, joint venture, trust, governmental entity, public or private corporation, health facility, or other legal entity.
+
+"Protected health information" has the meaning ascribed to it under HIPAA, as specified in 45 CFR 164.103.
+
+"Research" has the meaning ascribed to it under HIPAA, as specified in 45 CFR 164.501.
+
+"State agency" means an instrumentality of the State of Illinois and any instrumentality of another state which pursuant to applicable law or a written undertaking with an instrumentality of the State of Illinois is bound to protect the privacy of genetic information of Illinois persons.
+
+"Treatment" has the meaning ascribed to it under HIPAA, as specified in 45 CFR 164.501.
+
+"Use" has the meaning ascribed to it under HIPAA, as specified in 45 CFR 160.103, where context dictates.
+
+(Source: P.A. 103-508, eff. 8-4-23.)
+
+|
+
+410 ILCS 513/15
+
+(410 ILCS 513/15)
+
+Sec. 15. Confidentiality of genetic information.
+
+(a) Except as otherwise provided in this Act, genetic testing and
+information derived from genetic testing is confidential and privileged and may
+be released only to the individual tested and to persons specifically
+authorized, in writing in accordance with Section 30, by that individual to
+receive the information. Except as otherwise provided in subsection (b) and in
+Section 30, this information shall not be admissible as evidence, nor
+discoverable in any action
+of any kind in any court, or before any tribunal, board, agency, or person
+pursuant to Part 21 of Article VIII of the Code of Civil Procedure. No
+liability shall attach
+to any hospital, physician, or other health care provider for compliance with
+the provisions of this Act including a specific written release by the
+individual in accordance with this Act.
+
+(b) When a biological sample is legally obtained by a peace officer for use
+in a criminal investigation or prosecution,
+information derived from genetic testing of that sample
+may be disclosed
+for identification purposes
+to appropriate law enforcement authorities
+conducting the
+investigation or prosecution
+and may be used in accordance with Section 5-4-3 of the Unified Code of
+Corrections. The information may be used
+for identification purposes
+during the course of
+the investigation or prosecution with respect to the individual tested without
+the consent of the individual and shall be admissible as evidence in court.
+
+The information shall be confidential and
+may be
+disclosed only for purposes of criminal investigation or prosecution.
+
+Genetic testing and genetic information derived thereof shall be admissible as evidence and discoverable, subject to a protective order, in any actions alleging a violation of this Act, seeking to enforce Section 30 of this Act through the Illinois Insurance Code, alleging discriminatory genetic testing or use of genetic information under the Illinois Human Rights Act or the Illinois Civil Rights Act of 2003, or requesting a workers' compensation claim under the Workers' Compensation Act.
+
+(c) If the subject of the information requested by law enforcement is found
+innocent of the offense or otherwise not criminally penalized, then the
+court
+records
+shall be expunged by the court within 30 days after the final legal proceeding.
+The court shall notify the subject of the information of the expungement of
+the records in writing.
+
+(d) Results of genetic testing that indicate that the individual tested is
+at the time of the test afflicted with a disease, whether or not currently
+symptomatic,
+are not subject to the
+confidentiality requirements of this Act.
+
+(Source: P.A. 95-927, eff. 1-1-09.)
+
+|
+
+410 ILCS 513/20
+
+(410 ILCS 513/20)
+
+Sec. 20. Use of genetic testing information for insurance purposes.
+
+(a) An insurer may not seek information derived from genetic testing for use
+in connection with a policy of accident and health insurance. Except as
+provided in subsection (c), an insurer that receives information derived from
+genetic testing, regardless of the source of that information, may not use
+the information for a nontherapeutic purpose as it
+relates to a policy of accident and health insurance.
+
+(b) An insurer shall not use or disclose protected health information that is genetic information for underwriting purposes. For purposes of this Section, "underwriting purposes" means, with respect to an insurer:
+
+(1) rules for, or determination of, eligibility
+|
+
+|
+
+(including enrollment and continued eligibility) for, or determination of, benefits under the plan, coverage, or policy (including changes in deductibles or other cost-sharing mechanisms in return for activities such as completing a health risk assessment or participating in a wellness program);
+|
+
+|
+
+(2) the computation of premium or contribution
+|
+
+|
+
+amounts under the plan, coverage, or policy (including discounts, rebates, payments in kind, or other premium differential mechanisms in return for activities, such as completing a health risk assessment or participating in a wellness program);
+|
+
+|
+
+(3) the application of any pre-existing condition
+|
+
+|
+
+exclusion under the plan, coverage, or policy; and
+|
+
+|
+
+(4) other activities related to the creation,
+|
+
+|
+
+renewal, or replacement of a contract of health insurance or health benefits.
+|
+
+|
+
+"Underwriting purposes" does not include determinations of medical appropriateness where an individual seeks a benefit under the plan, coverage, or policy.
+
+This subsection (b) does not apply to insurers that are issuing a long-term care policy, excluding a nursing home fixed indemnity plan.
+
+(c) An insurer may consider the results of genetic testing in connection
+with a policy of accident and health insurance if the individual voluntarily
+submits the results and the results are favorable to the individual.
+
+(d) An insurer that possesses information derived from genetic testing may
+not release the information to a third party, except as specified in this Act.
+
+(e) A company providing direct-to-consumer commercial genetic testing is prohibited from sharing any genetic test information or other personally identifiable information about a consumer with any health or life insurance company without written consent from the consumer.
+
+(Source: P.A. 101-132, eff. 1-1-20.)
+
+|
+
+410 ILCS 513/22
+
+(410 ILCS 513/22)
+
+Sec. 22. Tests to determine inherited characteristics in paternity
+proceedings. Nothing in this Act shall be construed to affect or restrict in
+any way the ordering of or use of results from deoxyribonucleic acid (DNA)
+testing or other tests to determine inherited characteristics by the court in a
+judicial proceeding under the Illinois Parentage Act of 1984 or under the Illinois Parentage Act of 2015 on and after the effective date of that Act or by the
+Department of Healthcare and Family Services in an administrative paternity proceeding
+under Article X of the Illinois Public Aid Code and rules promulgated under
+that Article.
+
+(Source: P.A. 99-85, eff. 1-1-16.)
+
+|
+
+410 ILCS 513/25
+
+(410 ILCS 513/25)
+
+Sec. 25. Use of genetic testing information by employers.
+
+(a) An employer, employment agency, labor organization, and licensing agency shall treat genetic testing and genetic information in such a manner
+that is consistent with the requirements of federal law, including but not
+limited to the Genetic Information Nondiscrimination Act of 2008, the Americans with Disabilities Act, Title VII of the Civil Rights Act of 1964, the Family and Medical Leave Act of 1993, the Occupational Safety and Health Act of 1970, the Federal Mine Safety and Health Act of 1977, or the Atomic Energy Act of 1954.
+
+(b) An employer may release genetic testing information only in accordance
+with this Act.
+
+(c) An employer, employment agency, labor organization, and licensing agency shall not directly or indirectly do any of the following:
+
+(1) solicit, request, require or purchase genetic
+|
+
+|
+
+testing or genetic information of a person or a family member of the person, or administer a genetic test to a person or a family member of the person as a condition of employment, preemployment application, labor organization membership, or licensure;
+|
+
+|
+
+(2) affect the terms, conditions, or privileges of
+|
+
+|
+
+employment, preemployment application, labor organization membership, or licensure, or terminate the employment, labor organization membership, or licensure of any person because of genetic testing or genetic information with respect to the employee or family member, or information about a request for or the receipt of genetic testing by such employee or family member of such employee;
+|
+
+|
+
+(3) limit, segregate, or classify employees in any
+|
+
+|
+
+way that would deprive or tend to deprive any employee of employment opportunities or otherwise adversely affect the status of the employee as an employee because of genetic testing or genetic information with respect to the employee or a family member, or information about a request for or the receipt of genetic testing or genetic information by such employee or family member of such employee; and
+|
+
+|
+
+(4) retaliate through discharge or in any other
+|
+
+|
+
+manner against any person alleging a violation of this Act or participating in any manner in a proceeding under this Act.
+|
+
+|
+
+(d) An agreement between a person and an employer,
+
+prospective employer, employment agency, labor organization,
+or licensing agency, or its employees, agents, or members
+offering the person employment, labor organization membership,
+licensure, or any pay or benefit in return for taking a genetic
+test is prohibited.
+
+(e) An employer shall not use genetic information or
+genetic testing in furtherance of a workplace wellness program
+benefiting employees unless (1) health or genetic services are offered by the employer, (2) the employee provides written authorization in accordance with Section 30 of this Act, (3) only the employee or family member if the family member is receiving genetic services and the licensed health care professional or licensed genetic counselor involved in providing such services receive individually identifiable information concerning the results of such services, and (4) any individually identifiable information is only available for purposes of such services and shall not be disclosed to the employer except in aggregate terms that do not disclose the identity of specific employees. An employer shall not penalize an employee who does not disclose his or her genetic information or does not choose to participate in a program requiring disclosure of the employee's genetic information.
+
+(f) Nothing in this Act shall be construed to prohibit genetic testing of an employee who requests a genetic test and
+who provides written authorization, in accordance with
+Section 30 of this Act, from taking a genetic test for the
+purpose of initiating a workers' compensation
+claim under the Workers' Compensation Act.
+
+(g) A purchase of commercially and publicly available
+documents, including newspapers, magazines, periodicals, and
+books but not including medical databases or court records or
+
+inadvertently requesting family medical history by an
+employer, employment agency, labor organization, and licensing
+agency does not violate this Act.
+
+(h) Nothing in this Act shall be construed to prohibit an employer that conducts DNA analysis for law enforcement purposes as a forensic laboratory and that includes such analysis in the Combined DNA Index System pursuant to the federal Violent Crime Control and Law Enforcement Act of 1994 from requesting or requiring genetic testing or genetic information of such employer's employees, but only to the extent that such genetic testing or genetic information is used for analysis of DNA identification markers for quality control to detect sample contamination.
+
+(i) Nothing in this Act shall be construed to prohibit an employer from requesting or requiring genetic information to be used for genetic monitoring of the biological effects of toxic substances in the workplace, but only if (1) the employer provides written notice of the genetic monitoring to the employee; (2) the employee provides written authorization under Section 30 of this Act or the genetic monitoring is required by federal or State law; (3) the employee is informed of individual monitoring results; (4) the monitoring is in compliance with any federal genetic monitoring regulations or State genetic monitoring regulations under the authority of the federal Occupational Safety and Health Act of 1970; and (5) the employer, excluding any health care provider, health care professional, or health facility that is involved in the genetic monitoring program, receives the results of the monitoring only in aggregate terms that do not disclose the identity of specific employees.
+
+(j) Despite lawful acquisition of genetic testing or genetic information under subsections (e) through (i) of this Section, an employer, employment agency, labor organization, and licensing agency still may not use or disclose the genetic test or genetic information in violation of this Act.
+
+(k) Except as provided in subsections (e), (f), (h), and (i) of this Section, a person shall not knowingly sell to or interpret for an employer, employment agency, labor organization, or licensing agency, or its employees, agents, or members, a genetic test of an employee, labor organization member, or license holder, or of a prospective employee, member, or license holder.
+
+(Source: P.A. 100-396, eff. 1-1-18.)
+
+|
+
+410 ILCS 513/30
+
+(410 ILCS 513/30)
+
+Sec. 30. Disclosure of person tested and test results.
+
+(a) No person may disclose or be compelled to disclose the identity of any
+person upon whom a genetic test is performed or the results of a genetic test
+in a manner that permits identification of the subject of the test, except to
+the following persons:
+
+(1) The subject of the test or the subject's legally
+|
+
+|
+
+authorized representative. This paragraph does not create a duty or obligation under which a health care provider must notify the subject's spouse or legal guardian of the test results, and no such duty or obligation shall be implied. No civil liability or criminal sanction under this Act shall be imposed for any disclosure or nondisclosure of a test result to a spouse by a physician acting in good faith under this paragraph. For the purpose of any proceedings, civil or criminal, the good faith of any physician acting under this paragraph shall be presumed.
+|
+
+|
+
+(2) Any person designated in a specific written
+|
+
+|
+
+legally effective authorization for release of the test results executed by the subject of the test or the subject's legally authorized representative.
+|
+
+|
+
+(3) An authorized agent or employee of a health
+|
+
+|
+
+facility or health care provider if the health facility or health care provider itself is authorized to obtain the test results, the agent or employee provides patient care, and the agent or employee has a need to know the information in order to conduct the tests or provide care or treatment.
+|
+
+|
+
+(4) A health facility, health care provider, or
+|
+
+|
+
+health care professional that procures, processes, distributes, or uses:
+|
+
+|
+
+(A) a human body part from a deceased person with
+|
+
+|
+
+respect to medical information regarding that person; or
+|
+
+|
+
+(B) semen provided prior to the effective date of
+|
+
+|
+
+this Act for the purpose of artificial insemination.
+|
+
+|
+
+(5) Health facility staff committees for the purposes
+|
+
+|
+
+of conducting program monitoring, program evaluation, or service reviews.
+|
+
+|
+
+(6) In the case of a minor under 18 years of age, the
+|
+
+|
+
+health care provider, health care professional, or health facility who ordered the test shall make a reasonable effort to notify the minor's parent or legal guardian if, in the professional judgment of the health care provider, health care professional, or health facility, notification would be in the best interest of the minor and the health care provider, health care professional, or health facility has first sought unsuccessfully to persuade the minor to notify the parent or legal guardian or after a reasonable time after the minor has agreed to notify the parent or legal guardian, the health care provider, health care professional, or health facility has reason to believe that the minor has not made the notification. This paragraph shall not create a duty or obligation under which a health care provider, health care professional, or health facility must notify the minor's parent or legal guardian of the test results, nor shall a duty or obligation be implied. No civil liability or criminal sanction under this Act shall be imposed for any notification or non-notification of a minor's test result by a health care provider, health care professional, or health facility acting in good faith under this paragraph. For the purpose of any proceeding, civil or criminal, the good faith of any health care provider, health care professional, or health facility acting under this paragraph shall be presumed.
+|
+
+|
+
+(b) All information and records held by a State agency, local health
+authority, or health oversight agency pertaining to genetic information shall be strictly confidential
+and
+exempt from copying and inspection under the Freedom of Information Act. The
+information and records shall not be released or made public by the State
+agency, local health authority, or health oversight agency and shall not be admissible as evidence nor
+discoverable in any action of any kind in any court or before any tribunal,
+board, agency, or person and shall be treated in the same manner as the
+information and those records subject to the provisions of Part 21 of
+Article VIII of
+the Code
+of Civil Procedure except under the following circumstances:
+
+(A) when made with the written consent of all
+|
+
+|
+
+persons to whom the information pertains;
+|
+
+|
+
+(B) when authorized by Section 5-4-3 of the
+|
+
+|
+
+Unified Code of Corrections;
+|
+
+|
+
+(C) when made for the sole purpose of
+|
+
+|
+
+implementing the Newborn Metabolic Screening Act and rules; or
+|
+
+|
+
+(D) when made under the authorization of the
+|
+
+|
+
+Illinois Parentage Act of 2015.
+|
+
+|
+
+Disclosure shall be limited to those who have a need to know the information,
+and no additional disclosures may be made.
+
+(c) Disclosure by an insurer in accordance with the requirements of the
+Article XL of the Illinois Insurance Code shall be deemed compliance with this
+Section.
+
+(Source: P.A. 98-1046, eff. 1-1-15; 99-85, eff. 1-1-16.)
+
+|
+
+410 ILCS 513/31
+
+(410 ILCS 513/31)
+
+Sec. 31. Uses and disclosures for treatment, payment, and health care operations. Notwithstanding Sections 30 and 35 of this Act, a covered entity may, without a patient's consent:
+
+(1) use or disclose genetic information for its own
+|
+
+|
+
+treatment, payment, or health care operations;
+|
+
+|
+
+(2) disclose genetic information for treatment
+|
+
+|
+
+activities of a health care provider;
+|
+
+|
+
+(3) disclose genetic information to another covered
+|
+
+|
+
+entity or health care provider for the payment activities of the entity that receives the information;
+|
+
+|
+
+(4) disclose genetic information to another covered
+|
+
+|
+
+entity for health care operations activities of the entity that receives the information, if each entity has or had a relationship with the individual who is the subject of the genetic information being requested, the genetic information pertains to such relationship, and the disclosure is for the purpose of (A) conducting quality assessment and improvement activities, including outcomes evaluation and development of clinical guidelines, provided that the obtaining of generalizable knowledge is not the primary purpose of any studies resulting from such activities; patient safety activities; population-based activities relating to improving health or reducing health care costs, protocol development, case management, and care coordination, contacting of health care providers and patients with information about treatment alternatives; and related functions that do not include treatment; (B) reviewing the competence or qualifications of health care professionals or health care providers, evaluating practitioner and provider performance, health plan performance, conducting training programs in which students, trainees, or practitioners in areas of health care learn under supervision to practice or improve their skills as health care providers, training of non-health care professionals, accreditation, certification, licensing, or credentialing activities; or (C) health care fraud and abuse detection or compliance; and
+|
+
+|
+
+(5) disclose genetic information to other
+|
+
+|
+
+participants in an organized health care arrangement in which the covered entity is also a participant for any health care operations activities of the organized health care arrangement.
+|
+
+|
+
+(Source: P.A. 98-1046, eff. 1-1-15.)
+|
+
+410 ILCS 513/31.1
+
+(410 ILCS 513/31.1)
+
+Sec. 31.1. Uses and disclosures for health oversight activities.
+
+(a) Notwithstanding Sections 30 and 35 of this Act, a covered entity may disclose genetic information, without a patient's consent, to a health oversight agency for health oversight activities authorized by law, including audits, civil, administrative, or criminal investigations; inspections; licensure or disciplinary actions; civil administrative or criminal proceedings or actions; or other activities necessary for appropriate oversight of (i) the health care system; (ii) government benefit programs for which health information is relevant to beneficiary eligibility; (iii) entities subject to government regulatory programs for which health information is necessary for determining compliance with program standards; or (iv) entities subject to civil rights laws for which health information is necessary for determining compliance.
+
+(b) For purposes of the disclosures permitted by this Section, a health oversight activity does not include an investigation or other activity in which the individual is the subject of the investigation or activity and such investigation or other activity does not arise out of and is not directly related to (i) the receipt of health care; (ii) a claim for public benefits related to health; or (iii) qualification for, or receipt of, public benefits or services when a patient's health is integral to the claim for public benefits or services, except that, if a health oversight activity or investigation is conducted in conjunction with an oversight activity or investigation relating to a claim for public benefits not related to health, the joint activity or investigation is considered a health oversight activity for purposes of this Section.
+
+(c) If a covered entity is also a health oversight agency, the covered entity may use genetic information for health oversight activities permitted by this Section.
+
+(Source: P.A. 98-1046, eff. 1-1-15.)
+|
+
+410 ILCS 513/31.2
+
+(410 ILCS 513/31.2)
+
+Sec. 31.2. Uses and disclosures for public health activities. Notwithstanding Sections 30 and 35 of this Act, genetic information may be disclosed without a patient's consent for public health activities and purposes to the Department, when the Department is authorized by law to collect or receive such information for the purpose of preventing or controlling disease, injury, or disability, including, but not limited to, the reporting of disease, injury, vital events such as birth or death, and the conduct of public health surveillance, public health investigations, and public health interventions.
+
+(Source: P.A. 98-1046, eff. 1-1-15.)
+|
+
+410 ILCS 513/31.3
+
+(410 ILCS 513/31.3)
+
+Sec. 31.3. Business associates.
+
+(a) Notwithstanding Sections 30 and 35 of this Act, a covered entity may, without a patient's consent, disclose a patient's genetic information to a business associate and may allow a business associate to create, receive, maintain, or transmit protected health information on its behalf, if the covered entity obtains, through a written contract or other written agreement or arrangement that meets the applicable requirements of 45 CFR 164.504(e), satisfactory assurance that the business associate will appropriately safeguard the information. A covered entity is not required to obtain such satisfactory assurances from a business associate that is a subcontractor.
+
+(b) A business associate may disclose protected health information to a business associate that is a subcontractor and may allow the subcontractor to create, receive, maintain, or transmit protected health information on its behalf, if the business associate obtains satisfactory assurances, in accordance with 45 CFR 164.504(e)(1)(i), that the subcontractor will appropriately safeguard the information.
+
+(Source: P.A. 98-1046, eff. 1-1-15.)
+|
+
+410 ILCS 513/31.4
+
+(410 ILCS 513/31.4)
+
+Sec. 31.4. Record locator service to support HIE. Section 9.9 of the Mental Health and Developmental Disabilities Confidentiality Act is herein incorporated by reference.
+
+(Source: P.A. 98-1046, eff. 1-1-15.)
+|
+
+410 ILCS 513/31.5
+
+(410 ILCS 513/31.5)
+
+Sec. 31.5. Use and disclosure of information to an HIE.
+Notwithstanding the provisions of Section 30 and 35 of this Act, a covered entity may, without a patient's consent, disclose the identity of any patient upon whom a test is performed and such patient's genetic information from a patient's record to a HIE if the disclosure is a required or permitted disclosure to a business associate or is a disclosure otherwise required or permitted under this Act. An HIE may, without a patient's consent, use or disclose such information to the extent it is allowed to use or disclose such information as a business associate in compliance with 45 CFR 164.502(e) or for such other purposes as are specifically allowed under this Act.
+
+(Source: P.A. 98-1046, eff. 1-1-15.)
+|
+
+410 ILCS 513/31.6
+
+(410 ILCS 513/31.6)
+
+Sec. 31.6. Other disclosures. Nothing in this Act shall be construed (1) to limit the use of an HIE to facilitate disclosures permitted by this Act or (2) to allow for the disclosure of information from a patient's record to law enforcement or for law enforcement purposes.
+
+(Source: P.A. 98-1046, eff. 1-1-15.)
+|
+
+410 ILCS 513/31.7
+
+(410 ILCS 513/31.7)
+
+Sec. 31.7. Establishment and disclosure of limited data sets and de-identified information.
+
+(a) A covered entity may, without a genetic information test subject's consent, create, use, and disclose a limited data set using information subject to this Act or disclose information subject to this Act to a business associate for the purpose of establishing a limited data set. The creation, use, and disclosure of such a limited data set must comply with the requirements set forth under HIPAA.
+
+(b) A covered entity may, without a genetic information test subject's consent, create, use, and disclose de-identified information using information subject to this Act or disclose information subject to this Act to a business associate for the purpose of de-identifying the information. The creation, use, and disclosure of such de-identified information must comply with the requirements set forth under HIPAA. A covered entity or a business associate may disclose information that is de-identified in accordance with HIPAA.
+
+(c) The recipient of de-identified information shall not re-identify de-identified information using any public or private data source.
+
+(Source: P.A. 98-1046, eff. 1-1-15.)
+|
+
+410 ILCS 513/31.8
+
+(410 ILCS 513/31.8)
+
+Sec. 31.8. HIE opt out. Section 9.6 of the Mental Health and Developmental Disabilities Confidentiality Act is incorporated herein by reference. In addition to the requirements set out in Section 9.6 of the Mental Health and Developmental Disabilities Confidentiality Act, at the time of a patient's first encounter for genetic testing with a health care provider, health care professional, or health facility that participates in an HIE, or, in the event of a medical emergency that makes it impossible, as soon thereafter as is practicable, the patient shall receive meaningful disclosure regarding the HIE in which the health care provider, health care professional, or health facility participates and shall be afforded an opportunity to opt out of disclosure of the patient's health information through the HIE.
+
+(Source: P.A. 98-1046, eff. 1-1-15.)
+|
+
+410 ILCS 513/31.9
+
+(410 ILCS 513/31.9)
+
+Sec. 31.9. Research. Genetic information may be disclosed for research, in accordance with the requirements set forth under HIPAA.
+
+(Source: P.A. 98-1046, eff. 1-1-15.)
+|
+
+410 ILCS 513/31.10
+
+(410 ILCS 513/31.10)
+
+Sec. 31.10. Minimum necessary. When using or disclosing genetic-related information under this Act, a covered entity shall do so in accordance with the minimum necessary standard under HIPAA.
+
+(Source: P.A. 98-1046, eff. 1-1-15.)
+|
+
+410 ILCS 513/35
+
+(410 ILCS 513/35)
+
+Sec. 35. Disclosure by person to whom results have been disclosed. No
+person to whom the results of a test have been disclosed
+may disclose the test results to another person except as authorized under this Act.
+
+(Source: P.A. 98-1046, eff. 1-1-15.)
+
+|
+
+410 ILCS 513/40
+
+(410 ILCS 513/40)
+
+Sec. 40. Right of action.
+
+(a) Any person aggrieved by a violation of this
+Act
+shall have a right of action in a State
+circuit court or as a supplemental claim in a federal district court against an offending party. A prevailing party may recover for each violation:
+
+(1) Against any party who negligently violates a
+|
+
+|
+
+provision of this Act, liquidated damages of $2,500 or actual damages, whichever is greater.
+|
+
+|
+
+(2) Against any party who intentionally or recklessly
+|
+
+|
+
+violates a provision of this Act, liquidated damages of $15,000 or actual damages, whichever is greater.
+|
+
+|
+
+(3) Reasonable attorney's fees and costs, including
+|
+
+|
+
+expert witness fees and other litigation expenses.
+|
+
+|
+
+(4) Such other relief, including an injunction, as
+|
+
+|
+
+the State or federal court may deem appropriate.
+|
+
+|
+
+(b) Article XL of the Illinois Insurance Code shall provide the exclusive
+remedy for violations of Section 30 by insurers.
+
+(c) Notwithstanding any provisions of the law to the
+contrary, any person alleging a violation of subsection (a) of Section 15, subsection (b)
+of Section 25, Section 30, Section 31, or Section 35 of this Act shall have a right of action in a
+State circuit court or as a supplemental claim in a federal
+district court to seek a preliminary injunction preventing the
+release or disclosure of genetic testing or genetic information
+pending the final resolution of any action under this Act.
+
+(Source: P.A. 98-1046, eff. 1-1-15.)
+
+|
+
+410 ILCS 513/45
+
+(410 ILCS 513/45)
+
+Sec. 45.
+Damages or other relief.
+Nothing in this Act limits the right
+of the subject of a
+test to recover damages or other relief under
+any other applicable law.
+
+(Source: P.A. 90-25, eff. 1-1-98.)
+
+|
+
+410 ILCS 513/50
+
+(410 ILCS 513/50)
+
+Sec. 50. Home rule. Any home rule unit of local government, any non-home rule municipality, or any non-home rule county within the unincorporated territory of the county may enact ordinances, standards, rules, or regulations that protect genetic information and genetic testing in a manner or to an extent equal to or greater than the protection provided in this Act. This Section is a limitation on the concurrent exercise of home rule power under subsection (i) of Section 6 of Article VII of the Illinois Constitution.
+
+(Source: P.A. 95-927, eff. 1-1-09.)
+|
+
+410 ILCS 513/91
+
+(410 ILCS 513/91)
+
+Sec. 91.
+(Amendatory provisions; text omitted).
+
+(Source: P.A. 90-25, eff. 1-1-98; text omitted.)
+
+|
+
+410 ILCS 513/93
+
+(410 ILCS 513/93)
+
+Sec. 93.
+(Amendatory provisions; text omitted).
+
+(Source: P.A. 90-25, eff. 1-1-98.)
+
+|
+
+410 ILCS 513/95
+
+(410 ILCS 513/95)
+
+Sec. 95.
+(Amendatory provisions; text omitted).
+
+(Source: P.A. 90-25, eff. 1-1-98; text omitted.)
+
+|
+
+410 ILCS 513/97
+
+(410 ILCS 513/97)
+
+Sec. 97.
+(Amendatory provisions; text omitted).
+
+(Source: P.A. 90-25, eff. 1-1-98; text omitted.)
+
+|
+
+Top
+
+|
+
+Home |
+Legislation & Laws |
+House |
+Senate |
+My Legislation |
+Disclaimers |
+Email
+|
+
+|
+
+|
+
+This site is maintained for the Illinois General Assembly
+by the
+
+Legislative Information System, 705 Stratton Building, Springfield, Illinois 62706
+
+Contact ILGA Webmaster
+
+|
+
+|
+
+|

@@ -1,0 +1,1844 @@
+1c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+The
+Freedom of Information
+and
+Protection of Privacy
+Act
+being
+Chapter F‑22.01 of the Statutes of Saskatchewan, 1990-91,
+as amended by the Statutes of Saskatchewan, 1992, c 62;
+1994, c 27; 1997, c T‑22.2; 1998, c P‑42.1; 1999, c H‑0.021; 2001, c 50;
+2003, c 29; 2004, c A‑26.1, c T‑18.1 and c 5; 2005, c L‑11.2 and c 25;
+2006, c 19; 2008, c V‑7.3; 2009, c 5 and c 32; 2013, c W‑17.11; 2014,
+c E‑13.1 and c 29; 2015, c A‑26.11, c 16, c 21 and c 33; 2017, c 12; 2018,
+c 42; 2019, c 18 and c 28; 2023, c 15; and 2024, c 4.
+NOTE:
+This consolidation is not official. Amendments have been
+incorporated for convenience of reference and the original statutes
+and regulations should be consulted for all purposes of interpretation
+and application of the law. In order to preserve the integrity of the
+original statutes and regulations, errors that may have appeared
+are reproduced in this consolidation.
+2c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+Table of Content
+PART I
+Short Title, Interpretation and Application
+1 Short title
+2 Interpretation
+3 Application
+4 Existing rights preserved
+PART II
+Access to Records
+5 Right of access
+5.1 Duty of government institution to assist
+6 Application
+7 Response required
+7.1 Applications deemed abandoned
+8 Severability
+9 Fee
+10 Manner of access
+11 Transfer of application
+12 Extension of time
+PART III
+Exemptions
+13 Records from other governments
+14 Information injurious to intergovernmental
+relations or national defence
+15 Law enforcement and investigations
+16 Cabinet documents
+17 Advice from officials
+18 Economic and other interests
+19 Third party information
+20 Testing procedures, tests and audits
+21 Danger to health or safety
+22 Solicitor‑client privilege
+23 Confidentiality provisions in other enactments
+PART IV
+Protection of Privacy
+24 Interpretation
+24.1 Duty of government institution to protect
+24.2 Information management service provider
+25 Purpose of information
+26 Manner of collection
+27 Standard of accuracy
+28 Use of personal information
+29 Disclosure of personal information
+29.1 Notification
+30 Personal information of deceased individual
+31 Individual’s access to personal information
+32 Right of correction
+33 Privacy powers of commissioner
+PART V
+Third Party Intervention
+34 Notice to third party
+35 Waiver of notice
+36 Right to make representations
+37 Decision
+PART VI
+Information and Privacy Commissioner
+38 Appointment of commissioner
+39 Removal or suspension
+40 Suspension when Legislative Assembly not in session
+40.1 Acting commissioner
+41 Salary of commissioner
+42 Application of certain Acts to commissioner
+43 Staff of commissioner
+43.1 Human resources and financial management policies
+43.2 Expenses limited to appropriation
+43.3 Quarterly financial forecasts
+43.4 Unprovided for or unforeseen expenses
+44 Oath or affirmation
+45 General powers of commissioner
+45.1 Power to authorize a government institution
+to disregard applications or requests
+46 Confidentiality
+47 Non‑compellability
+PART VII
+Review and Appeal
+48 Interpretation of Part
+49 Application for review
+50 Review or refusal to review
+51 Notice of intention to investigate or review
+52 Notice of application for review
+53 Conduct of review
+54 Powers of commissioner
+55 Report of commissioner
+56 Decision of head
+57 Appeal to court
+58 Powers of court on appeal
+PART VIII
+General
+59 Exercise of rights by other persons
+60 Delegation
+61 Burden of proof
+62 Annual report
+63 Minister’s report
+64 Repealed
+65 Access to manuals
+65.1 Records available without an application
+66 Proceedings prohibited
+67 Immunity from prosecution
+68 Offence
+69 Regulations
+70 Coming into force
+3c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+CHAPTER F-22.01
+An Act respecting a right of access to documents of the Government
+of Saskatchewan and a right of privacy with respect to personal
+information held by the Government of Saskatchewan
+PART I
+Short Title, Interpretation and Application
+Short title
+1 This Act may be cited as The Freedom of Information and Protection of Privacy
+Act.
+Interpretation
+2(1) In this Act:
+(a) “applicant” means a person who makes an application for access to a
+record pursuant to section 6;
+(b) “commissioner” means the Information and Privacy Commissioner
+appointed pursuant to Part VI and includes any acting commissioner appointed
+pursuant to that Part;
+(b.1) “employee of a government institution” means an individual
+employed by a government institution and includes an individual retained
+under a contract to perform services for the government institution;
+(c) “fiscal year” means the period commencing on April 1 in one year and
+ending on March 31 in the following year;
+(d) “government institution” means, subject to subsection (2):
+(i) the office of Executive Council or any department, secretariat or other
+similar agency of the executive government of Saskatchewan; or
+(ii) any prescribed board, commission, Crown corporation or other body,
+or any prescribed portion of a board, commission, Crown corporation or
+other body, whose members or directors are appointed, in whole or in part:
+(A) by the Lieutenant Governor in Council;
+(B) by a member of the Executive Council; or
+(C) in the case of:
+(I) a board, commission or other body, by a Crown corporation;
+or
+(II) a Crown corporation, by another Crown corporation;
+4c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(e) “head” means:
+(i) in the case of an agency mentioned in subclause (d)(i), the member of
+the Executive Council responsible for the administration of the agency;
+and
+(ii) in the case of a board, commission, Crown corporation or body
+mentioned in subclause (d)(ii), the prescribed person;
+(e.1) “information management service provider” means a person who
+or body that:
+(i) processes, stores, archives or destroys records of a government
+institution containing personal information; or
+(ii) provides information management or information technology services
+to a government institution with respect to records of the government
+institution containing personal information;
+(f) “minister” means the member of the Executive Council to whom for the
+time being the administration of this Act is assigned;
+(g) “personal information” means personal information within the meaning
+of section 24;
+(h) “prescribed” means prescribed in the regulations;
+(i) “record” means a record of information in any form and includes informa‑
+tion that is written, photographed, recorded or stored in any manner, but does
+not include computer programs or other mechanisms that produce records;
+(j) “third party” means a person, including an unincorporated entity, other
+than an applicant or a government institution.
+(2) “Government institution” does not include:
+(a) a corporation the share capital of which is owned in whole or in part by a
+person other than the Government of Saskatchewan or an agency of it;
+(b) the Legislative Assembly Service or, subject to subsections 3(3) and (4),
+offices of members of the Assembly or members of the Executive Council; or
+(c) the Court of Appeal, the Court of King’s Bench or the Provincial Court of
+Saskatchewan.
+1990‑91, c F‑22.01, s 2; 1992, c 62, s 25; 1994,
+c 27, s 25; 2005, c L‑11.2, s 97; 2015, c 16, s 4;
+2017, c 12, s 3; 2018, c 42, s 65; 2024, c4, s 32.
+Application
+3(1) This Act does not apply to:
+(a) published material or material that is available for purchase by the public;
+(b) material that is a matter of public record; or
+(c) material that is placed in the custody of the Provincial Archives of
+Saskatchewan by or on behalf of persons or organizations other than
+government institutions.
+5c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(2) This Act binds the Crown.
+(3) Subject to the regulations, the following sections apply, with any necessary
+modification, to offices of members of the Assembly and their employees as if the
+members and their offices were government institutions:
+(a) sections 24 to 30;
+(b) section 33.
+(4) Subject to the regulations, the following sections apply, with any necessary
+modification, to offices of members of the Executive Council and their employees as
+if the members and their offices were part of the government institution for which
+the member of the Executive Council serves as the head:
+(a) sections 24 and 24.1;
+(b) sections 25 to 30;
+(c) section 33.
+1990‑91, c F‑22.01, s 3; 2015, c A‑26.11, s 42;
+2017, c 12, s 4.
+Existing rights preserved
+4 This Act:
+(a) complements and does not replace existing procedures for access to
+government information or records;
+(b) does not in any way limit access to the type of government information
+or records that is normally available to the public;
+(c) does not limit the information otherwise available by law to a party to
+litigation;
+(d) does not affect the power of any court or tribunal to compel a witness to
+testify or to compel the production of documents;
+(e) does not prohibit the transfer, storage or destruction of any record in
+accordance with any other Act or any regulation;
+(f) does not prevent access to a registry operated by a government institution
+where access to the registry is normally allowed to the public.
+1990‑91, c F‑22.01, s 4.
+PART II
+Access to Records
+Right of access
+5 Subject to this Act and the regulations, every person has a right to and, on an
+application made in accordance with this Part, shall be permitted access to records
+that are in the possession or under the control of a government institution.
+1990‑91, c F‑22.01, s 5.
+6c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+Duty of government institution to assist
+5.1(1) Subject to this Act and the regulations, a government institution shall
+respond to a written request for access openly, accurately and completely.
+(2) On the request of an applicant, the government institution shall:
+(a) provide an explanation of any term, code or abbreviation used in the
+information; or
+(b) if the government institution is unable to provide an explanation in
+accordance with clause (a), endeavour to refer the applicant to a government
+institution that is able to provide an explanation.
+2017, c 12, s 5.
+Application
+6(1) An applicant shall:
+(a) make the application in the prescribed form to the government institution
+in which the record containing the information is kept; and
+(b) specify the subject matter of the record requested with sufficient
+particularity as to time, place and event to enable an individual familiar with
+the subject‑matter to identify the record.
+(2) Subject to subsection (4) and subsection 11(3), an application is deemed to be
+made when the application is received by the government institution to which it
+is directed.
+(3) Where the head is unable to identify the record requested, the head shall advise
+the applicant, and shall invite the applicant to supply additional details that might
+lead to identification of the record.
+(4) Where additional details are invited to be supplied pursuant to subsection (3),
+the application is deemed to be made when the record is identified.
+1990‑91, c F‑22.01, s 6; 2015, c 21, s 64.
+Response required
+7(1) Where an application is made pursuant to this Act for access to a record, the
+head of the government institution to which the application is made shall:
+(a) consider the application and give written notice to the applicant of
+the head’s decision with respect to the application in accordance with sub‑
+section (2); or
+(b) transfer the application to another government institution in accordance
+with section 11.
+7c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(2) The head shall give written notice to the applicant within 30 days after the
+application is made:
+(a) stating that access to the record or part of it will be given on payment of
+the prescribed fee and setting out the place where, or manner in which, access
+will be available;
+(b) if the record requested is published, referring the applicant to the
+publication;
+(c) if the record is to be published within 90 days, informing the applicant of
+that fact and of the approximate date of publication;
+(d) stating that access is refused, setting out the reason for the refusal and
+identifying the specific provision of this Act on which the refusal is based;
+(e) stating that access is refused for the reason that the record does not exist;
+(f) stating that confirmation or denial of the existence of the record is refused
+pursuant to subsection (4); or
+(g) stating that the request has been disregarded pursuant to section 45.1,
+and setting out the reason for which the request was disregarded.
+(3) A notice given pursuant to subsection (2) is to state that the applicant may
+request a review by the commissioner within one year after the notice is given.
+(4) If an application is made with respect to a record that is exempt from access
+pursuant to section 15, 16, 21 or 22 or subsection 29(1), the head may refuse to
+confirm or deny that the record exists or ever did exist.
+(5) A head who fails to give notice pursuant to subsection (2) is deemed to have
+given notice, on the last day of the period set out in that subsection, of a decision to
+refuse to give access to the record.
+1990‑91, c F‑22.01, s 7; 2017, c 12, s 6.
+Applications deemed abandoned
+7.1(1) If the head has invited the applicant to supply additional details pursuant to
+subsection 6(3) or has given the applicant notice pursuant to clause 7(2)(a) and the
+applicant does not respond within 30 days after receiving the invitation or notice,
+the application is deemed to be abandoned.
+(2) The head shall provide the applicant with a notice advising that the application
+is deemed to be abandoned.
+(3) A notice provided pursuant to subsection (2) is to state that the applicant may
+request a review by the commissioner within one year after the notice is given.
+2017, c 12, s 7.
+8c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+Severability
+8 Where a record contains information to which an applicant is refused access, the
+head shall give access to as much of the record as can reasonably be severed without
+disclosing the information to which the applicant is refused access.
+1990‑91, c F‑22.01, s 8.
+Fee
+9(1) An applicant who is given notice pursuant to clause 7(2)(a) is entitled to obtain
+access to the record on payment of the prescribed fee.
+(2) Where the amount of fees to be paid by an applicant for access to records is
+greater than a prescribed amount, the head shall give the applicant a reasonable
+estimate of the amount, and the applicant shall not be required to pay an amount
+greater than the estimated amount.
+(3) Where an estimate is provided pursuant to subsection (2), the time within which
+the head is required to give written notice to the applicant pursuant to subsection 7(2)
+is suspended until the applicant notifies the head that the applicant wishes to
+proceed with the application.
+(4) Where an estimate is provided pursuant to subsection (2), the head may require
+the applicant to pay a deposit of an amount that does not exceed one‑half of the
+estimated amount before a search is commenced for the records for which access
+is sought.
+(5) Where a prescribed circumstance exists, the head may waive payment of all
+or any part of the prescribed fee.
+1990‑91, c F‑22.01, s 9.
+Manner of access
+10(1) If an applicant is entitled to access pursuant to subsection 9(1), a head shall
+provide the applicant with access to the record in accordance with this section.
+(2) Subject to subsection (3), if a record is in electronic form, a head shall give
+access to the record in electronic form if:
+(a) it can be produced using the normal computer hardware and software
+and technical expertise of the government institution;
+(b) producing it would not interfere unreasonably with the operations of the
+government institution; and
+(c) it is reasonably practicable to do so.
+(3) If a record is a microfilm, film, sound or video recording or machine‑readable
+record, a head may give access to the record:
+(a) by permitting the applicant to examine a transcript of the record;
+(b) by providing the applicant with a copy of the transcript of the record; or
+(c) in the case of a record produced for visual or aural reception, by permitting
+the applicant to view or hear the record or by providing the applicant with a
+copy of it.
+9c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(4) A head may give access to a record:
+(a) by providing the applicant with a copy of the record; or
+(b) if it is not reasonable to reproduce the record, by giving the applicant an
+opportunity to examine the record.
+2017, c 12, s 8.
+Transfer of application
+11(1) Where the head of the government institution to which an application is
+made considers that another government institution has a greater interest in the
+record, the head:
+(a) may, within 15 days after the application is made, transfer the application
+and, if necessary, the record to the other government institution; and
+(b) if a record is transferred pursuant to clause (a), shall give written notice
+of the transfer and the date of the transfer to the applicant.
+(2) For the purposes of this section, a government institution has a greater interest
+in a record if:
+(a) the record was originally prepared in or for the government institution; or
+(b) the government institution was the first government institution to obtain
+the record or a copy of the record.
+(3) For the purposes of section 7, an application that is transferred pursuant to
+subsection (1) is deemed to have been made to the government institution on the
+day of the transfer.
+1990‑91, c F‑22.01, s 11.
+Extension of time
+12(1) The head of a government institution may extend the period set out in section 7
+or 11 for a reasonable period not exceeding 30 days:
+(a) where:
+(i) the application is for access to a large number of records or necessitates
+a search through a large number of records; or
+(ii) there is a large number of requests;
+and completing the work within the original period would unreasonably
+interfere with the operations of the government institution;
+(b) where consultations that are necessary to comply with the application
+cannot reasonably be completed within the original period; or
+(c) where a third party notice is required to be given pursuant to
+subsection 34(1).
+(2) A head who extends a period pursuant to subsection (l) shall give notice of the
+extension to the applicant within 30 days after the application is made.
+(3) Within the period of extension, the head shall give written notice to the applicant
+in accordance with section 7.
+1990‑91, c F‑22.01, s 12.
+10c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+PART III
+Exemptions
+Records from other governments
+13(1) A head shall refuse to give access to information contained in a record that
+was obtained in confidence, implicitly or explicitly, from:
+(a) the Government of Canada or its agencies, Crown corporations or other
+institutions;
+(b) the government of another province or territory of Canada, or its agencies,
+Crown corporations or other institutions;
+(c) the government of a foreign jurisdiction or its institutions; or
+(d) an international organization of states or its institutions;
+unless the government or institution from which the information was obtained
+consents to the disclosure or makes the information public.
+(2) A head may refuse to give access to information contained in a record that was
+obtained in confidence, implicitly or explicitly, from a local authority as defined in
+the regulations.
+1990‑91, c F‑22.01, s 13.
+Information injurious to intergovernmental relations or national defence
+14 A head may refuse to give access to a record, the release of which could
+reasonably be expected to prejudice, interfere with or adversely affect:
+(a) relations between the Government of Saskatchewan and another
+government; or
+(b) the defence or security of Canada or of any foreign state allied or associated
+with Canada.
+1990‑91, c F‑22.01, s 14.
+Law enforcement and investigations
+15(1) A head may refuse to give access to a record, the release of which could:
+(a) prejudice, interfere with or adversely affect the detection, investigation,
+prevention or prosecution of an offence or the security of a centre of lawful
+detention;
+(a.1) prejudice, interfere with or adversely affect the detection, investigation
+or prevention of an act or omission that might constitute a terrorist activity
+as defined in the Criminal Code;
+(b) be injurious to the enforcement of:
+(i) an Act or a regulation; or
+(ii) an Act of the Parliament of Canada or a regulation made pursuant
+to an Act of the Parliament of Canada;
+(c) interfere with a lawful investigation or disclose information with respect
+to a lawful investigation;
+11c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(d) be injurious to the Government of Saskatchewan or a government
+institution in the conduct of existing or anticipated legal proceedings;
+(e) reveal investigative techniques or procedures currently in use or likely
+to be used;
+(f) disclose the identity of a confidential source of information or disclose
+information furnished by that source with respect to a lawful investigation or
+a law enforcement matter;
+(g) deprive a person of a fair trial or impartial adjudication;
+(h) facilitate the escape from custody of an individual who is under lawful
+detention;
+(i) reveal law enforcement intelligence information;
+(j) facilitate the commission of an offence or tend to impede the detection of
+an offence;
+(k) interfere with a law enforcement matter or disclose information respecting
+a law enforcement matter;
+(k.1) endanger the life or physical safety of a law enforcement officer or any
+other person;
+(k.2) reveal any information relating to or used in the exercise of prosecutorial
+discretion;
+(k.3) reveal a record that has been seized by a law enforcement officer in
+accordance with an Act or Act of Parliament;
+(l) reveal technical information relating to weapons or potential weapons; or
+(m) reveal the security arrangements of particular vehicles, buildings or
+other structures or systems, including computer or communication systems, or
+methods employed to protect those vehicles, buildings, structures or systems.
+(2) Subsection (1) does not apply to a record that:
+(a) provides a general outline of the structure or programs of a law
+enforcement agency; or
+(b) reports, by means of statistical analysis or otherwise, on the degree of
+success achieved in a law enforcement program.
+1990‑91, c F‑22.01, s 15; 2003, c 29, s 30; 2017,
+c 12, s 9.
+Cabinet documents
+16(1) A head shall refuse to give access to a record that discloses a confidence of
+the Executive Council, including:
+(a) records created to present advice, proposals, recommendations, analyses
+or policy options to the Executive Council or any of its committees;
+12c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(b) agendas or minutes of the Executive Council or any of its committees, or
+records that record deliberations or decisions of the Executive Council or any
+of its committees;
+(c) records of consultations among members of the Executive Council on
+matters that relate to the making of government decisions or the formulation
+of government policy, or records that reflect those consultations;
+(d) records that contain briefings to members of the Executive Council in
+relation to matters that:
+(i) are before, or are proposed to be brought before, the Executive Council
+or any of its committees; or
+(ii) are the subject of consultations described in clause (c).
+(2) Subject to section 30, a head shall not refuse to give access pursuant to
+subsection (1) to a record where:
+(a) the record has been in existence for more than 25 years; or
+(b) consent to access is given by:
+(i) the President of the Executive Council for which, or with respect to
+which, the record has been prepared; or
+(ii) in the absence or inability to act of the President, by the next senior
+member of the Executive Council who is present and able to act.
+1990‑91, c F‑22.01, s 16.
+Advice from officials
+17(1) Subject to subsection (2), a head may refuse to give access to a record that
+could reasonably be expected to disclose:
+(a) advice, proposals, recommendations, analyses or policy options developed
+by or for a government institution or a member of the Executive Council;
+(b) consultations or deliberations involving:
+(i) officers or employees of a government institution;
+(ii) a member of the Executive Council; or
+(iii) the staff of a member of the Executive Council;
+(c) positions, plans, procedures, criteria or instructions developed for the
+purpose of contractual or other negotiations by or on behalf of the Government
+of Saskatchewan or a government institution, or considerations that relate to
+those negotiations;
+(d) plans that relate to the management of personnel or the administration
+of a government institution and that have not yet been implemented;
+(e) contents of draft legislation or subordinate legislation;
+13c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(f) agendas or minutes of:
+(i) a board, commission, Crown corporation or other body that is a
+government institution; or
+(ii) a prescribed committee of a government institution mentioned in
+subclause (i); or
+(g) information, including the proposed plans, policies or projects of a
+government institution, the disclosure of which could reasonably be expected
+to result in disclosure of a pending policy or budgetary decision.
+(2) This section does not apply to a record that:
+(a) has been in existence for more than 25 years;
+(b) is an official record that contains a statement of the reasons for a decision
+that is made in the exercise of a discretionary power or an adjudicative function;
+(c) is the result of product or environmental testing carried out by or for a
+government institution, unless the testing was conducted:
+(i) as a service to a person, a group of persons or an organization other
+than a government institution, and for a fee; or
+(ii) as preliminary or experimental tests for the purpose of:
+(A) developing methods of testing; or
+(B) testing products for possible purchase;
+(d) is a statistical survey;
+(e) is the result of background research of a scientific or technical nature
+undertaken in connection with the formulation of a policy proposal; or
+(f) is:
+(i) an instruction or guide‑line issued to the officers or employees of a
+government institution; or
+(ii) a substantive rule or statement of policy that has been adopted by a
+government institution for the purpose of interpreting an Act or regulation
+or administering a program or activity of a government institution.
+(3) A head may refuse to give access to any report, statement, memorandum,
+recommendation, document, information, data or record, within the meaning of
+section 10 of The Evidence Act, that, pursuant to that section, is not admissible as
+evidence in any legal proceeding.
+1990‑91, c F‑22.01, s 17; 2006, c 19, s 7; 2009, c 5,
+s 14.
+Economic and other interests
+18(1) A head may refuse to give access to a record that could reasonably be expected
+to disclose:
+(a) trade secrets;
+14c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(b) financial, commercial, scientific, technical or other information:
+(i) in which the Government of Saskatchewan or a government
+institution has a proprietary interest or a right of use; and
+(ii) that has monetary value or is reasonably likely to have monetary
+value;
+(c) scientific or technical information obtained through research by an
+employee of a government institution, the disclosure of which could reasonably
+be expected to deprive the employee of priority of publication;
+(d) information, the disclosure of which could reasonably be expected
+to interfere with contractual or other negotiations of the Government of
+Saskatchewan or a government institution;
+(e) positions, plans, procedures, criteria or instructions developed for the
+purpose of contractual or other negotiations by or on behalf of the Government
+of Saskatchewan or a government institution, or considerations that relate to
+those negotiations;
+(f) information, the disclosure of which could reasonably be expected to
+prejudice the economic interest of the Government of Saskatchewan or a
+government institution;
+(g) information, the disclosure of which could reasonably be expected to be
+injurious to the ability of the Government of Saskatchewan to manage the
+economy of Saskatchewan; or
+(h) information, the disclosure of which could reasonably be expected to result
+in an undue benefit or loss to a person.
+(2) A head shall not refuse, pursuant to subsection (1), to give access to a record
+that contains the results of product or environmental testing carried out by or for
+a government institution, unless the testing was conducted:
+(a) as a service to a person, a group of persons or an organization other than
+a government institution, and for a fee; or
+(b) as preliminary or experimental tests for the purpose of:
+(i) developing methods of testing; or
+(ii) testing products for possible purchase.
+1990‑91, c F‑22.01, s 18.
+15c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+Third party information
+19(1) Subject to Part V and this section, a head shall refuse to give access to a
+record that contains:
+(a) trade secrets of a third party;
+(b) financial, commercial, scientific, technical or labour relations information
+that is supplied in confidence, implicitly or explicitly, to a government
+institution by a third party;
+(c) information, the disclosure of which could reasonably be expected to:
+(i) result in financial loss or gain to;
+(ii) prejudice the competitive position of; or
+(iii) interfere with the contractual or other negotiations of;
+a third party;
+(d) a statement of a financial account relating to a third party with respect
+to the provision of routine services from a government institution;
+(e) a statement of financial assistance provided to a third party by a prescribed
+Crown corporation that is a government institution; or
+(f) information supplied by a third party to support an application for financial
+assistance mentioned in clause (e).
+(2) A head may give access to a record that contains information described in
+subsection (1) with the written consent of the third party to whom the information
+relates.
+(3) Subject to Part V, a head may give access to a record that contains information
+described in subsection (1) if:
+(a) disclosure of that information could reasonably be expected to be in the
+public interest as it relates to public health, public safety or protection of the
+environment; and
+(b) the public interest in disclosure could reasonably be expected to clearly
+outweigh in importance any:
+(i) financial loss or gain to;
+(ii) prejudice to the competitive position of; or
+(iii) interference with contractual or other negotiations of;
+a third party.
+1990‑91, c F‑22.01, s 19.
+16c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+Testing procedures, tests and audits
+20 A head may refuse to give access to a record that contains information
+relating to:
+(a) testing or auditing procedures or techniques; or
+(b) details of specific tests to be given or audits to be conducted;
+if disclosure could reasonably be expected to prejudice the use or results of particular
+tests or audits.
+1990‑91, c F‑22.01, s 20.
+Danger to health or safety
+21 A head may refuse to give access to a record if the disclosure could threaten
+the safety or the physical or mental health of an individual.
+1990‑91, c F‑22.01, s 21.
+Solicitor-client privilege
+22 A head may refuse to give access to a record that:
+(a) contains any information that is subject to any privilege that is available
+at law, including solicitor‑client privilege;
+(b) was prepared by or for an agent of the Attorney General for Saskatchewan
+or legal counsel for a government institution in relation to a matter involving
+the provision of advice or other services by the agent or legal counsel; or
+(c) contains correspondence between an agent of the Attorney General for
+Saskatchewan or legal counsel for a government institution and any other
+person in relation to a matter involving the provision of advice or other services
+by the agent or legal counsel.
+1990‑91, c F‑22.01, s 22; 2017, c 12, s 10.
+Confidentiality provisions in other enactments
+23(1) Where a provision of:
+(a) any other Act; or
+(b) a regulation made pursuant to any other Act;
+that restricts or prohibits access by any person to a record or information in the
+possession or under the control of a government institution conflicts with this Act or
+the regulations made pursuant to it, the provisions of this Act and the regulations
+made pursuant to it shall prevail.
+(2) Subject to subsection (3), subsection (1) applies notwithstanding any provision in
+the other Act or regulation that states that the provision is to apply notwithstanding
+any other Act or law.
+(3) Subsection (1) does not apply to the following provisions, and those provisions
+prevail:
+(a) The Adoption Act, 1998;
+(b) section 31 of The Archives and Public Records Management Act;
+17c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(c) sections 74 and 74.1 of The Child and Family Services Act;
+(d) section 14 of The Enforcement of Maintenance Orders Act, 1997;
+(e) The Health Information Protection Act;
+(f) section 91.1 of The Police Act, 1990;
+(g) section 11 of The Proceedings Against the Crown Act, 2019;
+(h) section 15 of The Securities Act, 1988;
+(i) sections 40.1, 97 and 283 of The Traffic Safety Act;
+(j) section 61 of The Trust and Loan Corporations Act, 1997;
+(k) Part VIII of The Vital Statistics Act, 2009;
+(l) Repealed. 2019, c 28, s 12.
+(m) any prescribed Act or prescribed provisions of an Act; or
+(n) any prescribed regulation or prescribed provisions of a regulation.
+1990‑91, c F‑22.01, s 23; 1997, c T‑22.2, s 90;
+1999, c H‑0.021, s 66; 2004, c A‑26.1, s 36;
+2004, c T‑18.1, s 300; 2004, c 5, s 3; 2005, c 25,
+s 37; 2008, c V‑7.3, s 16; 2009, c 32, s 4; 2013,
+c W‑17.11, s 192; 2014, c 29, s 31; 2015, c A‑26.11,
+s 42; 2015, c 33, s 21; 2017, c 12, s 11; 2019, c 18,
+s 3; 2019, c 28, s 12; 2023, c15, s 26.
+PART IV
+Protection of Privacy
+Interpretation
+24(1) Subject to subsections (1.1) and (2), “personal information” means
+personal information about an identifiable individual that is recorded in any form,
+and includes:
+(a) information that relates to the race, creed, religion, colour, sex, sexual
+orientation, family status or marital status, disability, age, nationality, ancestry
+or place of origin of the individual;
+(b) information that relates to the education or the criminal or employment
+history of the individual or information relating to financial transactions in
+which the individual has been involved;
+(c) Repealed. 1999, c H‑0.021, s 66.
+(d) any identifying number, symbol or other particular assigned to the
+individual, other than the individual’s health services number as defined in
+The Health Information Protection Act;
+(e) the home or business address, home or business telephone number or
+fingerprints of the individual;
+(f) the personal opinions or views of the individual except where they are
+about another individual;
+18c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(g) correspondence sent to a government institution by the individual that
+is implicitly or explicitly of a private or confidential nature, and replies to the
+correspondence that would reveal the content of the original correspondence,
+except where the correspondence contains the views or opinions of the
+individual with respect to another individual;
+(h) the views or opinions of another individual with respect to the individual;
+(i) information that was obtained on a tax return or gathered for the purpose
+of collecting a tax;
+(j) information that describes an individual’s finances, assets, liabilities, net
+worth, bank balance, financial history or activities or credit worthiness; or
+(k) the name of the individual where:
+(i) it appears with other personal information that relates to the
+individual; or
+(ii) the disclosure of the name itself would reveal personal information
+about the individual.
+(1.1) Subject to subsection (1.2), “personal information” does not include information
+that constitutes personal health information as defined in The Health Information
+Protection Act.
+(1.2) Personal health information in the possession or control of the Workers’
+Compensation Board is personal information for the purposes of this Act.
+(2) “Personal information” does not include information that discloses:
+(a) the classification, salary, discretionary benefits or employment
+responsibilities of an individual who is or was an officer or employee of a
+government institution or a member of the staff of a member of the Executive
+Council;
+(b) the salary or benefits of a legislative secretary or a member of the Executive
+Council;
+(c) the personal opinions or views of an individual employed by a government
+institution given in the course of employment, other than personal opinions or
+views with respect to another individual;
+(d) financial or other details of a contract for personal services;
+(e) details of a licence, permit or other similar discretionary benefit granted
+to an individual by a government institution;
+(f) details of a discretionary benefit of a financial nature granted to an
+individual by a government institution;
+(g) expenses incurred by an individual travelling at the expense of a
+government institution.
+19c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(3) Notwithstanding clauses (2)(e) and (f), “personal information” includes
+information that:
+(a) is supplied by an individual to support an application for a discretionary
+benefit; and
+(b) is personal information within the meaning of subsection (1).
+1990‑91, c F‑22.01, s 24; 1999, c H‑0.021, s 66;
+2001, c 50, s 5; 2019, c 28, s 12.
+Duty of government institution to protect
+24.1 Subject to the regulations, a government institution shall establish policies
+and procedures to maintain administrative, technical and physical safeguards that:
+(a) protect the integrity, accuracy and confidentiality of the personal
+information in its possession or under its control;
+(b) protect against any reasonably anticipated:
+(i) threat or hazard to the security or integrity of the personal information
+in its possession or under its control;
+(ii) loss of the personal information in its possession or under its control;
+or
+(iii) unauthorized access to or use, disclosure or modification of the
+personal information in its possession or under its control; and
+(c) otherwise ensure compliance with this Act by its employees.
+2017, c 12, s 12.
+Information management service provider
+24.2(1) A government institution may provide personal information to an
+information management service provider for the purposes of:
+(a) having the information management service provider process, store,
+archive or destroy the personal information for the government institution;
+(b) enabling the information management service provider to provide
+the government institution with information management or information
+technology services;
+(c) having the information management service provider take possession or
+control of the personal information;
+(d) combining records containing personal information; or
+(e) providing consulting services.
+20c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(2) Before disclosing personal information to an information management service
+provider, a government institution shall enter into a written agreement with the
+information management service provider that:
+(a) governs the access to and use, disclosure, storage, archiving, modification
+and destruction of the personal information;
+(b) provides for the protection of the personal information; and
+(c) meets the requirements of this Act and the regulations.
+(3) An information management service provider shall not obtain access to, use,
+disclose, process, store, archive, modify or destroy personal information received
+from a government institution except for the purposes set out in subsection (1).
+(4) An information management service provider shall comply with the terms and
+conditions of the agreement entered into pursuant to subsection (2).
+2017, c 12, s 12.
+Purpose of information
+25 No government institution shall collect personal information unless the
+information is collected for a purpose that relates to an existing or proposed program
+or activity of the government institution.
+1990‑91, c F‑22.01, s 25.
+Manner of collection
+26(1) A government institution shall, where reasonably practicable, collect personal
+information directly from the individual to whom it relates, except where:
+(a) the individual authorizes collection by other methods;
+(b) the information is information that may be disclosed to the government
+institution pursuant to subsection 29(2);
+(c) the information:
+(i) is collected in the course of, or pertains to, law enforcement activities,
+including the detection, investigation, prevention or prosecution of an
+offence and the enforcement of:
+(A) an Act or a regulation; or
+(B) an Act of the Parliament of Canada or a regulation made
+pursuant to an Act of the Parliament of Canada; or
+(ii) pertains to:
+(A) the history, release or supervision of persons in custody, on
+parole or on probation; or
+(B) the security of correctional institutions;
+(d) the information is collected for the purpose of commencing or conducting
+a proceeding or possible proceeding before a court or tribunal;
+21c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(e) the information is collected, and is necessary, for the purpose of:
+(i) determining the eligibility of an individual to:
+(A) participate in a program of; or
+(B) receive a product or service from;
+the Government of Saskatchewan or a government institution, in the
+course of processing an application made by or on behalf of the individual
+to whom the information relates; or
+(ii) verifying the eligibility of an individual who is participating in a
+program of or receiving a product or service from the Government of
+Saskatchewan or a government institution;
+(f) the information is collected for the purpose of:
+(i) management;
+(ii) audit; or
+(iii) administration of personnel;
+of the Government of Saskatchewan or one or more government institutions;
+(g) the commissioner has, pursuant to clause 33(c), authorized collection of
+the information in a manner other than directly from the individual to whom
+it relates; or
+(h) another manner of collection is authorized pursuant to another Act or a
+regulation.
+(2) A government institution that collects personal information that is required by
+subsection (1) to be collected directly from an individual shall inform the individual
+of the purpose for which the information is collected unless the information is
+exempted by the regulations from the application of this subsection.
+(3) Subsections (1) and (2) do not apply where compliance with them might result
+in the collection of inaccurate information or defeat the purpose or prejudice the
+use for which the information is collected.
+1990‑91, c F‑22.01, s 26.
+Standard of accuracy
+27 A government institution shall ensure that personal information being used
+by the government institution for an administrative purpose is as accurate and
+complete as is reasonably possible.
+1990‑91, c F‑22.01, s 27.
+22c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+Use of personal information
+28 No government institution shall use personal information under its control
+without the consent, given in the prescribed manner, of the individual to whom the
+information relates, except:
+(a) for the purpose for which the information was obtained or compiled, or
+for a use that is consistent with that purpose; or
+(b) for a purpose for which the information may be disclosed to the government
+institution pursuant to subsection 29(2).
+1990‑91, c F‑22.01, s 28.
+Disclosure of personal information
+29(1) No government institution shall disclose personal information in its
+possession or under its control without the consent, given in the prescribed manner,
+of the individual to whom the information relates except in accordance with this
+section or section 30.
+(2) Subject to any other Act or regulation, personal information in the possession
+or under the control of a government institution may be disclosed:
+(a) for the purpose for which the information was obtained or compiled by
+the government institution or for a use that is consistent with that purpose;
+(b) for the purpose of complying with:
+(i) a subpoena or warrant issued or order made by a court, person or
+body that has the authority to compel the production of information; or
+(ii) rules of court that relate to the production of information;
+(c) to the Attorney General for Saskatchewan or to his or her agent or legal
+counsel for use in providing legal services;
+(d) to legal counsel for a government institution for use in providing legal
+services to the government institution;
+(e) for the purpose of enforcing any legal right that the Government of
+Saskatchewan or a government institution has against any individual;
+(f) for the purpose of locating an individual in order to:
+(i) collect a debt owing to the Crown in right of Saskatchewan or to a
+government institution by that individual; or
+(ii) make a payment owing to that individual by the Crown in right of
+Saskatchewan or by a government institution;
+(g) to a prescribed law enforcement agency or a prescribed investigative body:
+(i) on the request of the law enforcement agency or investigative body;
+(ii) for the purpose of enforcing a law of Canada or a province or territory
+or carrying out a lawful investigation; and
+(iii) if any prescribed requirements are met;
+23c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(h) pursuant to an agreement or arrangement between the Government of
+Saskatchewan or a government institution and:
+(i) the Government of Canada or its agencies, Crown corporations or
+other institutions;
+(ii) the government of another province or territory of Canada, or its
+agencies, Crown corporations or other institutions;
+(iii) the government of a foreign jurisdiction or its institutions;
+(iv) an international organization of states or its institutions; or
+(v) a local authority as defined in the regulations;
+for the purpose of administering or enforcing any law or carrying out a lawful
+investigation;
+(h.1) for any purpose related to the detection, investigation or prevention of
+an act or omission that might constitute a terrorist activity as defined in the
+Criminal Code, to:
+(i) the Government of Canada or its agencies, Crown corporations or
+other institutions;
+(ii) the government of another province or territory of Canada, or its
+agencies, Crown corporations or other institutions;
+(iii) the government of a foreign jurisdiction or its institutions;
+(iv) an international organization of states or its institutions; or
+(v) a local authority as defined in the regulations;
+(i) for the purpose of complying with:
+(i) an Act or a regulation;
+(ii) an Act of the Parliament of Canada or a regulation made pursuant
+to an Act of the Parliament of Canada; or
+(iii) a treaty, agreement or arrangement made pursuant to an Act or an
+Act of the Parliament of Canada;
+(j) where disclosure is by a law enforcement agency:
+(i) to a law enforcement agency in Canada; or
+(ii) to a law enforcement agency in a foreign country;
+pursuant to an arrangement, a written agreement or treaty or to legislative
+authority;
+(k) to any person or body for research or statistical purposes if the head:
+(i) is satisfied that the purpose for which the information is to be
+disclosed is not contrary to the public interest and cannot reasonably be
+accomplished unless the information is provided in a form that would
+identify the individual to whom it relates; and
+24c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(ii) obtains from the person or body a written agreement not to make a
+subsequent disclosure of the information in a form that could reasonably
+be expected to identify the individual to whom it relates;
+(l) for the purpose of:
+(i) management;
+(ii) audit; or
+(iii) administration of personnel;
+of the Government of Saskatchewan or one or more government institutions;
+(m) where necessary to protect the mental or physical health or safety of
+any individual;
+(n) in compassionate circumstances, to facilitate contact with the next of kin
+or a friend of an individual who is injured, ill or deceased;
+(o) for any purpose where, in the opinion of the head:
+(i) the public interest in disclosure clearly outweighs any invasion of
+privacy that could result from the disclosure; or
+(ii) disclosure would clearly benefit the individual to whom the
+information relates;
+(p) if the information is publicly available, including information that is
+prescribed as publicly available;
+(q) to the office of the Provincial Auditor, or to any other prescribed person
+or body, for audit purposes;
+(r) to the Ombudsman;
+(s) to the commissioner;
+(t) for any purpose in accordance with any Act or regulation that authorizes
+disclosure; or
+(u) as prescribed in the regulations.
+(3) A government institution that is a telephone utility may disclose names,
+addresses and telephone numbers in accordance with customary practices.
+(4) Subject to any other Act or regulation, the Provincial Archivist may release
+personal information that is in the possession or under the control of the Provincial
+Archives of Saskatchewan where, in the opinion of the Provincial Archivist, the
+release would not constitute an unreasonable invasion of privacy.
+1990‑91, c F‑22.01, s 29; 2003, c 29, s 31; 2015,
+c A‑26.11, s 42; 2017, c 12, s 13; 2018, c 42, s 65.
+25c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+Notification
+29.1 A government institution shall take all reasonable steps to notify an individual
+of an unauthorized use or disclosure of that individual’s personal information by
+the government institution if it is reasonable in the circumstances to believe that
+the incident creates a real risk of significant harm to the individual.
+2017, c 12, s 14.
+Personal information of deceased individual
+30(1) Subject to subsection (2) and to any other Act, the personal information of
+a deceased individual shall not be disclosed until 25 years after the death of the
+individual.
+(2) Where, in the opinion of the head, disclosure of the personal information
+of a deceased individual to the individual’s next of kin would not constitute an
+unreasonable invasion of privacy, the head may disclose that personal information
+before 25 years have elapsed after the individual’s death.
+1990‑91, c F‑22.01, s 30.
+Individual’s access to personal information
+31(1) Subject to Part III and subsection (2), an individual whose personal
+information is contained in a record in the possession or under the control of a
+government institution has a right to, and:
+(a) on an application made in accordance with Part II; and
+(b) on giving sufficient proof of his or her identity;
+shall be given access to the record.
+(2) A head may refuse to disclose to an individual personal information that
+is evaluative or opinion material compiled solely for the purpose of determining
+the individual’s suitability, eligibility or qualifications for employment or for the
+awarding of government contracts and other benefits, where the information is
+provided explicitly or implicitly in confidence.
+1990‑91, c F‑22.01, s 31.
+Right of correction
+32(1) An individual who is given access to a record that contains personal
+information with respect to himself or herself is entitled:
+(a) to request correction of the personal information contained in the record
+if the person believes that there is an error or omission in it;
+(b) to require that a notation be made that a correction was requested but
+not made; or
+(c) if the request has been disregarded, to be advised of the reason for which
+it has been disregarded.
+26c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(2) Within 30 days after a request pursuant to clause (1)(a) is received, the head
+shall advise the individual in writing that:
+(a) the correction has been made;
+(b) a notation pursuant to clause (1)(b) has been made; or
+(c) the request has been disregarded, setting out the reason for which the
+request was disregarded pursuant to section 45.1.
+(3) Section 12 applies, with any necessary modification, to the extension of the
+period set out in subsection (2).
+1990‑91, c F‑22.01, s 32; 2017, c 12, s 15.
+Privacy powers of commissioner
+33 The commissioner may:
+(a) offer comment on the implications for privacy protection of proposed
+legislative schemes or government programs;
+(b) after hearing the head, recommend that a government institution:
+(i) cease or modify a specified practice of collecting, using or disclosing
+information that contravenes this Act; and
+(ii) destroy collections of personal information that is collected in
+contravention of this Act;
+(c) in appropriate circumstances, authorize the collection of personal
+information in a manner other than directly from the individual to whom it
+relates;
+(d) from time to time, carry out investigations with respect to personal
+information in the possession or under the control of government institutions
+to ensure compliance with this Part.
+1990‑91, c F‑22.01, s 33.
+PART V
+Third Party Intervention
+Notice to third party
+34(1) Where a head intends to give access to a record that the head has reason to
+believe may contain:
+(a) information described in subsection 19(1) that affects the interest of a
+third party; or
+(b) personal information that may be disclosed pursuant to clause 29(2)(o)
+and that relates to a third party;
+and, in the opinion of the head, the third party can reasonably be located, the head
+shall give written notice to the third party in accordance with subsection (2).
+27c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(2) The notice mentioned in subsection (1):
+(a) is to include:
+(i) a statement that:
+(A) an application for access to a record described in sub‑
+section (1) has been made; and
+(B) the head intends to give access to the record or to part of it;
+(ii) a description of the record that the head has reason to believe may
+contain:
+(A) information described in subsection 19(1) that affects the
+interest of the third party; or
+(B) personal information that may be disclosed pursuant to
+clause 29(2)(o) and that relates to the third party; and
+(iii) a statement that the third party may, within 20 days after the notice
+is given, make representations to the head as to why access to the record
+or part of the record should not be given; and
+(b) subject to subsection (3), is to be given within 30 days after the application
+is made.
+(3) Section 12 applies, with any necessary modification, to the extension of the
+period set out in clause (2)(b).
+(4) Where, in the opinion of the head, it is not reasonable to provide a notice to a
+third party pursuant to subsection (1), the head may dispense with the giving of
+notice.
+1990‑91, c F‑22.01, s 34.
+Waiver of notice
+35(1) A third party to whom a notice is required to be given pursuant to subsection 34(1)
+may waive the requirement for notice.
+(2) A third party who consents to the giving of access to a record containing
+information described in subsection 34(1) is deemed to have waived the requirement
+for notice.
+1990‑91, c F‑22.01, s 35.
+Right to make representations
+36(1) A third party who is given notice pursuant to subsection 34(1):
+(a) is entitled to make representations to the head as to why access to the
+record or part of the record should not be given; and
+(b) within 20 days after the notice is given, shall be given the opportunity to
+make those representations.
+(2) Representations made by a third party pursuant to clause (1)(b) shall be made
+in writing unless the head waives that requirement, in which case they may be
+made orally.
+1990‑91, c F‑22.01, s 36.
+28c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+Decision
+37(1) After a third party has been given an opportunity to make representations
+pursuant to clause 36(1)(b), the head shall, within 30 days after the notice is given:
+(a) decide whether or not to give access to the record or part of the
+record; and
+(b) give written notice of the decision to the third party and the applicant.
+(2) A notice given pursuant to clause (1)(b) is to include:
+(a) a statement that the third party and applicant are entitled to request
+a review pursuant to section 49 within 20 days after the notice is given; and
+(b) in the case of a decision to give access, a statement that the applicant
+will be given access to the record or to the part of it specified unless, within 20
+days after the notice is given, the third party requests a review pursuant to
+section 49.
+(3) Where, pursuant to clause (1)(a), the head decides to give access to the record
+or a specified part of it, the head shall give the applicant access to the record
+or the specified part unless, within 20 days after a notice is given pursuant to
+clause (1)(b), a third party requests a review pursuant to section 49.
+(4) A head who fails to give notice pursuant to clause (1)(b) is deemed to have
+given notice, on the last day of the period set out in subsection (1), of a decision to
+refuse to give access to the record.
+1990‑91, c F‑22.01, s 37.
+PART VI
+Information and Privacy Commissioner
+Appointment of commissioner
+38(1) The office of the Information and Privacy Commissioner is continued.
+(2) The commissioner is an Officer of the Legislative Assembly.
+(3) The commissioner shall be appointed by order of the Legislative Assembly.
+(4) Subject to sections 39 and 40, unless he or she resigns, dies or is removed from
+office, the commissioner holds office for a term of five years.
+(5) The commissioner may be reappointed for one additional term of five years.
+(6) The commissioner may resign the office at any time by giving written notice
+to the Speaker.
+2015, c 16, s 4.
+Removal or suspension
+39(1) The Legislative Assembly may, by order, remove the commissioner from
+office, or suspend the commissioner, for cause.
+29c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(2) If the commissioner is suspended pursuant to subsection (1), the Legislative
+Assembly, by order, shall appoint an acting commissioner to hold office until:
+(a) the suspension is revoked by the Legislative Assembly; or
+(b) the commissioner is removed from office by the Legislative Assembly
+pursuant to subsection (1) and a person is appointed as commissioner pursuant
+to section 38.
+2015, c 16, s 4.
+Suspension when Legislative Assembly not in session
+40(1) If the Legislative Assembly is not in session, the Board of Internal Economy
+may suspend the commissioner for incapacity to act, neglect of duty or misconduct
+that is proved to the satisfaction of the Board of Internal Economy.
+(2) No suspension imposed pursuant to subsection (1) continues past the end of
+the next session of the Legislative Assembly.
+(3) If the office of the commissioner is vacant or the commissioner is suspended
+pursuant to subsection (1), the Board of Internal Economy shall appoint an acting
+commissioner to hold office until:
+(a) a person is appointed as commissioner pursuant to section 38;
+(b) the suspension is revoked by the Legislative Assembly; or
+(c) the commissioner is removed from office by the Legislative Assembly
+pursuant to subsection 39(1) and a person is appointed as commissioner
+pursuant to section 38.
+(4) For the purposes of this section, the Legislative Assembly is not in session
+when it:
+(a) is prorogued or dissolved; or
+(b) is adjourned for an indefinite period or to a day more than seven days after
+the date on which the Board of Internal Economy made the order suspending
+the commissioner.
+2015, c 16, s 4.
+Acting commissioner
+40.1 If the commissioner has resigned or is ill or otherwise unable to act, the Board
+of Internal Economy may appoint another person as acting commissioner until:
+(a) the commissioner is able to act; or
+(b) another commissioner is appointed pursuant to this Act.
+2015, c 16, s 4.
+30c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+Salary of commissioner
+41(1) Subject to subsections (2) and (3), the commissioner is to be paid a salary
+equal to the average salary of all the deputy ministers and acting deputy ministers
+of the Government calculated as at April 1 in each year.
+(2) Any benefits or payments that may be characterized as deferred income,
+retirement allowances, separation allowances, severance allowances or payments
+in lieu of notice are not to be included in calculating the average salary of all the
+deputy ministers and acting deputy ministers pursuant to subsection (1).
+(3) If, as a result of a calculation made pursuant to subsection (1), the salary
+of the commissioner would be less than the commissioners previous salary, the
+commissioner is to be paid not less than his or her previous salary.
+(4) The commissioner is entitled to receive any benefits of office and economic
+adjustments that are provided generally to deputy ministers.
+(5) The commissioner is entitled to be paid an allowance for travel and other
+expenses incurred in the performance of the duties of the commissioner at a rate
+approved pursuant to The Public Service Act, 1998 for employees of the public service.
+(6) The salary of the commissioner shall be paid out of the general revenue fund.
+2015, c 16, s 4.
+Application of certain Acts to commissioner
+42(1) The Public Service Act, 1998 does not apply to the commissioner.
+(2) The Public Service Superannuation Act and The Superannuation (Supplementary
+Provisions) Act apply to the commissioner.
+1998, c P‑42.1, s 42.
+Staff of commissioner
+43(1) The commissioner may appoint the employees that are required in order to
+exercise the powers and perform the duties of the commissioner effectively.
+(2) The Public Service Superannuation Act and The Public Employees Pension
+Plan Act apply to the members of the staff of the commissioner.
+(3) Members of the staff of the commissioner are employees of the Legislative
+Assembly and are not members of the public service of Saskatchewan.
+(4) The employee benefits applicable to the public servants of Saskatchewan apply
+or continue to apply, as the case may be, to the staff of the commissioner’s office.
+(5) The commissioner shall:
+(a) administer, manage and control the commissioner’s office and the general
+business of the office; and
+(b) oversee and direct the staff of the commissioner’s office.
+2015, c 16, s 4.
+31c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+Human resources and financial management policies
+43.1 The commissioner shall:
+(a) prepare and maintain human resources and financial management policies
+that apply to his or her staff and operations; and
+(b) within the period set by the Board of Internal Economy, table with the
+Board a copy of the policies mentioned in clause (a).
+2015, c 16, s 4.
+Expenses limited to appropriation
+43.2(1) In this section, “appropriation” means:
+(a) an appropriation for the expenses of the commissioners office made by
+an Appropriation Act;
+(b) an appropriation by special warrant; and
+(c) any other amount that is permitted or directed to be paid out of the
+general revenue fund pursuant to this or any other Act for the expenses of the
+commissioner’s office.
+(2) The commissioner shall not incur expenses for a fiscal year in excess of the
+appropriation for that fiscal year.
+2015, c 16, s 4.
+Quarterly financial forecasts
+43.3 Within 30 days after the end of each quarter in each fiscal year, the
+commissioner shall prepare and present to the Board of Internal Economy financial
+forecasts respecting the commissioner’s actual and anticipated operations for that
+fiscal year.
+2015, c 16, s 4.
+Unprovided for or unforeseen expenses
+43.4(1) For the purposes of this section, the Legislative Assembly is not in session
+if it:
+(a) is prorogued; or
+(b) is adjourned for an indefinite period or to a day more than seven days after
+the Lieutenant Governor in Council made the order directing the preparation
+of the special warrant pursuant to this section.
+(2) If the Legislative Assembly is not in session, the commissioner may report to
+the Board of Internal Economy that:
+(a) a matter has arisen with respect to the administration of this Act
+respecting an expense required by the commissioner’s office that was not
+foreseen or provided for, or was insufficiently provided for; and
+(b) the commissioner is of the opinion that there is no appropriation for the
+expense or that the appropriation is exhausted or insufficient and that the
+expense is urgently and immediately required for the public good.
+32c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(3) On receipt of a report of the commissioner pursuant to subsection (2), the Board
+of Internal Economy:
+(a) shall review the report and make any alterations to the funding request
+in the report that the Board considers appropriate; and
+(b) may recommend to the Minister of Finance that a special warrant be issued
+authorizing the expense in the amount the Board determines to be appropriate.
+(4) On receipt of a recommendation of the Board of Internal Economy pursuant to
+subsection (3), the Minister of Finance shall recommend to the Lieutenant Governor
+in Council that a special warrant be issued authorizing the expense in the amount
+recommended by the Board.
+(5) On receipt of a recommendation of the Minister of Finance pursuant to
+subsection (4), the Lieutenant Governor in Council may order a special warrant to
+be prepared for the signature of the Lieutenant Governor authorizing the expense
+in the amount recommended by the Board of Internal Economy.
+(6) For the purposes of The Financial Administration Act, 1993 and this Act, a
+special warrant issued pursuant to this section is deemed to be a special warrant
+issued pursuant to section 14 of The Financial Administration Act, 1993, and that
+Act applies to a special warrant issued pursuant to this section as if it were issued
+pursuant to section 14 of that Act.
+2015, c 16, s 4.
+Oath or affirmation
+44(1) Before entering on the duties of office, the commissioner shall take and
+subscribe the prescribed oath or affirmation before the Speaker of the Assembly or
+the Clerk of the Assembly.
+(2) Before entering on the duties of office, every member of the staff of the
+commissioner shall take and subscribe the prescribed oath or affirmation before
+the commissioner.
+1990‑91, c F‑22.01, s 44.
+General powers of commissioner
+45(1) In this section, “extraprovincial, territorial or federal commissioner”
+means a person who, with respect to Canada or with respect to another province
+or territory of Canada, has duties, powers and functions similar to those of the
+commissioner.
+(2) The commissioner may:
+(a) engage in or commission research into matters affecting the carrying out
+of the purposes of this Act;
+(b) conduct public education programs and provide information concerning
+this Act and the commissioner’s role and activities;
+(c) receive representations concerning the operation of this Act;
+33c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(d) determine the procedure to be followed in the exercise of the powers or
+performance of any duties of the commissioner pursuant to this Act; and
+(e) exchange personal information with an extraprovincial, territorial or
+federal commissioner for the purpose of carrying out investigations with respect
+to personal information in the possession or under the control of government
+institutions or to conduct a review involving a government institution and at
+least one other jurisdiction.
+2017, c 12, s 16.
+Power to authorize a government institution to disregard applications or requests
+45.1(1) The head may apply to the commissioner to disregard one or more
+applications pursuant to section 6 or requests pursuant to section 32.
+(2) In determining whether to grant an application or request mentioned in
+subsection (1), the commissioner shall consider whether the application or request:
+(a) would unreasonably interfere with the operations of the government
+institution because of the repetitious or systematic nature of the application
+or request;
+(b) would amount to an abuse of the right of access or right of correction
+because of the repetitious or systematic nature of the application or request; or
+(c) is frivolous or vexatious, not in good faith or concerns a trivial matter.
+(3) The application pursuant to subsection 6(1) or the request pursuant to
+clause 32(1)(a) is suspended until the commissioner notifies the head of the
+commissioner’s decision with respect to an application or request mentioned in
+subsection (1).
+(4) If the commissioner grants an application or request mentioned in subsection (1),
+the application pursuant to subsection 6(1) or the request pursuant to clause 32(1) (a)
+is deemed to not have been made.
+(5) If the commissioner refuses an application or request mentioned in subsection (1),
+the 30‑day period mentioned in subsection 7(2) or subsection 32(2) resumes.
+2017, c 12, s 16.
+Confidentiality
+46(1) Subject to clause 45(2)(e), the commissioner shall not disclose any information
+that comes to the knowledge of the commissioner in the exercise of the powers,
+performance of the duties or carrying out of the functions of the commissioner
+pursuant to this Act.
+(2) Subsection (1) applies, with any necessary modification, to the staff of the
+commissioner and any contractors employed by the commissioner.
+(3) Notwithstanding subsection (1), the commissioner may disclose:
+(a) in the course of a review pursuant to section 49, any matter that the
+commissioner considers necessary to disclose to facilitate the review; and
+34c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(b) in a report prepared pursuant to this Act, any matter that the commissioner
+considers necessary to disclose to establish grounds for the findings and
+recommendations in the report.
+(4) When making a disclosure pursuant to subsection (3), the commissioner shall
+take every reasonable precaution to avoid disclosure, and shall not disclose:
+(a) any information or other material if the nature of the information or
+material could justify a refusal by a head to give access to a record or part of
+a record; or
+(b) any information as to whether a record exists if the head, in refusing to
+give access, does not indicate whether the record exists.
+(5) Notwithstanding subsection (1), the commissioner may disclose to the Attorney
+General for Saskatchewan or the Attorney General of Canada information that
+relates to the commission of an offence against:
+(a) an Act or a regulation; or
+(b) an Act of the Parliament of Canada or a regulation made pursuant to an
+Act of the Parliament of Canada;
+by an officer or employee of a government institution if, in the opinion of the
+commissioner, there is evidence of the commission of the offence.
+1990‑91, c F‑22.01, s 46; 2017, c 12, s 17.
+Non-compellability
+47(1) The commissioner is not compellable to give evidence in a court or in a
+proceeding of a judicial nature concerning any information that comes to the
+knowledge of the commissioner in the exercise of the powers, performance of the
+duties or carrying out of the functions of the commissioner pursuant to this Act.
+(2) Subsection (1) applies, with any necessary modification, to the staff of the
+commissioner and any contractors employed by the commissioner.
+(3) The commissioner, staff of the commissioner or any contractors employed by
+the commissioner may be a witness in or produce any documents relevant to the
+prosecution of an offence against this Act.
+1990‑91, c F‑22.01, s 47; 2017, c 12, s 18.
+PART VII
+Review and Appeal
+Interpretation of Part
+48 In this Part, “court” means the Court of King’s Bench.
+1990‑91, c F‑22.01, s 48; 2018, c 42, s 65; 2024,
+c4, s 32.
+35c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+Application for review
+49(1) Where:
+(a) an applicant is not satisfied with the decision of a head pursuant to
+section 7, 12 or 37;
+(a.1) an applicant is not satisfied that a reasonable fee was estimated pursuant
+to subsection 9(2);
+(a.2) an applicant believes that all or part of the fee estimated should be
+waived pursuant to subsection 9(5);
+(a.3) an applicant believes that an application was transferred to another
+government institution pursuant to subsection 11(1) and that government
+institution did not have a greater interest;
+(a.4) an individual believes that his or her personal information has not been
+collected, used or disclosed in accordance with this Act or the regulations;
+(b) a head fails to respond to an application for access to a record within the
+required time; or
+(c) an applicant requests a correction of personal information pursuant to
+clause 32(1)(a) and the correction is not made;
+the applicant or individual may apply in the prescribed form and manner to the
+commissioner for a review of the matter.
+(2) An applicant or individual may make an application pursuant to subsection (1)
+within one year after being given written notice of the decision of the head or of the
+expiration of the time mentioned in clause (1)(b).
+(3) A third party may apply in the prescribed form and manner to the commissioner
+for a review of a decision pursuant to section 37 to give access to a record that affects
+the interest of the third party.
+(4) A third party may make an application pursuant to subsection (3) within 20
+days after being given notice of the decision.
+1990‑91, c F‑22.01, s 49; 2017, c 12, s 19.
+Review or refusal to review
+50(1) Where the commissioner is satisfied that there are reasonable grounds to
+review any matter set out in an application pursuant to section 49, the commissioner
+shall review the matter.
+(2) The commissioner may refuse to conduct a review or may discontinue a review
+if, in the opinion of the commissioner, the application for review:
+(a) is frivolous or vexatious;
+(a.1) does not affect the applicant or individual personally;
+(a.2) has not moved forward as the applicant or individual has failed to
+respond to the requests of the commissioner;
+36c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(a.3) concerns a government institution that has an internal review process
+that has not been used;
+(a.4) concerns a professional who is governed by a professional body that
+regulates its members pursuant to an Act, and a complaints procedure available
+through the professional body has not been used;
+(a.5) may be considered pursuant to another Act that provides a review or
+other mechanism to challenge a government institution’s decision with respect
+to the collection, amendment, use or disclosure of personal information and
+that review or mechanism has not been used;
+(a.6) does not contain sufficient evidence;
+(a.7) has already been the subject of a report pursuant to section 55 by the
+commissioner;
+(b) is not made in good faith; or
+(c) concerns a trivial matter.
+1990‑91, c F‑22.01, s 50; 2017, c 12, s 20.
+Notice of intention to investigate or review
+51 The commissioner shall, immediately on commencing an investigation or review,
+inform the head of:
+(a) the commissioner’s intention to conduct an investigation or review; and
+(b) the substance of the investigation or application for review.
+2017, c 12, s 21.
+Notice of application for review
+52(1) A head who has refused an application for access to a record or part of a
+record shall, immediately on receipt of a notice of review pursuant to section 49,
+give written notice of the review to any third party that the head:
+(a) has notified pursuant to subsection 34(1); or
+(b) would have notified pursuant to subsection 34(1) if the head had intended
+to give access to the record or part of the record.
+(2) A head shall, immediately on receipt of a notice of review pursuant to
+section 49 by a third party, give written notice of the review to the applicant.
+1990‑91, c F‑22.01, s 52; 2017, c 12, s 22.
+Conduct of review
+53(1) The commissioner shall conduct every review in private.
+(2) The:
+(a) person who applies for a review;
+(b) third party or applicant who is entitled to notice pursuant to section 52; and
+(c) head whose decision is the subject of a review;
+are entitled to make representations to the commissioner in the course of the review.
+37c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(3) No one is entitled as of right:
+(a) to be present during a review; or
+(b) before or after a review:
+(i) to have access to; or
+(ii) to comment on;
+representations made to the commissioner by any other person.
+1990‑91, c F‑22.01, s 53.
+Powers of commissioner
+54(1) Notwithstanding any other Act or any privilege that is available at law, the
+commissioner may, in a review:
+(a) require to be produced and examine any record that is in the possession
+or under the control of a government institution; and
+(b) enter and inspect any premises occupied by a government institution.
+(2) For the purposes of conducting a review, the commissioner may summon and
+enforce the appearance of persons before the commissioner and compel them:
+(a) to give oral or written evidence on oath or affirmation; and
+(b) to produce any documents or things;
+that the commissioner considers necessary for a full review, in the same manner
+and to the same extent as the court.
+(3) For the purposes of subsection (2), the commissioner may administer an oath
+or affirmation.
+1990‑91, c F‑22.01, s 54.
+Report of commissioner
+55(1) On completing a review or investigation, the commissioner may prepare a
+written report setting out the commissioner’s recommendations with respect to the
+matter and the reasons for those recommendations.
+(2) If a report is prepared pursuant to subsection (1), the commissioner shall
+forward a copy of the report to the head and, if the matter was referred to the
+commissioner by:
+(a) an applicant or individual, to the applicant or individual and to any third
+party notified by the head pursuant to section 52; and
+(b) a third party, to the third party and to the applicant.
+(3) In the report mentioned in subsection (1), the commissioner may make any
+recommendations with respect to the matter under review or investigation that the
+commissioner considers appropriate.
+2017, c 12, s 23.
+38c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+Decision of head
+56 Within 30 days after receiving a report of the commissioner pursuant to
+subsection 55(1), a head shall:
+(a) make a decision to follow the recommendation of the commissioner or any
+other decision that the head considers appropriate; and
+(b) give written notice of the decision to the commissioner and the persons
+mentioned in subsection 55(2).
+1990‑91, c F‑22.01, s 56; 2017, c 12, s 24.
+Appeal to court
+57(1) Within 30 days after receiving a decision of the head pursuant to section 56,
+an applicant or individual or a third party may appeal that decision to the court.
+(2) A head who has refused an application for access to a record or part of a record
+shall, immediately on receipt of a notice of appeal by an applicant, give written
+notice of the appeal to any third party that the head:
+(a) has notified pursuant to subsection 34(1); or
+(b) would have notified pursuant to subsection 34(1) if the head had intended
+to give access to the record or part of the record.
+(3) A head who has granted an application for access to a record or part of a record
+shall, immediately on receipt of a notice of appeal by a third party, give written
+notice of the appeal to the applicant.
+(4) A third party who has been given notice of an appeal pursuant to subsection (2)
+or an applicant or individual who has been given notice of an appeal pursuant to
+subsection (3) may appear as a party to the appeal.
+(5) The commissioner shall not be a party to an appeal.
+1990‑91, c F‑22.01, s 57; 2017, c 12, s 25.
+Powers of court on appeal
+58(1) On an appeal, the court:
+(a) shall determine the matter de novo; and
+(b) may examine any record in camera in order to determine on the merits
+whether the information in the record may be withheld pursuant to this Act.
+(2) Notwithstanding any other Act or any privilege that is available at law, the
+court may, on an appeal, examine any record in the possession or under the control
+of a government institution, and no information shall be withheld from the court
+on any grounds.
+(3) The court shall take every reasonable precaution, including, where appropriate,
+receiving representations ex parte and conducting hearings in camera, to avoid
+disclosure by the court or any person of:
+(a) any information or other material if the nature of the information or
+material could justify a refusal by a head to give access to a record or part of
+a record; or
+(b) any information as to whether a record exists if the head, in refusing to
+give access, does not indicate whether the record exists.
+39c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(4) The court may disclose to the Attorney General for Saskatchewan or the
+Attorney General of Canada information that relates to the commission of an offence
+against:
+(a) an Act or a regulation; or
+(b) an Act of the Parliament of Canada or a regulation made pursuant to an
+Act of the Parliament of Canada;
+by an officer or employee of a government institution if, in the opinion of the court,
+there is evidence of the commission of the offence.
+(5) Where a head has refused to give access to a record or part of it, the court, if
+it determines that the head is not authorized to refuse to give access to the record
+or part of it, shall:
+(a) order the head to give the applicant access to the record or part of it,
+subject to any conditions that the court considers appropriate; or
+(b) make any other order that the court considers appropriate.
+(6) Where the court finds that a record falls within an exemption, the court shall
+not order the head to give the applicant access to the record, regardless of whether
+the exemption requires or merely authorizes the head to refuse to give access to
+the record.
+(7) If, with respect to an appeal of a decision of the head regarding the matters
+mentioned in clauses 49(1)(a.1) to (a.4), the court determines that the decision of
+the head was not authorized pursuant to this Act, the court may:
+(a) order the head to reconsider the decision and proceed in accordance with
+this Act, subject to any conditions that the court considers appropriate; or
+(b) make any other order that the court considers appropriate.
+(8) If, with respect to an appeal mentioned in subsection (7), the court finds that
+the head had authority pursuant to this Act to make the decision that is the subject
+of the appeal, the court shall not order the head to reconsider the decision.
+1990‑91, c F‑22.01, s 58; 2017, c 12, s 26.
+PART VIII
+General
+Exercise of rights by other persons
+59 Any right or power conferred on an individual by this Act may be exercised:
+(a) where the individual is deceased, by the individual’s personal
+representative if the exercise of the right or power relates to the administration
+of the individual’s estate;
+40c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(b) where a personal guardian or property guardian has been appointed for
+the individual, by the guardian if the exercise of the right or power relates to
+the powers and duties of the guardian;
+(c) where a power of attorney has been granted, by the attorney if the exercise
+of the right or power relates to the powers and duties of the attorney conferred
+by the power of attorney;
+(d) where the individual is less than 18 years of age, by the individual’s legal
+custodian in situations where, in the opinion of the head, the exercise of the
+right or power would not constitute an unreasonable invasion of the privacy
+of the individual; or
+(e) by any person with written authorization from the individual to act on
+the individual’s behalf.
+1990‑91, c F‑22.01, s 59.
+Delegation
+60(1) A head may delegate to one or more officers or employees of the government
+institution a power granted to the head or a duty vested in the head.
+(2) A delegation pursuant to subsection (1):
+(a) is to be in writing; and
+(b) may contain any limitations, restrictions, conditions or requirements that
+the head considers necessary.
+1990‑91, c F‑22.01, s 60; 2017, c 12, s 27.
+Burden of proof
+61 In any proceeding pursuant to this Act, the burden of establishing that access to
+the record applied for may or must be refused or granted is on the head concerned.
+1990‑91, c F‑22.01, s 61.
+Annual report
+62(1) Within three months after the end of each fiscal year, the commissioner
+shall prepare and submit an annual report to the Speaker of the Assembly, and the
+Speaker shall cause the report to be laid before the Assembly in accordance with
+section 13 of The Executive Government Administration Act.
+(2) The annual report of the commissioner is to provide details of the activities
+of the office in relation to the commissioner’s responsibilities pursuant to this Act
+during that fiscal year and, in particular, concerning any instances where the
+commissioner’s recommendations made after a review have not been complied with.
+1990‑91, c F‑22.01, s 62; 2014, c E‑13.1, s 62.
+Minister’s report
+63(1) The minister shall prepare and submit an annual report to the Speaker of
+the Assembly on the administration of this Act and the regulations within each
+government institution during the year, and the Speaker shall cause the report to be
+laid before the Assembly in accordance with section 13 of The Executive Government
+Administration Act.
+41c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(2) The annual report of the minister is to provide details of:
+(a) the number of applications received by each government institution
+during the year;
+(b) the number of times during the year that the head of each government
+institution refused an application for access to a record, and the specific
+provisions of this Act or the regulations on which the refusals were based; and
+(c) the fees charged and collected by each government institution for access
+to records during the year.
+(3) The minister may require government institutions to produce the information
+or records that, in the opinion of the minister, are necessary to enable the minister
+to fulfil the requirements of this section.
+1990‑91, c F‑22.01, s 63; 2014, c E‑13.1, s 62.
+64 Repealed. 2017, c 12, s 28.
+Access to manuals
+65(1) Every government institution shall take reasonable steps to:
+(a) make available on its website all manuals, policies, guidelines or
+procedures that are used in decision‑making processes that affect the public
+by employees of the government institution in administering or carrying out
+programs or activities of the government institution; or
+(b) provide those documents when requested in electronic or paper form.
+(2) Any information in a record that a head would be authorized to refuse to give
+access to pursuant to this Act or the regulations may be excluded from manuals,
+policies, guidelines or procedures that are made available or provided pursuant to
+subsection (1).
+2017, c 12, s 29.
+Records available without an application
+65.1(1) Subject to subsection (2), the head may establish categories of records
+that are in the possession or under the control of the government institution and
+that are available to the public within a reasonable time without an application for
+access pursuant to this Act.
+(2) The head shall not establish a category of records that contain personal
+information or third party information unless that information may be disclosed
+pursuant to this Act or the regulations.
+2017, c 12, s 29.
+Proceedings prohibited
+66(1) No proceeding lies or shall be instituted against the Government of
+Saskatchewan, a government institution, a head or other officer or employee of a
+government institution for:
+(a) the giving or withholding in good faith of access to any record pursuant
+to this Act;
+42c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(b) any consequences that flow from the giving or withholding of access
+mentioned in clause (a); or
+(c) the failure to give any notice required pursuant to this Act, if reasonable
+care is taken to give the required notice.
+(2) For the purposes of clause (1)(c), reasonable care is deemed to have been taken
+if notice required to be sent to an applicant is sent to the address of the applicant
+given on the prescribed application form.
+(3) No proceeding lies or shall be instituted against the commissioner or any
+employee or agent of the commissioner, where the commissioner, employee or agent
+is acting pursuant to the authority of this Act or the regulations made pursuant
+to this Act, for any loss or damage suffered by a person by reason of anything in
+good faith done, caused, permitted or authorized to be done, attempted to be done
+or omitted to be done, by any of them, pursuant to or in the exercise of or supposed
+exercise of any power conferred by this Act or the regulations or in the carrying
+out or supposed carrying out of any order made pursuant to this Act or any duty
+imposed by this Act or the regulations.
+1990‑91, c F‑22.01, s 66.
+Immunity from prosecution
+67 No person is liable to prosecution for an offence against any Act or regulation
+by reason of that person’s compliance with a requirement of the commissioner
+pursuant to this Act.
+1990‑91, c F‑22.01, s 67.
+Offence
+68(1) Every person who knowingly collects, uses or discloses personal information
+in contravention of this Act or the regulations is guilty of an offence and liable on
+summary conviction to a fine of not more than $50,000, to imprisonment for not
+more than one year or to both.
+(2) No proceeding shall be instituted pursuant to this section except with the
+consent of the Attorney General.
+(3) Any person who:
+(a) without lawful justification or excuse wilfully obstructs, hinders or resists
+the commissioner or any other person in the exercise of the powers, performance
+of the duties or the carrying out of the functions of the commissioner or other
+person pursuant to this Act;
+(b) without lawful justification or excuse, refuses or wilfully fails to comply
+with any lawful requirement of the commissioner or any other person pursuant
+to this Act;
+(c) wilfully makes any false statement to, or misleads or attempts to mislead,
+the commissioner or any other person in the exercise of the powers, performance
+of the duties or carrying out of the functions of the commissioner or other
+person pursuant to this Act; or
+(d) wilfully destroys any record that is governed by this Act with the intent
+to evade a request for access to the record;
+43c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+is guilty of an offence and liable on summary conviction to a fine of not more
+than $50,000, to imprisonment for not more than one year or to both.
+(4) No employee of a government institution or of an information management
+service provider shall knowingly disclose or direct another person to disclose
+personal information in circumstances that would constitute an offence by
+the government institution or an information management service provider
+pursuant to this Act.
+(5) Every employee of a government institution or of an information
+management service provider who contravenes subsection (4) is guilty of an
+offence and is liable on summary conviction to a fine of not more than $50,000,
+to imprisonment for not more than one year or to both, whether or not the
+government institution or information management service provider has been
+prosecuted or convicted.
+(6) No employee of a government institution shall wilfully access or use
+or direct another person to access or use personal information that is not
+reasonably required by that individual to carry out a purpose authorized
+pursuant to this Act.
+(7) Every employee of a government institution who contravenes subsection (6)
+is guilty of an offence and is liable on summary conviction to a fine of not more
+than $50,000, to imprisonment for not more than one year or to both, whether
+or not the government institution has been prosecuted or convicted.
+(8) No employee of an information management service provider shall wilfully
+access or use or direct another person to access or use personal information
+for a purpose that is not authorized by subsection 24.2(1).
+(9) Every employee of an information management service provider who
+contravenes subsection (8) is guilty of an offence and is liable on summary
+conviction to a fine of not more than $50,000, to imprisonment for not more
+than one year or to both, whether or not the information management service
+provider has been prosecuted or convicted.
+(10) No prosecution shall be commenced pursuant to this section after the
+expiration of two years from the date of the discovery of the alleged offence
+1990‑91, c F‑22.01, s 68; 2017, c 12, s 30.
+Regulations
+69 The Lieutenant Governor in Council may make regulations:
+(a) defining, enlarging or restricting the meaning of any term used in this
+Act but not defined in this Act;
+(b) for the purposes of subclause 2(1)(d)(ii), prescribing boards, commissions,
+Crown corporations or other bodies to be government institutions;
+(c) for the purposes of subclause 2(1)(e)(ii), prescribing persons to be heads
+of government institutions;
+(d) prescribing the oath or affirmation to be taken by the commissioner and
+the commissioner’s staff;
+44c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(d.1) for the purposes of subsections 3(3) and (4), respecting the application
+of this Act and the regulations, including:
+(i) prescribing procedures relating to members of the Assembly and their
+employees and to members of the Executive Council and their employees;
+(ii) prescribing all or part of any provision of this Act or the regulations
+that is to apply to members of the Assembly and their employees and to
+members of the Executive Council and their employees;
+(iii) exempting all or part of any provision of this Act or the regulations
+from applying to members of the Assembly and their employees and to
+members of the Executive Council and their employees; and
+(iv) prescribing any other matter or thing that the Lieutenant Governor
+in Council considers necessary respecting members of the Assembly
+and their employees and members of the Executive Council and their
+employees;
+(e) prescribing procedures to be followed in taking and processing applications
+for access;
+(f) prescribing fees to be paid pursuant to this Act;
+(g) for the purposes of subsection 9(2), prescribing an amount of fees in excess
+of which an estimate is required to be given;
+(h) for the purposes of subsection 9(5), prescribing circumstances in which a
+head may waive the payment of all or any part of a prescribed fee;
+(i) for the purposes of subclause 17(1)(f)(ii), prescribing committees of
+government institutions;
+(j) for the purposes of clause 19(1)(e), prescribing Crown corporations;
+(k) exempting from the application of this Act provisions of Acts or regulations
+that restrict or prohibit access to records of government institutions;
+(l) exempting any information or category of information from the application
+of subsection 26(2);
+(m) for the purposes of clause 29(2)(g):
+(i) prescribing law enforcement agencies or investigative bodies;
+(ii) prescribing requirements to be met with respect to disclosures of
+information to law enforcement agencies or investigative bodies;
+(n) prescribing persons or bodies for the purposes of clause 29(2)(q);
+(o) for the purposes of clause 29(2)(u), prescribing:
+(i) purposes for which personal information may be disclosed;
+(ii) circumstances in which personal information may be disclosed;
+(iii) persons to whom personal information may be disclosed;
+45c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+(p) prescribing manners in which the consent of an individual may be given;
+(q) prescribing the manner in which persons may apply to the commissioner
+for a review;
+(r) prescribing any matter that is to be included in a notice that is required
+by this Act;
+(s) prescribing forms for the purposes of this Act;
+(t) prescribing any other matter or thing required or authorized by this Act
+to be prescribed in the regulations;
+(u) respecting any other matter or thing that the Lieutenant Governor in
+Council considers necessary to carry out the intent of this Act.
+1990‑91, c F‑22.01, s 69; 2017, c 12, s 31.
+Coming into force
+70 This Act or any provision of this Act comes into force on a day or days to be
+fixed by proclamation of the Lieutenant Governor.
+1990‑91, c F‑22.01, s 70.
+46c F‑22.01
+FREEDOM OF INFORMATION AND
+PROTECTION OF PRIVACY
+REGINA, SASKATCHEWAN
+Printed by the authority of
+THE KING’S PRINTER
+Copyright©2024

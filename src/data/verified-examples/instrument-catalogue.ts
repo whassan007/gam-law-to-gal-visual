@@ -1,92 +1,29 @@
 /**
  * Catalogue of privacy, data-protection, cybersecurity and cross-border data
- * instruments for Canada, the United States and the European Union.
+ * instruments for Canada, the United States and the European Union, merged with
+ * the international and other-jurisdiction entries in instrument-catalogue-world.ts.
  *
  * Honesty notes
  *  - This is a CATALOGUE, not a translation. Entries carry metadata and a link
  *    to the authoritative source only: no statutory text, clauses or GAL model
  *    is bundled for them. Only entries with `translatedLawId` have a bundled,
- *    curated translation in laws.ts.
- *  - Citations, dates and statuses were compiled from general knowledge and have
- *    NOT been machine-checked against the official registers. Treat every
+ *    curated translation in laws.ts. Where a source text has been fetched, it
+ *    is listed in public/source-texts/manifest.json.
+ *  - Citations, dates and statuses were compiled from general knowledge (or, for
+ *    entries flagged `userSupplied`, from a user-supplied reference list) and
+ *    have NOT been machine-checked against the official registers. Treat every
  *    entry as "to be verified" before reliance. A missing `officialSourceUrl`
  *    means no link was recorded rather than that none exists.
  *  - The list is a working inventory of principal instruments, not an
  *    exhaustive register: amendments, implementing rules, regulator guidance
  *    and case law are largely out of scope.
  */
-import type {
-  CatalogueInstrument,
-  InstrumentCategory,
-  InstrumentStatus,
-  InstrumentType,
-  LawMetadata,
-} from '../../types/contracts';
-
-type Level = LawMetadata['jurisdictionLevel'];
-
-interface Opts {
-  type?: InstrumentType;
-  status?: InstrumentStatus;
-  note?: string;
-  eff?: string;
-  url?: string;
-  law?: string;
-}
-
-type Row = [id: string, short: string, name: string, citation: string, category: InstrumentCategory, opts?: Opts];
-
-const usc = (title: number, section: string) =>
-  `https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title${title}-section${section}&num=0&edition=prelim`;
-const cfr = (title: number, part: number) => `https://www.ecfr.gov/current/title-${title}/part-${part}`;
-const eli = (kind: string, year: number, num: number) => `https://eur-lex.europa.eu/eli/${kind}/${year}/${num}/oj`;
-const caAct = (code: string) => `https://laws-lois.justice.gc.ca/eng/acts/${code}/`;
-const qcAct = (code: string) => `https://www.legisquebec.gouv.qc.ca/en/document/cs/${code}`;
-const onAct = (code: string) => `https://www.ontario.ca/laws/statute/${code}`;
-
-function inferType(citation: string): InstrumentType {
-  if (/^(Implementing |Delegated )?Regulation/.test(citation)) return 'Regulation';
-  if (/^Directive/.test(citation)) return 'Directive';
-  if (/^(Implementing )?Decisions?\b/.test(citation)) return 'Decision';
-  return 'Statute';
-}
-
-function build(
-  countryCode: CatalogueInstrument['countryCode'],
-  jurisdiction: string,
-  level: Level,
-  rows: Row[],
-): CatalogueInstrument[] {
-  return rows.map(([id, shortName, name, citation, category, o = {}]) => ({
-    id,
-    countryCode,
-    jurisdiction,
-    jurisdictionLevel: level,
-    name,
-    shortName,
-    citation,
-    category,
-    instrumentType: o.type ?? inferType(citation),
-    status: o.status ?? 'in-force',
-    ...(o.note ? { statusNote: o.note } : {}),
-    ...(o.eff ? { effectiveDate: o.eff } : {}),
-    ...(o.url ? { officialSourceUrl: o.url } : {}),
-    ...(o.law ? { translatedLawId: o.law } : {}),
-  }));
-}
-
-const PRIV: InstrumentCategory = 'Privacy & data protection';
-const HEALTH: InstrumentCategory = 'Health privacy';
-const FIN: InstrumentCategory = 'Financial privacy';
-const CYBER: InstrumentCategory = 'Cybersecurity';
-const BREACH: InstrumentCategory = 'Breach notification';
-const XBORDER: InstrumentCategory = 'Cross-border transfer';
-const ATI: InstrumentCategory = 'Access to information';
-const SURV: InstrumentCategory = 'Surveillance & cybercrime';
-const AI: InstrumentCategory = 'AI & digital governance';
-const KIDS: InstrumentCategory = 'Children & education';
-const COMMS: InstrumentCategory = 'Communications & marketing';
-const STD: InstrumentCategory = 'Standards & guidance';
+import type { CatalogueInstrument, InstrumentCategory, InstrumentType } from '../../types/contracts';
+import {
+  build, type Row, usc, cfr, eli, caAct, qcAct, onAct,
+  PRIV, HEALTH, FIN, CYBER, BREACH, XBORDER, ATI, SURV, AI, KIDS, COMMS, STD,
+} from './catalogue-core';
+import { WORLD_CATALOGUE } from './instrument-catalogue-world';
 
 // ═══════════════════════════════════════════════════════════════════════════
 // CANADA
@@ -399,6 +336,7 @@ export const INSTRUMENT_CATALOGUE: CatalogueInstrument[] = [
   ...US_FEDERAL,
   ...US_STATES,
   ...EU,
+  ...WORLD_CATALOGUE,
 ];
 
 export const CATALOGUE_CATEGORIES: InstrumentCategory[] = [

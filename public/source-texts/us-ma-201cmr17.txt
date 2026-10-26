@@ -1,0 +1,157 @@
+201 CMR: OFFICE OF CONSUMER AFFAIRS AND BUSINESS REGULATION
+201 CMR 17.00: STANDARDS FOR THE PROTECTION OF PERSONAL INFORMATION OF
+RESIDENTS OF THE COMMONWEALTH
+Section
+17.01: Purpose and Scope
+17.02: Definitions
+17.03: Duty to Protect and Standards for Protecting Personal Information
+17.04: Computer System Security Requirements
+17.05: Compliance Deadline
+17.01: Purpose and Scope
+(1) Purpose. 201 CMR 17.00 implements the provisions of M.G.L. c. 93H relative to the
+standards to be met by persons who own or license personal information about a resident of the
+Commonwealth of Massachusetts. 201 CMR 17.00 establishes minimum standards to be met
+in connection with the safeguarding of personal information contained in both paper and
+electronic records. The objectives of 201 CMR 17.00 is to insure the security and confidentiality
+of customer information in a manner fully consistent with industry standards; protect against
+anticipated threats or hazards to the security or integrity of such information; and protect against
+unauthorized access to or use of such information that may result in substantial harm or
+inconvenience to any consumer.
+(2) Scope. 201 CMR 17.00 applies to all persons that own or license personal information
+about a resident of the Commonwealth.
+17.02: Definitions
+The following words as used in 201 CMR 17.00 shall, unless the context requires otherwise,
+have the following meanings:
+Breach of Security, the unauthorized acquisition or unauthorized use of unencrypted data or,
+encrypted electronic data and the confidential process or key that is capable of compromising the
+security, confidentiality, or integrity of personal information, maintained by a person or agency
+that creates a substantial risk of identity theft or fraud against a resident of the commonwealth.
+A good faith but unauthorized acquisition of personal information by a person or agency, or
+employee or agent thereof, for the lawful purposes of such person or agency, is not a breach of
+security unless the personal information is used in an unauthorized manner or subject to further
+unauthorized disclosure.
+Electronic, relating to technology having electrical, digital, magnetic, wireless, optical,
+electromagnetic or similar capabilities.
+Encrypted, the transformation of data into a form in which meaning cannot be assigned without
+the use of a confidential process or key.
+Owns or Licenses, receives, stores, maintains, processes, or otherwise has access to personal
+information in connection with the provision of goods or services or in connection with
+employment.
+Person, a natural person, corporation, association, partnership or other legal entity, other than
+an agency, executive office, department, board, commission, bureau, division or authority of the
+Commonwealth, or any of its branches, or any political subdivision thereof.
+Personal Information, a Massachusetts resident's first name and last name or first initial and last
+name in combination with any one or more of the following data elements that relate to such
+resident:
+(a) Social Security number;
+(b) driver's license number or state-issued identification card number; or
+201 CMR: OFFICE OF CONSUMER AFFAIRS AND BUSINESS REGULATION
+17.02: continued
+(c) financial account number, or credit or debit card number, with or without any required
+security code, access code, personal identification number or password, that would permit
+access to a resident's financial account; provided, however, that "Personal information" shall
+not include information that is lawfully obtained from publicly available information, or from
+federal, state or local government records lawfully made available to the general public.
+Record or Records, any material upon which written, drawn, spoken, visual, or electromagnetic
+information or images are recorded or preserved, regardless of physical form or characteristics.
+Service Provider, any person that receives, stores, maintains, processes, or otherwise is
+permitted access to personal information through its provision of services directly to a person
+that is subject to 201 CMR 17.00.
+17.03: Duty to Protect and Standards for Protecting Personal Information
+(1) Every person that owns or licenses personal information about a resident of the Common
+wealth shall develop, implement, and maintain a comprehensive information security program
+that is written in one or more readily accessible parts and contains administrative, technical, and
+physical safeguards that are appropriate to:
+(a) the size, scope and type of business of the person obligated to safeguard the personal
+information under such comprehensive information security program;
+(b) the amount of resources available to such person;
+(c) the amount of stored data; and
+(d) the need for security and confidentiality of both consumer and employee information.
+The safeguards contained in such program must be consistent with the safeguards for
+protection of personal information and information of a similar character set forth in any state
+or federal regulations by which the person who owns or licenses such information may be
+regulated.
+(2) Without limiting the generality of the foregoing, every comprehensive information security
+program shall include, but shall not be limited to:
+(a) Designating one or more employees to maintain the comprehensive information security
+program;
+(b) Identifying and assessing reasonably foreseeable internal and external risks to the
+security, confidentiality, and/or integrity of any electronic, paper or other records containing
+personal information, and evaluating and improving, where necessary, the effectiveness of
+the current safeguards for limiting such risks, including but not limited to:
+1. ongoing employee (including temporary and contract employee) training;
+2. employee compliance with policies and procedures; and
+3. means for detecting and preventing security system failures.
+(c) Developing security policies for employees relating to the storage, access and
+transportation of records containing personal information outside of business premises.
+(d) Imposing disciplinary measures for violations of the comprehensive information security
+program rules.
+(e) Preventing terminated employees from accessing records containing personal
+information.
+(f) Oversee service providers, by:
+1. Taking reasonable steps to select and retain third-party service providers that are
+capable of maintaining appropriate security measures to protect such personal
+information consistent with 201 CMR 17.00 and any applicable federal regulations; and
+2. Requiring such third-party service providers by contract to implement and maintain
+such appropriate security measures for personal information; provided, however, that
+until March 1, 2012, a contract a person has entered into with a third party service
+provider to perform services for said person or functions on said person’s behalf satisfies
+the provisions of 201 CMR 17.03(2)(f)2. even if the contract does not include a
+requirement that the third party service provider maintain such appropriate safeguards,
+as long as said person entered into the contract no later than March 1, 2010.
+201 CMR: OFFICE OF CONSUMER AFFAIRS AND BUSINESS REGULATION
+17.03: continued
+(g) Reasonable restrictions upon physical access to records containing personal information,
+and storage of such records and data in locked facilities, storage areas or containers.
+(h) Regular monitoring to ensure that the comprehensive information security program is
+operating in a manner reasonably calculated to prevent unauthorized access to or
+unauthorized use of personal information; and upgrading information safeguards as necessary
+to limit risks.
+(i) Reviewing the scope of the security measures at least annually or whenever there is a
+material change in business practices that may reasonably implicate the security or integrity
+of records containing personal information.
+(j) Documenting responsive actions taken in connection with any incident involving a
+breach of security, and mandatory post-incident review of events and actions taken, if any,
+to make changes in business practices relating to protection of personal information.
+17.04: Computer System Security Requirements
+Every person that owns or licenses personal information about a resident of the
+Commonwealth and electronically stores or transmits such information shall include in its
+written, comprehensive information security program the establishment and maintenance of a
+security system covering its computers, including any wireless system, that, at a minimum, and
+to the extent technically feasible, shall have the following elements:
+(1) Secure user authentication protocols including:
+(a) control of user IDs and other identifiers;
+(b) a reasonably secure method of assigning and selecting passwords, or use of unique
+identifier technologies, such as biometrics or token devices;
+(c) control of data security passwords to ensure that such passwords are kept in a location
+and/or format that does not compromise the security of the data they protect;
+(d) restricting access to active users and active user accounts only; and
+(e) blocking access to user identification after multiple unsuccessful attempts to gain access
+or the limitation placed on access for the particular system;
+(2) Secure access control measures that:
+(a) restrict access to records and files containing personal information to those who need
+such information to perform their job duties; and
+(b) assign unique identifications plus passwords, which are not vendor supplied default
+passwords, to each person with computer access, that are reasonably designed to maintain
+the integrity of the security of the access controls;
+(3) Encryption of all transmitted records and files containing personal information that will
+travel across public networks, and encryption of all data containing personal information to be
+transmitted wirelessly.
+(4) Reasonable monitoring of systems, for unauthorized use of or access to personal
+information;
+(5) Encryption of all personal information stored on laptops or other portable devices;
+(6) For files containing personal information on a system that is connected to the Internet, there
+must be reasonably up-to-date firewall protection and operating system security patches,
+reasonably designed to maintain the integrity of the personal information.
+(7) Reasonably up-to-date versions of system security agent software which must include
+malware protection and reasonably up-to-date patches and virus definitions, or a version of such
+software that can still be supported with up-to-date patches and virus definitions, and is set to
+receive the most current security updates on a regular basis.
+(8) Education and training of employees on the proper use of the computer security system and
+the importance of personal information security.
+201 CMR: OFFICE OF CONSUMER AFFAIRS AND BUSINESS REGULATION
+17.05: Compliance Deadline
+(1) Every person who owns or licenses personal information about a resident of the
+Commonwealth shall be in full compliance with 201 CMR 17.00 on or before March 1, 2010.
+REGULATORY AUTHORITY
+201 CMR 17.00: M.G.L. c. 93H.

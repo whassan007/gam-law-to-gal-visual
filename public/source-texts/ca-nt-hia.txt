@@ -1,0 +1,5579 @@
+# Health Information Act
+
+SNWT 2014, c 2
+
+The Commissioner of the Northwest Territories,
+by and with the advice and consent of the Legislative
+Assembly, enacts as follows:
+
+## PART 1
+
+## INTERPRETATION AND APPLICATION
+
+### Definitions
+
+1. (1) In this Act,
+"access request" means a request under
+subsection 96(1) by an individual for access to a
+record containing personal health information about
+him or her; ( demande d’accès )
+"Act" means an Act of the Northwest Territories except
+where used in the context of an Act of Canada; ( loi )
+"agent", except in paragraphs 25(1)(g) and 115(b)
+and (c), subsection 151(6) and section 193, means a
+person or organization listed in subsection 9(2) that is
+authorized by subsection 9(1) to act as an agent;
+( mandataire )
+"collect", in relation to information, means to acquire,
+gather, obtain or receive information; ( recueillir )
+"contact person" means a contact person designated
+under subsection 12(1), or the health information
+custodian, if he or she is a natural person and acts as
+his or her own contact person; ( personne-ressource )
+"correction request" means a request under
+subsection 119(1) by an individual for correction of a
+record containing personal health information about
+him or her; ( demande de correction )
+"Department" means the Department of Health and
+Social Services; ( ministère )
+"disclose", in relation to information, means to release
+information or make information available in any
+manner, including verbally or visually, to a person or
+organization; ( divulguer )
+"electronic" includes created, recorded, transmitted or
+stored in digital form or in other intangible form by
+electronic, magnetic, optical or other similar means;
+( électronique )
+"electronic signature" means electronic information
+(a) that a person creates or adopts in order to
+sign a record, and
+(b) that is in, attached to or associated with
+the record referred to in paragraph (a);
+( signature électronique )
+"extra-territorial research ethics committee" means a
+body, recognized by or established pursuant to the
+legislation of a jurisdiction other than the Northwest
+Territories, that
+(a) reviews and approves proposals for
+research that would include the collection
+or use of personal health information, and
+(b) takes into consideration, during its review
+of research proposals, the protection of
+the privacy interests of individuals whose
+personal health information would be
+collected or used in the context of
+proposed research; ( comité d’éthique de
+la recherche extraterritorial )
+"health information custodian" means
+(a) the Department,
+(b) a medical practitioner, other than a
+medical practitioner acting as an agent of
+a health information custodian,
+(c) a pharmacist as defined in
+subsection 1(1) of the Pharmacy Act ,
+other than a pharmacist acting as an agent
+of a health information custodian,
+(d) a prescribed organization responsible
+under the Hospital Insurance and Health
+and Social Services Administration Act
+for the management, control and
+operation of one or more facilities from
+which health services are provided, or
+(e) a prescribed person or class of persons,
+or a prescribed organization other than an
+organization prescribed as a health
+information custodian under
+paragraph (d); ( dépositaire de
+renseignements sur la santé )
+"health service"
+(a) includes
+(i) an observation, examination,
+assessment, service or procedure in
+relation to an individual, or the care
+of an individual, that is carried out,
+provided or undertaken for one of
+the following health-related
+purposes:
+(A) protection, promotion or
+maintenance of health,
+(B) prevention of conditions
+adverse to health,
+(C) testing or examining of a body
+part or substance,
+(D) diagnosis,
+(E) treatment,
+(F) rehabilitation,
+(G) care for the health needs of the
+ill, injured, disabled or dying,
+(ii) an ambulance service,
+(iii) a service provided by a pharmacist
+or under the direction or supervision
+of a pharmacist, and
+(iv) a prescribed health service, and
+(b) does not include a service prescribed not
+to be a health service; ( service de santé )
+"health service provider" means
+(a) subject to the regulations, a person or
+organization that provides a health
+service, or
+(b) an organization that is prescribed as a
+health service provider for a specified
+purpose; ( fournisseur de services de
+santé )
+"individual" means a natural person, whether living or
+deceased, unless the context indicates otherwise;
+( individu )
+"Information and Privacy Commissioner", "IPC",
+means the Information and Privacy Commissioner
+referred to in section 168; ( commissaire à
+l’information et à la protection de la vie privée )
+"information manager" means a person or organization
+that provides one or more of the following services for
+a health information custodian:
+(a) the processing, storage, retrieval or
+disposal of personal health information,
+(b) the transforming of personal health
+information, including the transforming
+of personal health information to create
+or produce non-identifying information,
+(c) information management services,
+information system services or
+information technology services;
+( gestionnaire d’information )
+"law enforcement" includes
+(a) policing, including criminal intelligence
+operations,
+(b) investigations that lead or could lead to the
+imposition of a penalty or sanction, and
+(c) proceedings that lead or could lead to the
+imposition of a penalty or sanction;
+( exécution de la loi )
+"organization" includes a government, department,
+agency, board, committee and panel; ( organisation )
+"personal health information" means the following
+information in any form that identifies an individual, or
+in respect of which it is reasonably foreseeable in the
+circumstances that the information could be used,
+either alone or with other information, to identify an
+individual:
+(a) information about the health and health
+care history of an individual,
+(b) information respecting health services
+provided to an individual,
+(c) information about eligibility or
+registration of an individual for a health
+service or related product or benefit,
+(d) information about the payment for a
+health service for an individual,
+(e) information collected in the course of
+providing a health service to an
+individual or information that is collected
+incidentally to the provision of a health
+service to an individual, including the
+individual’s name and contact
+information,
+(f) a personal health number, other
+identifying number, symbol, or other
+particular assigned to an individual in
+respect of health services or health
+information,
+(g) prescribed information about a health
+service provider that provides a health
+service to an individual,
+(h) information respecting the donation by an
+individual of a body part or bodily
+substance,
+(i) information prescribed as personal health
+information; ( renseignements personnels
+sur la santé )
+"privacy impact assessment", in respect of an
+information system or communication technology,
+means an assessment describing how the privacy of
+individuals whose personal health information would
+be collected, used or disclosed would be affected by
+the system or technology; ( évaluation des
+répercussions sur la vie privée )
+"public custodian" means
+(a) the Department, or
+(b) a board or other organization that is
+established by or under an Act and
+prescribed as a health information
+custodian under paragraph (d) of the
+definition "health information custodian";
+( dépositaire public )
+"record"
+(a) means
+(i) a record of information in any form
+that is made and stored in any
+manner, such as a written record,
+electronic record, hand written or
+electronic note, audio visual
+recording, drawing, book,
+prescription, patient chart,
+photograph or x-ray or other
+diagnostic image, or
+(ii) to make a record referred to in
+subparagraph (i), and
+(b) does not mean a computer program, an
+electronic health information system or
+another mechanism that creates a record;
+( document )
+"regulation" means a regulation of the Northwest
+Territories except where used in the context of a
+regulation of Canada; ( règlement )
+"research"
+(a) means a scientific study or systematic
+investigation, conducted to
+(i) discover new facts or information,
+or new applications of existing facts
+or information, or
+(ii) test or evaluate the results of
+existing research, and
+(b) does not mean a use of information for a
+purpose referred to in paragraphs 35(a) to
+(e) or (g) to (j), or section 37;
+( recherche )
+"research ethics committee" means a research ethics
+committee designated by the Minister under section 68
+or a research ethics committee established by the
+regulations; ( Comité d’éthique de la recherche )
+"researcher" means a person or organization, including
+a health information custodian, that collects or uses, or
+wishes to collect or to use, personal health information
+for research purposes; ( chercheur )
+"substitute decision maker" means a person referred to
+in paragraphs 25(1)(c) to (i) who acts on behalf of an
+individual; ( subrogé )
+"use", in relation to information, means to handle, deal
+with or apply information for a purpose, including to
+reproduce or transform it, but does not mean to collect
+or disclose information. ( utiliser )
+
+### Assisting in the provision of health service
+
+(2) For the purposes of this Act, a reference to
+assisting in the provision of a health service includes
+administrative services such as
+(a) determining or verifying eligibility for a
+health service;
+(b) registration in relation to a health service;
+(c) billing or paying for a health service; and
+(d) arranging transportation or
+accommodation in respect of access to a
+health service.
+
+### Reference to "individual"
+
+(3) Where a provision of this Act relates to the
+exercise of a right or power conferred on an individual
+whose personal health information is at issue,
+including the exercise of any authority of an individual
+in respect of the collection, use or disclosure of
+personal health information, a reference to the
+individual means the person entitled under section 25
+to exercise the right or power, except where the
+context indicates that the particular reference does not
+apply in respect of a substitute decision maker.
+
+### Non- identifying health information
+
+(4) Nothing in this Act shall be construed so as to
+prevent a health information custodian from collecting,
+using or disclosing non-identifying information.
+
+### Purpose
+
+2. The purpose of this Act is to govern the collection,
+use, disclosure and protection of personal health
+information in a manner that recognizes both the right
+of individuals to access and protect their personal
+health information and the need of health information
+custodians to collect, use and disclose personal health
+information to support, manage and provide health
+care.
+
+### Government bound
+
+3. This Act binds the Government of the Northwest
+Territories.
+
+### Scope of Act
+
+4. (1) This Act applies to all records containing
+personal health information that are in the custody or
+under the control of a health information custodian,
+except the following:
+(a) a record referred to in subsection 71(1)
+of the Child and Family Services Act or
+any other record relating to the
+administration of that Act;
+(b) a record in the Adoption Registry
+established under section 50 of the
+Adoption Act or any other record relating
+to the administration of that Act;
+(c) a record made in respect of the licensing
+or review of conduct of a health care
+practitioner under an Act;
+(d) a record containing personal health
+information about an employee or agent
+of the custodian that is not made or
+maintained primarily for the purpose of
+providing or assisting in the provision of
+a health service to the employee or agent;
+(e) a record exempted by the regulations.
+
+### Exceptions
+
+(2) This Act
+(a) does not limit the information otherwise
+available by law to a party to legal
+proceedings;
+(b) does not affect the power of any court or
+tribunal to compel a witness to testify or
+to compel the production of documents;
+(c) does not affect the law of evidence;
+(d) does not prohibit the transfer, storage or
+destruction of any record in accordance
+with an enactment, unless regulations
+made under this Act in respect of the
+transfer, storage or destruction of records
+containing personal health information
+are inconsistent with, or in conflict with,
+a provision of the enactment, and the
+regulations made under this Act specify
+that they, or a provision of them, prevail;
+and
+(e) does not prohibit the transfer, storage or
+destruction of any record in accordance
+with an Act or regulation of Canada.
+
+### Conflict or inconsistency
+
+5. (1) If a provision of this Act is inconsistent with
+or in conflict with a provision of another Act, the
+provision of this Act prevails unless the other Act
+expressly provides that it, or a provision of it, prevails
+notwithstanding this Act.
+
+### Access to Information and Protection of Privacy Act
+
+(2) This Act applies notwithstanding section 4 of
+the Access to Information and Protection of Privacy
+Act .
+
+### Right of access
+
+(3) This Act does not limit a person’s right of
+access under section 5 of the Access to Information
+and Protection of Privacy Act to a record containing
+personal health information to which this Act applies
+if the information to which this Act applies can
+reasonably be severed from the record.
+
+### Electronic Transactions Act
+
+(4) Subsection (1) does not apply so as to limit
+the application of the Electronic Transactions Act .
+
+### Application
+
+6. (1) This section only applies to a request made to
+a public custodian.
+
+### Access request and Access to Information and Protection of Privacy Act
+
+(2) If an access request includes a request for
+access to a record containing information to which the
+Access to Information and Protection of Privacy Act
+applies, the part of the request that relates to that
+information is deemed to be a request under section 6
+of the Access to Information and Protection of Privacy
+Act and that Act applies in respect of that part of the
+request as if it had been made under section 6 of that
+Act.
+
+### Correction request and Access to Information and Protection of Privacy Act
+
+(3) If a correction request includes a request to
+correct information in a record to which the Access to
+Information and Protection of Privacy Act applies, the
+part of the request that relates to that information is
+deemed to be a request under section 45 of the Access
+to Information and Protection of Privacy Act and that
+Act applies in respect of that part of the request as if it
+had been made under section 45 of that Act.
+
+## PART 2
+
+## ROLES AND RESPONSIBILITIES
+
+Health Information Custodians
+
+### Custodians: persons responsible
+
+7. The following persons are responsible under this
+Act and the regulations for the exercise of powers and
+performance of duties and other functions of health
+information custodians that are not natural persons:
+(a) the Deputy Minister of the Department
+on behalf of the Department;
+(b) a prescribed person or class of persons on
+behalf of a person, class of persons or
+organization prescribed as a health
+information custodian.
+
+### Standards, policies and procedures required
+
+8. (1) A health information custodian shall establish
+or adopt standards, policies and procedures to
+implement the requirements of this Act and the
+regulations, including the requirements under
+sections 85 to 88.
+
+### Duty to give copy to Department
+
+(2) A health information custodian shall, at the
+request of the Department, give the Department a copy
+of the standards, policies and procedures established or
+adopted under subsection (1).
+
+### Compliance required: standards, policies and procedures
+
+(3) A health information custodian shall comply
+with standards, policies and procedures established or
+adopted under subsection (1).
+Agents
+
+### Agents: authorization
+
+9. (1) A person or organization listed in
+subsection (2) may act as an agent for or on behalf of
+a health information custodian in respect of the
+powers, duties and functions of the custodian under
+this Act relating to the collection, use, disclosure,
+management, retention or disposition of personal
+health information, if
+(a) the custodian is permitted or required to
+collect, use, disclose, manage, retain or
+dispose of the information; and
+(b) the collection, use, disclosure,
+management, retention or disposition of
+the information is in the course of the
+exercise of assigned powers or the
+performance of assigned duties or
+functions of the person or organization
+for the custodian.
+
+### List of eligible agents
+
+(2) Each of the following persons and
+organizations may act as an agent for or on behalf of a
+health information custodian if authorized by
+subsection (1) to do so:
+(a) an employee of the custodian;
+(b) a person who performs a service for the
+custodian as an appointee, volunteer,
+student or under a contract or agency
+relationship;
+(c) an information manager for the
+custodian;
+(d) a prescribed person, class of persons or
+organization.
+
+### Unauthorized act
+
+(3) A person or organization listed in
+paragraphs (2)(a) to (d) shall not
+(a) collect, use, disclose, manage, retain or
+dispose of personal health information in
+the course of the exercise of powers or
+the performance of duties or functions for
+a health information custodian, unless the
+person or organization may do so under
+subsection (1); or
+(b) collect, use, disclose, manage, retain or
+dispose of personal health information
+contrary to any limits imposed by the
+custodian.
+
+### Compliance with Act and regulations
+
+10. (1) An agent shall comply with this Act and the
+regulations in the collection, use and disclosure of
+personal health information and in the exercise of other
+powers of a health information custodian and the
+performance of other duties and functions of a health
+information custodian.
+
+### Requirement to ensure compliance
+
+(2) A health information custodian shall take
+reasonable measures to ensure that its agents comply
+with this Act and the regulations.
+
+### Compliance required: standards, policies and procedures
+
+11. (1) An agent shall comply with standards, policies
+and procedures established or adopted by a health
+information custodian under subsection 8(1).
+
+### Requirement to ensure compliance
+
+(2) A health information custodian shall take
+reasonable measures to ensure that its agents comply
+with standards, policies and procedures established or
+adopted under subsection 8(1).
+Contact Persons
+
+### Designated contact person
+
+12. (1) A health information custodian shall designate
+one or more contact persons to
+(a) assist in ensuring compliance with this
+Act and the regulations, and with
+standards, policies and procedures
+established or adopted under
+subsection 8(1);
+(b) respond to inquiries about the collection
+of personal health information, as
+referred to in paragraph 31(f);
+(c) respond to inquiries about a refusal to
+disclose a record or part of a record
+requested in an access request, as
+referred to in subparagraph 101(1)(c)(ii);
+(d) respond to inquiries about a transfer of an
+access request, as referred to in
+subsection 108(3);
+(e) respond to inquiries about a refusal to
+make a requested correction to personal
+health information, as referred to in
+paragraph 120(2)(c);
+(f) respond to inquiries about the custodian’s
+information practices; and
+(g) receive complaints from the public about
+any alleged contravention by the
+custodian of this Act or the regulations.
+
+### Designation
+
+(2) For greater certainty, a person may be
+designated under subsection (1) as a contact person in
+respect of one or more duties under that subsection and
+at least one person must be designated as a contact
+person in respect of each duty.
+
+### Exception
+
+(3) Notwithstanding subsection (1), a health
+information custodian who is a natural person may act
+as his or her own contact person for the purposes of
+paragraphs (1)(a) to (g).
+Information Managers and
+Information Management Agreements
+
+### Definitions
+
+13. (1) In this section,
+"information management agreement" means an
+agreement in writing in respect of the protection of
+personal health information and privacy of individuals
+the information is about; ( accord de gestion de
+l’information )
+"private custodian" means a health information
+custodian other than a public custodian. ( dépositaire
+privé )
+
+### Agreement with information manager
+
+(2) Subject to subsection (3) and any exceptions
+set out in the regulations, before using the services of
+an information manager, a health information
+custodian shall enter into an information management
+agreement with the information manager.
+
+### Exceptions
+
+(3) Subsection (2) does not apply if
+(a) the health information custodian is the
+Department, and
+(i) the Department’s information
+manager is an employee in the
+public service who is employed in
+the Department,
+(ii) the Department’s information
+manager is another public custodian,
+or
+(iii) the Department’s information
+manager is employed by another
+public custodian;
+(b) the health information custodian is a
+public custodian other than the
+Department, and
+(i) the public custodian’s information
+manager is an employee in the
+public service who is employed in
+the Department,
+(ii) the public custodian’s information
+manager is employed by the public
+custodian or by a public custodian
+other than the Department,
+(iii) the public custodian’s information
+manager is another public custodian,
+or
+(iv) the public custodian’s information
+manager is one with which the
+Department has entered into an
+information management agreement
+on behalf of the custodian; or
+(c) the health information custodian is a
+private custodian, and
+(i) the private custodian’s information
+manager is an employee of the
+custodian, or
+(ii) the private custodian’s information
+manager is one with which the
+Department has entered into an
+information management agreement
+on behalf of the custodian.
+
+### Requirements: information management agreement
+
+(4) An information management agreement must
+contain terms under which the information manager
+agrees to comply with
+(a) this Act and the regulations, and
+standards, policies and procedures
+established or adopted by the health
+information custodian under
+subsection 8(1);
+(b) measures to maintain administrative,
+technical and physical safeguards for the
+protection of the personal health
+information; and
+(c) any other terms or conditions of the
+agreement.
+
+### Disclosure in accordance with agreement
+
+(5) A health information custodian that has
+entered into an information management agreement
+under subsection (2) may disclose personal health
+information to the information manager in accordance
+with the agreement.
+
+### Disclosure in accordance with agreement entered by Department
+
+(6) If the Department enters into an information
+management agreement with an information manager
+on behalf of a health information custodian, as referred
+to in subparagraphs (3)(b)(iv) and (c)(ii), that
+custodian may disclose personal health information to
+the information manager in accordance with the
+agreement.
+
+### Certainty
+
+(7) For greater certainty, a health information
+custodian may have more than one information
+manager and may, subject to the exceptions set out in
+this Act or the regulations, disclose personal health
+information to each information manager without the
+consent of the individuals the information is about.
+
+### Requirement: information manager
+
+(8) An information manager to which personal
+health information is disclosed shall not
+(a) collect, use or disclose that information
+except in accordance with the
+information management agreement; or
+(b) contravene the terms of an information
+management agreement.
+
+## PART 3
+
+## CONSENT AND SUBSTITUTE DECISION
+
+## MAKERS
+
+Consent
+
+### Interpretation: knowledge- able consent
+
+14. For the purposes of sections 15, 17 and 18, a
+consent to the collection, use or disclosure of personal
+health information about an individual is
+knowledgeable if it is reasonable in the circumstances
+for the health information custodian to assume that the
+individual knows
+(a) the purposes of the collection, use or
+disclosure; and
+(b) that the individual may provide or
+withhold consent.
+
+### Elements of consent
+
+15. (1) Where this Act requires an individual’s
+consent for the collection, use or disclosure of personal
+health information about him or her, the consent
+(a) must be a consent of the individual;
+(b) must relate to the information;
+(c) must be knowledgeable; and
+(d) must not be obtained through deception
+or coercion.
+
+### Notice: purposes of collection, use or disclosure
+
+(2) A health information custodian may assume,
+unless it is unreasonable in the circumstances to make
+the assumption, that an individual knows the purposes
+of the collection, use or disclosure of personal health
+information, if the health information custodian
+informs the individual about the purposes and,
+(a) posts or makes readily available a notice
+with information describing the purposes
+of the collection, use or disclosure, in a
+location where the notice is likely to
+come to the individual’s attention; or
+(b) gives a notice to the individual describing
+the purposes of the collection, use or
+disclosure.
+
+### Exception
+
+(3) Subsection (2) is subject to any exceptions set
+out in the regulations.
+
+### Consent: express or implied
+
+16. (1) Subject to this Act, a consent to the collection,
+use or disclosure of personal health information about
+an individual may be express or implied.
+
+### Certainty
+
+(2) For greater certainty, unless the contrary is
+indicated, a reference in this Act to consent, including
+a reference to consent in the context of an individual
+who must consent or who has provided consent, means
+express or implied consent.
+
+### Implied consent
+
+17. Consent to the collection, use or disclosure of
+personal health information about an individual is
+implied consent if
+(a) it is reasonable in the circumstances for
+the health information custodian that
+collects, uses or discloses the information
+to infer that the individual consents to the
+collection, use or disclosure; and
+(b) the consent is knowledgeable.
+
+### Information for health service: implied consent
+
+18. (1) Subject to subsections (3) and (4), a health
+information custodian that collects personal health
+information from the individual the information is
+about for the purpose of providing or assisting in the
+provision of a health service to the individual, may
+assume that the individual has provided implied
+consent to the custodian’s
+(a) collection or use of that information for
+the purposes of providing or assisting in
+the provision of a health service to the
+individual; and
+(b) disclosure of that information to a health
+service provider for the purposes of
+providing or assisting in the provision of
+a health service to the individual.
+
+### Information from custodian: implied consent
+
+(2) Subject to subsections (3), (5) and (6), a
+health information custodian that collects personal
+health information about an individual from a health
+service provider, for the purpose of providing or
+assisting in the provision of a health service to the
+individual, may assume that
+(a) the individual has provided implied
+consent to the custodian’s
+(i) collection or use of that information
+for the purposes of providing or
+assisting in the provision of a health
+service to the individual, or
+(ii) disclosure of that information to a
+health service provider for the
+purposes of providing or assisting in
+the provision of a health service to
+the individual; and
+(b) the consent referred to in paragraph (a) is
+knowledgeable.
+
+### Exception: consent withdrawn or withheld
+
+(3) Paragraph (1)(b) and subsection (2) do not
+apply if the health information custodian that collects
+the information is aware that the individual has
+expressly withheld or withdrawn consent.
+
+### Exception: paragraph 1(b)
+
+(4) Paragraph (1)(b) does not apply if the health
+information custodian that collects the information is
+aware that the individual has provided an express
+instruction that the information may not be disclosed.
+
+### Exception: subparagraph 2(a)(i)
+
+(5) Subparagraph (2)(a)(i) does not apply if the
+health information custodian that collects the
+information is aware that the individual has provided
+an express instruction limiting the further collection or
+use of that information.
+
+### Exception: subparagraph 2(a)(ii)
+
+(6) Subparagraph (2)(a)(ii) does not apply if the
+health information custodian that collects the
+information is aware that the individual has provided
+an express instruction limiting the further disclosure of
+that information.
+
+### Sections 35 and 37: implied consent
+
+19. (1) Subject to subsection (2), if a health
+information custodian collects personal health
+information about an individual from another
+custodian for a use referred to in section 35, or a public
+custodian collects personal health information from a
+health information custodian for a use referred to in
+section 37, the custodian that collects the information
+may assume that the individual has provided implied
+consent to that custodian’s
+(a) collection of the information for the
+purposes of a use referred to in the
+applicable section; and
+(b) disclosure of the information in
+accordance with this Act, unless express
+consent is required for the disclosure.
+
+### Exception
+
+(2) Subsection (1) does not apply if the health
+information custodian that collects the information is
+aware that
+(a) the individual has expressly withheld or
+withdrawn consent; or
+(b) the individual has provided an express
+instruction limiting the further collection,
+use or disclosure of that information.
+
+### Form of express consent
+
+20. (1) Subject to subsection (2), express consent to
+the collection, use or disclosure of personal health
+information under this Act must be provided in
+writing.
+
+### Exception: verbal form
+
+(2) Express consent may be provided in verbal
+form if the health information custodian that seeks the
+express consent has reasonable grounds to believe that
+it is not practical for consent to be provided in writing.
+
+### Requirements: written form
+
+(3) Express consent in writing must
+(a) identify the individual the personal health
+information is about;
+(b) include a statement that the individual
+(i) knows the purposes of the
+collection, use or disclosure of the
+personal health information,
+(ii) consents to the collection, use or
+disclosure of the information,
+(iii) knows that he or she may withhold
+consent, and
+(iv) knows that he or she may withdraw
+consent;
+(c) be signed or include the electronic
+signature of the individual; and
+(d) be dated.
+
+### Conditions and instructions
+
+(4) Express consent in writing may set out
+conditions or instructions in respect of future
+collection, use or disclosure of the personal health
+information to which the consent relates.
+
+### Requirements: verbal form
+
+(5) An individual providing express consent in
+verbal form must clearly indicate to the health
+information custodian obtaining the express consent
+that the individual
+(a) knows the purposes of the collection, use
+or disclosure of the personal health
+information;
+(b) consents to the collection, use or
+disclosure of the information;
+(c) knows that he or she may withhold
+consent; and
+(d) knows that he or she may withdraw
+consent.
+
+### Record: verbal express consent
+
+(6) A health information custodian that obtains
+express consent in verbal form shall, as soon as
+reasonably possible after obtaining it, make a record in
+writing that
+(a) identifies the individual the personal
+health information is about;
+(b) sets out the name of the individual who
+provided the express consent and the date
+of consent;
+(c) includes the grounds for believing that it
+was not practical to obtain consent in
+writing;
+(d) documents that the requirements of
+subsection (5) have been met;
+(e) includes any conditions or instructions
+regarding collection, use or disclosure of
+the information that were provided by the
+individual; and
+(f) states that the custodian
+(i) has no grounds to believe that the
+individual consenting lacks the
+authority to consent, and
+(ii) believes that consent was not
+obtained through deception or
+coercion.
+
+### Identification, dates and signature required
+
+(7) A health information custodian that makes a
+record referred to in subsection (6) shall, in the record,
+(a) identify the custodian and, unless the
+custodian is a natural person, the agent
+making the record;
+(b) include the date the consent was
+provided;
+(c) include the date the record was made;
+and
+(d) sign the record or include an electronic
+signature.
+
+### Reliance on record of consent
+
+21. A health information custodian that receives a
+copy of an express consent, or a document purporting
+to record an express consent to the collection, use or
+disclosure of personal health information about an
+individual, may assume, unless it is unreasonable in the
+circumstances to make the assumption, that the consent
+fulfils the requirements of this Act and that the
+individual has not withdrawn it.
+
+### Definition: "condition"
+
+22. (1) In this section and section 23, "condition"
+includes an express instruction provided at the time
+consent is provided or after consent is provided.
+
+### Condition not effective
+
+(2) A condition placed by an individual on his or
+her consent to the collection, use or disclosure of
+personal health information about the individual
+(a) does not have a retroactive effect; and
+(b) is not effective
+(i) to the extent that it purports to limit
+collection, use or disclosure that is
+required by this or another Act, or
+by an Act or regulation of Canada,
+(ii) to the extent that it purports to limit
+collection, use or disclosure that is
+for the purposes of a program
+established under the Pharmacy Act
+to monitor prescriptions,
+(iii) to the extent that it purports to
+prohibit or restrict the recording of
+any information by a health
+information custodian that is
+required by law or by established
+standards of professional or
+institutional practice, or
+(iv) in prescribed circumstances.
+
+### Duty of custodian
+
+(3) If an individual places a condition on his or
+her consent to the collection, use or disclosure of
+personal health information about the individual, a
+health information custodian that collects the
+information shall
+(a) inform the individual of the implications
+of the condition;
+(b) take reasonable steps to comply with the
+condition;
+(c) attach the condition to or record the
+condition on the applicable record; and
+(d) take reasonable steps to give notice of the
+condition to other persons and
+organizations to which the custodian
+discloses the information.
+
+### Duty to give notice if disclosure limited
+
+23. If a health information custodian only discloses a
+limited amount of personal health information about an
+individual to a health service provider for the purposes
+of providing or assisting in the provision of a health
+service to the individual because the individual has
+placed a condition on his or her consent limiting full
+disclosure of such information, and the disclosing
+custodian considers the undisclosed information to be
+reasonably necessary in respect of the provision of or
+assistance in providing the health service, the
+disclosing custodian shall give notice to the health
+service provider to which it discloses the information
+that
+(a) the disclosure is limited because of the
+condition; and
+(b) the custodian considers the undisclosed
+information to be reasonably necessary in
+respect of the provision of or assistance
+in providing the health service.
+
+### Withdrawal of consent
+
+24. (1) An individual who has provided express or
+implied consent to the collection, use or disclosure of
+personal health information about him or her, may
+withdraw consent by giving notice to the health
+information custodian.
+
+### Full or partial withdrawal
+
+(2) A withdrawal of consent may be a full or
+partial withdrawal.
+
+### Effect of withdrawal
+
+(3) A withdrawal of consent to the collection, use
+or disclosure of personal health information
+(a) does not have a retroactive effect; and
+(b) is not effective
+(i) if the collection, use or disclosure is
+required by this or another Act, or
+by an Act or regulation of Canada,
+(ii) if the collection, use or disclosure is
+for the purposes of a program
+established under the Pharmacy Act
+to monitor prescriptions,
+(iii) to the extent that it purports to
+prohibit or restrict the recording of
+any information by a health
+information custodian that is
+required by law or by established
+standards of professional or
+institutional practice, or
+(iv) in prescribed circumstances.
+
+### Duty of custodian
+
+(4) On receiving notice that an individual has
+withdrawn consent to the collection, use or disclosure
+of personal health information about him or her, a
+health information custodian that collected the
+information shall
+(a) inform the individual of the implications
+of the withdrawal;
+(b) take reasonable steps to comply with the
+withdrawal;
+(c) attach the withdrawal to or record the
+withdrawal on the applicable record; and
+(d) take reasonable steps to give notice to
+other persons and organizations to which
+the custodian had disclosed the
+information that the individual has
+withdrawn consent.
+
+### Application
+
+(5) Paragraph (4)(d) applies only in respect of a
+disclosure of personal health information made within
+one year before the withdrawal of consent.
+Substitute Decision Makers
+
+### Exercise of rights by other persons
+
+25. (1) Any right or power conferred on an individual
+by this Act, including any authority of an individual in
+respect of the collection, use or disclosure of personal
+health information about him or her, may be exercised,
+(a) if the individual has attained 19 years of
+age, by that individual;
+(b) if the individual has not attained 19 years
+of age, but understands the nature of the
+right or power and the consequences of
+exercising the right or power, by that
+individual;
+(c) if the individual has not attained 19 years
+of age and does not meet the requirement
+of paragraph (b), by a person who has
+lawful custody of, or lawful authority in
+respect of, the individual;
+(d) if the individual is deceased and the
+exercise of the right or power relates to
+the administration of that individual’s
+estate,
+(i) by the individual’s personal
+representative in respect of the
+estate, or
+(ii) by the individual’s spouse, if the
+individual has no personal
+representative in respect of the
+estate;
+(e) if the individual has a legal guardian or
+trustee, or other legal representative, and
+the exercise of the right or power relates
+to the powers and duties of the guardian,
+trustee or other legal representative, by
+that guardian, trustee or other legal
+representative;
+(f) if a power of attorney has been granted
+by the individual and the exercise of the
+right or power relates to the powers and
+duties conferred by the power of
+attorney, by the attorney;
+(g) if an agent has been designated under a
+personal directive and the exercise of the
+right or power relates to the authority
+conferred in that directive, by the agent
+of the individual;
+(h) by a person with authorization in writing
+from the individual to act on the
+individual’s behalf, if the authorization
+was provided when the individual was
+entitled to exercise the right or power; or
+(i) by a prescribed person in prescribed
+circumstances.
+
+### Application of paragraph (1)(b)
+
+(2) A health information custodian may assume
+that paragraph (1)(b) applies in respect of the exercise
+of a right or power conferred by this Act on an
+individual who has not attained 19 years of age, if the
+custodian has reasonable grounds to believe that the
+individual
+(a) understands the nature of the exercise of
+the right or power; and
+(b) understands the consequences of
+exercising the right or power.
+
+### Application of paragraph (1)(c)
+
+(3) A health information custodian may assume
+that paragraph (1)(c) applies in respect of the exercise
+of a right or power conferred by this Act on an
+individual who has not attained 19 years of age, if the
+custodian has a reasonable doubt as to whether the
+individual
+(a) understands the nature of the exercise of
+the right or power; or
+(b) understands the consequences of
+exercising the right or power.
+
+### Notice
+
+(4) A notice required to be given to an individual
+under this Act may be given to a substitute decision
+maker.
+
+### Duty of substitute decision maker
+
+26. A substitute decision maker exercising a right or
+power on behalf of an individual shall take into
+consideration
+(a) whether the benefits that are likely to
+result from the exercise of the right or
+power outweigh the risk of negative
+consequences that may occur; and
+(b) the wishes, values and beliefs, if
+applicable, of the individual.
+
+## PART 4
+
+## COLLECTION, USE, DISCLOSURE
+
+## AND PROTECTION OF PERSONAL HEALTH
+
+## INFORMATION
+
+General Requirements
+Collection, Use and Disclosure
+
+### Custodian required to comply
+
+27. A health information custodian shall comply with
+this Act and the regulations in the collection, use and
+disclosure of personal health information.
+
+### Restriction: non-identifying information
+
+28. (1) Subject to subsection (3) and the regulations,
+a health information custodian shall not collect, use or
+disclose personal health information if non-identifying
+health information would be adequate for the intended
+purposes of the collection, use or disclosure.
+
+### Extent of information
+
+(2) Subject to subsection (3), a health information
+custodian shall not collect, use or disclose more
+personal health information than is reasonably
+necessary to meet the purpose of the collection, use or
+disclosure.
+
+### Exception
+
+(3) This section does not apply in respect of
+personal health information that a health information
+custodian is required by law to collect, use or disclose.
+Collection of Personal Health Information
+
+### Collection: general
+
+29. A health information custodian shall not collect
+personal health information about an individual unless
+(a) the individual has consented and the
+collection is necessary for a lawful
+purpose;
+(b) collection is permitted under section 30
+or is otherwise permitted or required by
+this or another Act, or by an Act or
+regulation of Canada; or
+(c) the collection is for a purpose for which
+this or another Act, or an Act or
+regulation of Canada, permits or requires
+a person or organization to disclose the
+information to the custodian without the
+express consent of the individual the
+information is about.
+
+### Collection from other source
+
+30. A health information custodian may collect
+personal health information about an individual from
+a source other than the individual, if
+(a) the individual consents to or authorizes
+collection from another source;
+(b) the information is collected from a health
+service provider for the purpose of
+providing or assisting in the provision of
+a health service to the individual;
+(c) it is not reasonably practical to collect the
+information from the individual;
+(d) the custodian has reasonable grounds to
+believe that collection from the
+individual
+(i) would prejudice
+(A) the health or safety of the
+individual or another
+individual, or
+(B) the purposes of the collection,
+or
+(ii) is likely to result in inaccurate
+information;
+(e) the information is necessary and is being
+collected for the purpose of
+(i) determining, in the course of
+processing an application made by
+or on behalf of the individual, the
+eligibility of that individual to
+participate in a program of, or to
+receive a health service or related
+product or benefit from, the
+custodian, or
+(ii) verifying the eligibility of the
+individual who is participating in a
+program of, or receiving a health
+service or related product or benefit
+from, the custodian;
+(f) the information is collected for the
+purpose of assembling a family or genetic
+history and the information collected will
+be used in the context of providing a
+health service to the individual;
+(g) the collection is for a purpose for which
+this or another Act, or an Act or
+regulation of Canada, permits or requires
+a person or organization to disclose the
+information to the custodian; or
+(h) collection from a source other than the
+individual is authorized by a research
+ethics committee under paragraph 69(b)
+or is in accordance with an approval of a
+research proposal by an extra-territorial
+research ethics committee.
+
+### Duty to provide information
+
+31. A health information custodian that collects
+personal health information about an individual from
+the individual or a substitute decision maker shall
+inform or give notice to the individual or substitute
+decision maker, at or before the time of collection, of
+(a) the specific legal authority for the
+collection;
+(b) the purposes for which the information is
+collected and may be used;
+(c) the individual’s rights in respect of
+(i) providing or withholding consent,
+(ii) placing conditions on consent, and
+(iii) withdrawing consent;
+(d) the purposes for which the information
+may be disclosed without express
+consent;
+(e) the persons and organizations to which
+the information may be disclosed without
+express consent; and
+(f) the title, business address, email address
+and business telephone number of a
+contact person who can respond to
+inquiries about the collection.
+
+### Prohibition: personal health number
+
+32. (1) A person other than an individual who is
+assigned a personal health number or a health
+information custodian, shall not collect or use the
+individual’s personal health number unless the
+collection or use is required
+(a) for a purpose for which a custodian has
+disclosed the number to the person;
+(b) for a purpose permitted by an enactment
+or by an Act or regulation of Canada; or
+(c) for a prescribed purpose.
+
+### Requirement to provide information
+
+(2) A person other than a health information
+custodian that requests an individual to provide a
+personal health number shall inform that individual of
+the person’s legal authority to do so.
+
+### Recording device
+
+33. Before a health information custodian collects
+personal health information using a recording device,
+camera or other device that records information in a
+manner that may not be obvious to the individual from
+whom information is to be collected, the custodian
+shall inform that individual that the device will be
+used.
+Use of Personal Health Information
+
+### Use: general
+
+34. A health information custodian shall not use
+personal health information about an individual unless
+(a) the individual has consented and the use
+is necessary for a lawful purpose;
+(b) the use is permitted or required by this or
+another Act, or by an Act or regulation of
+Canada; or
+(c) the use is for a purpose for which this or
+another Act, or an Act or regulation of
+Canada, permits or requires a person or
+organization to disclose the information
+to the custodian without the express
+consent of the individual the information
+is about.
+
+### Use by custodian
+
+35. A health information custodian may use personal
+health information about an individual
+(a) for the purpose for which the information
+was collected or created and for all
+functions reasonably necessary for
+carrying out that purpose;
+(b) to provide a health service to the
+individual;
+(c) to determine or verify the eligibility of
+the individual to participate in a program
+of the custodian or to receive a health
+service or related product or benefit from
+the custodian;
+(d) for internal management purposes,
+including
+(i) planning and resource allocation,
+(ii) development of policies, procedures
+and protocols,
+(iii) monitoring, audits, evaluations and
+reporting,
+(iv) development of measures for the
+improvement of the quality of
+administration, health services and
+practices and procedures carried out
+in health facilities,
+(v) obtaining or processing payment for
+health services,
+(vi) legal services, error management
+services and risk management
+services, and
+(vii) training health information
+custodians and agents;
+(e) for the purposes of an inspection,
+investigation or review of a health facility
+or the practices and procedures carried
+out in a health facility;
+(f) for research purposes, subject to this
+Part;
+(g) for the purpose of seeking the consent of
+the individual, if the information used for
+this purpose is limited to the name and
+contact information of the individual;
+(h) to produce information that does not
+permit an individual to be identified;
+(i) to comply with an Act, an Act or
+regulation of Canada, or a court order; or
+(j) to educate health service providers.
+
+### Transfor- mation of information
+
+36. (1) Subject to the regulations, a health
+information custodian may strip, encode or otherwise
+transform personal health information to create or
+produce non-identifying information.
+
+### Data matching
+
+(2) Subject to the regulations, a health
+information custodian may, for a purpose for which
+personal health information may be used or disclosed
+under this Act,
+(a) create or produce personal health
+information by combining information
+from two or more electronic databases or
+records; or
+(b) compare personal health information
+about an individual on two or more
+electronic databases or records.
+
+### Additional uses by public custodian
+
+37. In addition to the purposes referred to in
+section 35, a public custodian may use personal health
+information for
+(a) health system management, including
+(i) the development and management
+of health services, and
+(ii) planning, program development,
+resource allocation, monitoring and
+evaluation in respect of health
+services and related matters;
+(b) public health surveillance and health
+promotion; and
+(c) the administration and enforcement of
+this Act and the regulations.
+Disclosure of Personal Health Information
+
+### Disclosure: general
+
+38. A health information custodian shall not disclose
+personal health information about an individual unless
+(a) the custodian has the express consent of
+the individual and the disclosure is
+necessary for a lawful purpose; or
+(b) the disclosure is permitted or required by
+this or another Act, or by an Act or
+regulation of Canada.
+
+### Duty of custodian
+
+39. Before disclosing personal health information, a
+health information custodian shall take reasonable
+steps to verify that the person or organization to which
+the information is disclosed
+(a) is authorized to collect it; and
+(b) is the intended recipient.
+
+### Definition: "recipient"
+
+40. (1) In this section, "recipient" means a person to
+whom personal health information is disclosed who is
+not
+(a) a health information custodian to which
+another custodian has disclosed personal
+health information; or
+(b) an individual the information is about.
+
+### Duty of recipient
+
+(2) Except as permitted or required by law, and
+subject to the regulations, a recipient shall not use or
+disclose personal health information disclosed to him
+or her by a health information custodian for any
+purpose other than
+(a) the purpose for which the custodian was
+authorized to disclose the information
+under this Act; or
+(b) to carry out a legal duty.
+
+### Further duty
+
+(3) Except as permitted or required by law, and
+subject to the regulations, a recipient shall not use or
+disclose more of the information referred to in
+subsection (2) than is reasonably necessary to meet the
+purpose of the use or disclosure.
+
+### Disclosure to individual
+
+41. Subject to Part 5, a health information custodian
+may disclose personal health information to an
+individual the information is about.
+
+### Disclosure to IPC
+
+42. A health information custodian shall disclose to
+the Information and Privacy Commissioner personal
+health information that is necessary for the exercise of
+powers or performance of duties or functions of the
+IPC under this Act.
+
+### Disclosure to custodian
+
+43. (1) Subject to subsection (3), a health information
+custodian may, for a purpose referred to in section 35,
+disclose personal health information to another
+custodian.
+
+### Disclosure to public custodian
+
+(2) Subject to subsection (3), a public custodian
+may, for a purpose referred to in section 37, disclose
+personal health information to another public
+custodian.
+
+### Exception: contrary instruction
+
+(3) Subsections (1) and (2) do not apply if the
+disclosure of personal health information is contrary to
+an express instruction by the individual.
+
+### Disclosure for health service
+
+44. (1) Subject to subsection (3), a health information
+custodian may disclose personal health information
+about an individual to a health service provider for the
+purpose of providing or assisting in the provision of a
+health service to that individual.
+
+### Disclosure for care or treatment
+
+(2) Subject to subsection (3), a health information
+custodian may disclose personal health information
+about an individual if the disclosure
+(a) is to a person responsible for providing
+continuing care or treatment to that
+individual; and
+(b) is necessary for the provision of the
+continuing care or treatment.
+
+### Exception: contrary instruction
+
+(3) Subsections (1) and (2) do not apply if the
+disclosure of personal health information is contrary to
+an express instruction by the individual.
+
+### Disclosure for contact purposes
+
+45. (1) Subject to subsection (2), if an individual is
+injured, ill or incapacitated and unable to provide
+consent to the disclosure of personal health
+information about him or her, a health information
+custodian may disclose limited personal health
+information about the individual for the purpose of
+contacting a person in a close personal relationship
+with the individual or a potential substitute decision
+maker.
+
+### Exception: contrary instruction
+
+(2) Subsection (1) does not apply if the disclosure
+of personal health information is contrary to an express
+instruction by the individual.
+
+### Disclosure about patient
+
+46. A health information custodian may disclose
+personal health information about an individual who is
+a patient or resident in a health facility operated by the
+custodian, to a person who the custodian has
+reasonable grounds to believe has a close personal
+relationship with the individual, if
+(a) the information is provided in general
+terms and relates to the presence,
+location, condition, diagnosis, progress
+and prognosis of the individual on the
+day on which the information is
+disclosed;
+(b) the individual has not provided an
+express instruction to the contrary; and
+(c) the disclosure is made in accordance with
+accepted professional practice.
+
+### Definition: "relative"
+
+47. (1) In this section, "relative" means either of two
+persons who
+(a) are related to each other by blood,
+marriage or adoption;
+(b) are spouses; or
+(c) have been living together in a conjugal
+relationship, or in the case of illness,
+infirmity or death of one of them, had
+been living together in a conjugal
+relationship prior to hospitalization,
+death or a change in living arrangements
+necessitated by the illness or infirmity.
+
+### Disclosure about deceased individual
+
+(2) A health information custodian may disclose
+personal health information about an individual who is
+deceased or presumed to be deceased
+(a) for the purpose of identifying the
+individual;
+(b) to a person who the custodian has
+reasonable grounds to believe is a
+relative of the individual or a person with
+whom the individual had a close personal
+relationship, for the purpose of informing
+the person of the circumstances of the
+death or the health services recently
+provided to the individual;
+(c) for the purposes of informing a person
+whom it is reasonable in the
+circumstances to inform of the fact that
+the individual is deceased or presumed to
+be deceased and, if appropriate, the
+circumstances of the death;
+(d) to the individual’s personal
+representative, or to the individual’s
+spouse if there is no personal
+representative, for a purpose related to
+the administration of the estate;
+(e) to a relative of the individual, if the
+relative reasonably requires it to make a
+decision about his or her health or the
+health of his or her child; or
+(f) to a person with legal authority to make a
+decision about health care for a child who
+is a relative of the individual, if the
+person reasonably requires the
+information to make a decision about the
+child’s health.
+
+### Disclosure: health services delivery
+
+48. A health information custodian may disclose
+personal health information about an individual
+(a) for the purpose of determining or
+verifying the eligibility of the individual
+to receive a health service or related
+product or benefit provided under an
+enactment, an Act or regulation of
+Canada, or a government policy, and
+funded in whole or in part by the
+Government of the Northwest Territories
+or the Government of Canada;
+(b) for the purpose of determining or
+providing payment to the custodian for
+the provision of a health service or
+related product or benefit;
+(c) for the purpose of processing,
+monitoring, verifying or reimbursing
+claims for payment for a health service,
+product or benefit; or
+(d) to a government, or to a department or
+other organization of a government, to
+the extent necessary to provide or obtain
+payment for a health service or related
+product or benefit provided to the
+individual.
+
+### Disclosure: disciplinary proceedings
+
+49. A health information custodian may, for the
+purposes of a complaint, inquiry, investigation or
+review under an Act, or under the legislation of a
+province or another territory, disclose personal health
+information about an individual to a person or
+organization with authority under the Act or other
+legislation to
+(a) inquire into, investigate or review the
+conduct of, or the quality or standard of
+service provided by, a health service
+provider;
+(b) adjudicate or conduct an alternative
+dispute resolution process in respect of
+the conduct of, or the quality or standard
+of service provided by, a health service
+provider; or
+(c) suspend or cancel, or recommend or
+order the suspension or cancellation of,
+the registration or licence of a health
+service provider, on the grounds of his or
+her conduct or quality or standard of
+service.
+
+### Disclosure: proceedings
+
+50. A health information custodian may disclose
+personal health information about an individual
+(a) for the purposes of a proceeding or
+contemplated proceeding in which the
+custodian is or is expected to be a party
+or witness, if the information relates to or
+is a matter in issue in the proceeding or
+contemplated proceeding;
+(b) for the purposes of complying with
+(i) a summons, subpoena or warrant
+issued or a demand or order made
+by a court, person or organization
+that has the authority to compel the
+production of information, or
+(ii) a rule of court that relates to the
+production of information;
+(c) to a proposed guardian ad litem ,
+committee or personal representative of
+the individual, for the purpose of having
+the person appointed as a guardian
+ad litem , committee or personal
+representative;
+(d) to a guardian ad litem , committee or
+personal representative who is authorized
+under the Rules of the Supreme Court of
+the Northwest Territories to commence,
+defend or continue a proceeding on
+behalf of the individual or to represent
+the individual in a proceeding;
+(e) to a person carrying out an inspection,
+investigation or similar procedure
+authorized by an enactment or by an Act
+or regulation of Canada, for the purpose
+of facilitating the inspection,
+investigation or procedure; or
+(f) to a quality assurance committee, as
+defined in section 13 of the Evidence Act ,
+for the purposes of a quality assurance
+activity as defined in that section.
+
+### Disclosure to correctional facility
+
+51. A health information custodian may disclose
+personal health information about an individual to a
+person in charge of a correctional facility or youth
+custody facility in which the individual is lawfully
+detained, or to an official responsible under an
+enactment, or under the legislation of Canada, a
+province or another territory, for making decisions in
+respect of an individual who is lawfully detained in
+such a facility, to assist in making decisions respecting
+(a) arrangements for the provision of health
+services to the individual; or
+(b) the placement of the individual into
+custody, or his or her detention, transfer,
+release, conditional release, discharge or
+conditional discharge under an
+enactment, or under the legislation of
+Canada, a province or another territory.
+
+### Disclosure to other facilities
+
+52. A health information custodian may disclose
+personal health information about an individual to a
+person in charge of a facility in which the individual is
+lawfully detained other than a facility referred to in
+section 51, or to an official responsible under an
+enactment, or under the legislation of Canada, a
+province or another territory, for making decisions in
+respect of an individual who is lawfully detained in a
+such a facility, to assist in making decisions respecting
+(a) arrangements for the provision of health
+services to the individual; or
+(b) other matters in relation to the individual
+for which the person in charge or other
+official is responsible.
+
+### Disclosure: audit, legal services, risk management
+
+53. A health information custodian may disclose
+personal health information about an individual to a
+person who requires the information to
+(a) carry out an audit for the custodian or in
+respect of health services provided by the
+custodian; or
+(b) provide legal services, error management
+services or risk management services to
+the custodian.
+
+### Disclosure to potential successor
+
+54. (1) Subject to subsection (2), a health information
+custodian may disclose personal health information
+about an individual to a potential successor to all or
+part of the operation of the custodian, for the purpose
+of allowing the potential successor to assess and
+evaluate the operation of the custodian or the
+applicable part.
+
+### Confidential- ity agreement
+
+(2) Information may only be disclosed under
+subsection (1) if the potential successor first enters into
+an agreement with the health information custodian to
+keep the information confidential and secure and not to
+retain the information any longer than is necessary for
+the purpose of the assessment or evaluation.
+
+### Disclosure to successor
+
+55. (1) A health information custodian may disclose
+personal health information about an individual to its
+successor, if
+(a) the custodian transfers records to the
+successor as a result of the custodian
+ceasing to be a custodian or ceasing to
+provide health services within the
+geographic area in which the successor
+provides health services; and
+(b) the successor is a custodian.
+
+### Notice of transfer
+
+(2) A health information custodian that transfers
+records containing personal health information about
+individuals to a successor shall, before the transfer or
+as soon as possible after the transfer, take reasonable
+steps to give notice to each individual about the
+transfer, including information that identifies the
+successor.
+
+### Disclosure: prevention of fraud, abuse, offence
+
+56. A health information custodian may disclose
+personal health information about an individual to
+another custodian if the disclosing custodian has
+reasonable grounds to believe that disclosure will
+detect or prevent fraud, limit abuse in the use of health
+services or prevent the commission of an offence under
+an enactment.
+
+### Disclosure: law enforcement
+
+57. A health information custodian may, for law
+enforcement purposes, disclose personal health
+information about an individual to a law enforcement
+agency.
+
+### Disclosure: prevention of harm
+
+58. (1) A health information custodian may disclose
+personal health information about an individual if the
+custodian has reasonable grounds to believe that the
+disclosure is required to prevent or reduce
+(a) an imminent threat to the health or safety
+of the individual or another individual;
+(b) a risk of serious harm to the health or
+safety of the individual or another
+individual; or
+(c) an imminent or serious threat to public
+safety.
+
+### Disclosure to medical or mental health expert
+
+(2) A health information custodian may disclose
+personal health information about an individual to a
+medical or mental health expert
+(a) for advice with regard to
+paragraph (1)(a), (b) or (c); or
+(b) for the purposes of subsection 113(1).
+
+### Disclosure for consultation
+
+59. A health information custodian may disclose
+personal health information about an individual to a
+person who requires the information for the purpose of
+a consultation referred to in paragraph 106(1)(b)
+or 123(1)(b).
+
+### Disclosure to government: health programs and services
+
+60. Subject to the regulations, the Department may
+disclose personal health information about an
+individual for the purpose of the development of health
+programs or services, or for the management,
+monitoring or evaluation of the health system or health
+programs or services, to
+(a) the Government of Canada, a government
+of a province or territory, or an
+Aboriginal government; or
+(b) a department or other organization of a
+government referred to in paragraph (a).
+
+### Disclosure to prescribed person or organization
+
+61. (1) Subject to subsection (2) and the regulations,
+a public custodian may disclose personal health
+information about an individual to a prescribed person
+or organization for the purpose of compiling and
+analyzing statistical information that
+(a) may be of assistance to a public
+custodian for a purpose referred to in
+paragraph 37(a) or (b); or
+(b) may be of assistance to a government or
+organization referred to paragraph 60(a)
+or (b) in the development of health
+programs or health services or for the
+management, monitoring or evaluation of
+the health system or health programs or
+services.
+
+### Information sharing agreement
+
+(2) Personal health information may only be
+disclosed under subsection (1) in accordance with an
+information sharing agreement.
+
+### Disclosure of statistical information
+
+(3) An information sharing agreement referred to
+in subsection (2) may authorize a prescribed person or
+organization to which personal health information is
+disclosed under paragraph (1)(b), to disclose the
+statistical information that the person or organization
+has compiled and analyzed to a government or
+organization, referred to in paragraph 60(a) or (b),
+(a) if consent is provided in accordance with
+the regulations; and
+(b) subject to the conditions of the
+information sharing agreement.
+
+### Disclosure to Department
+
+62. Subject to the regulations, a health information
+custodian may disclose personal health information
+about an individual to the Department if the
+Department informs the custodian that the disclosure
+is necessary for the purposes of a review of a
+complaint by an individual respecting the provision of
+a health service by a public custodian.
+
+### Electronic health information system
+
+63. A prescribed health information custodian shall, in
+accordance with the regulations, disclose personal
+health information about an individual to or by an
+electronic health information system designated by or
+in accordance with the regulations, in which personal
+health information is recorded for the purposes of
+(a) facilitating the delivery, evaluation or
+monitoring of a program that relates to
+the provision of health services or the
+payment for health services;
+(b) facilitating review and planning
+necessary for the provision of health
+services or the payment for health
+services; or
+(c) the creation and maintenance of an
+electronic record containing personal
+health information.
+
+### Information for registry
+
+64. A health information custodian shall, in
+accordance with the regulations, disclose personal
+health information about an individual to a prescribed
+custodian who compiles or maintains a registry of
+personal health information
+(a) for purposes of facilitating or improving
+the provision of health services; or
+(b) that relates to the storage or donation of
+body parts or substances.
+
+### Prescription monitoring program
+
+65. A health information custodian shall disclose
+personal health information about an individual in
+accordance with regulations under the Pharmacy Act
+that establish a program to monitor prescriptions.
+
+### Other public health authority
+
+66. Subject to the regulations, a health information
+custodian shall disclose personal health information
+about an individual to a public health authority
+established under an Act, or under the legislation of
+Canada, a province or another territory, if the
+disclosure is required for a public health purpose.
+Collection, Use and Disclosure
+of Personal Health Information
+for Research Purposes
+
+### Application
+
+67. Sections 69 to 83 apply in respect of researchers
+that
+(a) are health information custodians;
+(b) collect or wish to collect personal health
+information from one or more health
+information custodians; or
+(c) use or wish to use personal health
+information collected from one or more
+health information custodians.
+
+### Research ethics committee
+
+68. The Minister may, by order, designate an
+organization as a research ethics committee for the
+purposes of this Act.
+
+### Role: research ethics committee
+
+69. A research ethics committee
+(a) shall review a research proposal
+submitted to it by a researcher in
+accordance with section 72 and approve
+or reject the proposal;
+(b) shall determine whether a researcher may
+collect personal health information from
+a source other than the individuals the
+information is about, if the research
+proposal includes collection from another
+source;
+(c) shall determine whether
+(i) express consent to the collection of
+personal health information must be
+obtained from the individuals whose
+information would be collected by a
+researcher, or
+(ii) express consent to the use or
+disclosure of personal health
+information must be obtained from
+the individuals whose information
+would be used by a researcher or
+disclosed by a health information
+custodian to a researcher;
+(d) may set conditions that a researcher must
+comply with in respect of
+(i) collection of personal health
+information,
+(ii) use of personal health information,
+and
+(iii) subsequent disclosure of personal
+health information collected by a
+researcher, including the disclosure
+of personal health information in
+research produced using that
+information; and
+(e) may make recommendations for
+consideration by a health information
+custodian that would be disclosing
+personal health information to a
+researcher.
+
+### Prohibition: research
+
+70. A researcher shall not collect personal health
+information for the purpose of conducting research or
+conduct research using personal health information
+unless
+(a) a research ethics committee has, under
+paragraph 69(a), approved the research
+proposal under which the research is
+conducted; or
+(b) an extra-territorial research ethics
+committee has approved the research
+proposal under which the research is
+conducted and paragraph 78(a) applies.
+
+### Prohibition: collection and condition
+
+71. A researcher shall not
+(a) collect personal health information for
+the purpose of conducting research from
+a source other than the individual the
+information is about unless
+(i) a research ethics committee has,
+under paragraph 69(b), determined
+that the researcher may do so, or
+(ii) an extra-territorial research ethics
+committee has determined that the
+researcher may do so and paragraph
+78(a) applies; or
+(b) collect personal health information for
+the purpose of conducting research or
+conduct research using personal health
+information without the express consent
+of the individuals the information is
+about, if
+(i) a research ethics committee has
+determined under paragraph 69(c)
+that express consent must be
+obtained, or
+(ii) an extra-territorial research ethics
+committee has determined that
+express consent must be obtained.
+
+### Application to research ethics committee
+
+72. (1) A researcher may apply to a research ethics
+committee for approval of a research proposal.
+
+### Requirements
+
+(2) An application made under subsection (1)
+must include
+(a) a research proposal that complies with
+the prescribed requirements; and
+(b) any other information required by the
+research ethics committee.
+
+### Factors for assessment
+
+73. (1) When deciding under paragraph 69(a)
+whether to approve a research proposal, a research
+ethics committee shall assess the following factors:
+(a) whether the objectives of the research
+can reasonably be accomplished without
+the personal health information that
+would be collected, used or disclosed;
+(b) whether the proposed research is of
+sufficient importance that the public
+interest in it outweighs to a substantial
+degree the public interest in protecting
+the privacy of the individuals whose
+personal health information would be
+collected, used or disclosed, taking into
+account the degree to which the proposed
+research could contribute to
+(i) identification, prevention or
+treatment of illness or disease,
+(ii) scientific understanding relating to
+health,
+(iii) promotion and protection of
+community health and the health of
+individuals, and
+(iv) improvements in the delivery of
+health services and the management
+of health systems;
+(c) whether the researcher is qualified to
+carry out the research;
+(d) the researcher’s proposed security
+measures and whether adequate
+safeguards would be in place to protect
+the confidentiality of the personal health
+information that would be collected, used
+or disclosed and the privacy of the
+individuals the information is about.
+
+### Assessment: express consent
+
+(2) In determining whether express consent to the
+collection, use or disclosure of personal health
+information must be obtained from the individuals
+whose personal health information would be collected,
+used or disclosed, the research ethics committee may
+take into account whether the requirement for express
+consent would be unreasonable, impractical or not
+feasible.
+
+### Notice required
+
+74. (1) A research ethics committee shall give notice
+to a researcher of
+(a) its decision to approve or reject a
+research proposal; and
+(b) in the case of approval of a research
+proposal,
+(i) its determination under
+paragraph 69(b) in respect of
+collection of personal health
+information from a source other
+than the individual,
+(ii) its determination under
+paragraph 69(c) in respect of
+express consent,
+(iii) any conditions set under
+paragraph 69(d), and
+(iv) any recommendations made under
+paragraph 69(e).
+
+### Contents of notice
+
+(2) The notice referred to in subsection (1) must
+include
+(a) reasons in respect of factors assessed
+under subsection 73(1); and
+(b) in the case of approval of a research
+proposal, reasons for
+(i) the determination under
+paragraph 69(b) in respect of
+collection of personal health
+information from a source other
+than the individual,
+(ii) the determination under
+paragraph 69(c) in respect of
+express consent, and
+(iii) any conditions set under
+paragraph 69(d).
+
+### Prohibition: request for disclosure
+
+75. A researcher shall not request a health information
+custodian to disclose personal health information about
+an individual to the researcher unless
+(a) the researcher has received notice from a
+research ethics committee that
+(i) the research proposal that relates to
+the disclosure is approved, and
+(ii) the researcher may collect personal
+health information from a source
+other than the individual the
+information is about; or
+(b) paragraph 78(a) applies and an
+extra-territorial research ethics committee
+has
+(i) approved a research proposal under
+which the research is conducted,
+and
+(ii) authorized the researcher to collect
+personal health information from a
+source other than the individual the
+information is about.
+
+### Disclosure of information for research purposes
+
+76. (1) Subject to sections 79 and 80, a health
+information custodian may disclose personal health
+information to a researcher in accordance with
+section 77 or 78.
+
+### Disclosure not required
+
+(2) For greater certainty, a health information
+custodian is not required to disclose personal health
+information to a researcher whose research proposal
+has been approved by a research ethics committee
+under paragraph 69(a), or by an extra-territorial
+research ethics committee.
+
+### Requirements for disclosure: research
+
+77. A health information custodian may disclose
+personal health information to a researcher whose
+research proposal has been approved by a research
+ethics committee, if
+(a) in its decision, the committee determined
+that the researcher may collect personal
+health information from a source other
+than the individual the information is
+about;
+(b) the researcher submits to the custodian
+(i) an application in writing, in a form
+satisfactory to the custodian, that
+requests the disclosure of the
+personal health information to be
+used in the research,
+(ii) a licence to carry out the research
+issued to the researcher under the
+Scientists Act , if one is required
+under that Act for the research,
+(iii) the research proposal and a copy of
+the committee’s decision approving
+the proposal that includes the
+determination referred to in
+paragraph (a) and the following
+information:
+(A) whether express consent to the
+disclosure must be obtained
+from the individuals whose
+personal health information
+would be disclosed to the
+researcher,
+(B) any conditions set by the
+committee,
+(C) any recommendations made for
+consideration by a custodian
+that would be disclosing
+personal health information to
+the researcher, and
+(iv) any other information required by
+the custodian; and
+(c) the researcher enters into an agreement
+with the custodian in accordance with
+section 80.
+
+### Disclosure: approval by extra- territorial research ethics committee
+
+78. A health information custodian may disclose
+personal health information to a researcher whose
+research proposal has been approved by an
+extra-territorial research ethics committee, if
+(a) the research relates to a
+multi-jurisdictional research project
+involving
+(i) personal health information about
+individuals from a number of
+jurisdictions, and
+(ii) the collection of personal health
+information from a number of
+jurisdictions;
+(b) the researcher submits to the custodian
+(i) an application in writing, in a form
+satisfactory to the custodian, that
+requests the disclosure of the
+personal health information to be
+used in the research,
+(ii) a licence to carry out the research
+issued to the researcher under the
+Scientists Act , if one is required
+under that Act for the research,
+(iii) the research proposal, and a copy of
+a decision of the extra-territorial
+research ethics committee approving
+the proposal, and
+(iv) any other information required by
+the custodian;
+(c) the disclosure is not contrary to this or
+another Act;
+(d) the researcher enters into an agreement
+with the custodian in accordance with
+section 80; and
+(e) any prescribed requirements are met.
+
+### Requirement for express consent
+
+79. If the research ethics committee or extra-territorial
+research ethics committee that approved a research
+proposal determined that express consent must be
+obtained to the disclosure of the personal health
+information, a health information custodian shall not
+disclose the information to a researcher under
+section 77 or 78 unless the express consent is obtained.
+
+### Disclosure agreement: requirements
+
+80. (1) A health information custodian may not
+disclose personal health information to a researcher
+under section 77 or 78 unless the custodian and
+researcher enter into an agreement in which the
+researcher agrees to comply with
+(a) this Act and the regulations, including the
+requirements referred to in paragraphs
+81(a) to (d);
+(b) any specified standards, policies and
+procedures of the custodian in respect of
+the confidentiality of personal health
+information;
+(c) any terms and conditions of the
+agreement that bind the researcher in
+respect of the
+(i) use and disclosure of the
+information,
+(ii) protection of the confidentiality of
+the information and the privacy of
+the individuals the information is
+about,
+(iii) security and confidentiality of
+records that contain the information,
+and
+(iv) modification, return or destruction
+or other disposal of records that
+contain the information; and
+(d) any terms and conditions of the
+agreement binding the researcher that
+safeguard against the direct or indirect
+identification of an individual the
+information is about, including terms and
+conditions for the removal or destruction
+of personal identifiers.
+
+### Fees and disbursements
+
+(2) Subject to subsection (3) and the regulations,
+an agreement referred to in subsection (1) may require
+a researcher to pay to a health information custodian
+fees and disbursements for the costs of providing
+disclosure, such as costs in respect of
+(a) locating personal health information and
+preparing it for disclosure;
+(b) copying records containing personal
+health information;
+(c) delivering personal health information to
+the researcher; and
+(d) seeking consents referred to in
+section 82.
+
+### Cap on amount
+
+(3) Subject to the regulations, fees and
+disbursements referred to in subsection (2) must not
+exceed the costs of providing the service.
+
+### Requirements
+
+81. A researcher who collects personal health
+information about one or more individuals from a
+health information custodian for the purposes of
+conducting research shall
+(a) comply with conditions set by the
+research ethics committee under
+paragraph 69(d), or conditions set by an
+extra-territorial research ethics committee
+that are not in conflict with this Act;
+(b) not publish the information in a form that
+could reasonably be expected to identify
+the individuals the information is about;
+(c) not contact or attempt to make contact
+with an individual the information is
+about unless the custodian obtains
+express consent from the individual for
+the researcher to contact the individual to
+request further details, as referred to in
+subsection 82(2);
+(d) use the information only for the purposes
+set out in the applicable research
+proposal as approved by the research
+ethics committee or extra-territorial
+research ethics committee; and
+(e) comply with the provisions of the
+agreement referred to in
+paragraphs 80(1)(b), (c) and (d).
+
+### Seeking express consent
+
+82. (1) After an agreement has been entered with a
+researcher under section 80, a health information
+custodian may contact individuals to seek their express
+consent to disclose personal health information about
+them to the researcher.
+
+### Collection of further details
+
+(2) A researcher who has collected personal
+health information about an individual from a health
+information custodian may only contact the individual
+to request further details if the custodian first obtains
+express consent from the individual for the researcher
+to contact the individual for that purpose.
+
+### No further disclosure
+
+83. A health information custodian that suspects that
+a researcher may have failed to comply with a
+provision of an agreement referred to in
+subsection 80(1), or a requirement referred to in
+section 81, shall not disclose any further personal
+health information to the researcher unless the
+researcher satisfies the custodian that the researcher is
+in compliance with the applicable provisions and
+requirements.
+Record of Disclosure
+
+### Requirement to maintain disclosure information
+
+84. (1) Subject to subsections (2) and (3), a health
+information custodian that discloses personal health
+information about an individual without his or her
+express consent, shall make a record of
+(a) the name of the person or organization to
+which the information is disclosed;
+(b) the date of the disclosure;
+(c) the purpose of the disclosure; and
+(d) a description of the information
+disclosed.
+
+### Exception: disclosure to custodian
+
+(2) Subsection (1) does not apply to the
+disclosure of personal health information under
+section 43, 44 or 48.
+
+### Exception: information system
+
+(3) Subsection (1) does not apply where a health
+information custodian discloses personal health
+information by permitting collection of information
+from an electronic record stored in an electronic health
+information system, if the system automatically keeps
+an electronic log
+(a) of the user identification of the person
+who collects the information;
+(b) of the date and time the information is
+collected; and
+(c) that identifies the information that is
+collected or that could have been
+collected.
+Protection of Personal Health Information
+
+### Measures for protection of information
+
+85. (1) A health information custodian shall take
+reasonable measures to maintain administrative,
+technical and physical safeguards for the protection of
+personal health information, including for protection
+(a) of the confidentiality of personal health
+information and the privacy of
+individuals the information is about;
+(b) of the confidentiality of personal health
+information that is to be stored or used
+outside the Northwest Territories, or that
+is to be disclosed by the custodian to a
+person or organization outside the
+Territories;
+(c) against unauthorized access to or
+unauthorized use, disclosure or alteration
+of personal health information;
+(d) against loss or unauthorized destruction
+or other disposal of personal health
+information; and
+(e) against theft or any other reasonably
+anticipated threat or hazard to the
+security or integrity of personal health
+information.
+
+### Authorization of users
+
+(2) A health information custodian shall
+implement controls that limit the persons who may use
+personal health information maintained by the
+custodian to those authorized to do so.
+
+### Protection of records
+
+86. (1) A health information custodian shall take
+reasonable measures to protect the security and
+confidentiality of records that contain personal health
+information, including measures to ensure that the
+records
+(a) are maintained in a secure manner;
+(b) are, if applicable, transferred in a secure
+manner; and
+(c) are, on destruction or other disposal,
+disposed of in a secure manner.
+
+### Electronic health records
+
+(2) The measures under subsection (1) must
+include measures to address risks to confidentiality and
+privacy associated with electronic health records that
+are based on nationally or territorially recognized
+information technology security standards and
+processes that are appropriate for the high level of
+sensitivity of personal health information.
+
+### Organization of health records
+
+(3) A health information custodian shall take
+reasonable measures to maintain records in an orderly
+manner and to maintain an organized system of
+record-keeping, to ensure ease of access to the records
+when personal health information is required.
+
+### Requirements
+
+(4) A health information custodian shall comply
+with requirements set out in the regulations in respect
+of the retention, transfer, and destruction or other
+disposal of records containing personal health
+information.
+
+### Duty to give notice
+
+87. Subject to any prescribed exceptions, a health
+information custodian shall give notice to an individual
+and, if applicable, to a prescribed person or
+organization, as soon as reasonably possible if
+personal health information about the individual is
+(a) used or disclosed other than as permitted
+by this Act;
+(b) lost or stolen; or
+(c) altered, destroyed or otherwise disposed
+of without authorization.
+
+### Accuracy of information
+
+88. A health information custodian shall take
+reasonable measures to ensure that personal health
+information is accurate and complete
+(a) in collecting the information; and
+(b) before using or disclosing the
+information.
+
+### Definition: "prescribed custodian"
+
+89. (1) In this section, "prescribed custodian" means
+a health information custodian prescribed as a
+custodian to which this section applies.
+
+### Privacy impact assessment required
+
+(2) A public custodian and a prescribed custodian
+shall prepare a privacy impact assessment in respect of
+a proposed new, or a proposed change to an
+information system or communication technology
+relating to the collection, use or disclosure of personal
+health information.
+
+### Privacy impact assessment to IPC
+
+(3) A health information custodian to which this
+section applies shall give a copy of the privacy impact
+assessment to the Information and Privacy
+Commissioner.
+
+## PART 5
+
+## ACCESS TO AND CORRECTION OF
+
+## PERSONAL HEALTH INFORMATION
+
+Interpretation and Application
+
+### Definition: "applicant"
+
+90. In this Part, "applicant" means an individual who
+makes an access request or a correction request.
+
+### Disclosure without formal request
+
+91. (1) Nothing in this Act prevents a health
+information custodian from disclosing personal health
+information about an individual to him or her
+(a) in the absence of an access request by the
+individual; or
+(b) if the individual makes a verbal request
+for access to the information.
+
+### Duty to disclose expeditiously
+
+(2) Nothing in this Act relieves a health
+information custodian from a duty to disclose, in a
+manner that is not inconsistent with this Act, personal
+health information as expeditiously as is necessary for
+the provision of a health service to the individual.
+
+### Correction without written request
+
+92. Nothing in this Act prevents a health information
+custodian, on a verbal request from an individual, from
+making a correction to personal health information
+about the individual in a record in the custody or under
+the control of the custodian.
+
+### Duty of custodian: identity of applicant
+
+93. Before disclosing personal health information to
+an applicant, a health information custodian shall take
+reasonable steps to verify the identity of the applicant.
+Access to Personal Health Information
+
+### Right of access
+
+94. (1) Subject to subsections (2) and (3), an
+applicant has a right of access to any record containing
+personal health information about the applicant in the
+custody or under the control of a health information
+custodian.
+
+### Information excepted
+
+(2) The right of access to a record does not
+extend to information excepted from disclosure under
+sections 110 to 118, but where that information can
+reasonably be severed from a record, the applicant has
+a right of access to the remainder of the record.
+
+### No right of access
+
+(3) An applicant does not have a right of access
+to a record requested in an access request if the
+Information and Privacy Commissioner, under
+subsection 131(1), has authorized the health
+information custodian to disregard the access request.
+
+### Fees and disbursements
+
+95. (1) The right of access to a record is subject to the
+payment of applicable fees and disbursements set in
+accordance with the regulations.
+
+### Cap on amount
+
+(2) Subject to the regulations, fees and
+disbursements referred to in subsection (1) must not
+exceed the costs of processing the access request.
+
+### Waiver by public custodian
+
+(3) A public custodian may waive payment of all
+or part of fees and disbursements referred to in
+subsection (1) if the custodian has reasonable grounds
+to believe that the applicant cannot afford the payment
+or, for any other reason, it is fair to waive payment.
+
+### Waiver by other custodian
+
+(4) A health information custodian other than a
+public custodian may waive payment of all or part of
+fees and disbursements referred to in subsection (1).
+
+### Access request
+
+96. (1) An individual who wishes to obtain access to
+a record containing personal health information about
+him or her may make a request to the health
+information custodian that the individual believes has
+custody or control of the record.
+
+### Requirement for written access request
+
+(2) A health information custodian that receives
+a verbal access request may require an applicant to
+submit the request in writing.
+
+### Access request to be detailed
+
+(3) The access request must include enough detail
+to enable the health information custodian to identify
+the record.
+
+### Method of access
+
+(4) In an access request, the applicant may ask for
+a copy of the record or to examine the record.
+
+### Duty to assist applicant
+
+97. On receiving an access request, a health
+information custodian shall make every reasonable
+effort to
+(a) assist the applicant;
+(b) respond to the applicant openly,
+accurately and completely; and
+(c) respond to the applicant without delay.
+
+### Refusal to confirm or deny existence of record
+
+98. On receiving an access request, a health
+information custodian may refuse to confirm or deny
+the existence of a record containing personal health
+information if
+(a) section 110, 111, 113, 114 or 116 applies
+in respect of disclosure of information in
+that record; and
+(b) the custodian has reasonable grounds to
+believe that the information referred to in
+those sections cannot reasonably be
+severed from the record.
+
+### Request for copy of record
+
+99. (1) Subject to this Part, if an applicant asks under
+subsection 96(4) for a copy of a record, the health
+information custodian shall
+(a) give the applicant a copy, if
+(i) the record can reasonably be
+reproduced by the custodian using its
+normal equipment and expertise, and
+(ii) creating the copy would not
+unreasonably interfere with the
+operations of the custodian; or
+(b) if subparagraphs (a)(i) and (ii) do not
+apply,
+(i) permit the applicant to examine the
+record, or
+(ii) permit the applicant to have access
+to the record in accordance with the
+regulations.
+
+### Request to examine record
+
+(2) Subject to this Part, if an applicant asks under
+subsection 96(4) to examine a record, the health
+information custodian shall
+(a) permit the applicant to examine the
+record;
+(b) give the applicant a copy of the record, if
+permitting the applicant to examine the
+record would not be reasonable because
+of concerns relating to the privacy of
+information about other individuals or if
+section 100 applies; or
+(c) permit the applicant to have access to the
+record in accordance with the
+regulations.
+
+### Prejudice to security
+
+100. A health information custodian may refuse to
+permit an applicant to have access to information in a
+record through examination of the record if there is a
+reasonable possibility that the disclosure could
+prejudice the security of any property or system, such
+as a building, computer system, electronic health
+information system or communication system.
+
+### Response to access request
+
+101. (1) Subject to subsections (2) and (3), not later
+than 30 days after receiving an access request, a health
+information custodian shall give an applicant a
+response in writing that includes
+(a) information as to whether or not the
+custodian will provide the applicant with
+access to the requested record or part of
+the record;
+(b) if access to the requested record or part
+of the record is to be provided,
+information on how access will be
+provided, and
+(i) a copy of the requested record or
+part of the record, or information
+that a copy of the requested record
+or part of it will be given and
+reasons for the delay in giving the
+copy, or
+(ii) information as to where, when and
+how the applicant may examine the
+record; and
+(c) if access to the requested record or part
+of the record is refused,
+(i) the reasons for the refusal and the
+provision of this Act on which
+refusal is based,
+(ii) the title, business address, email
+address and business telephone
+number of a contact person who can
+respond to inquiries about the
+refusal, and
+(iii) information that the applicant may,
+under subsection 141(1), request a
+review of the refusal.
+
+### Exceptions
+
+(2) Subsection (1) does not apply to an access
+request
+(a) that is deemed to be abandoned under
+subsection 104(5);
+(b) that is transferred to another health
+information custodian under
+subsection 108(1); or
+(c) if the Information and Privacy
+Commissioner, under subsection 131(1),
+has authorized the health information
+custodian to disregard the access request.
+
+### Time limit exceptions
+
+(3) The 30 day time limit in subsection (1) does
+not apply if subsection 104(4), 105(1), 105(2) or
+106(3) or section 107 applies to the time limit for
+responding to an applicant under subsection (1).
+
+### Deemed refusal
+
+102. An applicant may deem a failure by a health
+information custodian to respond to an access request
+on time to be a decision to refuse access to a record for
+the purpose of a request to the Information and Privacy
+Commissioner for a review under subsection 141(1).
+
+### Duty to give copy within 30 days
+
+103. (1) Subject to subsection 95(1), if a health
+information custodian informs an applicant under
+paragraph 101(1)(b) that a copy of a record or part of
+a record will be given, but does not give a copy of it
+with the response referred to in subsection 101(1), the
+custodian shall give a copy of the record to the
+applicant as soon as reasonably possible and not later
+than 30 days after giving the response.
+
+### Duty to provide access within 30 days
+
+(2) Subject to subsection 95(1), if a health
+information custodian informs an applicant under
+paragraph 101(1)(b) that access will be provided
+through examination of a record, the health
+information custodian shall provide access as soon as
+reasonably possible and not later than 30 days after
+giving the response under subsection 101(1).
+
+### Further information required
+
+104. (1) A health information custodian that requires
+further information from an applicant to identify a
+record shall, as soon as reasonably possible, and not
+later than 10 days after receiving an access request,
+make a request in writing to the applicant for the
+further information.
+
+### Estimate of fees
+
+(2) If fees or disbursements will be payable to a
+health information custodian from an applicant in
+respect of an access request, the custodian shall, as
+soon as reasonably possible, and not later than 20 days
+after receiving the access request or 20 days after
+receiving further information under subsection (1),
+whichever occurs later,
+(a) give the applicant an estimate of fees and
+disbursements prepared in accordance
+with the regulations; and
+(b) request confirmation from the applicant
+that the custodian should proceed to
+process the access request.
+
+### Invoice payable
+
+(3) A health information custodian shall give an
+applicant an invoice for fees or disbursements within
+the time limit set by the regulations if, in accordance
+with the regulations, payment of any fees or
+disbursements by an applicant is required before an
+access request is processed.
+
+### Time limit for response
+
+(4) If subsection (1), (2) or (3) applies, a health
+information custodian shall respond to the applicant as
+required under subsection 101(1) not later than the
+latest of
+(a) 30 days after the custodian receives the
+access request;
+(b) 30 days after the custodian receives the
+information requested under
+subsection (1);
+(c) 10 days after the custodian receives
+confirmation from the applicant, under
+paragraph (2)(b), that the custodian
+should proceed to process the access
+request; or
+(d) the time limit set by the regulations, if
+subsection (3) applies.
+
+### Deemed abandonment of access request
+
+(5) A health information custodian may deem an
+access request to be abandoned by an applicant if the
+applicant
+(a) fails to respond within 60 days after he or
+she receives a request from the custodian
+under subsection (1) to provide further
+information;
+(b) fails to respond within 60 days after he or
+she receives the estimate of fees and
+disbursements from the custodian under
+paragraph (2)(a); or
+(c) fails to pay an invoice referred to in
+subsection (3) within 60 days after he or
+she receives it from the custodian.
+
+### Duty to inform applicant
+
+(6) A health information custodian shall inform
+the applicant in writing about subsection (5)
+(a) in a request for further information under
+subsection (1);
+(b) on giving the applicant an estimate of
+fees and disbursements under
+subsection (2); or
+(c) on giving the applicant an invoice for
+fees and disbursements under
+subsection (3).
+
+### Effect of deemed abandonment
+
+(7) Deemed abandonment of an access request
+does not prevent an applicant from making a further
+access request in respect of the same record.
+
+### Suspension of time limit if review by IPC
+
+105. (1) If under subsection 129(1) a health
+information custodian requests the Information and
+Privacy Commissioner to authorize the custodian to
+disregard an access request,
+(a) the time limit under subsection 101(1) for
+the custodian to respond to the applicant
+is suspended from the day the custodian
+makes the request to the day the
+custodian receives the decision from the
+IPC; and
+(b) the time limits under section 104 are
+suspended from the day the custodian
+makes the request to the day the
+custodian receives the decision from the
+
+## IPC.
+
+### Time limit if request denied
+
+(2) If the Information and Privacy Commissioner
+denies a request by a health information custodian
+under subsection 129(1) to authorize the custodian to
+disregard an access request, the custodian shall
+respond to the applicant as required under
+subsection 101(1)
+(a) not later than 30 days after receiving the
+decision from the IPC unless a time limit
+referred to in paragraph (b) applies; or
+(b) if applicable, within the time limit
+referred to in subsection 104(4) or 106(3)
+or section 107.
+
+### Extension of time limit for responding
+
+106. (1) A health information custodian may extend
+the time limit for responding to an access request for a
+reasonable period not exceeding 30 days after the
+expiration of the applicable time limit under
+subsection 101(1), 104(4) or 105(2) for responding to
+the access request, if
+(a) a large number of records is requested or
+must be searched to identify the
+applicable record, and meeting the time
+limit would unreasonably interfere with
+the operations of the custodian;
+(b) the custodian requires more time to
+consult with a person to decide whether
+or not the applicant is entitled under this
+Act to have access to a requested record;
+or
+(c) prescribed circumstances apply.
+
+### Duty to give notice
+
+(2) A health information custodian that extends
+the time limit shall give notice to the applicant, without
+delay,
+(a) that the time limit is extended;
+(b) of the reason for the extension;
+(c) of the date by which the response
+required by subsection 101(1) will be
+given; and
+(d) that the applicant may, under
+subsection 141(1), request a review of
+the extension.
+
+### Time limit if custodian extends
+
+(3) Subject to section 107, a health information
+custodian that extends the time limit under
+subsection (1) shall respond to the applicant as
+required under subsection 101(1) before the expiration
+of the extension.
+
+### Suspension of time limit if review by IPC
+
+107. (1) If under subsection 132(1) a health
+information custodian requests the Information and
+Privacy Commissioner to authorize a further extension
+of the time limit for responding to an access request,
+the time limits under subsections 101(1) and 104(4) for
+the custodian to respond to an applicant are suspended
+from the day the custodian makes the request to the
+day the custodian receives the decision from the IPC.
+
+### Time limit if request denied
+
+(2) If the Information and Privacy Commissioner
+denies a request by a health information custodian
+under subsection 132(1) to authorize an extension of
+the time limit for responding to an access request, the
+custodian shall respond to the applicant as required
+under subsection 101(1) not later than 30 days after
+receiving the decision from the IPC.
+
+### Time limit if IPC extends
+
+(3) If under subsection 133(2) the Information
+and Privacy Commissioner authorizes an extension of
+the time limit for responding to an access request, the
+health information custodian shall respond to the
+applicant as required under subsection 101(1) before
+the expiration of the extension.
+
+### Transfer of access request
+
+108. (1) A health information custodian may transfer
+an access request or part of an access request to
+another custodian, if the access request or part relates
+to a record
+(a) that was made by or for the other
+custodian;
+(b) that was first obtained by the other
+custodian; or
+(c) that is in the custody or under the control
+of the other custodian.
+
+### Duty to give notice
+
+(2) A health information custodian that transfers
+an access request shall, without delay, give notice to
+the applicant
+(a) that the access request has been
+transferred;
+(b) of the reason for the transfer;
+(c) of the health information custodian to
+which the access request has been
+transferred; and
+(d) that the applicant may, under
+subsection 141(1), request a review of
+the transfer.
+
+### Duty to give contact information
+
+(3) A health information custodian to which an
+access request is transferred shall, without delay after
+receiving the access request, give the applicant the
+title, business address, email address and business
+telephone number of a contact person who can respond
+to inquiries about the transfer.
+
+### Duties of receiving custodian
+
+109. Sections 97 to 107 and subsections 108(1) and (2)
+apply, with the modifications that the circumstances
+require, to a health information custodian to which an
+access request is transferred.
+Exceptions to Providing Access
+
+### Invasion of privacy
+
+110. (1) Subject to subsections (2) and (3), a health
+information custodian shall refuse to disclose
+information to an applicant if the disclosure would
+reveal personal health information about another
+individual who has not consented to the disclosure, or
+if the disclosure would otherwise be an unreasonable
+invasion of the privacy of another individual.
+
+### Exception
+
+(2) The prohibition in subsection (1) does not
+apply in respect of personal health information about
+another individual in a record about the applicant that
+was originally provided by the applicant.
+
+### Application
+
+(3) Subsection (1) does not apply so as to limit
+the disclosure of personal health information about an
+individual to an applicant who is a substitute decision
+maker for the individual.
+
+### Definitions
+
+111. (1) In this section, "quality assurance activity",
+"quality assurance committee" and "quality assurance
+record" have the definitions assigned to them by
+section 13 of the Evidence Act .
+
+### Quality assurance activity
+
+(2) Subject to subsection (3), a health information
+custodian shall refuse to disclose to an applicant
+(a) proceedings of a quality assurance
+committee in respect of a quality
+assurance activity; and
+(b) quality assurance records created in
+respect of a quality assurance activity.
+
+### Release of results
+
+(3) A health information custodian may disclose
+to an applicant a quality assurance record that consists
+of results of or recommendations in relation to a
+quality assurance activity.
+
+### Disclosure prohibited by Act
+
+112. A health information custodian shall refuse to
+disclose information to an applicant if the disclosure is
+prohibited by an Act.
+
+### Disclosure harmful to applicant
+
+113. (1) A health information custodian may refuse to
+disclose personal health information about an applicant
+to the applicant if, in the opinion of a medical or
+mental health expert, the disclosure could reasonably
+be expected to result in
+(a) an imminent threat to the health or safety
+of the applicant; or
+(b) a risk of serious harm to the health or
+safety of the applicant.
+
+### Disclosure harmful to individual or public safety
+
+(2) A health information custodian may refuse to
+disclose personal health information about an applicant
+to the applicant if the disclosure could reasonably be
+expected to result in
+(a) an imminent threat to the health or safety
+of an individual other than the applicant;
+(b) a risk of serious harm to the health or
+safety of an individual other than the
+applicant; or
+(c) an imminent or serious threat to public
+safety.
+
+### Information provided in confidence
+
+114. A health information custodian may refuse to
+disclose information to an applicant if the disclosure
+could reasonably be expected to lead to the
+identification of a person who provided personal health
+information to a custodian in confidence, whether
+explicitly or implicitly, and under circumstances in
+respect of which it is appropriate that the name of the
+person be kept confidential.
+
+### Privilege
+
+115. A health information custodian may refuse to
+disclose to an applicant information
+(a) that is subject to any kind of privilege
+available at law, including solicitor-client
+privilege;
+(b) prepared by or for an agent or lawyer of
+the custodian in relation to a matter
+involving the provision of legal services;
+or
+(c) in correspondence between an agent or
+lawyer of the custodian and any other
+person in relation to a matter involving
+the provision of advice or other services
+by the agent or lawyer.
+
+### Law enforcement matter
+
+116. A health information custodian may refuse to
+disclose information to an applicant if there is a
+reasonable possibility that the disclosure could
+(a) prejudice a law enforcement matter;
+(b) reveal the identity of a confidential
+source of law enforcement information;
+or
+(c) reveal a record that has been confiscated
+from a person by a peace officer in
+accordance with a law.
+
+### Executive
+
+117. A public custodian shall refuse to disclose to an
+applicant information that would reveal a confidence
+of the Executive Council, including advice, proposals,
+requests for directions, recommendations, analyses or
+policy options prepared for presentation to the
+Executive Council or the Financial Management
+Board.
+
+### Disclosure of advice from officials
+
+118. A public custodian may refuse to disclose
+information to an applicant if the disclosure could
+reasonably be expected to reveal
+(a) advice, proposals, recommendations,
+analyses or policy options developed by
+or for the public custodian in relation to
+an internal management purpose or
+health system management;
+(b) advice, proposals, recommendations,
+analyses or policy options developed by
+or for a member of the Executive
+Council; or
+(c) consultations or deliberations involving
+(i) a member of the Executive Council,
+or
+(ii) the staff of a member of the
+Executive Council.
+Correction of Personal Health Information
+
+### Correction request
+
+119. (1) An individual who believes there is an error or
+omission in a record containing personal health
+information about him or her may, in writing, request
+the health information custodian that has the record in
+its custody or under its control to correct the
+information.
+
+### Duty to assist applicant
+
+(2) On receiving a correction request, a health
+information custodian shall make every reasonable
+effort to
+(a) assist the applicant in an open, accurate
+and complete manner; and
+(b) make the correction or respond to the
+applicant without delay.
+
+### No fees or disbursements
+
+(3) A health information custodian shall not
+charge fees or disbursements in respect of a correction
+request.
+
+### Response to correction request
+
+120. (1) Subject to subsection (3), a health information
+custodian shall, not later than 30 days after receiving
+a correction request,
+(a) make the correction requested and give
+the applicant a response in writing in
+respect of the correction; or
+(b) give the applicant a response in writing
+that the correction request is refused.
+
+### Information if correction refused
+
+(2) A health information custodian that refuses to
+make a requested correction shall include the following
+information with the response referred to in paragraph
+(1)(b):
+(a) the reasons for the refusal;
+(b) the provision of this Act on which the
+refusal is based;
+(c) the title, business address, email address
+and business telephone number of a
+contact person who can respond to
+inquiries about the refusal;
+(d) information in respect of the applicant’s
+rights under section 126.
+
+### Time limit exception
+
+(3) The 30 day time limit in subsection (1) does
+not apply if subsection 122(2) or 123(3) or section 124
+applies to the time limit for complying with the
+requirements of subsection (1).
+
+### Deemed refusal
+
+121. An applicant may deem a failure by a health
+information custodian to respond on time in respect of
+a correction request to be a decision to refuse to make
+a correction for the purpose of a request to the
+Information and Privacy Commissioner for a review
+under subsection 141(2).
+
+### Further information required
+
+122. (1) A health information custodian that requires
+further information from an applicant to identify a
+record, or for the purpose of clarification in respect of
+a requested correction, shall, as soon as reasonably
+possible, and not later than 10 days after receiving a
+correction request, make a request in writing to the
+applicant for the further information.
+
+### Time limit for compliance
+
+(2) If subsection (1) applies, a health information
+custodian shall comply with the requirements of
+subsection 120(1) in respect of the correction request
+not later than 30 days after receiving the requested
+information.
+
+### Deemed abandonment of correction request
+
+(3) A health information custodian may deem a
+correction request to be abandoned by an applicant if
+the applicant fails to respond within 60 days after he or
+she receives a request from the custodian under
+subsection (1) to provide further information.
+
+### Duty to inform applicant
+
+(4) A health information custodian shall inform
+an applicant about subsection (3) in a request under
+subsection (1) for further information.
+
+### Effect of deemed abandonment
+
+(5) Deemed abandonment of a correction request
+does not prevent an applicant from making a further
+correction request in respect of the same record.
+
+### Extension of time limit for compliance
+
+123. (1) A health information custodian may extend
+the time limit for complying with the requirements of
+subsection 120(1) in respect of a correction request for
+a reasonable period not exceeding 30 days after the
+expiration of the applicable time limit under
+subsection 120(1) or 122(2), if
+(a) a large number of corrections are
+requested or a large number of records
+must be searched to identify the record to
+be corrected, and meeting the time limit
+would unreasonably interfere with the
+operations of the custodian;
+(b) the custodian requires more time to
+consult with a person to decide whether
+or not there are reasons to refuse the
+correction request; or
+(c) prescribed circumstances apply.
+
+### Duty to give notice
+
+(2) A health information custodian that extends
+the time limit for complying with the requirements of
+subsection 120(1) shall give notice to the applicant,
+without delay,
+(a) that the time limit is extended;
+(b) of the reason for the extension;
+(c) of the date by which the custodian will
+comply with the requirements; and
+(d) that the applicant may, under subsection
+141(2), request a review of the extension.
+
+### Time limit if custodian extends
+
+(3) Subject to section 124, a health information
+custodian that, under subsection (1), extends the time
+limit for complying with the requirements of
+subsection 120(1), shall comply with those
+requirements before the expiration of the extension.
+
+### Suspension of time limit if review by IPC
+
+124. (1) If under subsection 132(2) a health
+information custodian requests the Information and
+Privacy Commissioner to authorize a further extension
+of the time limit for complying with the requirements
+of subsection 120(1) in respect of a correction request,
+the time limit referred to in that subsection is
+suspended from the day the custodian makes the
+request to the day the custodian receives the decision
+from the IPC.
+
+### Time limit if request denied
+
+(2) If the Information and Privacy Commissioner
+denies a request by a health information custodian
+under subsection 132(2) to authorize an extension of
+the time limit for complying with the requirements of
+subsection 120(1), the custodian shall comply with
+those requirements not later than 30 days after
+receiving the decision from the IPC.
+
+### Time limit if IPC extends
+
+(3) If under subsection 133(2) the Information
+and Privacy Commissioner authorizes an extension of
+the time limit for complying with the requirements of
+subsection 120(1) in respect of a correction request,
+the health information custodian shall comply with
+those requirements before the expiration of the
+extension.
+
+### Grounds for refusal
+
+125. A health information custodian may refuse to
+make a requested correction to information in a record
+if
+(a) the applicant has not demonstrated that
+the record contains an error or omission;
+(b) the information consists of a professional
+opinion or observation that a custodian
+has made in good faith;
+(c) the record was not originally made by the
+custodian and the custodian does not
+have sufficient knowledge, expertise or
+authority to correct it; or
+(d) the custodian has reasonable grounds to
+believe that the correction request is
+frivolous or vexatious, or is not made in
+good faith.
+
+### Definition: "statement of disagreement"
+
+126. (1) In this section and section 127, "statement of
+disagreement" means a statement by an applicant
+setting out reasons for disagreeing with a decision of a
+health information custodian to refuse to make a
+correction to information in a record that was
+requested in a correction request.
+
+### Statement of disagreement or request for review
+
+(2) If a health information custodian refuses
+under section 125 to make a correction requested by an
+applicant in a correction request, the applicant may do
+one or more of the following:
+(a) submit a statement of disagreement to the
+custodian;
+(b) request the custodian to attach the
+correction request to the record that is the
+subject of the correction request;
+(c) request a review by the Information and
+Privacy Commissioner under subsection
+141(2).
+
+### Duty of custodian: statement of disagreement
+
+127. (1) Subject to the regulations, on receiving a
+statement of disagreement, a health information
+custodian shall attach the statement to the record that
+is the subject of the correction request or include a
+cross-reference in the record to the statement, if the
+record is in the custody or under the control of the
+custodian and contains personal health information
+about the applicant.
+
+### Duty of custodian: correction request
+
+(2) Subject to the regulations, on receiving a
+request to attach a correction request to a record that is
+the subject of the correction request, a health
+information custodian shall attach the correction
+request to the record or include a cross-reference in the
+record to the correction request, if the record is in the
+custody or under the control of the custodian and
+contains personal health information about the
+applicant.
+
+### Duty to give statement, correction request
+
+(3) Subject to the regulations, a health
+information custodian that is required under
+subsection (1) to attach a statement of disagreement to
+a record, or under subsection (2) to attach a correction
+request to a record, shall take reasonable steps to give
+a copy of the statement or correction request to each
+person and organization to which the custodian had
+disclosed the record within one year before the
+applicable correction request was made.
+
+### Recipient duty
+
+(4) Subject to subsection (5) and the regulations,
+a health information custodian that receives a
+statement of disagreement or correction request from
+another custodian under subsection (3), shall attach the
+statement or correction request to the record that was
+the subject of the correction request or include a
+cross-reference in the record to the statement or
+correction request.
+
+### Exception
+
+(5) Subsection (4) does not apply if the applicable
+record is an electronic record stored in an electronic
+health information system and the statement of
+disagreement or correction request has already been
+attached or cross-referenced.
+
+### Duty to forward correction
+
+128. (1) Subject to subsections (2) and (3) and the
+regulations, a health information custodian that has
+corrected personal health information in a record shall
+take reasonable steps to provide the corrected
+information to each person and organization to which
+the custodian had disclosed the record within one year
+before the correction was made.
+
+### Exception
+
+(2) The requirement in subsection (1) does not
+apply if the applicant informs the custodian in writing
+that it is not necessary to provide the corrected
+information to other persons and organizations.
+
+### Further exception
+
+(3) Subject to subsection (4), the requirement in
+subsection (1) does not apply if the health information
+custodian has reasonable grounds to believe that
+refraining from providing the corrected information to
+a person or organization will not
+(a) have an adverse effect on the applicant’s
+health;
+(b) have an adverse effect on the provision of
+health services or related products or
+benefits to the applicant; and
+(c) harm the applicant in any other manner.
+
+### Express instruction
+
+(4) The exception in subsection (3) does not
+apply if the individual has provided an express
+instruction that the corrected personal health
+information should be provided to persons and
+organizations as required under subsection (1).
+
+### Recipient duty
+
+(5) Subject to subsection (6) and the regulations,
+a health information custodian that receives a
+correction from another custodian under
+subsection (1), shall make the correction, attach the
+corrected information to the record that is the subject
+of the correction or include a cross-reference in the
+record to the correction.
+
+### Exception
+
+(6) Subsection (5) does not apply if the applicable
+record is an electronic record stored in an electronic
+health information system and the correction has
+already been made, attached or cross-referenced.
+
+## PART 6
+
+## REVIEW AND APPEAL
+
+Request for Authorization
+to Disregard Access Request
+
+### Request for authorization to disregard access request
+
+129. (1) A health information custodian may request
+the Information and Privacy Commissioner to
+authorize the custodian to disregard an access request.
+
+### Request in writing and timing
+
+(2) A request under subsection (1) must be made
+in writing to the Information and Privacy
+Commissioner as soon as reasonably possible and not
+later than 30 days after the health information
+custodian receives the access request.
+
+### Notice and copy of request
+
+(3) A health information custodian that makes a
+request under subsection (1) shall, without delay, give
+notice and a copy of the request to the individual who
+made the access request.
+
+### Review of request
+
+130. (1) Subject to subsection (2), the Information and
+Privacy Commissioner shall conduct a review of a
+request by a health information custodian made under
+subsection 129(1).
+
+### Denial after initial review
+
+(2) After an initial review of a request made
+under subsection (1), the Information and Privacy
+Commissioner may deny the request without hearing
+representations or conducting a full review of the
+matter.
+
+### Decision in writing
+
+(3) A decision under subsection (2) must be in
+writing and does not require reasons.
+
+### Requirement to give copy of decision
+
+(4) The Information and Privacy Commissioner
+shall give a copy of the decision under subsection (2)
+to
+(a) the health information custodian that
+requested the IPC to authorize the
+custodian to disregard the access request;
+and
+(b) the individual who made the access
+request.
+
+### No appeal
+
+(5) A decision under subsection (2) is final and is
+not subject to appeal.
+
+### Authorization to disregard access request
+
+131. (1) On completing a review of a request under
+subsection 130(1), the Information and Privacy
+Commissioner may authorize the health information
+custodian to disregard an access request if the IPC is
+satisfied that that the access request
+(a) is frivolous or vexatious;
+(b) is not made in good faith;
+(c) concerns a trivial matter;
+(d) amounts to an abuse of the right to
+access; or
+(e) would unreasonably interfere with the
+operations of the custodian because of its
+repetitious or systematic nature.
+
+### Decision in writing
+
+(2) A decision under subsection (1) must be in
+writing and must include reasons.
+
+### Requirement to give copy of decision
+
+(3) The Information and Privacy Commissioner
+shall give a copy of the decision to
+(a) the health information custodian that
+requested the IPC to authorize the
+custodian to disregard the access request;
+and
+(b) the individual who made the access
+request.
+
+### No appeal
+
+(4) A decision under subsection (1) is final and is
+not subject to appeal.
+Request for Extension of Time Limit
+for Responding to
+Access Requests and Correction Requests
+
+### Request for extension of time limit: access request
+
+132. (1) A health information custodian that has, under
+subsection 106(1), extended the time limit for
+responding to an access request, may request the
+Information and Privacy Commissioner to authorize a
+further extension of the time limit for responding to an
+individual under subsection 101(1) on the grounds that
+(a) a large number of records is requested or
+must be searched to identify the
+applicable record, and meeting the time
+limit would unreasonably interfere with
+the operations of the custodian; or
+(b) the custodian requires more time to
+consult with a person to decide whether
+or not the individual is entitled under this
+Act to access to a requested record.
+
+### Request for extension of time limit: correction request
+
+(2) A health information custodian that has, under
+subsection 123(1), extended the time limit for
+complying with the requirements of subsection 120(1)
+in respect of a correction request, may request the
+Information and Privacy Commissioner to authorize a
+further extension of the time limit on the grounds that
+(a) a large number of records is requested or
+must be searched to identify the
+applicable record, and meeting the time
+limit would unreasonably interfere with
+the operations of the custodian; or
+(b) the custodian requires more time to
+consult with a person to decide whether
+or not there are reasons to refuse to make
+a correction.
+
+### Request in writing and timing
+
+(3) A request under subsection (1) or (2) must be
+made in writing to the Information and Privacy
+Commissioner as soon as reasonably possible and
+before the expiration of the time limit for the extension
+under subsection 106(1) or 123(1).
+
+### Notice and copy of request
+
+(4) A health information custodian that makes a
+request under subsection (1) or (2) shall, without delay,
+give notice and a copy of the request to the individual
+who made the access request or correction request.
+
+### Review of request
+
+133. (1) The Information and Privacy Commissioner
+shall conduct a review of a request by a health
+information custodian made under subsection 132(1)
+or (2).
+
+### Extension of time limit
+
+(2) On completing a review of a request made
+under subsection 132(1) or (2), the Information and
+Privacy Commissioner may authorize an extension of
+the time limit for responding to an individual under
+subsection 101(1) in respect of an access request or for
+complying with the requirements of subsection 120(1)
+in respect of a correction request, for the period that he
+or she considers appropriate, if the IPC is satisfied that
+(a) a large number of records is requested or
+must be searched to identify the
+applicable record, and meeting the time
+limit would unreasonably interfere with
+the operations of the health information
+custodian;
+(b) the custodian requires more time to
+consult with a person to decide whether
+or not
+(i) the individual is entitled under this
+Act to access to a requested record,
+or
+(ii) there are reasons to refuse to make a
+correction; or
+(c) there are other reasons for granting the
+extension.
+
+### Decision in writing
+
+(3) A decision under subsection (2) must be in
+writing and must include reasons.
+
+### Requirement to give copy of decision
+
+(4) The Information and Privacy Commissioner
+shall give a copy of the decision to
+(a) the health information custodian that
+requested the IPC to authorize an
+extension of the time limit; and
+(b) the individual who made the access
+request or correction request.
+
+### No appeal
+
+(5) A decision under subsection (2) is final and is
+not subject to appeal.
+Reviews Relating to Collection, Use and Disclosure
+of Personal Health Information
+
+### Request for review: collection, use and disclosure
+
+134. (1) An individual may request the Information
+and Privacy Commissioner to review whether a health
+information custodian has collected, used or disclosed
+personal health information about the individual in
+contravention of this Act.
+
+### Request in writing
+
+(2) A request for review must be in writing.
+
+### Copy of review
+
+(3) On receiving a request for review, the
+Information and Privacy Commissioner
+(a) shall give a copy of the request to the
+health information custodian concerned;
+and
+(b) may give a copy of the request to any
+other person or organization that may be
+affected by the request.
+
+### Power to sever information
+
+(4) Before giving a copy of a request for review
+to a person or organization referred to in
+subsection (3), the Information and Privacy
+Commissioner may sever any information from the
+request that he or she considers appropriate.
+
+### Review by IPC
+
+135. (1) Subject to subsection (2) and section 136, the
+Information and Privacy Commissioner shall conduct
+a review requested under subsection 134(1).
+
+### Grounds for refusal, discontinuance
+
+(2) The Information and Privacy Commissioner
+may refuse to conduct a review and may discontinue a
+review if he or she is satisfied that
+(a) the request for review
+(i) is frivolous or vexatious,
+(ii) is not made in good faith,
+(iii) concerns a trivial matter, or
+(iv) amounts to an abuse of process; or
+(b) the subject matter for review has already
+been dealt through a review or an
+alternative dispute resolution process or
+by a court under this Act or under the
+Access to Information and Protection of
+Privacy Act .
+
+### Alternative dispute resolution
+
+136. (1) After a request for review is made under
+subsection 134(1), the Information and Privacy
+Commissioner may, without conducting a full review,
+assist the individual who requested the review and the
+health information custodian to achieve a resolution of
+the matter through a formal or informal alternative
+dispute resolution process.
+
+### Record required
+
+(2) If the matter is resolved under subsection (1),
+the Information and Privacy Commissioner shall make
+a record in respect of the resolution.
+
+### Review initiated by IPC
+
+137. (1) If the Information and Privacy Commissioner
+is satisfied that a review is warranted in the
+circumstances, he or she may, without receiving a
+request under subsection 134(1), initiate a review of
+whether a health information custodian has collected,
+used or disclosed personal health information about
+one or more individuals in contravention of this Act.
+
+### Notice of review
+
+(2) On initiating a review under subsection (1),
+the Information and Privacy Commissioner
+(a) shall give notice of the review to the
+health information custodian concerned;
+and
+(b) may give notice of the review to any
+other person or organization that may be
+affected by the review.
+
+### Discontin- uance of review
+
+(3) The Information and Privacy Commissioner
+may at any time discontinue a review that he or she
+initiated under subsection (1).
+
+### Notice of discontin- uance
+
+(4) The Information and Privacy Commissioner
+shall give notice of discontinuance of a review to the
+health information custodian concerned.
+
+### Alternative dispute resolution
+
+138. (1) The Information and Privacy Commissioner
+may, without completing a review initiated under
+subsection 137(1), work with the health information
+custodian to achieve a resolution of the matter through
+a formal or informal alternative dispute resolution
+process.
+
+### Record required
+
+(2) If the matter is resolved under subsection (1),
+the Information and Privacy Commissioner shall make
+a record in respect of the resolution.
+
+### IPC report
+
+139. (1) On completing a review under
+subsection 135(1) or 137(1), the Information and
+Privacy Commissioner shall prepare a report in writing
+that includes findings in respect of whether the health
+information custodian has collected, used or disclosed
+personal health information about one or more
+individuals in contravention of this Act.
+
+### Recommend- ations for action
+
+(2) The Information and Privacy Commissioner
+may set out in the report referred to in subsection (1)
+any recommendations for action by the health
+information custodian that the IPC considers
+appropriate, whether or not the IPC finds that the
+custodian collected, used or disclosed personal health
+information in contravention of this Act.
+
+### Reasons
+
+(3) The Information and Privacy Commissioner
+shall include reasons for any recommendations made
+in a report referred to in subsection (1).
+
+### Requirement to give copy of report
+
+140. (1) The Information and Privacy Commissioner
+shall give a copy of the report referred to in
+subsection 139(1) to
+(a) the individual who asked for the review,
+if applicable;
+(b) the health information custodian
+concerned; and
+(c) the Minister.
+
+### Authority to give copy of report
+
+(2) The Information and Privacy Commissioner
+may give a copy of the report referred to in
+subsection 139(1) to any person or organization that
+made representations at the review.
+Request for Review: Access Request
+and Correction Request
+
+### Request for review: access request
+
+141. (1) An individual who makes an access request
+under subsection 96(1) may request the Information
+and Privacy Commissioner to review any decision, act
+or failure to act of a health information custodian that
+relates to the access request.
+
+### Request for review: correction request
+
+(2) An individual who makes a correction request
+under subsection 119(1) may request the Information
+and Privacy Commissioner to review any decision, act
+or failure to act of a health information custodian that
+relates to the correction request.
+
+### Requirement and timing
+
+142. (1) A request for review under subsection 141(1)
+or (2) must be made in writing to the Information and
+Privacy Commissioner
+(a) within 60 days after the day a decision by
+a health information custodian that is the
+subject of the review is received by the
+individual;
+(b) in the case of a failure by a health
+information custodian to comply with a
+requirement by a day specified in this
+Act, within 60 days after the specified
+day; or
+(c) if neither paragraph (a) nor (b) applies,
+within 60 days after the day the
+individual requesting the review became
+aware of the circumstances giving rise to
+the request.
+
+### Extension of time
+
+(2) The Information and Privacy Commissioner
+may, if he or she considers it appropriate, accept a
+request for review submitted after the time limit
+referred to in subsection (1).
+
+### Copy of review
+
+(3) On receiving a request for review, the
+Information and Privacy Commissioner
+(a) shall give a copy of the request to the
+health information custodian concerned;
+and
+(b) may give a copy of the request to any
+other person or organization that may be
+affected by the request.
+
+### Power to sever information
+
+(4) Before giving a copy of a request for review
+to a person or organization referred to in
+subsection (3), the Information and Privacy
+Commissioner may sever any information from the
+request that he or she considers appropriate.
+
+### Review by IPC
+
+143. (1) Subject to subsection (2) and section 144, the
+Information and Privacy Commissioner shall conduct
+a review requested under subsection 141(1) or (2).
+
+### Grounds for refusal, discontinuance
+
+(2) The Information and Privacy Commissioner
+may refuse to conduct a review and may discontinue a
+review if he or she is satisfied that
+(a) the request for a review
+(i) is frivolous or vexatious,
+(ii) in not made in good faith,
+(iii) concerns a trivial matter, or
+(iv) amounts to an abuse of process; or
+(b) the subject matter for review has already
+been dealt with through a review or an
+alternative dispute resolution process or
+by a court under this Act or under the
+Access to Information and Protection of
+Privacy Act .
+
+### Alternative dispute resolution
+
+144. (1) After a request for review is made under
+subsection 141(1) or (2), the Information and Privacy
+Commissioner may, without conducting a full review,
+assist the individual who requested the review and the
+health information custodian to achieve a resolution of
+the matter through a formal or informal alternative
+dispute resolution process.
+
+### Record required
+
+(2) If the matter is resolved under subsection (1),
+the Information and Privacy Commissioner shall make
+a record in respect of the resolution.
+
+### Onus: review relating to access request
+
+145. On a review of a decision to refuse an individual
+access to all or part of a record, the onus is on the
+health information custodian to establish that the
+individual has no right of access to the record or part.
+
+### IPC report
+
+146. (1) On completing a review under
+subsection 143(1), the Information and Privacy
+Commissioner shall prepare a report in writing with
+respect to the matter that sets out whether or not he or
+she fully concurs with the decision, act or failure to act
+of the health information custodian and the reasons for
+concurring or not concurring.
+
+### Recommend- ations for action
+
+(2) The Information and Privacy Commissioner
+may set out in the report referred to in subsection (1)
+any recommendations for action by the health
+information custodian that the IPC considers
+appropriate, whether or not the IPC concurs with the
+decision, act or failure to act of the health information
+custodian.
+
+### Reasons
+
+(3) The Information and Privacy Commissioner
+shall include reasons for any recommendations made
+in a report referred to in subsection (1).
+
+### Requirement to give copy of report
+
+147. (1) The Information and Privacy Commissioner
+shall give a copy of the report referred to in
+subsection 146(1) to
+(a) the individual who asked for the review,
+if applicable;
+(b) the health information custodian
+concerned; and
+(c) the Minister.
+
+### Authority to give copy of report
+
+(2) The Information and Privacy Commissioner
+may give a copy of the report referred to in
+subsection 146(1) to any person or organization that
+made representations at the review.
+Procedure and Evidence on Review
+
+### Rules
+
+148. Subject to this Act and the regulations, the
+Information and Privacy Commissioner may make
+rules governing the practice and procedure in reviews
+and alternative dispute resolution processes conducted
+under this Part.
+
+### Time limit for review
+
+149. The Information and Privacy Commissioner shall
+make best efforts to complete a review or an
+alternative dispute resolution process within 120 days
+after receipt of a request for review under this Part.
+
+### Review conducted in private
+
+150. The Information and Privacy Commissioner shall
+conduct a review in private.
+
+### Represent- ations in review under section 130
+
+151. (1) An individual who has made an access request
+must be given the opportunity to make representations
+to the Information and Privacy Commissioner during
+a review conducted under subsection 130(1).
+
+### Represent- ations in review under section 137
+
+(2) A health information custodian that is subject
+to a review initiated by the Information and Privacy
+Commissioner under subsection 137(1) must be given
+the opportunity to make representations to the IPC
+during the review.
+
+### Represent- ations in other reviews
+
+(3) The following persons or organizations must
+be given the opportunity to make representations to the
+Information and Privacy Commissioner during a
+review conducted under subsection 135(1) or 143(1):
+(a) the individual who requested the review;
+(b) the health information custodian
+concerned.
+
+### Other representa- tions
+
+(4) During a review under subsection 135(1),
+137(1) or 143(1), the Information and Privacy
+Commissioner may give the opportunity to make
+representations to a person or organization that may be
+affected by the results of the review.
+
+### Form of representa- tions
+
+(5) The Information and Privacy Commissioner
+may decide whether representations are to be made in
+writing or verbally.
+
+### Representa- tion by counsel or agent
+
+(6) A person or organization that may make
+representations to the Information and Privacy
+Commissioner may be represented by counsel or an
+agent.
+
+### No right to be present during review
+
+(7) No person is entitled as of right to be present
+during a review or to have access to, or to comment
+on, representations made to the Information and
+Privacy Commissioner by any other person.
+
+### Evidence
+
+152. In conducting a review under this Part, the
+Information and Privacy Commissioner may receive
+and accept any evidence and other information that he
+or she sees fit, and the IPC is not bound by the rules of
+law respecting evidence in civil actions or proceedings
+and may proceed to ascertain the facts in the manner
+that he or she considers appropriate.
+
+### Powers of IPC
+
+153. (1) Notwithstanding any other Act or any
+privilege available at law, and subject to the
+regulations, the Information and Privacy
+Commissioner may, in conducting a review under this
+Act, require the production of and examine any record
+that may be relevant to a review under this Act, that is
+in the custody or under the control of the health
+information custodian concerned.
+
+### Time limit
+
+(2) Notwithstanding any other Act or any
+privilege available at law, and subject to subsection (3)
+and the regulations, a health information custodian
+shall produce copies of the required records for
+examination by the Information and Privacy
+Commissioner within 14 days after receiving a request
+for production.
+
+### Examination of record at satisfactory site
+
+(3) Subject to the regulations, if the Information
+and Privacy Commissioner is satisfied that it is not
+practical for the health information custodian to
+physically produce a copy of a record for examination
+by the IPC, the custodian shall, within the time limit
+set in subsection (2), facilitate the examination of the
+record at a site satisfactory to the IPC.
+
+### Destruction of records
+
+(4) After completing a review under this Part, the
+Information and Privacy Commissioner shall, subject
+to the regulations, destroy all copies of records
+produced.
+
+### Additional powers of IPC
+
+154. (1) In conducting a review under this Part, the
+Information and Privacy Commissioner
+(a) may summon any person as a witness;
+(b) may require any person to give evidence
+on oath or affirmation; and
+(c) has the same power as is vested in a court
+of record in civil cases
+(i) to administer oaths and affirmations,
+(ii) to enforce the attendance of any
+person as a witness,
+(iii) to compel any person to give
+evidence, and
+(iv) to compel any person to produce
+any record to which this Act applies
+that is in the custody or under the
+control of a health information
+custodian.
+
+### Requirement to give evidence
+
+(2) Notwithstanding any other Act or any
+privilege available at law, no person shall withhold
+evidence, on any grounds, from the Information and
+Privacy Commissioner during a review under this Part.
+
+### Evidence in other proceedings
+
+(3) Evidence given by a person during a review
+conducted by the Information and Privacy
+Commissioner under this Part is inadmissible in a court
+or in any other proceeding, except
+(a) in a prosecution for perjury;
+(b) in a prosecution for an offence under this
+Act; or
+(c) in an appeal or an application for judicial
+review in respect of a matter under this
+Act.
+
+### Evidence from alternative dispute resolution process
+
+155. Communications and evidence arising from
+anything said or produced during the course of an
+alternative dispute resolution process are confidential,
+and are not admissible in any proceedings under this
+Act, or in any action, matter or other proceedings,
+without the consent in writing of the parties to the
+process.
+Decision by Custodian
+
+### Custodian’s decision: IPC recommenda- tions
+
+156. (1) Subject to the regulations, if a report by the
+Information and Privacy Commissioner under section
+139 or 146 sets out recommendations for action by a
+health information custodian, the custodian shall,
+within 30 days after the day he or she receives the
+report,
+(a) make a decision whether or not to follow
+the recommendations of the IPC or some
+of the recommendations;
+(b) give notice of the decision made under
+paragraph (a) to the IPC, the individual
+who requested the review and the
+Minister; and
+(c) give notice to the individual who
+requested the review of the right to
+appeal referred to in subsection 160(1), if
+the custodian decides not to follow some
+or all of the recommendations of the IPC.
+
+### Effect of failure to decide
+
+(2) Subject to the regulations, if a health
+information custodian fails to make a decision under
+paragraph (1)(a) and give notice of the decision to the
+individual who requested the review within 30 days
+after the day the custodian receives the report of the
+Information and Privacy Commissioner, the custodian
+is deemed to have decided not to follow the
+recommendations of the IPC.
+
+### Notice of decision
+
+157. The Information and Privacy Commissioner may,
+if he or she considers it appropriate, give a copy of the
+notice of decision referred to in subsection 156(1) to
+any persons or organizations that the IPC allowed
+under subsection 151(4) to make representations at the
+review.
+
+### Requirement to comply with decision
+
+158. A health information custodian shall comply with
+a decision made under paragraph 156(1)(a) to follow
+the recommendations of the Information and Privacy
+Commissioner, or some of them, within 45 days after
+the day notice of that decision is given under
+subsection 156(1) to the IPC.
+Appeal to Supreme Court
+
+### Appeal by individual of IPC finding: collection, use and disclosure
+
+159. (1) An individual who requested a review under
+subsection 134(1) may appeal a finding by the
+Information and Privacy Commissioner under
+subsection 139(1) that a health information custodian
+has not collected, used or disclosed personal health
+information in contravention of this Act.
+
+### Appeal by individual of IPC finding: access request, correction request
+
+(2) An individual who requested a review under
+section 141 may appeal a finding by the Information
+and Privacy Commissioner under subsection 146(1)
+that he or she concurs with a decision, act or failure to
+act of a health information custodian that relates to an
+access request or correction request.
+
+### Commencing appeal
+
+(3) An appeal referred to in subsection (1) or (2)
+must be commenced by filing a notice of appeal with
+the Supreme Court and serving the notice on the health
+information custodian within 30 days after the day the
+individual receives the report that includes the finding.
+
+### Appeal by individual of decision by custodian
+
+160. (1) An individual who requested a review under
+subsection 134(1) or section 141 may appeal a
+decision made by a health information custodian under
+subsection 156(1) to the Supreme Court by filing a
+notice of appeal with the Supreme Court and serving
+the notice on the custodian within 30 days after the day
+the individual receives notice of the decision.
+
+### Appeal by individual of deemed decision of custodian
+
+(2) An individual who requested a review under
+subsection 134(1) or section 141 may appeal a deemed
+decision of a health information custodian under
+subsection 156(2) to the Supreme Court by filing a
+notice of appeal with the Supreme Court and serving
+the notice on the custodian within 90 days after the day
+the individual receives the report of the Information
+and Privacy Commissioner referred to in section 139
+or 146.
+
+### Appeal by IPC of decision by custodian
+
+161. (1) The Information and Privacy Commissioner
+may appeal a decision made by a health information
+custodian under subsection 156(1), in respect of a
+matter reviewed by the IPC under subsection 137(1),
+to the Supreme Court by filing a notice of appeal with
+the Supreme Court and serving the notice on the
+custodian within 30 days after the day the IPC receives
+notice of the decision.
+
+### Appeal by IPC of deemed decision of custodian
+
+(2) The Information and Privacy Commissioner
+may appeal a deemed decision of a health information
+custodian under subsection 156(2), in respect of a
+matter reviewed by the IPC under subsection 137(1),
+to the Supreme Court by filing a notice of appeal with
+the Supreme Court and serving the notice on the
+custodian within 90 days after the day the IPC gives
+his or her report to the custodian under section 139.
+
+### Not party to appeal
+
+(3) The Information and Privacy Commissioner
+is not a party to an appeal under this Part except an
+appeal under this section.
+
+### Determination by Supreme Court on appeal
+
+162. On an appeal, the Supreme Court shall make its
+own determination of the matter.
+
+### Requirement to give evidence
+
+163. Notwithstanding any other Act or any privilege
+available at law, on an appeal
+(a) the Supreme Court may examine any
+record in the custody or under the control
+of a health information custodian; and
+(b) no person shall withhold evidence, on
+any grounds, from the Supreme Court.
+
+### Precautions to avoid disclosure
+
+164. (1) On an appeal or a review of a matter under
+this Act, a court shall take every reasonable precaution
+to avoid the disclosure by the court or a person of
+(a) personal health information about an
+individual;
+(b) information or other material if the nature
+of the information or material could
+justify a refusal by a health information
+custodian under Part 5 to disclose or
+provide access to a record or part of a
+record; or
+(c) information as to whether a record exists
+if section 98 applies in respect of the
+record.
+
+### Examples of precautions
+
+(2) For the purposes of subsection (1), reasonable
+precautions may include, where appropriate, any of the
+following measures:
+(a) examining in private any record to which
+this Act applies;
+(b) receiving representations without notice
+to others;
+(c) conducting hearings in private;
+(d) sealing court files.
+
+### Disclosure of information relating to offence
+
+165. The Supreme Court may disclose information that
+relates to the commission of an offence to a law
+enforcement agency, if the Court is satisfied that there
+is evidence of the commission of the offence.
+
+### Onus: appeal relating to access request
+
+166. On an appeal of a decision to refuse an individual
+access to all or part of a record, the onus is on the
+health information custodian to establish that the
+individual has no right of access to the record or part.
+
+### Order of Supreme Court
+
+167. (1) On the determination of an appeal, the
+Supreme Court may make any order that it considers
+appropriate, and an order may be made subject to any
+conditions the Court considers appropriate.
+
+### Compliance with order
+
+(2) A person or organization shall comply with an
+order of the Supreme Court within the time set in the
+order, or if no time is set, within 45 days after the day
+the order is issued.
+
+## PART 7
+
+## INFORMATION AND PRIVACY
+
+## COMMISSIONER
+
+Administration
+
+### Information and Privacy Commissioner
+
+168. (1) The Information and Privacy Commissioner
+appointed under subsection 61(1) of the Access to
+Information and Protection of Privacy Act is the
+Information and Privacy Commissioner for the
+purposes of this Act.
+
+### Acting IPC
+
+(2) An acting Information and Privacy
+Commissioner appointed under section 63 of the
+Access to Information and Protection of Privacy Act is
+an acting Information and Privacy Commissioner for
+the purposes of this Act.
+
+### Special IPC
+
+169. (1) If, for any reason, the Information and Privacy
+Commissioner determines that he or she should not act
+in respect of a particular matter under this Act, the
+Speaker of the Legislative Assembly, on the
+recommendation of the Board of Management of the
+Legislative Assembly, may appoint a person as a
+Special Information and Privacy Commissioner to act
+in the place of the IPC in respect of that matter.
+
+### Term of Special IPC
+
+(2) A Special Information and Privacy
+Commissioner holds office until the conclusion of the
+matter in respect of which he or she has been
+appointed.
+
+### Oath
+
+170. Before undertaking the duties of office in respect
+of the exercise of powers or the performance of duties
+or functions under this Act, the Information and
+Privacy Commissioner shall take an oath or
+affirmation, before either the Speaker or Clerk of the
+Legislative Assembly, to faithfully and impartially
+perform the duties of the office and not to disclose any
+information received by the Office of the IPC under
+this Act except in accordance with this Act.
+
+### Information and Privacy Commissioner employees
+
+171. (1) The Information and Privacy Commissioner
+may employ any person whom the Information and
+Privacy Commissioner considers necessary to assist in
+carrying out the powers, duties and functions of the
+Information and Privacy Commissioner under this Act.
+
+### Public service
+
+(2) Persons employed under subsection (1) are
+members of the public service to whom the Public
+Service Act applies.
+
+### Engaging services
+
+(3) The Information and Privacy Commissioner
+may, from time to time, engage the services of any
+person whom the Information and Privacy
+Commissioner considers necessary to assist in carrying
+out the powers, duties and functions of the Information
+and Privacy Commissioner under this Act.
+
+### Oath of office: employees
+
+(4) A person employed by the office of the
+Information and Privacy Commissioner under
+subsection (1) shall take an oath, administered by the
+Information and Privacy Commissioner, undertaking to
+not disclose any information received by that person
+under this Act except in accordance with this Act.
+
+### Oath of office: contractors
+
+(5) The Information and Privacy Commissioner
+may require a person engaged under subsection (3) to
+take an oath, administered by the Information and
+Privacy Commissioner, undertaking to not disclose any
+information received by that person under this Act
+except in accordance with this Act.
+
+### Form of oaths
+
+(6) The form of oaths required under this section
+shall be determined by the Speaker of the Legislative
+Assembly.
+
+### Delegation by IPC
+
+172. (1) The Information and Privacy Commissioner
+may delegate to any person any power, duty or
+function of the IPC under this Act except the
+following:
+(a) the power to delegate under this section;
+(b) the power under section 148 to make
+rules governing the practice and
+procedure in reviews;
+(c) the power under paragraph 184(1)(c) to
+authorize a method of giving notice;
+(d) the power under paragraph 184(1)(d) to
+authorize substitutional service;
+(e) a prescribed power, duty or function.
+
+### Delegation in writing
+
+(2) A delegation under subsection (1) must be in
+writing and may contain the conditions or restrictions
+that the Information and Privacy Commissioner
+considers appropriate.
+
+### Annual report
+
+173. The Information and Privacy Commissioner shall,
+by July 1 in each year, submit to the Speaker of the
+Legislative Assembly
+(a) an assessment of the effectiveness of this
+Act;
+(b) a report on the activities of the IPC under
+this Act during the previous year,
+including information concerning any
+instances where recommendations made
+by the IPC after a review were not
+followed; and
+(c) any recommendations or comments on
+matters relating to this Act that the IPC
+considers appropriate.
+Powers and Duties of the Information
+and Privacy Commissioner
+
+### General powers
+
+174. The Information and Privacy Commissioner may
+(a) inform the public about this Act;
+(b) receive representations about the
+operation or administration of this Act;
+(c) engage in or commission research into
+matters affecting the carrying out of the
+purposes of this Act;
+(d) at the request of a health information
+custodian, provide the custodian with
+advice or recommendations of general
+application respecting requirements of
+the custodian under this Act; and
+(e) comment on the implications of proposed
+legislation or proposed government
+policies, procedures, programs or
+services in respect of
+(i) the protection of personal health
+information and the privacy of
+individuals the information is about,
+and
+(ii) the access by an individual to
+personal health information about
+him or her.
+
+### Privacy impact assessments
+
+175. The Information and Privacy Commissioner may
+provide comments to a health information custodian
+respecting a privacy impact assessment given to the
+IPC by a custodian under subsection 89(3) or under the
+regulations.
+
+### Coordination with other jurisdictions
+
+176. Notwithstanding subsections 178(1) and (2), the
+Information and Privacy Commissioner may, for the
+purpose of coordinating activities and handling
+complaints involving two or more jurisdictions, enter
+into information sharing and other agreements with,
+and disclose personal health information to, a person
+who, under the legislation of Canada, a province or
+another territory, has powers, duties and functions
+similar to those of the IPC.
+Public Register
+
+### Duty to maintain register
+
+177. (1) The Information and Privacy Commissioner
+shall maintain a public register of reports and decisions
+of the IPC made under Part 6.
+
+### Protection of information
+
+(2) Before registering a report or decision in the
+public register, the Information and Privacy
+Commissioner shall take measures to protect the
+identity of any individual whose personal health
+information is included.
+Restrictions on Disclosure
+
+### Duty of confiden- tiality: IPC
+
+178. (1) The Information and Privacy Commissioner
+shall not disclose any information that comes to his or
+her knowledge in the exercise of the powers or
+performance of the duties or functions of the IPC
+under this Act.
+
+### Duty of confident- iality: employees, contractors
+
+(2) A person employed in or engaged by the
+Office of the Information and Privacy Commissioner
+shall not disclose any information that comes to his or
+her knowledge in the course of his or her employment
+in or engagement by that office.
+
+### Authority for disclosure
+
+(3) Notwithstanding subsections (1) and (2), the
+Information and Privacy Commissioner may disclose,
+or may authorize a person employed in or engaged by
+the Office of the IPC to disclose,
+(a) in the course of a review or alternative
+dispute resolution process conducted
+under Part 6, any matter that the IPC
+considers necessary to disclose to
+facilitate the review or process; and
+(b) in a report prepared under Part 6, any
+matter that the IPC considers necessary
+to disclose to establish grounds for the
+findings and recommendations in the
+report.
+
+### Exception
+
+(4) When making a disclosure in accordance with
+subsection (3), the Information and Privacy
+Commissioner and a person employed in or engaged
+by the Office of the IPC, shall not disclose
+(a) any information or other material, if the
+nature of the information or material
+could justify a refusal by the health
+information custodian under Part 5 to
+provide access to a record or part of a
+record; or
+(b) any information about whether a record
+exists, if section 98 applies in respect of
+the record.
+
+### Disclosure relating to offence
+
+(5) Notwithstanding subsection (1), the
+Information and Privacy Commissioner may disclose
+to a law enforcement agency, or may authorize a
+person employed in or engaged by the Office of the
+IPC to disclose to a law enforcement agency,
+information that relates to the commission of an
+offence.
+
+### Disclosure for prosecution, application or appeal
+
+(6) Notwithstanding subsection (1), the
+Information and Privacy Commissioner may disclose,
+or may authorize a person employed in or engaged by
+the Office of the IPC to disclose, information in the
+course of a prosecution, application or appeal referred
+to in subsection 154(3).
+
+### Non- compellability
+
+179. (1) Subject to subsection (2), the Information and
+Privacy Commissioner or a person employed in or
+engaged by the Office of the IPC may not be
+compelled to give evidence in a court or in a
+proceeding of a judicial nature concerning any
+information that comes to his or her knowledge in the
+exercise of the powers or performance of the duties or
+functions of the IPC under this Act.
+
+### Exception
+
+(2) Subsection (1) does not apply in respect of an
+appeal by the Information and Privacy Commissioner
+under section 161.
+
+## PART 8
+
+## GENERAL
+
+Limitation of Liability
+
+### Immunity from liability
+
+180. No action lies against the Government of the
+Northwest Territories, an officer or employee of the
+Government, a health information custodian or an
+agent or any other person acting under the direction of
+a custodian or agent, for
+(a) providing or withholding, in good faith,
+any information under this Act;
+(b) any consequences that flow from
+providing or withholding, in good faith,
+any information under this Act; or
+(c) the failure to give notice required under
+this Act, if reasonable care is taken to
+give the required notice.
+
+### Immunity from liability: IPC
+
+181. No action lies against the Information and Privacy
+Commissioner, a former IPC or any other person who
+is or was employed in or engaged by the Office of the
+IPC for anything done or not done, in good faith, under
+this Act.
+
+### Immunity from liability: provider of information
+
+182. No action lies against a person who, in good faith,
+(a) provides information or gives evidence in
+a proceeding under Part 6 to the
+Information and Privacy Commissioner
+or to a person employed in or engaged by
+the Office of the IPC; or
+(b) participates in a proceeding under Part 6.
+
+### Prohibition against penalizing agent
+
+183. A health information custodian shall not penalize
+an agent who, in good faith,
+(a) provides information or gives evidence in
+a proceeding under Part 6 to the
+Information and Privacy Commissioner
+or to a person employed in or engaged by
+the Office of the IPC;
+(b) participates in a proceeding under Part 6;
+or
+(c) discloses information in accordance with
+this Act.
+Notice
+
+### Notice: methods
+
+184. (1) Subject to subsection (2), where notice must
+be given to a person under Part 5 or Part 6, the notice
+must be given
+(a) by sending it to that person by prepaid
+mail to the last known address of that
+person;
+(b) by personal service;
+(c) by such other method as may be
+authorized in rules made by the
+Information and Privacy Commissioner
+or as may be authorized in a particular
+case by the IPC; or
+(d) by substitutional service, if authorized by
+the Information and Privacy
+Commissioner.
+
+### Exception
+
+(2) Subsection (1) does not apply in respect of a
+notice of appeal.
+Offence and Punishment
+
+### Prohibition: collection, use and disclosure
+
+185. No person shall knowingly collect, use or disclose
+personal health information in contravention of this
+Act or the regulations.
+
+### Prohibition: obstruction
+
+186. No person shall wilfully
+(a) obstruct the Information and Privacy
+Commissioner or another person in the
+exercise of the powers or performance of
+the duties or functions of the IPC or other
+person under this Act;
+(b) fail to comply with a lawful requirement
+of the IPC or other person under this Act;
+or
+(c) make a false statement to, or mislead or
+attempt to mislead, the IPC or any other
+person in the exercise of the powers or
+performance of the duties or functions of
+the IPC or other person under this Act.
+
+### Prohibition: alteration, falsification, concealment or destruction
+
+187. No person shall
+(a) alter, falsify or conceal a record, or direct
+another person to do so, with the intent of
+evading an access request, correction
+request or a request for disclosure of a
+record; or
+(b) destroy a record that is subject to this
+Act, or direct another person to do so,
+with the intent of evading an access
+request, a correction request or a request
+for disclosure of a record.
+
+### Prohibition: false representation
+
+188. No person shall
+(a) obtain or attempt to obtain access to
+another person’s personal health
+information by falsely representing that
+he or she is entitled to the information; or
+(b) attempt to have a change or correction
+made to another person’s personal health
+information by falsely representing that
+he or she is entitled to have the change or
+correction made.
+
+### Prohibition: commercial purpose
+
+189. No person shall knowingly use personal health
+information to market a service for a commercial
+purpose, to solicit money, or for any other commercial
+purpose or anticipated profit unless the individual the
+information is about has provided express consent to
+its use for that purpose.
+
+### General prohibition
+
+190. No person shall knowingly contravene or fail to
+comply with this Act or the regulations.
+
+### Immunity from prosecution
+
+191. No person is liable to prosecution for an offence
+under an enactment by reason only of that person’s
+compliance with a requirement or recommendation of
+the Information and Privacy Commissioner under this
+Act.
+
+### Offence and punishment
+
+192. Every person who contravenes or fails to comply
+with this Act or the regulations is guilty of an offence
+punishable on summary conviction, and except as
+otherwise provided, is liable
+(a) in the case of a corporation, to a fine not
+exceeding $500,000; or
+(b) in the case of any other person, to a fine
+not exceeding $50,000.
+
+### Officers of corporation
+
+193. If a corporation commits an offence, any officer,
+director, agent or employee of the corporation who
+directed, authorized, assented to, acquiesced in, or
+participated in the commission of the offence is a party
+to and guilty of the offence, and is liable on conviction
+to the punishment provided for the offence, whether or
+not the corporation has been prosecuted for the offence
+or convicted.
+
+### Limitation period
+
+194. A prosecution for an offence under this Act or the
+regulations may not be commenced more than three
+years after the day the alleged offence was committed.
+Regulations
+
+### Regulations
+
+195. The Commissioner, on the recommendation of the
+Minister, may make regulations
+(a) prescribing persons, classes of persons
+and organizations as health information
+custodians for the purposes of
+paragraphs (d) and (e) of the definition
+"health information custodian" in
+subsection 1(1);
+(b) respecting exceptions to paragraph (a) of
+the definition "health service" in
+subsection 1(1), prescribing health
+services for the purpose of subparagraph
+(a)(iv) of that definition and prescribing
+services that are not health services for
+the purpose of paragraph (b) of that
+definition;
+(c) respecting exceptions to the definition
+"health service provider" in
+subsection 1(1), further defining that
+definition, and prescribing organizations
+as health service providers for specified
+purposes, for the purpose of
+paragraph (b) of that definition;
+(d) prescribing information about a health
+service provider that provides a health
+service to an individual as personal
+health information for the purpose of
+paragraph (g) of the definition "personal
+health information" in subsection 1(1),
+and respecting circumstances under
+which the prescribed information is
+personal health information about a
+particular individual;
+(e) prescribing information as personal
+health information for the purpose of
+paragraph (i) of the definition "personal
+health information" in subsection 1(1);
+(f) defining terms that are used but not
+defined in this Act;
+(g) respecting electronic health information
+systems and electronic records containing
+personal health information, including
+(i) collection from electronic health
+information systems or electronic
+records,
+(ii) disclosure to or by electronic health
+information systems, and
+(iii) the auditing or monitoring of
+electronic health information
+systems or electronic records, or any
+matter relating to those systems or
+records;
+(h) exempting specified categories of records
+from the application of this Act, for the
+purpose of paragraph 4(1)(e);
+(i) prescribing persons or classes of persons
+for the purposes of paragraph 7(b) as
+persons who are responsible under this
+Act and regulations for the exercise of
+powers and performance of duties and
+other functions of health information
+custodians that are not natural persons;
+(j) establishing a health information
+governance committee and respecting
+membership on the committee, the
+appointment of members to the
+committee and the powers, duties and
+functions of the committee;
+(k) respecting the requirement under
+section 8 to establish or adopt standards,
+policies and procedures to implement the
+requirements of this Act and the
+regulations, including requirements for
+specified classes of health information
+custodians;
+(l) requiring and respecting audits or other
+procedures for monitoring compliance by
+health information custodians with this
+Act, the regulations and standards,
+policies and procedures established or
+adopted under subsection 8(1), and
+respecting the designation of agents
+responsible for such audits or procedures;
+(m) prescribing persons, classes of persons
+and organizations as agents for the
+purpose of paragraph 9(2)(d);
+(n) respecting information managers and
+information management agreements and
+setting out and respecting exceptions to
+subsection 13(2);
+(o) respecting exceptions to subsection
+15(2);
+(p) respecting notice referred to in
+paragraphs 15(2) (a) and (b) and
+requirements under Parts 3, 4 and 5 to
+give notice;
+(q) prescribing, for the purposes of
+paragraph 20(3)(c) or 20(7)(d),
+(i) requirements pertaining to the
+method of making an electronic
+signature, and
+(ii) information technology standards
+that electronic signatures must
+satisfy;
+(r) prescribing circumstances, for the
+purpose of subparagraph 22(2)(b)(iv),
+under which a condition placed by an
+individual on his or her consent to the
+collection, use or disclosure of personal
+health information about the individual is
+not effective;
+(s) prescribing circumstances, for the
+purpose of subparagraph 24(3)(b)(iv),
+under which a withdrawal of consent to
+the collection, use or disclosure of
+personal health information is not
+effective;
+(t) respecting substitute decision makers
+and, for the purpose of
+paragraph 25(1)(i), prescribing persons
+who may act as substitute decision
+makers and the circumstances under
+which they may act;
+(u) respecting the determination under
+subsection 28(1) of the adequacy of
+non-identifying health information;
+(v) respecting the requirement under
+section 31 to inform or give notice to an
+individual or substitute decision maker
+about information referred to in that
+subsection and respecting methods of
+giving notice, including by posting or
+making readily available a notice with the
+information;
+(w) prescribing purposes for which a person
+other than a health information custodian
+or an individual may collect or use the
+individual’s personal health number
+under paragraph 32(1)(c);
+(x) respecting the stripping, encoding or
+other transformation of personal health
+information referred to in
+subsection 36(1) and the creation or
+production of personal health information
+and the comparison of personal health
+information referred to in
+subsection 36(2);
+(y) respecting exceptions to
+subsections 40(2) and (3);
+(z) respecting agreements referred to in
+subsection 54(2);
+(z.1) respecting exceptions to section 60;
+(z.2) respecting information sharing
+agreements referred to in subsections
+61(2) and (3), prescribing persons and
+organizations to which a public custodian
+may disclose personal health information
+under subsection 61(1), and respecting
+the consent to disclosure of statistical
+information required by
+paragraph 61(3)(a);
+(z.3) respecting the disclosure of information
+to the Department under section 62;
+(z.4) respecting the requirement under
+section 63 to disclose personal health
+information to or by an electronic health
+information system, including
+(i) prescribing health information
+custodians that must comply with
+the requirement,
+(ii) designating an electronic health
+information system for the purposes
+of that section, or respecting the
+designation of an electronic health
+information system for the purposes
+of that section, the person or
+organization that may make the
+designation and the publication of
+the designation, and
+(iii) respecting the personal health
+information that must be disclosed,
+including the person or organization
+that may determine the information
+that must be disclosed, the manner
+of disclosing the information and
+the publication of those
+requirements;
+(z.5) respecting the requirement under
+section 64 to disclose personal health
+information to a health information
+custodian and prescribing health
+information custodians for the purpose of
+that section;
+(z.6) respecting the requirement under
+section 66 to disclose personal health
+information to a public health authority,
+including exceptions to the requirement;
+(z.7) establishing a research ethics committee
+and respecting a research ethics
+committee established under this
+paragraph, including the appointment and
+revocation of the appointment of
+members of the committee and
+organization of the committee;
+(z.8) prescribing requirements for an
+application for approval of a research
+proposal made to a research ethics
+committee under section 72;
+(z.9) prescribing requirements that must be
+met before a health information custodian
+may disclose personal health information
+to a researcher under section 78;
+(z.10) respecting agreements referred to in
+subsection 80(1);
+(z.11) establishing a process for the review of
+whether a researcher is in compliance
+with the provisions of an agreement
+referred to in subsection 80(1) and the
+requirements referred to in section 81,
+and respecting
+(i) the persons or organizations that
+may conduct reviews, including
+their powers on review,
+(ii) the duties of a researcher who is
+under review, and
+(iii) exceptions to provisions of this Act
+restricting disclosure of personal
+health information by a health
+information custodian or the
+Information and Privacy
+Commissioner for the purposes of a
+review;
+(z.12) respecting fees and disbursements
+referred to in subsection 80(2) for the
+cost of providing disclosure of
+information to a researcher and
+respecting exceptions to
+subsection 80(3);
+(z.13) respecting the requirement under
+subsection 85(1) for a health information
+custodian to take reasonable measures to
+maintain administrative, technical and
+physical safeguards for the protection of
+personal health information and
+respecting what constitutes reasonable
+measures;
+(z.14) setting out and respecting requirements
+for the protection of the security and
+confidentiality of personal health
+information;
+(z.15) respecting the retention, transfer and
+destruction or other disposal of records
+containing personal health information;
+(z.16) respecting time periods and the
+development of schedules for the
+retention of records containing personal
+health information;
+(z.17) respecting the establishment or
+designation of archives or information
+repositories to which health information
+custodians, or a class of health
+information custodian, must transfer
+records or copies of records containing
+personal health information, and
+respecting the requirement to transfer
+records to the archive or information
+repository;
+(z.18) respecting the privacy of individuals who
+personal health information is about and
+breaches of confidentiality of personal
+health information, including
+(i) what constitutes a breach,
+(ii) reporting requirements,
+(iii) procedures that must be followed on
+the occurrence of a breach, and
+(iv) measures to mitigate a breach;
+(z.19) prescribing exceptions to the notice
+requirement in section 87, and
+prescribing persons or organizations to
+which notice must be given under that
+section;
+(z.20) prescribing health information custodians
+as custodians to which section 89 applies
+and respecting privacy impact
+assessments referred to in that section,
+including
+(i) what constitutes a proposed new or
+proposed change to an information
+system or communication
+technology, and
+(ii) the required content of privacy
+impact assessments;
+(z.21) requiring specified health information
+custodians to prepare and provide to the
+Information and Privacy Commissioner
+privacy impact assessments in respect of
+specified administrative practices relating
+to the collection, use or disclosure of
+personal health information and
+respecting the content of such privacy
+impact assessments;
+(z.22) respecting the setting of fees and
+disbursements for access to a record,
+including whether and under what
+circumstances a health information
+custodian may require the payment of
+some portion or all of the fees or
+disbursements before processing an
+access request, and respecting exceptions
+to subsection 95(2);
+(z.23) respecting access to a record for the
+purposes of subparagraph 99(1)(b)(ii)
+and paragraph 99(2)(c);
+(z.24) respecting the preparation of an estimate
+of fees and disbursements referred to in
+paragraph 104(2)(a);
+(z.25) respecting and setting time limits for the
+purposes of subsection 104(3) and
+paragraph 104(4)(d);
+(z.26) prescribing circumstances, for the
+purpose of paragraph 106(1)(c), under
+which a health information custodian
+may extend the time limit for responding
+to an access request;
+(z.27) prescribing circumstances, for the
+purpose of paragraph 123(1)(c), under
+which a health information custodian
+may extend the time limit for complying
+with requirements in respect of a
+correction request;
+(z.28) respecting exceptions to subsections
+127(1), (2), (3) and (4);
+(z.29) respecting exceptions to subsections
+128(1) and (5);
+(z.30) requiring the Information and Privacy
+Commissioner to provide specified
+information, including information on
+review procedures set by the IPC, to a
+person or organization to which the IPC
+gives a copy of a request for review
+under subsection 134(3) or 142(3), or a
+notice of review under subsection 137(2);
+(z.31) respecting exceptions to the requirements
+of section 153, including exceptions to
+the 14 day time limit referred to in
+subsection 153(2);
+(z.32) respecting exceptions to the time limit
+referred to in subsections 156(1) and (2);
+(z.33) respecting when a health information
+custodian or an individual has received or
+is deemed to have received something for
+the purposes of determining, under
+sections 101 to 107, 120 to 124, 129,
+142, 153 and 156 to 161,
+(i) the day on which a time limit or
+time period begins, or
+(ii) the day on which a suspension of a
+time limit begins;
+(z.34) prescribing powers, duties and functions
+that may not be delegated by the
+Information and Privacy Commissioner
+under subsection 172(1);
+(z.35) respecting agreements referred to in
+section 176;
+(z.36) respecting fees or disbursements to be
+charged for services under this Act, other
+than those specified in this Act, and
+providing for circumstances under which
+fees payable under this Act or the
+regulations may be waived in whole or in
+part;
+(z.37) prescribing any other matter or thing that
+by this Act may or is to be prescribed;
+and
+(z.38) respecting any other matter the
+Commissioner considers necessary or
+advisable for carrying out the purposes
+and provisions of this Act.
+Review of Act by Minister
+
+### Review of Act
+
+195.1. The Minister shall
+(a) review this Act no later than 10 years
+after this Act comes into force and
+thereafter no later than 10 years after the
+completion of each previous review; and
+(b) cause a report of each review to be laid
+before the Legislative Assembly as soon
+as is reasonably practicable.
+
+## TRANSITIONAL
+
+### Use or disclosure of information
+
+196. This Act applies to the use or disclosure of
+personal health information on or after the day this
+section comes into force, by
+(a) a health information custodian, even if
+the custodian collected the information
+before that day; or
+(b) a person other than a health
+information custodian and to whom a
+custodian disclosed the information,
+even if the person collected the
+information before that day.
+
+### Proceeding commenced under Access to Information and Protection of Privacy Act
+
+197. A proceeding to which this Act applies that
+was commenced under the Access to Information
+and Protection of Privacy Act , before the date this
+Act comes into force, must be continued under and
+in conformity with this Act so far as it may be done
+consistently with this Act.
+
+## CONSEQUENTIAL AMENDMENTS
+
+Access to Information and Protection of Privacy Act
+198. Subsection 3(1) of the Access to Information
+and Protection of Privacy Act is amended by adding
+the following after paragraph (b):
+(b.1) personal health information, as defined in
+subsection 1(1) of the Health Information
+Act , in a record to which that Act applies
+that is in the custody or under the control
+of a public body that is a public custodian
+as defined in subsection 1(1) of that Act;
+Elections and Plebiscites Act
+199. Subsection 55.1(2) of the Elections and
+Plebiscites Act is repealed and the following is
+substituted:
+
+### Application
+
+(2) Subsection (1.1) applies notwithstanding the
+Access to Information and Protection of Privacy Act
+and the Health Information Act .
+Electronic Transactions Act
+200. Subsection 4(3) of the Electronic Transactions
+Act is amended by adding " the Health Information
+Act " after " the Access to Information and Protection
+of Privacy Act , ".
+Guardianship and Trusteeship Act
+201. Section 58 of the Guardianship and Trusteeship
+Act is amended by adding the following after
+subsection (4):
+
+### Application
+
+(4.1) This section applies notwithstanding the
+Health Information Act .
+Jury Act
+202. Subsection 8(3) of the Jury Act is repealed and
+the following is substituted:
+
+### Application
+
+(3) Subsection (2) applies notwithstanding the
+Access to Information and Protection of Privacy Act
+and the Health Information Act .
+Maintenance Orders Enforcement Act
+203. Paragraph 9(1)(a) of the Maintenance Orders
+Enforcement Act is amended by adding " , the Health
+Information Act " after " the Access to Information and
+Protection of Privacy Act ".
+Mental Health Act
+204. Section 48 of the Mental Health Act is amended
+by adding the following after subsection (1):
+
+### Application
+
+(1.1) Sections 48 to 50 apply notwithstanding the
+Health Information Act .
+Public Health Act
+205. (1) The Public Health Act is amended by this
+section.
+(2) Subsection 38(1) is amended by
+(a) adding " or " at the end of
+paragraph (d);
+(b) repealing paragraph (e);
+(c) striking out " ; or " at the end of
+
+### subparagraph (f)(ii) and substituting a
+
+### period; and
+
+(d) repealing paragraph (g).
+(3) The following is added after
+
+### subsection 38(1):
+
+### Disclosure to other jurisdiction
+
+(1.1) The Chief Public Health Officer may
+disclose personal health information to a public health
+official in another jurisdiction, in accordance with an
+agreement with the government of that jurisdiction.
+(4) Subsection 38(2) is repealed and the
+
+### following is substituted:
+
+### Disclosure for research
+
+(2) The Health Information Act applies in respect
+of disclosure by the Chief Public Health Officer of
+personal health information for a research purpose.
+(5) Section 39 is repealed and the following is
+
+### substituted:
+
+### Inconsistency or conflict
+
+39. If there is an inconsistency or conflict between a
+provision of the Access to Information and Protection
+of Privacy Act or the Health Information Act and
+section 22, 23, 24, 25, 26, 27, 31, 35, 36 or 40 or
+subsection 38(1) of this Act, this Act prevails to the
+extent of the inconsistency or conflict.
+Vital Statistics Act
+206. Section 96 of the Vital Statistics Act is repealed
+
+### and the following is substituted:
+
+### Inconsistency or conflict
+
+96. If there is an inconsistency or conflict between a
+provision of the Access to Information and Protection
+of Privacy Act or the Health Information Act and a
+provision of this Act, the provision of this Act prevails
+to the extent of the inconsistency or conflict.
+Workers’ Compensation Act
+207. (1) The Workers’ Compensation Act is amended
+
+### by this section.
+
+(2) Section 161 is amended by
+(a) striking out " or " at the end of
+
+### paragraph (b);
+
+(b) striking out the period at the end of
+paragraph (c) and substituting " ; or ";
+and
+(c) adding the following after
+paragraph (c):
+(d) the Health Information Act .
+(3) Section 162 is amended by adding " and the
+Health Information Act " after " the Access to
+Information and Protection of Privacy Act ".
+
+## COMMENCEMENT
+
+### Coming into force
+
+208. This Act or any provision of this Act comes
+into force on a day or days to be fixed by order of
+the Commissioner.

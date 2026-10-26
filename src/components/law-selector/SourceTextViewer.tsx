@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useDeferredValue, useEffect, useMemo, useState } from 'react';
 import { ExternalLink, Search, X } from 'lucide-react';
 
 export interface SourceTextViewerProps {
@@ -54,10 +54,21 @@ export const SourceTextViewer: React.FC<SourceTextViewerProps> = ({
     return () => window.removeEventListener('keydown', onKey);
   }, [onClose]);
 
-  const q = query.trim().toLowerCase();
+  // Keep typing responsive on large instruments; render matches for the latest
+  // deferred query while the input itself remains immediate.
+  const deferredQuery = useDeferredValue(query);
+  const q = deferredQuery.trim().toLowerCase();
+  const normalizedLines = useMemo(() => lines?.map((line) => line.toLowerCase()) ?? null, [lines]);
   const matches = useMemo(
-    () => (lines && q ? lines.map((l, i) => [i, l] as const).filter(([, l]) => l.toLowerCase().includes(q)) : []),
-    [lines, q],
+    () => {
+      if (!lines || !normalizedLines || !q) return [];
+      const found: Array<readonly [number, string]> = [];
+      for (let i = 0; i < normalizedLines.length; i++) {
+        if (normalizedLines[i].includes(q)) found.push([i, lines[i]]);
+      }
+      return found;
+    },
+    [lines, normalizedLines, q],
   );
 
   return (

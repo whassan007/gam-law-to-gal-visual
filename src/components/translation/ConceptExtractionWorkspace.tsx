@@ -179,7 +179,7 @@ const CONCEPT_GROUPS: ConceptGroupDefinition[] = [
   },
 ];
 
-function isValidSourceSpan(span?: { start: number; end: number } | null): boolean {
+function isValidSourceSpan(span?: { start: number; end: number } | null): span is { start: number; end: number } {
   if (!span) return false;
   return (
     typeof span.start === 'number' &&
@@ -564,8 +564,9 @@ export const ConceptExtractionWorkspace: React.FC<ConceptExtractionWorkspaceProp
               <div className="rounded-lg border border-slate-700/80 bg-slate-950/80 px-3 py-2">
                 <div className="text-[11px] text-slate-400">Source Span Offsets</div>
                 <div className="font-mono text-cyan-300">
-                  [{selectedConcept.sourceSpan.start}..{selectedConcept.sourceSpan.end}] · Clause{' '}
-                  {selectedConcept.clauseId}
+                  {selectedConcept.sourceSpan
+                    ? `[${selectedConcept.sourceSpan.start}..${selectedConcept.sourceSpan.end}] · Clause ${selectedConcept.clauseId}`
+                    : 'No verified source span'}
                 </div>
               </div>
               <div className="rounded-lg border border-slate-700/80 bg-slate-950/80 px-3 py-2">
@@ -705,11 +706,12 @@ export const ConceptExtractionWorkspace: React.FC<ConceptExtractionWorkspaceProp
                             {concept.label}
                           </h4>
                           <span
-                            title="Highlight source span in legal document"
+                            title={concept.sourceSpan ? 'Highlight source span in legal document' : 'No verified source span'}
                             className="inline-flex shrink-0 items-center gap-1 rounded bg-slate-900/90 px-1.5 py-0.5 font-mono text-[10px] text-slate-400 group-hover:text-cyan-300"
                           >
-                            <Eye className="h-2.5 w-2.5" />[{concept.sourceSpan.start}..
-                            {concept.sourceSpan.end}]
+                            <Eye className="h-2.5 w-2.5" />{concept.sourceSpan
+                              ? `[${concept.sourceSpan.start}..${concept.sourceSpan.end}]`
+                              : 'No source span'}
                           </span>
                         </div>
 

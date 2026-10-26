@@ -11,6 +11,7 @@
  * honest note instead of invented legislation.
  */
 import type { CountryMetadata } from '../../types/contracts';
+import { getCatalogueForCountry } from './instrument-catalogue';
 
 const NO_LAW = (name: string, extra = '') =>
   `No validated GAM demonstration law is currently bundled for ${name}.${extra} No legislation has been mapped or inferred for this jurisdiction.`;
@@ -21,7 +22,7 @@ const EU_MEMBER_NOTE = (name: string) =>
     ' As an EU member state the EU GDPR applies directly; select the European Union entry to explore the bundled GDPR translation.',
   );
 
-export const COUNTRIES: CountryMetadata[] = [
+const BASE_COUNTRIES: CountryMetadata[] = [
   // ── Supported jurisdictions (real, bundled laws) ─────────────────────────
   {
     isoA3: 'CAN', isoNumeric: '124', code: 'CA', name: 'Canada', region: 'North America', flag: '🇨🇦',
@@ -99,7 +100,29 @@ export const COUNTRIES: CountryMetadata[] = [
   { isoA3: 'MEX', isoNumeric: '484', code: 'MX', name: 'Mexico', region: 'Latin America', flag: '🇲🇽', coordinates: { lat: 19.43, lng: -99.13 }, supported: false, lawIds: [], legalTradition: 'Civil law', notes: NO_LAW('Mexico') },
   { isoA3: 'ARG', isoNumeric: '032', code: 'AR', name: 'Argentina', region: 'Latin America', flag: '🇦🇷', coordinates: { lat: -34.6, lng: -58.38 }, supported: false, lawIds: [], legalTradition: 'Civil law', notes: NO_LAW('Argentina') },
   { isoA3: 'CHL', isoNumeric: '152', code: 'CL', name: 'Chile', region: 'Latin America', flag: '🇨🇱', coordinates: { lat: -33.45, lng: -70.67 }, supported: false, lawIds: [], legalTradition: 'Civil law', notes: NO_LAW('Chile') },
+  // ── Added for catalogued instruments (no bundled translation) ───────────
+  { isoA3: 'RUS', isoNumeric: '643', code: 'RU', name: 'Russia', region: 'Europe', flag: '🇷🇺', coordinates: { lat: 55.75, lng: 37.62 }, supported: false, lawIds: [], legalTradition: 'Civil law', notes: NO_LAW('Russia') },
+  { isoA3: 'QAT', isoNumeric: '634', code: 'QA', name: 'Qatar', region: 'Middle East & Africa', flag: '🇶🇦', coordinates: { lat: 25.29, lng: 51.53 }, supported: false, lawIds: [], legalTradition: 'Civil law (with Sharia influence)', notes: NO_LAW('Qatar') },
+  { isoA3: 'BHR', code: 'BH', name: 'Bahrain', region: 'Middle East & Africa', flag: '🇧🇭', coordinates: { lat: 26.23, lng: 50.59 }, supported: false, lawIds: [], legalTradition: 'Civil law (with Sharia influence)', notes: NO_LAW('Bahrain', ' Bahrain has no polygon in the 110m globe dataset; select it from the list.') },
+  { isoA3: 'OMN', isoNumeric: '512', code: 'OM', name: 'Oman', region: 'Middle East & Africa', flag: '🇴🇲', coordinates: { lat: 23.59, lng: 58.41 }, supported: false, lawIds: [], legalTradition: 'Civil law (with Sharia influence)', notes: NO_LAW('Oman') },
+  { isoA3: 'KWT', isoNumeric: '414', code: 'KW', name: 'Kuwait', region: 'Middle East & Africa', flag: '🇰🇼', coordinates: { lat: 29.38, lng: 47.99 }, supported: false, lawIds: [], legalTradition: 'Civil law (with Sharia influence)', notes: NO_LAW('Kuwait') },
+  { isoA3: 'KEN', isoNumeric: '404', code: 'KE', name: 'Kenya', region: 'Middle East & Africa', flag: '🇰🇪', coordinates: { lat: -1.29, lng: 36.82 }, supported: false, lawIds: [], legalTradition: 'Common law (mixed)', notes: NO_LAW('Kenya') },
+  { isoA3: 'MAR', isoNumeric: '504', code: 'MA', name: 'Morocco', region: 'Middle East & Africa', flag: '🇲🇦', coordinates: { lat: 34.02, lng: -6.84 }, supported: false, lawIds: [], legalTradition: 'Civil law (with Islamic law influence)', notes: NO_LAW('Morocco') },
+  { isoA3: 'GHA', isoNumeric: '288', code: 'GH', name: 'Ghana', region: 'Middle East & Africa', flag: '🇬🇭', coordinates: { lat: 5.6, lng: -0.19 }, supported: false, lawIds: [], legalTradition: 'Common law', notes: NO_LAW('Ghana') },
+  { isoA3: 'MUS', code: 'MU', name: 'Mauritius', region: 'Middle East & Africa', flag: '🇲🇺', coordinates: { lat: -20.16, lng: 57.5 }, supported: false, lawIds: [], legalTradition: 'Mixed (civil and common law)', notes: NO_LAW('Mauritius', ' Mauritius has no polygon in the 110m globe dataset; select it from the list.') },
+  { isoA3: 'RWA', isoNumeric: '646', code: 'RW', name: 'Rwanda', region: 'Middle East & Africa', flag: '🇷🇼', coordinates: { lat: -1.95, lng: 30.06 }, supported: false, lawIds: [], legalTradition: 'Mixed (civil and common law)', notes: NO_LAW('Rwanda') },
+  { isoA3: 'UGA', isoNumeric: '800', code: 'UG', name: 'Uganda', region: 'Middle East & Africa', flag: '🇺🇬', coordinates: { lat: 0.35, lng: 32.58 }, supported: false, lawIds: [], legalTradition: 'Common law (mixed)', notes: NO_LAW('Uganda') },
+  { isoA3: 'SEN', isoNumeric: '686', code: 'SN', name: 'Senegal', region: 'Middle East & Africa', flag: '🇸🇳', coordinates: { lat: 14.69, lng: -17.44 }, supported: false, lawIds: [], legalTradition: 'Civil law', notes: NO_LAW('Senegal') },
+  { isoA3: 'CIV', isoNumeric: '384', code: 'CI', name: "Côte d'Ivoire", region: 'Middle East & Africa', flag: '🇨🇮', coordinates: { lat: 6.82, lng: -5.28 }, supported: false, lawIds: [], legalTradition: 'Civil law', notes: NO_LAW("Côte d'Ivoire") },
+  { isoA3: 'INT', code: 'INT', name: 'International & Regional', region: 'International', flag: '🌐', coordinates: { lat: 46.2, lng: 6.14 }, supported: false, lawIds: [], legalTradition: 'International and regional law; standards bodies', notes: 'Pseudo-entry (no globe polygon) for UN, OECD, Council of Europe, African regional instruments and technical standards. No instrument here is translated; see the catalogue.' },
 ];
+
+const CATALOGUE_NOTE = ' Catalogued instruments (metadata and source links only) are listed for this jurisdiction; none is translated.';
+
+/** Countries, with a pointer to the catalogue appended where instruments are catalogued but not translated. */
+export const COUNTRIES: CountryMetadata[] = BASE_COUNTRIES.map((c) =>
+  !c.supported && getCatalogueForCountry(c.code).length > 0 ? { ...c, notes: (c.notes ?? '') + CATALOGUE_NOTE } : c,
+);
 
 const byCode = new Map(COUNTRIES.map((c) => [c.code.toUpperCase(), c]));
 const byIsoNumeric = new Map(COUNTRIES.filter((c) => c.isoNumeric).map((c) => [c.isoNumeric as string, c]));

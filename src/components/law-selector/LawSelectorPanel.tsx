@@ -177,10 +177,11 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
           )}
         </div>
 
+        <div className="flex-1 overflow-y-auto pt-4 space-y-6">
         {/* Honest Unsupported Notice */}
         <div
           data-testid="unsupported-country-notice"
-          className="my-auto flex flex-col items-center justify-center rounded-xl border border-amber-500/30 bg-amber-950/20 p-8 text-center"
+          className="flex flex-col items-center justify-center rounded-xl border border-amber-500/30 bg-amber-950/20 p-8 text-center"
         >
           <div className="mb-4 flex h-14 w-14 items-center justify-center rounded-full border border-amber-500/40 bg-amber-500/10 text-amber-300">
             <ShieldAlert className="h-7 w-7" />
@@ -220,6 +221,10 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
               </li>
             </ul>
           </div>
+        </div>
+
+        {/* Catalogued (untranslated) instruments for this jurisdiction */}
+        <InstrumentCataloguePanel instruments={catalogue} />
         </div>
       </section>
     );

@@ -1,0 +1,648 @@
+§ 630 (PEN)
+The Legislature hereby declares that advances in science and technology have led to the development of new devices and techniques for the purpose of eavesdropping upon private communications and that the invasion of privacy resulting from the continual and increasing use of such devices and techniques has created a serious threat to the free exercise of personal liberties and cannot be tolerated in a free and civilized society.
+
+The Legislature by this chapter intends to protect the right of privacy of the people of this state.
+
+The Legislature recognizes that law enforcement agencies have a legitimate need to employ modern listening devices and techniques in the investigation of criminal conduct and the apprehension of lawbreakers. Therefore, it is not the intent of the Legislature to place greater restraints on the use of listening devices and techniques by law enforcement agencies than existed prior to the effective date of this chapter.
+
+[Added by Stats. 1967, Ch. 1509.]
+
+§ 631 (PEN)
+(a)Any person who, by means of any machine, instrument, or contrivance, or in any other manner, intentionally taps, or makes any unauthorized connection, whether physically, electrically, acoustically, inductively, or otherwise, with any telegraph or telephone wire, line, cable, or instrument, including the wire, line, cable, or instrument of any internal telephonic communication system, or who willfully and without the consent of all parties to the communication, or in any unauthorized manner, reads, or attempts to read, or to learn the contents or meaning of any message, report, or communication while the same is in transit or passing over any wire, line, or cable, or is being sent from, or received at any place within this state; or who uses, or attempts to use, in any manner, or for any purpose, or to communicate in any
+way, any information so obtained, or who aids, agrees with, employs, or conspires with any person or persons to unlawfully do, or permit, or cause to be done any of the acts or things mentioned above in this section, is punishable by a fine not exceeding two thousand five hundred dollars ($2,500), or by imprisonment in the county jail not exceeding one year, or by imprisonment pursuant to subdivision (h) of Section 1170, or by both a fine and imprisonment in the county jail or pursuant to subdivision (h) of Section 1170. If the person has previously been convicted of a violation of this section or Section 632, 632.5, 632.6, 632.7, or 636, the offense is punishable by a fine not exceeding ten thousand dollars ($10,000), or by imprisonment in the county jail not exceeding one year, or by imprisonment pursuant to
+subdivision (h) of Section 1170, or by both that fine and imprisonment.
+
+(b)This section shall not apply to any of the following:
+
+(1)Any public utility, or telephone company, engaged in the business of providing communications services and facilities, or to the officers, employees or agents thereof,
+where the acts otherwise prohibited herein are for the purpose of construction, maintenance, conduct or operation of the services and facilities of the public
+utility or telephone company.
+
+(2)The use of any instrument, equipment, facility, or service furnished and used pursuant to the tariffs of a public utility.
+
+(3)Any
+telephonic communication system used for communication exclusively within a state, county, city and county, or city correctional facility.
+
+(c)For purposes of this section, “telephone company” is defined in paragraph (3) of subdivision (c) of Section 638.
+
+(d)Except as proof in an action or prosecution for violation of this section, no evidence obtained in violation of this section shall be admissible in any judicial, administrative, legislative, or other proceeding.
+
+[Amended by Stats. 2022, Ch. 27, Sec. 1.   (SB 1272)   Effective January 1, 2023.]
+
+§ 632 (PEN)
+(a)A person who, intentionally and without the consent of all parties to a confidential communication, uses an electronic amplifying or recording device to eavesdrop upon or record the confidential communication, whether the communication is carried on among the parties in the presence of one another or by means of a telegraph, telephone, or other device, except a radio, shall be punished by a fine not exceeding two thousand five hundred dollars ($2,500) per violation, or imprisonment in a county jail not exceeding one year, or in the state prison, or by both that fine and imprisonment. If the person has previously been convicted of a violation of this section or Section 631, 632.5, 632.6, 632.7, or 636, the person shall be punished by a fine not
+exceeding ten thousand dollars ($10,000) per violation, by imprisonment in a county jail not exceeding one year, or in the state prison, or by both that fine and imprisonment.
+
+(b)For the purposes of this section, “person” means an individual, business association, partnership, corporation, limited liability company, or other legal entity, and an individual acting or purporting to act for or on behalf of any government or subdivision thereof, whether federal, state, or local, but excludes an individual known by all parties to a confidential communication to be overhearing or recording the communication.
+
+(c)For the purposes of this section, “confidential communication” means any communication carried on in circumstances as may reasonably indicate that any party to the communication desires it to be confined to the parties thereto, but excludes a communication made in a public
+gathering or in any legislative, judicial, executive, or administrative proceeding open to the public, or in any other circumstance in which the parties to the communication may reasonably expect that the communication may be overheard or recorded.
+
+(d)Except as proof in an action or prosecution for violation of this section, evidence obtained as a result of eavesdropping upon or recording a confidential communication in violation of this section is not admissible in any judicial, administrative, legislative, or other proceeding.
+
+(e)This section does not apply (1) to any public utility engaged in the business of providing communications services and facilities, or to the officers, employees, or agents thereof, if the acts otherwise prohibited by this section are for the purpose of construction, maintenance, conduct, or operation of the services and facilities of the public
+utility, (2) to the use of any instrument, equipment, facility, or service furnished and used pursuant to the tariffs of a public utility, or (3) to any telephonic communication system used for communication exclusively within a state, county, city and county, or city correctional facility.
+
+(f)This section does not apply to the use of hearing aids and similar devices, by persons afflicted with impaired hearing, for the purpose of overcoming the impairment to permit the hearing of sounds ordinarily audible to the human ear.
+
+[Amended by Stats. 2016, Ch. 855, Sec. 1.   (AB 1671)   Effective January 1, 2017.]
+
+§ 632.01 (PEN)
+(a)(1)A person who violates subdivision (a) of Section 632 shall be punished pursuant to subdivision (b) if the person intentionally discloses or distributes, in any manner, in any forum, including, but not limited to, Internet Web sites and social media, or for any purpose, the contents of a confidential communication with a health care provider that is obtained by that person in violation of subdivision (a) of Section 632. For purposes of this subdivision, “social media” means an electronic service or account, or electronic content, including, but not limited to, videos or still photographs, blogs, video blogs, podcasts, instant and text messages, email, online services or accounts, or
+Internet Web site profiles or locations.
+
+(2)Notwithstanding any other provision of law, to aid and abet a violation of paragraph (1), for the purposes of Section 31, the person shall either violate, or aid and abet in a violation of, both Section 632 and paragraph (1).
+
+(b)A violation of subdivision (a) shall be punished by a fine not exceeding two thousand five hundred dollars ($2,500) per violation, or imprisonment in a county jail not exceeding one year, or in the state prison, or by both that fine and imprisonment. If the person has previously been convicted of a violation of this section, the person shall be punished by a fine not exceeding ten thousand dollars ($10,000) per violation, by imprisonment in a county jail not exceeding one year, or in the state prison, or by both that fine and imprisonment.
+
+(c)For
+purposes of this section, “health care provider” means any of the following:
+
+(1)A person licensed or certified pursuant to Division 2 (commencing with Section 500) of the Business and Professions Code.
+
+(2)A person licensed pursuant to the Osteopathic Initiative Act or the Chiropractic Initiative Act.
+
+(3)A person certified pursuant to Division 2.5 (commencing with Section 1797) of the Health and Safety Code.
+
+(4)A clinic, health dispensary, or health facility licensed or exempt from licensure pursuant to Division 2 (commencing with Section 1200) of the Health and Safety Code.
+
+(5)An employee, volunteer, or contracted agent of any group practice prepayment health care service plan
+regulated pursuant to the Knox-Keene Health Care Service Plan Act of 1975 (Chapter 2.2 (commencing with Section 1340) of Division 2 of the Health and Safety Code).
+
+(6)An employee, volunteer, independent contractor, or professional student of a clinic, health dispensary, or health care facility or health care provider described in this subdivision.
+
+(7)A professional organization that represents any of the other health care providers described in this subdivision.
+
+(d)(1)Subdivision (a) does not apply to the disclosure or distribution of a confidential communication pursuant to any of the following:
+
+(A)Any party as described in Section 633 acting within the scope of his or her authority overhearing or
+recording a confidential communication that he or she may lawfully overhear or record pursuant to that section.
+
+(B)Any party as described in Section 633.02 overhearing or recording a confidential communication related to sexual assault or other sexual offense that he or she may lawfully overhear or record pursuant to that section, or using or operating a body-worn camera as authorized pursuant to that section.
+
+(C)A city attorney as described in Section 633.05 overhearing or recording any communication that he or she may lawfully overhear or record pursuant to that section.
+
+(D)An airport law enforcement officer recording a communication received on an incoming telephone line pursuant to Section 633.1.
+
+(E)A party to a confidential communication recording the communication for the purpose of obtaining evidence reasonably believed to relate to the commission by another party to the communication of a crime as specified in Section 633.5.
+
+(F)A victim of domestic violence recording a prohibited communication made to him or her by the perpetrator pursuant to Section 633.6.
+
+(G)A peace officer using electronic amplifying or recording devices to eavesdrop on and record the otherwise confidential oral communications of individuals within a location when responding to an emergency situation that involves the taking of a hostage or the barricading of a location pursuant to Section 633.8.
+
+(2)This section does not affect the admissibility of any evidence that would otherwise be admissible pursuant to the authority of any section specified in paragraph (1).
+
+[Added by Stats. 2016, Ch. 855, Sec. 2.   (AB 1671)   Effective January 1, 2017.]
+
+§ 632.5 (PEN)
+(a)Every person who, maliciously and without the consent of all parties to the communication, intercepts, receives, or assists in intercepting or receiving a communication transmitted between cellular radio telephones or between any cellular radio telephone and a landline telephone shall be punished by a fine not exceeding two thousand five hundred dollars ($2,500), by imprisonment in the county jail not exceeding one year or in the state prison, or by both that fine and imprisonment. If the person has been previously convicted of a violation of this section or Section 631, 632, 632.6, 632.7, or 636, the person shall be punished by a fine not exceeding ten thousand dollars ($10,000), by imprisonment in the county jail not exceeding one year or in the state prison, or by both that fine and imprisonment.
+
+(b)In the following instances, this section shall not apply:
+
+(1)To any public utility engaged in the business of providing communications services and facilities, or to the officers, employees, or agents thereof, where the acts otherwise prohibited are for the purpose of construction, maintenance, conduct, or operation of the services and facilities of the public utility.
+
+(2)To the use of any instrument, equipment, facility, or service furnished and used pursuant to the tariffs of the public utility.
+
+(3)To any telephonic communication system used for communication exclusively within a state, county, city and county, or city correctional facility.
+
+(c)As used in this section and Section 635, “cellular radio telephone” means a wireless telephone authorized by the Federal Communications Commission to operate in the frequency bandwidth reserved for cellular radio telephones.
+
+[Amended by Stats. 1992, Ch. 298, Sec. 4.   Effective January 1, 1993.]
+
+§ 632.6 (PEN)
+(a)Every person who, maliciously and without the consent of all parties to the communication, intercepts, receives, or assists in intercepting or receiving a communication transmitted between cordless telephones as defined in subdivision (c), between any cordless telephone and a landline telephone, or between a cordless telephone and a cellular telephone shall be punished by a fine not exceeding two thousand five hundred dollars ($2,500), by imprisonment in the county jail not exceeding one year, or in the state prison, or by both that fine and imprisonment. If the person has been convicted previously of a violation of Section 631, 632, 632.5, 632.7, or 636, the person shall be punished by a fine not exceeding ten thousand dollars ($10,000), or by imprisonment in the county jail not exceeding one year, or in the state prison, or by both that fine and imprisonment.
+
+(b)This section shall not apply in any of the following instances:
+
+(1)To any public utility engaged in the business of providing communications services and facilities, or to the officers, employees, or agents thereof, where the acts otherwise prohibited are for the purpose of construction, maintenance, conduct, or operation of the services and facilities of the public utility.
+
+(2)To the use of any instrument, equipment, facility, or service furnished and used pursuant to the tariffs of the public utility.
+
+(3)To any telephonic communications system used for communication exclusively within a state, county, city and county, or city correctional facility.
+
+(c)As used in this section and in Section 635, “cordless telephone” means a two-way low power communication system consisting of two parts—a “base” unit which connects to the public switched telephone network and a handset or “remote” unit—which are connected by a radio link and authorized by the Federal Communications Commission to operate in the frequency bandwidths reserved for cordless telephones.
+
+[Amended by Stats. 1992, Ch. 298, Sec. 5.   Effective January 1, 1993.]
+
+§ 632.7 (PEN)
+(a)Every person who, without the consent of all of the parties to a communication, intercepts or receives and intentionally records, or assists in the interception or reception and intentional recordation of, a communication transmitted between two cellular radio telephones, a cellular radio telephone and a landline telephone, two cordless telephones, a cordless telephone and a landline telephone, or a cordless telephone and a cellular radio telephone, shall be punished by a fine not exceeding two thousand five hundred dollars ($2,500), or by imprisonment in a county jail not exceeding one year, or in the state prison, or by both that fine and imprisonment. If the person has been convicted previously of a
+violation of this section or of Section 631, 632, 632.5, 632.6, or 636, the person shall be punished by a fine not exceeding ten thousand dollars ($10,000), by imprisonment in a county jail not exceeding one year, or in the state prison, or by both that fine and imprisonment.
+
+(b)This section shall not apply to any of the following:
+
+(1)Any public utility, or telephone company, engaged in the business of providing communications services and facilities, or to the officers, employees, or agents thereof, where the acts otherwise prohibited are for the purpose of construction, maintenance, conduct, or operation
+of the services and facilities of the public
+utility or telephone company.
+
+(2)The use of any instrument, equipment, facility, or service furnished and used pursuant to the tariffs of the public utility.
+
+(3)Any telephonic communication system used for communication exclusively within a state, county, city and county, or city correctional facility.
+
+(c)For purposes of this section, “telephone company” is defined in paragraph (3) of subdivision (c) of Section 638.
+
+(d)As used in this section, each of the following terms have the following meaning:
+
+(1)“Cellular radio telephone” means a wireless telephone authorized by the Federal Communications Commission to operate in the frequency bandwidth reserved for cellular radio telephones.
+
+(2)“Cordless telephone” means a two-way, low power communication system consisting of two parts, a “base” unit which connects to the public switched telephone network and a handset or “remote” unit, that are connected by a radio link and authorized by the Federal Communications Commission to operate in the frequency bandwidths reserved for cordless telephones.
+
+(3)“Communication” includes, but is not limited to, communications transmitted by voice, data, or image, including facsimile.
+
+[Amended by Stats. 2022, Ch. 27, Sec. 2.   (SB 1272)   Effective January 1, 2023.]
+
+§ 633 (PEN)
+(a)Nothing in Section 631, 632, 632.5, 632.6, or 632.7 prohibits the Attorney General, any district attorney, or any assistant, deputy, or investigator of the Attorney General or any district attorney, any officer of the California Highway Patrol, any peace officer of the Office of Internal Affairs of the Department of Corrections and Rehabilitation, any chief of police, assistant chief of police, or police officer of a city or city and county, any sheriff, undersheriff, or deputy sheriff regularly employed
+and paid in that capacity by a county, police officer of the County of Los Angeles, or any person acting pursuant to the direction of one of these law enforcement officers acting within the scope of his or her authority, from overhearing or recording any communication that they could lawfully overhear or record prior to January 1, 1968.
+
+(b)Nothing in Section 631, 632, 632.5, 632.6, or 632.7 renders inadmissible any evidence obtained by the above-named persons by means of overhearing or recording any communication that they could lawfully overhear or record prior to January 1, 1968.
+
+[Amended by Stats. 2018, Ch. 175, Sec. 1.   (AB 2669)   Effective January 1, 2019.]
+
+§ 633.1 (PEN)
+(a)Nothing in Section 631, 632, 632.5, 632.6, or 632.7 prohibits any person regularly employed as an airport law enforcement officer, as described in subdivision (d) of Section 830.33, acting within the scope of his or her authority, from recording any communication which is received on an incoming telephone line, for which the person initiating the call utilized a telephone number known to the public to be a means of contacting airport law enforcement officers. In order for a telephone call to be recorded under this subdivision, a series of electronic tones shall be used, placing the caller on notice that his or her telephone call is being recorded.
+
+(b)Nothing in Section 631, 632, 632.5, 632.6, or 632.7 renders inadmissible any evidence obtained by an officer described in subdivision (a) if the evidence was received by means of recording any communication which is received on an incoming public telephone line, for which the person initiating the call utilized a telephone number known to the public to be a means of contacting airport law enforcement officers.
+
+(c)This section shall only apply to airport law enforcement officers who are employed at an airport which maintains regularly scheduled international airport service and which maintains permanent facilities of the United States Customs Service.
+
+[Amended by Stats. 1995, Ch. 62, Sec. 1.   Effective January 1, 1996.]
+
+§ 633.02 (PEN)
+(a)Nothing in Section 631, 632, 632.5, 632.6, or 632.7 prohibits any POST-certified chief of police, assistant chief of police, or police officer of a university or college campus acting within the scope of his or her authority, from overhearing or recording any communication that he or she could lawfully overhear or record prior to January 1, 1968, in any criminal investigation related to sexual assault or other sexual offense.
+
+(b)Nothing in Section 631, 632, 632.5, 632.6, or 632.7 shall prohibit any POST-certified chief of police, assistant chief of police, or police officer of a university or college campus from using or operating body-worn cameras.
+
+(c)This section shall not be construed to affect Section 633.
+
+(d)This section shall not be used to impinge upon the lawful exercise of constitutionally protected rights of freedom of speech or assembly, or the constitutionally protected right of personal privacy.
+
+[Added by Stats. 2015, Ch. 159, Sec. 1.   (SB 424)   Effective January 1, 2016.]
+
+§ 633.05 (PEN)
+(a)Nothing in Section 632, 632.5, 632.6, or 632.7 prohibits a city attorney acting under authority of Section 41803.5 of the Government Code, provided that authority is granted prior to January 1, 2012, or any person acting pursuant to the direction of one of those city attorneys acting within the scope of his or her authority, from overhearing or recording any communication that they could lawfully overhear or record.
+
+(b)Nothing in Section 632, 632.5, 632.6, or 632.7 renders inadmissible any evidence obtained by the above-named persons by means of overhearing or recording any communication that they could lawfully overhear or record.
+
+[Added by Stats. 2011, Ch. 659, Sec. 1.   (AB 1010)   Effective January 1, 2012.]
+
+§ 633.5 (PEN)
+Sections 631, 632, 632.5, 632.6, and 632.7 do not prohibit one party to a confidential communication from recording the communication for the purpose of obtaining evidence reasonably believed to relate to the commission by another
+party to the communication of the crime of extortion, kidnapping, bribery, any felony involving violence against the person, including, but not limited to, human trafficking, as defined in Section 236.1, or a violation of Section 653m, or domestic violence as defined in Section 13700. Sections 631, 632, 632.5, 632.6, and 632.7 do not render any evidence so obtained inadmissible in a prosecution for extortion, kidnapping, bribery, any felony involving violence against the person, including, but not limited to, human trafficking, as defined in Section 236.1, a violation of Section 653m, or domestic violence as defined in Section 13700, or any crime in connection therewith.
+
+[Amended by Stats. 2017, Ch. 191, Sec. 1.   (AB 413)   Effective January 1, 2018.]
+
+§ 633.6 (PEN)
+(a)Notwithstanding the provisions of this chapter, and in accordance with federal law, upon the request of a victim of domestic violence who is seeking a domestic violence restraining order, a judge issuing the order may include a provision in the order that permits the victim to record any prohibited communication made to him or her by the perpetrator.
+
+(b)Notwithstanding the provisions of this chapter, and in accordance with federal law, a victim of domestic violence who is seeking a domestic violence restraining order from a court, and who reasonably believes that a confidential communication made to him or her by the perpetrator may contain
+evidence germane to that restraining order, may record that communication for the exclusive purpose and use of providing that evidence to the court.
+
+(c)The Judicial Council shall amend its domestic violence prevention application and order forms to incorporate the provisions of this section.
+
+[Amended by Stats. 2017, Ch. 191, Sec. 2.   (AB 413)   Effective January 1, 2018.]
+
+§ 633.8 (PEN)
+(a)It is the intent of the Legislature in enacting this section to provide law enforcement with the ability to use electronic amplifying or recording devices to eavesdrop on and record the otherwise confidential oral communications of individuals within a location when responding to an emergency situation that involves the taking of a hostage or the barricading of a location. It is the intent of the Legislature that eavesdropping on oral communications pursuant to this section comply with paragraph (7) of Section 2518 of Title 18 of the United States Code.
+
+(b)Notwithstanding the provisions of this chapter, and in accordance with federal law, a designated peace officer described in subdivision (c) may use, or authorize the
+use of, an electronic amplifying or recording device to eavesdrop on or record, or both, any oral communication within a particular location in response to an emergency situation involving the taking of a hostage or hostages or the barricading of a location if all of the following conditions are satisfied:
+
+(1)The officer reasonably determines that an emergency situation exists involving the immediate danger of death or serious physical injury to any person, within the meaning of Section 2518(7)(a)(i) of Title 18 of the United States Code.
+
+(2)The officer reasonably determines that the emergency situation requires that the eavesdropping on oral communication occur immediately.
+
+(3)There are grounds upon which an order could be obtained pursuant to Section 2516(2) of Title 18 of the United States Code in regard to the
+offenses enumerated therein.
+
+(c)Only a peace officer who has been designated by either a district attorney in the county where the emergency exists, or by the Attorney General to make the necessary determinations pursuant to paragraphs (1), (2), and (3) of subdivision (b) may make those determinations for purposes of this section.
+
+(d)If the determination is made by a designated peace officer described in subdivision (c) that an emergency situation exists, a peace officer shall not be required to knock and announce his or her presence before entering, installing, and using any electronic amplifying or recording devices.
+
+(e)If the determination is made by a designated peace officer described in subdivision (c) that an emergency situation exists and an eavesdropping device has been deployed, an application for an
+order approving the eavesdropping shall be made within 48 hours of the beginning of the eavesdropping and shall comply with the requirements of Section 629.50. A court may grant an application authorizing the use of electronic amplifying or recording devices to eavesdrop on and record otherwise confidential oral communications in barricade or hostage situations where there is probable cause to believe that an individual is committing, has committed, or is about to commit an offense listed in Section 2516(2) of Title 18 of the United States Code.
+
+(f)The contents of any oral communications overheard pursuant to this section shall be recorded on tape or other comparable device. The recording of the contents shall be done so as to protect the recording from editing or other alterations.
+
+(g)For purposes of this section, a “barricading” occurs when a person refuses to come out from a
+covered or enclosed position. Barricading also occurs when a person is held against his or her will and the captor has not made a demand.
+
+(h)For purposes of this section, a “hostage situation” occurs when a person is held against his or her will and the captor has made a demand.
+
+(i)A judge shall not grant an application made pursuant to this section in anticipation that an emergency situation will arise. A judge shall grant an application authorizing the use of electronic amplifying or recording devices to eavesdrop on and record otherwise confidential oral communications in barricade or hostage situations where there is probable cause to believe that an individual is committing, has committed, or is about to commit an offense listed in Section 2516(2) of Title 18 of the United States Code, and only if the peace officer has fully complied with the requirements of this section.
+If an application is granted pursuant to this section, an inventory shall be served pursuant to Section 629.68.
+
+(j)This section does not require that a peace officer designated pursuant to subdivision (c) undergo training pursuant to Section 629.94.
+
+(k)A peace officer who has been designated pursuant to subdivision (c) to use an eavesdropping device shall cease use of the device upon the termination of the barricade or hostage situation, or upon the denial by a judge of an application for an order to approve the eavesdropping, whichever is earlier.
+
+(l)Nothing in this section shall be deemed to affect the admissibility or inadmissibility of evidence.
+
+[Amended by Stats. 2011, Ch. 304, Sec. 6.   (SB 428)   Effective January 1, 2012.]
+
+§ 634 (PEN)
+Any person who trespasses on property for the purpose of committing any act, or attempting to commit any act, in violation of Section 631, 632, 632.5, 632.6, 632.7, or 636 shall be punished by a fine not exceeding two thousand five hundred dollars ($2,500), by imprisonment in the county jail not exceeding one year or in the state prison, or by both that fine and imprisonment. If the person has previously been convicted of a violation of this section or Section 631, 632, 632.5, 632.6, 632.7, or 636, the person shall be punished by a fine not exceeding ten thousand dollars ($10,000), by imprisonment in the county jail not exceeding one year or in the state prison, or by both that fine and imprisonment.
+
+[Amended by Stats. 1992, Ch. 298, Sec. 10.   Effective January 1, 1993.]
+
+§ 635 (PEN)
+(a)Every person who manufactures, assembles, sells, offers for sale, advertises for sale, possesses, transports, imports, or furnishes to another any device which is primarily or exclusively designed or intended for eavesdropping upon the communication of another, or any device which is primarily or exclusively designed or intended for the unauthorized interception or reception of communications between cellular radio telephones or between a cellular radio telephone and a landline telephone in violation of Section 632.5, or communications between cordless telephones or between a cordless telephone and a landline telephone in violation of Section 632.6, shall be punished by a fine not exceeding two thousand five hundred dollars ($2,500), by imprisonment in the county jail not exceeding one year, or in the state prison, or by both that fine and imprisonment. If the person has previously been convicted of a violation of this section, the person shall be punished by a fine not exceeding ten thousand dollars ($10,000), by imprisonment in the county jail not exceeding one year, or in the state prison, or by both that fine and imprisonment.
+
+(b)This section does not apply to either of the following:
+
+(1)An act otherwise prohibited by this section when performed by any of the following:
+
+(A)A communication utility or an officer, employee or agent thereof for the purpose of construction, maintenance, conduct, or operation of, or otherwise incident to the use of, the services or facilities of the utility.
+
+(B)A state, county, or municipal law enforcement agency or an agency of the federal government.
+
+(C)A person engaged in selling devices specified in subdivision (a) for use by, or resale to, agencies of a foreign government under terms approved by the federal government, communication utilities, state, county, or municipal law enforcement agencies, or agencies of the federal government.
+
+(2)Possession by a subscriber to communication utility service of a device specified in subdivision (a) furnished by the utility pursuant to its tariffs.
+
+[Amended by Stats. 1990, Ch. 696, Sec. 8.]
+
+§ 636 (PEN)
+(a)Every person who, without permission from all parties to the conversation, eavesdrops on or records, by means of an electronic device, a conversation, or any portion thereof, between a person who is in the physical custody of a law enforcement officer or other public officer, or who is on the property of a law enforcement agency or other public agency, and that person’s attorney, religious adviser, or licensed physician, is guilty of a felony punishable by imprisonment pursuant to subdivision (h) of Section 1170.
+
+(b)Every person who, intentionally and without permission from all parties to the conversation, nonelectronically eavesdrops upon a conversation, or any portion thereof,
+that occurs between a person who is in the physical custody of a law enforcement officer or other public officer and that person’s attorney, religious adviser, or licensed physician, is guilty of a public offense. This subdivision applies to conversations that occur in a place, and under circumstances, where there exists a reasonable expectation of privacy, including a custody holding area, holding area, or anteroom. This subdivision does not apply to conversations that are inadvertently overheard or that take place in a courtroom or other room used for adjudicatory proceedings. A person who is convicted of violating this subdivision shall be punished by imprisonment pursuant to subdivision (h) of Section 1170, or in a county jail for a term not to exceed one year, or by a fine not to exceed two thousand five hundred dollars ($2,500), or by both that fine and imprisonment.
+
+(c)This section shall not apply to any employee of a public utility
+engaged in the business of providing service and facilities for telephone or telegraph communications while engaged in the construction, maintenance, conduct, or operation of the service or facilities of that public utility who listens in to conversations for the limited purpose of testing or servicing equipment.
+
+[Amended by Stats. 2011, Ch. 15, Sec. 429.   (AB 109)   Effective April 4, 2011.   Operative October 1, 2011, by Sec. 636 of Ch. 15, as amended by Stats. 2011, Ch. 39, Sec. 68.]
+
+§ 636.5 (PEN)
+Any person not authorized by the sender, who intercepts any public safety radio service communication, by use of a scanner or any other means, for the purpose of using that communication to assist in the commission of a criminal offense or to avoid or escape arrest, trial, conviction, or punishment or who divulges to any person he or she knows to be a suspect in the commission of any criminal offense, the existence, contents, substance, purport, effect or meaning of that communication concerning the offense with the intent that the suspect may avoid or escape from arrest, trial, conviction, or punishment is guilty of a misdemeanor.
+
+Nothing in this section shall preclude prosecution of any person under Section 31 or 32.
+
+As used in this section, “public safety radio service communication” means a communication authorized by the Federal Communications Commission to be transmitted by a station in the public safety radio service.
+
+[Amended by Stats. 1999, Ch. 853, Sec. 13.   Effective January 1, 2000.]
+
+§ 636.6 (PEN)
+(a)(1)A person who manufactures, imports, markets, purchases, sells, or operates a signal jammer, unless authorized to do so by the Federal Communications Commission, is guilty of an infraction, punishable by a fine not to exceed five hundred dollars ($500) for a first offense.
+
+(2)A second or subsequent violation of paragraph (1) is a misdemeanor, punishable by imprisonment in a county jail not exceeding year, by a fine not to exceed one thousand dollars ($1,000), or by both that fine and imprisonment.
+
+(b)A person who operates a signal jammer in conjunction with
+the commission of a
+misdemeanor or felony is guilty of a misdemeanor, punishable by imprisonment in a county jail not exceeding one year, or by a fine not to exceed one thousand dollars ($1,000), or by both that fine and imprisonment.
+
+(c)A person who willfully or maliciously uses a signal jammer to block state or local public safety communications, and who knows or should know that using the signal jammer is likely to result in death or great bodily injury and great bodily injury or death is sustained by any person as a result of that use, is guilty of a
+crime, punishable by imprisonment in a county jail not exceeding one year or pursuant to subdivision (h) of Section 1170.
+
+(d)A conviction under this section requires forfeiture of the signal jamming device.
+
+(e)This section does not apply to the authorized and lawful use of signal jammers by local or state law enforcement.
+
+(f)For the purposes of this section, the following terms have the following meanings:
+
+(1)“Signal jammer” means a device that intentionally blocks, jams, or interferes with authorized radio or wireless communications.
+
+(2)“Public safety communications” means the systems, technologies, and methods used by emergency response agencies, including law enforcement, firefighters, and EMS, to communicate with each other.
+
+[Added by Stats. 2025, Ch. 458, Sec. 1.   (SB 701)   Effective January 1, 2026.]
+
+§ 637 (PEN)
+Every person not a party to a telegraphic or telephonic communication who willfully discloses the contents of a telegraphic or telephonic message, or any part thereof, addressed to another person, without the permission of that person, unless directed so to do by the lawful order of a court, is punishable by imprisonment pursuant to subdivision (h) of Section 1170, or in a county jail not exceeding one year, or by fine not exceeding five thousand dollars ($5,000), or by both that fine and imprisonment.
+
+[Amended by Stats. 2011, Ch. 15, Sec. 430.   (AB 109)   Effective April 4, 2011.   Operative October 1, 2011, by Sec. 636 of Ch. 15, as amended by Stats. 2011, Ch. 39, Sec. 68.]
+
+§ 637.1 (PEN)
+Every person not connected with any telegraph or telephone office who, without the authority or consent of the person to whom the same may be directed, willfully opens any sealed envelope enclosing a telegraphic or telephonic message, addressed to another person, with the purpose of learning the contents of such message, or who fraudulently represents another person and thereby procures to be delivered to himself any telegraphic or telephonic message addressed to such other person, with the intent to use, destroy, or detain the same from the person entitled to receive such message, is punishable as provided in Section 637.
+
+[Added by Stats. 1967, Ch. 1509.]
+
+§ 637.2 (PEN)
+(a)Any person who has been injured by a violation of this chapter may bring an action against the person who committed the violation for the greater of the following amounts:
+
+(1)Five thousand dollars ($5,000) per violation.
+
+(2)Three times the amount of actual damages, if any, sustained by the plaintiff.
+
+(b)Any person may, in accordance with Chapter 3 (commencing with Section 525) of Title 7 of Part 2 of the Code of Civil Procedure, bring an action to enjoin and restrain any violation of this chapter, and may in the same action seek damages as provided
+by subdivision (a).
+
+(c)It is not a necessary prerequisite to an action pursuant to this section that the plaintiff has suffered, or be threatened with, actual damages.
+
+(d)This section shall not be construed to affect Title 4 (commencing with Section 3425.1) of Part 1 of Division 4 of the Civil Code.
+
+[Amended by Stats. 2016, Ch. 855, Sec. 4.   (AB 1671)   Effective January 1, 2017.]
+
+§ 637.3 (PEN)
+(a)No person or entity in this state shall use any system which examines or records in any manner voice prints or other voice stress patterns of another person to determine the truth or falsity of statements made by such other person without his or her express written consent given in advance of the examination or recordation.
+
+(b)This section shall not apply to any peace officer, as defined in Section 830, while he is carrying out his official duties.
+
+(c)Any person who has been injured by a violator of this section may bring an action against the violator for his actual damages or one thousand dollars ($1,000), whichever is greater.
+
+[Added by Stats. 1978, Ch. 1251.]
+
+§ 637.4 (PEN)
+(a)No state or local governmental agency involved in the investigation or prosecution of crimes, or any employee thereof, shall require or request any complaining witness, in a case involving the use of force, violence, duress, menace, or threat of great bodily harm in the commission of any sex offense, to submit to a polygraph examination as a prerequisite to filing an accusatory pleading.
+
+(b)Any person who has been injured by a violator of this section may bring an action against the violator for his actual damages or one thousand dollars ($1,000), whichever is greater.
+
+[Added by Stats. 1980, Ch. 880, Sec. 1.]
+
+§ 637.5 (PEN)
+(a)No person who owns, controls, operates, or manages a satellite or cable television corporation, or who leases channels on a satellite or cable system shall:
+
+(1)Use any electronic device to record, transmit, or observe any events or listen to, record, or monitor any conversations that take place inside a subscriber’s residence, workplace, or place of business, without obtaining the express written consent of the subscriber. A satellite or cable television corporation may conduct electronic sweeps of subscriber households to monitor for signal quality.
+
+(2)Provide any person with
+any individually identifiable information regarding any of its subscribers, including, but not limited to, the subscriber’s television viewing habits, shopping choices, interests, opinions, energy uses, medical information, banking data or information, or any other personal or private information, without the subscriber’s express written consent.
+
+(b)Individual subscriber viewing responses or other individually identifiable information derived from subscribers may be retained and used by a satellite or cable television corporation only to the extent reasonably necessary for billing purposes and internal business practices, and to monitor for unauthorized reception of services. A satellite or cable television corporation may compile, maintain, and distribute a list containing the names and addresses of its subscribers if the list contains no
+other individually identifiable information and if subscribers are afforded the right to elect not to be included on the list. However, a satellite or cable television corporation shall maintain adequate safeguards to ensure the physical security and confidentiality of the subscriber information.
+
+(c)(1)A satellite or cable television corporation shall not make individual subscriber information available to government agencies in the absence of legal compulsion, including, but not limited to, a court order or subpoena. If requests for information are made, a satellite or cable television corporation shall promptly notify the subscriber of the nature of the request and what government agency has requested the information prior to responding unless otherwise prohibited from doing so by law.
+
+(2)Nothing in this section shall be construed to prevent local franchising authorities from obtaining information necessary to monitor franchise compliance pursuant to franchise or license agreements. This information shall be provided so as to omit
+individually identifiable subscriber information whenever possible. Information obtained by local franchising authorities shall be used solely for monitoring franchise compliance and shall not be subject to the California Public Records Act (Division 10 (commencing with Section 7920.000) of Title 1 of the Government Code).
+
+(d)Any individually identifiable subscriber information gathered by a satellite or cable television corporation shall be made available for subscriber examination within 30 days of receiving a request by a subscriber to examine the information on the premises of the corporation. Upon a reasonable showing by the subscriber that the information is inaccurate, a satellite or cable television corporation shall correct the information.
+
+(e)Upon a
+subscriber’s application for satellite or cable television service, including, but not limited to, interactive service, a satellite or cable television corporation shall provide the applicant with a separate notice in an appropriate form explaining the subscriber’s right to privacy protection afforded by this section.
+
+(f)As used in this section:
+
+(1)“Cable television corporation” shall have the same meaning as that term is given by Section 216.4 of the Public Utilities Code.
+
+(2)“Individually identifiable information” means any information identifying an individual or the individual’s use of any service provided by a satellite or cable system other than the mere fact that the individual is a satellite or cable television subscriber.
+“Individually identifiable information” shall not include anonymous, aggregate, or any other information that does not identify an individual subscriber of a video provider service.
+
+(3)“Person” includes an individual, business association, partnership, corporation, limited liability company, or other legal entity, and an individual acting or purporting to act for or on behalf of any government, or subdivision thereof, whether federal, state, or local.
+
+(4)“Interactive service” means any service offered by a satellite or cable television corporation involving the collection, reception, aggregation, storage, or use of electronic information transmitted from a subscriber to any other receiving point under the control of the satellite or cable television corporation, or vice versa.
+
+(g)Nothing in this section shall be construed to limit the ability of a satellite or cable television corporation to market satellite or cable television or ancillary services to its subscribers.
+
+(h)Any person receiving subscriber information from a satellite or cable television corporation shall be subject to the provisions of this section.
+
+(i)Any aggrieved person may commence a civil action for damages for invasion of privacy against any satellite or cable television corporation, service provider, or person that leases a channel or channels on a satellite or cable television system that violates the provisions of this section.
+
+(j)Any person who violates
+the provisions of this section is guilty of a misdemeanor punishable by a fine not exceeding three thousand dollars ($3,000), or by imprisonment in the county jail not exceeding one year, or by both that fine and imprisonment.
+
+(k)The penalties and remedies provided by subdivisions (i) and (j) are cumulative, and shall not be construed as restricting any penalty or remedy, provisional or otherwise, provided by law for the benefit of any person, and no judgment under this section shall preclude any person from obtaining additional relief based upon the same facts.
+
+(l)The provisions of this section are intended to set forth minimum state standards for protecting the privacy of subscribers to cable television services and are not intended to preempt more restrictive local
+standards.
+
+[Amended by Stats. 2021, Ch. 615, Sec. 336.   (AB 474)   Effective January 1, 2022.   Operative January 1, 2023, pursuant to Sec. 463 of Stats. 2021, Ch. 615.]
+
+§ 637.6 (PEN)
+(a)No person who, in the course of business, acquires or has access to personal information concerning an individual, including, but not limited to, the individual’s residence address, employment address, or hours of employment, for the purpose of assisting private entities in the establishment or implementation of carpooling or ridesharing programs, shall disclose that information to any other person or use that information for any other purpose without the prior written consent of the individual.
+
+(b)As used in this section, “carpooling or ridesharing programs” include, but shall not be limited to, the formation of carpools, vanpools, buspools, the provision of transit routes, rideshare research, and the development of other demand management strategies such as variable working hours and telecommuting.
+
+(c)Any person who violates this section is guilty of a misdemeanor, punishable by imprisonment in the county jail for not exceeding one year, or by a fine of not exceeding one thousand dollars ($1,000), or by both that imprisonment and fine.
+
+[Added by Stats. 1990, Ch. 304, Sec. 1.]
+
+§ 637.7 (PEN)
+(a)No person or entity in this state shall use an electronic tracking device to determine the location or movement of a person.
+
+(b)This section shall not apply when the registered owner, lessor, or lessee of a vehicle has consented to the use of the electronic tracking device with respect to that vehicle.
+
+(c)This section shall not apply to the lawful use of an electronic tracking device by a law enforcement agency.
+
+(d)As used in this section, “electronic tracking device” means any device attached to a vehicle or other movable thing that reveals its location or movement by the transmission of electronic signals.
+
+(e)A violation of this section is a misdemeanor.
+
+(f)A violation of this section by a person, business, firm, company, association, partnership, or corporation licensed under Division 3 (commencing with Section 5000) of the Business and Professions Code shall constitute grounds for revocation of the license issued to that person, business, firm, company, association, partnership, or corporation, pursuant to the provisions that provide for the revocation of the license as set forth in Division 3 (commencing with Section 5000) of the Business and Professions Code.
+
+[Added by Stats. 1998, Ch. 449, Sec. 2.   Effective January 1, 1999.]
+
+§ 637.9 (PEN)
+(a)Any person who, in the course of business, provides mailing lists, computerized or telephone-based reference services, or similar products or services utilizing lists, as defined, knowingly does any of the following is guilty of a misdemeanor:
+
+(1)Fails, prior to selling or distributing a list to a first-time buyer, to obtain the buyer’s name, address, telephone number, tax identification number if the buyer is a forprofit entity, a sample of the type of material to be distributed using the list, or to make a good-faith effort to verify the nature and legitimacy of the business or organization to which the list is being sold or distributed.
+
+(2)Knowingly provides access to personal information about children to any person who he or she knows is registered or required to register as a sex offender.
+
+(b)Any person who uses personal information about a child that was obtained for commercial purposes to directly contact the child or the child’s parent to offer a commercial product or service to the child and who knowingly fails to comply with the parent’s request to take steps to limit access to personal information about a child only to authorized persons is guilty of a misdemeanor.
+
+(c)Any person who knowingly distributes or receives any personal information about a child with knowledge that the information will be used to abuse or physically harm the child is guilty of a misdemeanor.
+
+(d)(1)List brokers shall, upon a written request from a parent that specifically identifies the child, provide the parent with procedures that the parent must follow in order to withdraw consent to use personal information relating to his or her child. Any list broker who fails to discontinue disclosing personal information about a child within 20 days after being so requested in writing by the child’s parent, is guilty of a misdemeanor.
+
+(2)Any person who, through the mail, markets or sells products or services directed to children, shall maintain a list of all individuals, and their addresses, who have requested in writing that the person discontinue sending any marketing or sales materials to the individual or the individual’s child or children. No person who is obligated to maintain that list shall cause any marketing or sales materials, other than those that are already in the process of dissemination, to be sent to any individual’s child or children, after that individual has made that written request. Any person who is subject to the provisions of this paragraph, who fails to comply with the requirements of this paragraph or who violates the provisions of this paragraph is guilty of a misdemeanor.
+
+(e)The following shall be exempt from subdivisions (a) and (b):
+
+(1)Any federal, state, or local government agency or law enforcement agency.
+
+(2)The National Center for Missing and Exploited Children.
+
+(3)Any educational institution, consortia, organization, or professional association, which shall include, but not be limited to, the California community colleges; the California State University, and each campus, branch, and function thereof; each campus, branch, and function of the University of California; the California Maritime Academy; or any independent institution of higher education accredited by an agency recognized by the federal Department of Education. For the purposes of this paragraph, “independent institution of higher education” means any nonpublic higher education institution that grants undergraduate degrees, graduate degrees, or both undergraduate and graduate degrees, is formed as a nonprofit corporation in this state, and is accredited by an agency recognized by the federal Department of Education; or any private postsecondary vocational institution registered, approved, or exempted by the Bureau of Private Postsecondary Vocational Education.
+
+(4)Any nonprofit organization that is exempt from taxation under Section 23701d of the Revenue and Taxation Code.
+
+(f)As used in this section:
+
+(1)“Child” means a person who is under 16 years of age.
+
+(2)“Parent” shall include a legal guardian.
+
+(3)“Personal information” means any information that identifies a child and that would suffice to locate and contact the child, including, but not limited to, the name, postal or electronic mail address, telephone number, social security number, date of birth, physical description of the child, or family income.
+
+(4)“List” may include, but is not limited to, a collection of name and address records of individuals sharing a common interest, purchase history, demographic profile, membership, or affiliation.
+
+[Added by Stats. 1998, Ch. 763, Sec. 1.   Effective January 1, 1999.]
+
+§ 638 (PEN)
+(a)Any person who purchases, sells, offers to purchase or sell, or conspires to purchase or sell any telephone calling pattern record or list, without the written consent of the subscriber, or any person who procures or obtains through fraud or deceit, or attempts to procure or obtain through fraud or deceit any telephone calling pattern record or list shall be punished by a fine not exceeding two thousand five hundred dollars ($2,500), or by imprisonment in a county jail not exceeding one year, or by both a fine and imprisonment. If the person has previously been convicted of a violation of this section, he or she is punishable by a fine not exceeding ten thousand dollars ($10,000), or by imprisonment in a county jail not exceeding one year, or by both a fine and imprisonment.
+
+(b)Any personal information contained in a telephone calling pattern record or list that is obtained in violation of this section shall be inadmissible as evidence in any judicial, administrative, legislative, or other proceeding except when that information is offered as proof in an action or prosecution for a violation of this section, or when otherwise authorized by law, in any criminal prosecution.
+
+(c)For purposes of this section:
+
+(1)“Person” includes an individual, business association, partnership, limited partnership, corporation, limited liability company, or other legal entity.
+
+(2)“Telephone calling pattern record or list” means information retained by a telephone company that relates to the telephone number dialed by the subscriber, or other person using the subscriber’s telephone with permission, or the incoming number of a call directed to the subscriber, or other data related to such calls typically contained on a subscriber telephone bill such as the time the call started and ended, the duration of the call, any charges applied, and any information described in subdivision (a) of Section 2891 of the Public Utilities Code whether the call was made from or to a telephone connected to the public switched telephone network, a cordless telephone, as defined in Section 632.6, a telephony device operating over the Internet utilizing voice over Internet protocol, a satellite telephone, or commercially available interconnected mobile phone service that provides access to the public switched telephone network via a mobile communication device employing radiowave technology to transmit calls, including cellular radiotelephone, broadband Personal Communications Services, and digital Specialized Mobile Radio.
+
+(3)“Telephone company” means a telephone corporation as defined in Section 234 of the Public Utilities Code or any other person that provides residential or commercial telephone service to a subscriber utilizing any of the technologies or methods enumerated in paragraph (2).
+
+(4)For purposes of this section, “purchase” and “sell” shall not include information provided to a collection agency or assignee of the debt by the telephone corporation, and used exclusively for the collection of the unpaid debt assigned by the telephone corporation, provided that the collection agency or assignee of the debt shall be liable for any disclosure of the information that is in violation of this section.
+
+(d)An employer of, or entity contracting with, a person who violates subdivision (a) shall only be subject to prosecution pursuant to that provision if the employer or contracting entity knowingly allowed the employee or contractor to engage in conduct that violated subdivision (a).
+
+(e)It is the intent of the Legislature to ensure that telephone companies maintain telephone calling pattern records or lists in the strictest confidence, and protect the privacy of their subscribers with all due care. While it is not the intent of the Legislature in this act to preclude the sharing of information that is currently allowed by both state and federal laws and rules governing those records, it is the Legislature’s intent in this act to preclude any unauthorized purchase or sale of that information.
+
+(f)This section shall not be construed to prevent a law enforcement or prosecutorial agency, or any officer, employee, or agent thereof from obtaining telephone records in connection with the performance of the official duties of the agency consistent with any other applicable state and federal law.
+
+(g)Nothing in this section shall preclude prosecution under any other provision of law.
+
+(h)The Legislature hereby finds and declares that, notwithstanding the prohibition on specific means of making available or obtaining personal calling records pursuant to this section, the disclosure of personal calling records through any other means is no less harmful to the privacy and security interests of Californians. This section is not intended to limit the scope or force of Section 2891 of the Public Utilities Code in any way.
+
+[Added by Stats. 2006, Ch. 626, Sec. 1.   Effective January 1, 2007.]
+
+§ 638.50 (PEN)
+For purposes of this chapter, the following terms have the following meanings:
+
+(a)“Wire communication” and “electronic communication” have the meanings set forth in subdivision (a) of Section 629.51.
+
+(b)“Pen register” means a device or process that records or decodes dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted, but not the contents of a communication. “Pen register” does not include a device or process used by a provider or customer of a wire or electronic communication service for billing, or recording as an incident to billing, for communications services provided by such provider, or a device or process
+used by a provider or customer of a wire communication service for cost accounting or other similar purposes in the ordinary course of its business.
+
+(c)“Trap and trace device” means a device or process that captures the incoming electronic or other impulses that identify the originating number or other dialing, routing, addressing, or signaling information reasonably likely to identify the source of a wire or electronic communication, but not the contents of a communication.
+
+(d)“Prohibited violation” has the same meaning as that term is defined in Section 629.51.
+
+[Amended by Stats. 2022, Ch. 627, Sec. 4.   (AB 1242)   Effective September 27, 2022.]
+
+§ 638.51 (PEN)
+(a)Except as provided in subdivision (b), a person may not install or use a pen register or a trap and trace device without first obtaining a court order pursuant to Section 638.52 or 638.53.
+
+(b)A provider of electronic or wire communication service may use a pen register or a trap and trace device for any of the following purposes:
+
+(1)To operate, maintain, and test a wire or electronic communication service.
+
+(2)To protect the rights or property of the provider.
+
+(3)To
+protect users of the service from abuse of service or unlawful use of service.
+
+(4)To record the fact that a wire or electronic communication was initiated or completed to protect the provider, another provider furnishing service toward the completion of the wire communication, or a user of that service, from fraudulent, unlawful, or abusive use of service.
+
+(5)If the consent of the user of that service has been obtained.
+
+(c)A violation of this section is punishable by a fine not exceeding two thousand five hundred dollars ($2,500), or by imprisonment in the county jail not exceeding one year, or by imprisonment pursuant to subdivision (h) of Section 1170, or by both that fine and imprisonment.
+
+(d)A good faith reliance on an order issued pursuant to Section 638.52, or an authorization made pursuant to Section 638.53, is a complete defense to a civil or criminal action brought under this section or under this chapter.
+
+[Added by Stats. 2015, Ch. 204, Sec. 2.   (AB 929)   Effective January 1, 2016.]
+
+§ 638.52 (PEN)
+(a)A peace officer may make an application to a magistrate for an order or an extension of an order authorizing or approving the installation and use of a pen register or a trap and trace device. The application shall be in writing under oath or equivalent affirmation, and shall include the identity of the peace officer making the application and the identity of the law enforcement agency conducting the investigation. The applicant shall certify that the information likely to be obtained is relevant to an ongoing criminal investigation and shall include a statement of the offense to which the information likely to be obtained by the pen register or trap and trace device relates.
+
+(b)The magistrate shall enter an ex parte order authorizing the installation and use
+of a pen register or a trap and trace device if the magistrate finds that the information likely to be obtained by the installation and use of a pen register or a trap and trace device is relevant to an ongoing investigation and that there is probable cause to believe that the pen register or trap and trace device will lead to any of the following:
+
+(1)Recovery of stolen or embezzled property.
+
+(2)Property or things used as the means of committing a felony.
+
+(3)Property or things in the possession of a person with the intent to use them as a means of committing a public offense, or in the possession of another to whom they may have delivered them for the purpose of concealing them or preventing them from being discovered.
+
+(4)Evidence that tends to show
+a felony has been committed, or tends to show that a particular person has committed or is committing a felony.
+
+(5)Evidence that tends to show that sexual exploitation of a child, in violation of Section 311.3, or possession of matter depicting sexual conduct of a person under 18 years of age, in violation of Section 311.11, has occurred or is occurring.
+
+(6)The location of a person who is unlawfully restrained or reasonably believed to be a witness in a criminal investigation or for whose arrest there is probable cause.
+
+(7)Evidence that tends to show a violation of Section 3700.5 of the Labor Code, or tends to show that a particular person has violated Section 3700.5 of the Labor Code.
+
+(8)Evidence that does any of the following:
+
+(A)Tends to show that a felony, a misdemeanor violation of the Fish and Game Code, or a misdemeanor violation of the Public Resources Code, has been committed or is being committed.
+
+(B)Tends to show that a particular person has committed or is committing a felony, a misdemeanor violation of the Fish and Game Code, or a misdemeanor violation of the Public Resources Code.
+
+(C)Will assist in locating an individual who has committed or is committing a felony, a misdemeanor violation of the Fish and Game Code, or a misdemeanor violation of the Public Resources Code.
+
+(c)Information acquired solely pursuant to the authority for a pen register or a trap and trace device shall not include any information that may disclose the physical location of the subscriber,
+except to the extent that the location may be determined from the telephone number. Upon the request of the person seeking the pen register or trap and trace device, the magistrate may seal portions of the application pursuant to People v. Hobbs (1994) 7 Cal.4th 948, and Sections 1040, 1041, and 1042 of the Evidence Code.
+
+(d)An order issued pursuant to subdivision (b) shall specify all of the following:
+
+(1)The identity, if known, of the person to whom is leased or in whose name is listed the telephone line to which the pen register or trap and trace device is to be attached.
+
+(2)The identity, if known, of the person who is the subject of the criminal investigation.
+
+(3)The number and, if known, physical location of the telephone line to which the pen
+register or trap and trace device is to be attached and, in the case of a trap and trace device, the geographic limits of the trap and trace order.
+
+(4)A statement of the offense to which the information likely to be obtained by the pen register or trap and trace device relates.
+
+(5)The order shall direct, if the applicant has requested, the furnishing of information, facilities, and technical assistance necessary to accomplish the installation of the pen register or trap and trace device.
+
+(e)An order issued under this section shall authorize the installation and use of a pen register or a trap and trace device for a period not to exceed 60 days.
+
+(f)Extensions of the original order may be granted upon a new application for an order under subdivisions
+(a) and (b) if the officer shows that there is a continued probable cause that the information or items sought under this subdivision are likely to be obtained under the extension. The period of an extension shall not exceed 60 days.
+
+(g)An order or extension order authorizing or approving the installation and use of a pen register or a trap and trace device shall direct that the order be sealed until the order, including any extensions, expires, and that the person owning or leasing the line to which the pen register or trap and trace device is attached not disclose the existence of the pen register or trap and trace device or the existence of the investigation to the listed subscriber or to any other person.
+
+(h)Upon the presentation of an order, entered under subdivisions (b) or (f), by a peace officer authorized to install and use a pen register, a provider of wire or
+electronic communication service, landlord, custodian, or other person shall immediately provide the peace officer all information, facilities, and technical assistance necessary to accomplish the installation of the pen register unobtrusively and with a minimum of interference with the services provided to the party with respect to whom the installation and use is to take place, if the assistance is directed by the order.
+
+(i)Upon the request of a peace officer authorized to receive the results of a trap and trace device, a provider of a wire or electronic communication service, landlord, custodian, or other person shall immediately install the device on the appropriate line and provide the peace officer all information, facilities, and technical assistance, including installation and operation of the device unobtrusively and with a minimum of interference with the services provided to the party with respect to whom the installation and use is
+to take place, if the installation and assistance is directed by the order.
+
+(j)A provider of a wire or electronic communication service, landlord, custodian, or other person who provides facilities or technical assistance pursuant to this section shall be reasonably compensated by the requesting peace officer’s law enforcement agency for the reasonable expenses incurred in providing the facilities and assistance.
+
+(k)Unless otherwise ordered by the magistrate, the results of the pen register or trap and trace device shall be provided to the peace officer at reasonable intervals during regular business hours for the duration of the order.
+
+(l)The magistrate, before issuing the order pursuant to subdivision (b), may examine on oath the person seeking the pen register or the trap and trace device, and any witnesses the
+person may produce, and shall take their affidavit or their affidavits in writing, and cause the affidavit or affidavits to be subscribed by the parties making them.
+
+(m)Notwithstanding any other provision in this section, no magistrate shall enter an ex parte order authorizing the installation and use of a pen register or a trap and trace device for the purpose of investigating or recovering evidence of a prohibited violation, as defined in Section 629.51.
+
+[Amended by Stats. 2022, Ch. 627, Sec. 5.   (AB 1242)   Effective September 27, 2022.]
+
+§ 638.53 (PEN)
+(a)Except as otherwise provided in this chapter, upon an oral application by a peace officer, a magistrate may grant oral approval for the installation and use of a pen register or a trap and trace device, without an order, if he or she determines all of the following:
+
+(1)There are grounds upon which an order could be issued under Section 638.52.
+
+(2)There is probable cause to believe that an emergency situation exists with respect to the investigation of a
+crime.
+
+(3)There is probable cause to believe that a substantial danger to life or limb exists justifying the authorization for immediate installation and use of a pen register or a trap and trace device before an order authorizing the installation and use can, with due diligence, be submitted and acted upon.
+
+(b)(1)By midnight of the second full court day after the pen register or trap and trace device is installed, a written application pursuant to Section 638.52 shall be submitted by the peace officer who made the oral application to the magistrate who orally approved the installation and use of a pen register or trap and trace device. If an order is issued pursuant to Section 638.52, the order shall also recite the time of the oral
+approval under subdivision (a) and shall be retroactive to the time of the original oral approval.
+
+(2)In the absence of an authorizing order pursuant to paragraph (1), the use shall immediately terminate when the information sought is obtained, when the application for the order is denied, or by midnight of the second full court day after the pen register or trap and trace device is installed, whichever is earlier.
+
+(c)A provider of a wire or electronic communication service, landlord, custodian, or other person who provides facilities or technical assistance pursuant to this section shall be reasonably compensated by the requesting peace officer’s law enforcement agency for the reasonable expenses incurred in providing the facilities and
+assistance.
+
+[Added by Stats. 2015, Ch. 204, Sec. 4.   (AB 929)   Effective January 1, 2016.]
+
+§ 638.54 (PEN)
+(a)Except as otherwise provided in this section, a government entity that obtains information pursuant to Section 638.52, or obtains information pursuant to oral authorization pursuant to Section 638.53, shall serve upon, or deliver to by registered or first-class mail, electronic mail, or other means reasonably calculated to be effective, the identified targets of the order a notice that informs the recipient that information about the recipient has been compelled or requested and states with reasonable specificity the nature of the government investigation under which the information is sought. The notice shall include a copy of the order or a written statement setting forth facts giving rise to the emergency. The notice shall
+be provided no later than 30 days after the termination of the period of the order, any extensions, or an emergency request.
+
+(b)(1)Prior to the expiration of the 30-day period specified in subdivision (a), the government entity may submit a request, supported by a sworn affidavit, for an order delaying unsealing of the order and notification and prohibiting the person owning or leasing the line to which the pen register or trap and trace device is attached from disclosing the existence of the pen register or trap and trace device or the existence of the investigation to the listed subscriber or any other person. The court shall issue the order if the court determines that there is reason to believe that notification may have an adverse result, but only for the period of time that the court finds there is reason to
+believe that the notification may have that adverse result, and not to exceed 90 days.
+
+(2)The court may grant extensions of the delay of up to 90 days each on the same grounds as provided in paragraph (1).
+
+(3)Upon expiration of the period of delay of the notification, the government entity shall serve upon, or deliver to by registered or first-class mail, electronic mail, or other means reasonably calculated to be effective as specified by the court issuing the order authorizing delayed notification, the identified targets of the order or emergency authorization a document that includes the information described in subdivision (a) and a copy of all electronic information obtained or a summary of that information, including, at a minimum, the number and types of records
+disclosed, the date and time when the earliest and latest records were created, and a statement of the grounds for the court’s determination to grant a delay in notifying the individual. The notice shall be provided no later than three days after the expiration of the period of delay of the notification.
+
+(c)If there is no identified target of an order or emergency request at the time of its issuance, the government entity shall submit to the Department of Justice, no later than three days after the termination of the period of the order, any extensions, or an emergency request, all of the information required in subdivision (a). If an order delaying notice is obtained pursuant to subdivision (b), the government entity shall submit to the department, no later than three days after the expiration of the period of delay of the
+notification, all of the information required in paragraph (3) of subdivision (b). The department shall publish all those reports on its Internet Web site within 90 days of receipt. The department may redact names or other personal identifying information from the reports.
+
+(d)For the purposes of this section, “adverse result” has the meaning set forth in subdivision (a) of Section 1546.
+
+[Added by Stats. 2016, Ch. 511, Sec. 2.   (AB 1924)   Effective September 23, 2016.]
+
+§ 638.55 (PEN)
+(a)Any person in a trial, hearing, or proceeding may move to suppress wire or electronic information obtained or retained in violation of the Fourth Amendment to the United States Constitution or of this chapter. The motion shall be made, determined, and be subject to review in accordance with the procedures set forth in subdivisions (b) to (q), inclusive, of Section 1538.5.
+
+(b)The Attorney General may commence a civil action to compel any government entity to comply with the provisions of this chapter.
+
+(c)An individual whose information is targeted by a warrant, order, or other legal process
+that is not in compliance with this chapter, the California Constitution, or the United States Constitution, or a service provider or any other recipient of the warrant, order, or other legal process may petition the issuing court to void or modify the warrant, order, or process, or to order the destruction of any information obtained in violation of this chapter, the California Constitution, or the United States Constitution.
+
+[Added by Stats. 2016, Ch. 511, Sec. 3.   (AB 1924)   Effective September 23, 2016.]
+
+§ 639 (PEN)
+Every person who gives, offers, or agrees to give to any director, officer, or employee of a financial institution any emolument, gratuity, or reward, or any money, property, or thing of value for his own personal benefit or of personal advantage, for procuring or endeavoring to procure for any person a loan or extension of credit from such financial institution is guilty of a felony.
+
+As used in this section and Section 639a, “financial institution” means any person or persons engaged in the business of making loans or
+extending credit or procuring the making of loans or extension of credit, including, but not limited to, state and federal banks, savings and loan associations, trust companies, industrial loan companies, personal property brokers, consumer finance lenders, commercial finance lenders, credit unions, escrow companies, title insurance companies, insurance companies, small business investment companies, pawnbrokers, and retirement funds.
+
+As used in this section and Section 639a the word “person” includes any person, firm, partnership, association, corporation, limited liability company, company, syndicate, estate, trust, business trust, or organization of any kind.
+
+[Amended by Stats. 1994, Ch. 1010, Sec. 196.   Effective January 1, 1995.]

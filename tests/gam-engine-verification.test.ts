@@ -5,7 +5,7 @@ import { validateModel } from '../src/engine/gam-core/schema.js';
 import { ConsistencyChecker } from '../src/engine/gam-core/consistency-checker.js';
 import { OntologyChecker } from '../src/engine/gam-core/ontology-checker.js';
 import { emitAlloy } from '../src/engine/gam-core/alloy-emitter.js';
-import { detectPolarity } from '../src/engine/gam-pipeline/phase1-extractor.js';
+import { detectPolarity, extractPatterns } from '../src/engine/gam-pipeline/phase1-extractor.js';
 import { translatePatterns } from '../src/engine/gam-pipeline/phase2-translator.js';
 import { readLawToGAM } from '../src/engine/gam-pipeline/read-law.js';
 import { CANONICAL_DIRECTIONS, normalizeEdgeDirections, runEnterpriseComparison, segmentLegalText, translateCustomPassage, translateLawProvision, verifyEdgeDirections } from '../src/engine/gam-adapter';
@@ -106,6 +106,17 @@ describe('Section 14 Test 5 — prohibition polarity survives GAL translation', 
   it('distinguishes affirmative permission and preserves separate clause polarity', () => {
     expect(detectPolarity('The organization may disclose personal information.')).toBe('Allow');
     expect(segmentLegalText('The organization may collect data; the organization shall not disclose data.').map(c => c.polarity)).toEqual(['Allow', 'Deny']);
+  });
+  it.each([
+    'The organization may not disclose personal information.',
+    'The organization can not disclose personal information.',
+    'The organization is not permitted to disclose personal information.',
+    'The organization is not allowed to disclose personal information.',
+  ])('keeps extractor and clause deontic labels aligned for %s', text => {
+    const extracted = extractPatterns(text).patterns;
+    expect(extracted.some(p => p.deontic === 'Prohibited')).toBe(true);
+    expect(extracted.some(p => p.deontic === 'Permitted')).toBe(false);
+    expect(segmentLegalText(text).every(c => c.polarity === 'Deny' && c.deonticModality === 'Prohibited')).toBe(true);
   });
 });
 

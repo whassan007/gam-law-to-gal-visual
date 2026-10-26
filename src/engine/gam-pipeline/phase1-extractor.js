@@ -196,8 +196,9 @@ const HIGHER_PATTERNS = {
     deontic: {
         obligatory: ['shall', 'must', 'is required to', 'is obligated to', 'mandatory'],
         permitted: ['may', 'is permitted to', 'is allowed to', 'can', 'is authorized to'],
-        prohibited: ['shall not', 'must not', 'is prohibited from', 'cannot', 'is forbidden',
-            'is not permitted', 'is not allowed'],
+        prohibited: ['shall not', 'must not', 'may not', 'can not', 'shall never', 'must never',
+            'is prohibited from', 'are prohibited from', 'prohibited from', 'cannot', 'is forbidden',
+            'are forbidden', 'is not permitted', 'are not permitted', 'is not allowed', 'are not allowed'],
     },
 };
 
@@ -213,7 +214,7 @@ const HIGHER_PATTERNS = {
 // "shall not disclose" and "shall disclose" previously matched the SAME
 // obligation family. Polarity inversion is the most consequential error a
 // compliance extractor can make: it turns a prohibition into a permission.
-const NEGATION = /\b(?:shall not|must not|may not|cannot|can not|shall never|must never|is prohibited from|are prohibited from|prohibited from|is forbidden from|are forbidden from|forbidden from|no [a-z0-9_-]+(?:\s+[a-z0-9_-]+)?\s+(?:shall|may|must)|nothing in this (?:section|act) (?:shall|may))\b/i;
+const NEGATION = /\b(?:shall not|must not|may not|cannot|can not|shall never|must never|is prohibited from|are prohibited from|prohibited from|is forbidden from|are forbidden from|forbidden from|is not permitted(?: to)?|are not permitted(?: to)?|is not allowed(?: to)?|are not allowed(?: to)?|no [a-z0-9_-]+(?:\s+[a-z0-9_-]+)?\s+(?:shall|may|must)|nothing in this (?:section|act) (?:shall|may))\b/i;
 
 /** @returns {'Deny'|'Allow'} the polarity of a provision */
 export function detectPolarity(text) {

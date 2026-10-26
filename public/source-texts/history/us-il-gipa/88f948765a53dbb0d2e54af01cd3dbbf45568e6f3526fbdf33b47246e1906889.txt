@@ -1,0 +1,465 @@
+|
+
+Home |
+
+Legislation & Laws |
+
+Senate |
+
+House |
+
+My Legislation |
+
+Site Map |
+
+|
+
+|
+
+Bills & Resolutions |
+
+Compiled Statutes |
+
+Public Acts |
+
+Legislative Reports |
+
+IL Constitution |
+
+Legislative Guide |
+
+Legislative Glossary |
+
+|
+
+Search By Number
+
+(example: HB0001) |
+
+|
+
+Search By Keyword |
+
+|
+
+|
+
+|
+
+Illinois Compiled Statutes
+
+Back to Act Listing Public Acts Search Guide Disclaimer Printer-Friendly Version
+
+Information maintained by the Legislative Reference Bureau
+
+Updating the database of the Illinois Compiled Statutes (ILCS) is an ongoing process. Recent laws may not yet be included in the ILCS database, but they are found on this site as Public Acts soon after they become law. For information concerning the relationship between statutes and Public Acts, refer to the Guide.
+
+Because the statute database is maintained primarily for legislative drafting purposes, statutory changes are sometimes included in the statute database before they take effect. If the source note at the end of a Section of the statutes includes a Public Act that has not yet taken effect, the version of the law that is currently in effect may have already been removed from the database and you should refer to that Public Act to see the changes made to the current law.
+
+PUBLIC HEALTH
+
+(410 ILCS 517/) Health Care Professional Credentials Data Collection Act.
+
+410 ILCS 517/1
+
+(410 ILCS 517/1)
+
+Sec. 1.
+Short title.
+This Act may be cited as the Health Care Professional Credentials Data Collection Act.
+
+(Source: P.A. 91-602, eff. 8-16-99.)
+
+|
+
+410 ILCS 517/5
+
+(410 ILCS 517/5)
+
+Sec. 5. Definitions. As used in this Act:
+
+"Credentials data" means those data, information, or answers to questions required by a health care entity, health care plan, or hospital to complete the credentialing or recredentialing of a health care professional.
+
+"Credentialing" means the process of assessing and validating the qualifications of a health care professional.
+
+"Department" means the Department of Public Health.
+
+"Director" means the Director of the Department of Public Health.
+
+"Health care entity" means any of the following which require the submission of credentials data: (i) a health care facility or other health care organization licensed or certified to provide medical or health services in Illinois, other than a hospital; (ii) a health care professional partnership, corporation, limited liability company, professional services corporation or group practice; or (iii) an independent practice association or physician hospital organization. Nothing in this definition shall be construed to mean that a hospital is a health care entity.
+
+"Health care plan" means any entity licensed by the Department of Insurance as a prepaid health care plan or health maintenance organization or as an insurer which requires the submission of credentials data.
+
+"Health care professional" means any person licensed under the Medical Practice Act of 1987 or any person licensed under any other Act subsequently made subject to this Act by the Department.
+
+"Hospital" means a hospital licensed under the Hospital Licensing Act or any hospital organized under the University of Illinois Hospital Act.
+
+"Recredentialing" means a process undertaken for a period not to exceed 3 years by which a health care entity, health care plan, or hospital ensures that a health care professional who is currently credentialed by the health care entity, health care plan, or hospital continues to meet the credentialing criteria used by the health care entity, health care plan, or hospital.
+
+"Single credentialing cycle" means a process undertaken for a period not to exceed 3 years whereby for purposes of recredentialing each health care professional's credentials data are collected by all health care entities and health care plans that credential the health care professional during the same time period.
+
+"Site survey" means a process by which a health care entity or health care plan assesses the office locations and medical record keeping practices of a health care professional.
+
+"Single site survey" means a process by which, for purposes of recredentialing, each health care professional receives a site visit only once every two years.
+
+"Uniform health care credentials form" means the form prescribed by the Department under Section 15 to collect the credentials data commonly requested by health care entities and health care plans for purposes of credentialing.
+
+"Uniform health care recredentials form" means the form prescribed by the Department under Section 15 to collect the credentials data commonly requested by health care entities and health care plans for purposes of recredentialing.
+
+"Uniform hospital credentials form" means the form prescribed by the Department under Section 15 to collect the credentials data commonly requested by hospitals for purposes of credentialing.
+
+"Uniform hospital recredentials form" means the form prescribed by the Department under Section 15 to collect the credentials data commonly requested by hospitals for purposes of recredentialing.
+
+"Uniform site survey instrument" means the instrument developed by the Department under Section 25 to complete a single site survey as part of a credentialing or recredentialing process.
+
+"Uniform updating form" means the standardized form prescribed by the Department for reporting of corrections, updates, and modifications to credentials data to health care entities, health care plans, and hospitals when those data change following credentialing or recredentialing of a health care professional.
+
+(Source: P.A. 103-96, eff. 1-1-24; 103-436, eff. 8-4-23; 103-605, eff. 7-1-24.)
+|
+
+410 ILCS 517/10
+
+(410 ILCS 517/10)
+
+Sec. 10. (Repealed).
+
+(Source: P.A. 91-602, eff. 8-16-99. Repealed by P.A. 103-436, eff. 8-4-23.)
+
+|
+
+410 ILCS 517/15
+
+(410 ILCS 517/15)
+
+Sec. 15. Development and use of uniform health care and hospital credentials forms.
+
+(a) The Department shall by rule establish:
+
+(1) a uniform health care credentials form that shall
+|
+
+|
+
+include the credentials data commonly requested by health care entities and health care plans for purposes of credentialing and shall minimize the need for the collection of additional credentials data;
+|
+
+|
+
+(2) a uniform health care recredentials form that
+|
+
+|
+
+shall include the credentials data commonly requested by health care entities and health care plans for purposes of recredentialing and shall minimize the need for the collection of additional credentials data;
+|
+
+|
+
+(3) a uniform hospital credentials form that shall
+|
+
+|
+
+include the credentials data commonly requested by hospitals for purposes of credentialing and shall minimize the need for the collection of additional credentials data;
+|
+
+|
+
+(4) a uniform hospital recredentials form that shall
+|
+
+|
+
+include the credentials data commonly requested by hospitals for purposes of recredentialing and shall minimize the need for collection of additional credentials data; and
+|
+
+|
+
+(5) uniform updating forms.
+
+The forms described in this subsection may be prescribed in a print format, electronic format, or both as provided by the Department.
+
+(b) The uniform forms established by the Department under this Section shall be coordinated to reduce the need to provide redundant information. Further, the forms shall be made available in both paper and electronic formats upon request and in the format requested.
+
+(c) The Department shall establish by rule a process for the submittal of forms in an electronic format with required content for a health care entity, a health care plan, or a hospital, and a health care professional may require acceptance of forms in an electronic format by a health care entity, a health care plan, or a hospital.
+
+(d) Beginning January 1, 2002, each health care entity or health care plan that employs, contracts with, or allows health care professionals to provide medical or health care services and requires health care professionals to be credentialed or recredentialed shall for purposes of collecting credentials data only require:
+
+(1) the uniform health care credentials form;
+
+(2) the uniform health care recredentials form;
+
+(3) the uniform updating forms;
+
+(4) any additional credentials data requested; and
+
+(5) an online credential with required content as
+|
+
+|
+
+required by forms under this Section.
+|
+
+|
+
+(e) Beginning January 1, 2002, each hospital that employs, contracts with, or allows health care professionals to provide medical or health care services and requires health care professionals to be credentialed or recredentialed shall for purposes of collecting credentials data only require:
+
+(1) the uniform hospital credentials form;
+
+(2) the uniform hospital recredentials form;
+
+(3) the uniform updating forms;
+
+(4) any additional credentials data requested; and
+
+(5) an online credential with required content as
+|
+
+|
+
+required by forms under this Section.
+|
+
+|
+
+(f) Each health care entity and health care plan shall complete the process of verifying a health care professional's credentials data in a timely fashion and shall complete the process of credentialing or recredentialing of the health care professional within 60 days after submission of all credentials data and completion of verification of the credentials data.
+
+(g) Each health care professional shall provide any corrections, updates, and modifications to his or her credentials data to ensure that all credentials data on the health care professional remains current. Such corrections, updates, and modifications shall be provided within 5 business days for State health care professional license revocation, federal Drug Enforcement Agency license revocation, Medicare or Medicaid sanctions, revocation of hospital privileges, any lapse in professional liability coverage required by a health care entity, health care plan, or hospital, or conviction of a felony, and within 45 days for any other change in the information from the date the health care professional knew of the change. All updates shall be made on the uniform updating forms prescribed by the Department.
+
+(h) Any credentials data collected or obtained by the health care entity, health care plan, or hospital shall be confidential, as provided by law, and otherwise may not be redisclosed without written consent of the health care professional, except that in any proceeding to challenge credentialing or recredentialing, or in any judicial review, the claim of confidentiality shall not be invoked to deny a health care professional, health care entity, health care plan, or hospital access to or use of credentials data. Nothing in this Section prevents a health care entity, health care plan, or hospital from disclosing any credentials data to its officers, directors, employees, agents, subcontractors, medical staff members, any committee of the health care entity, health care plan, or hospital involved in the credentialing process, or accreditation bodies or licensing agencies. However, any redisclosure of credentials data contrary to this Section is prohibited.
+
+(i) Nothing in this Act shall be construed to restrict the right of any health care entity, health care plan or hospital to request additional information necessary for credentialing or recredentialing.
+
+(j) Nothing in this Act shall be construed to restrict in any way the authority of any health care entity, health care plan or hospital to approve, suspend or deny an application for hospital staff membership, clinical privileges, or managed care network participation.
+
+(k) Nothing in this Act shall be construed to prohibit delegation of credentialing and recredentialing activities as long as the delegated entity follows the requirements set forth in this Act.
+
+(l) Nothing in this Act shall be construed to require any health care entity or health care plan to credential or survey any health care professional.
+
+(m) Nothing in this Act prohibits a hospital from granting disaster privileges pursuant to the provisions of Section 10.4 of the Hospital Licensing Act. When a hospital grants disaster privileges pursuant to Section 10.4 of the Hospital Licensing Act, that hospital is not required to collect credentials data pursuant to this Act.
+
+(Source: P.A. 103-436, eff. 8-4-23.)
+|
+
+410 ILCS 517/20
+
+(410 ILCS 517/20)
+
+Sec. 20. Single credentialing cycle.
+
+(a) The Department shall by rule
+establish a single credentialing cycle. The single credentialing cycle shall
+be based on a specific variable or variables. To the extent possible the
+single credentialing cycle shall be established to ensure that the credentials
+data of all health care professionals in a group or at a single site
+are collected during the same time period. However, nothing in this Act
+shall be construed to require the single credentialing cycle to be established
+to ensure that the credentials data of all health care professionals in a group
+or at a single site are collected during the same time period.
+
+(b) Beginning July 1, 2002, all health care entities
+and health care
+plans shall obtain credentials data on all health care
+professionals according to the established single credentialing cycle.
+
+(c) The Department shall by rule
+establish a process to exempt a small or unique health care entity
+or small or unique health care plan from the single credentialing cycle if
+the health
+care entity or health care plan demonstrates to the Department that
+adherence to the single credentialing cycle would be an undue hardship for the
+health care entity or health care plan.
+
+(d) The requirements of this Section shall not apply when a health care
+professional submits initial credentials data to a health care
+entity or health care plan outside of the established single credentialing
+cycle, when a health care professional's credentials data change
+substantively, or when a health care entity or health care plan requires
+recredentialing as a result of patient or quality assurance issues.
+
+(Source: P.A. 103-436, eff. 8-4-23.)
+
+|
+
+410 ILCS 517/25
+
+(410 ILCS 517/25)
+
+Sec. 25. Single site survey.
+
+(a) The Department shall by rule
+establish a uniform site survey instrument taking into
+account national accreditation standards and State requirements. The
+uniform site survey instrument
+shall include all the site survey data requested by health care
+entities and health care plans.
+
+(b) No later than July 1, 2002, the Department shall publish, in rule, the variable or variables for completing
+the
+single site survey. To the extent possible, the single site survey shall be
+established to ensure that all health care professionals in a group or at a
+site are reviewed during the same time period.
+
+(c) Beginning January 1, 2003, health care entities and
+health care plans
+shall implement the single site survey, if a site
+survey is required by any of the health care professional's health
+care entities or health care plans. The site survey shall be completed using
+the uniform site survey instrument.
+
+(d) The uniform site survey instrument shall be used when a health care
+professional seeks initial credentialing by a health care entity
+or health care plan, when a health care professional's credentials data
+change substantively, or when a health care plan or health care entity requires
+a site survey as a result of patient or quality assurance issues, if a site
+survey is required by the health care entity or
+health care plan.
+
+(e) Nothing in this Section prohibits health care entities and health care
+plans from choosing the independent party to conduct the
+single site survey.
+
+(Source: P.A. 103-436, eff. 8-4-23.)
+
+|
+
+410 ILCS 517/30
+
+(410 ILCS 517/30)
+
+Sec. 30. Study of coordinated credentials verification.
+
+(a) The Department shall study the
+need for coordinated credentials data verification.
+
+(b) The study shall address the need for, the advantages and disadvantages
+of, and the costs and cost savings, if any, of coordinated
+credentials verification.
+
+(c) The study also may address other changes to improve the credentialing
+and recredentialing processes, to improve the timeliness
+of the credentials data, and reduce the costs, time, and administrative burden
+associated with the processes.
+
+(d) The Department shall make a recommendation to the General Assembly and
+the Governor regarding the need for further
+legislation no later than January 1, 2003.
+
+(Source: P.A. 103-436, eff. 8-4-23.)
+
+|
+
+410 ILCS 517/35
+
+(410 ILCS 517/35)
+
+Sec. 35. Rules. The Department
+shall adopt rules necessary to develop and implement and enforce the
+requirements established by this Act.
+
+(Source: P.A. 103-436, eff. 8-4-23.)
+
+|
+
+410 ILCS 517/40
+
+(410 ILCS 517/40)
+
+Sec. 40.
+Enforcement.
+The Department has authority to enforce the
+provisions of the Act. In addition to any other penalty
+provided by law, any health care entity, health care plan, hospital, or health
+care professional that violates any Section of this Act shall forfeit
+and pay to the Department a fine in an amount determined by the Department of
+not more than $1,000 for the first offense and not more
+than $5,000 for each subsequent offense.
+
+(Source: P.A. 91-602, eff. 8-16-99.)
+
+|
+
+410 ILCS 517/45
+
+(410 ILCS 517/45)
+
+Sec. 45.
+Administrative Procedure Act.
+The Illinois Administrative
+Procedure Act is hereby expressly adopted and incorporated
+herein as if all the provisions of the Act were included in the Act. For the
+purpose of this Act, the notice required under Section 10-25 of
+the Administrative Procedure Act is deemed sufficient when mailed to the last
+known address of a party.
+
+(Source: P.A. 91-602, eff. 8-16-99.)
+
+|
+
+410 ILCS 517/50
+
+(410 ILCS 517/50)
+
+Sec. 50.
+Administrative Review Law.
+All final administrative decisions
+of the Department are subject to judicial review pursuant
+to the provisions of the Administrative Review Law and all rules adopted
+pursuant thereto. The term "administrative decision" is defined
+as in Section 3-101 of the Code of Civil Procedure.
+
+(Source: P.A. 91-602, eff. 8-16-99.)
+
+|
+
+410 ILCS 517/51
+
+(410 ILCS 517/51)
+
+Sec. 51. Licensure records. Licensure records designated confidential and considered expunged for reporting purposes by the licensee under Section 2105-207 of the Civil Administrative Code of Illinois are not reportable under this Act.
+
+(Source: P.A. 98-816, eff. 8-1-14; 99-78, eff. 7-20-15.)
+|
+
+410 ILCS 517/99
+
+(410 ILCS 517/99)
+
+Sec. 99.
+Effective Date.
+This Act takes effect upon becoming law.
+
+(Source: P.A. 91-602, eff. 8-16-99.)
+
+|
+
+Top
+
+|
+
+Home |
+Legislation & Laws |
+House |
+Senate |
+My Legislation |
+Disclaimers |
+Email
+|
+
+|
+
+|
+
+This site is maintained for the Illinois General Assembly
+by the
+
+Legislative Information System, 705 Stratton Building, Springfield, Illinois 62706
+
+Contact ILGA Webmaster
+
+|
+
+|
+
+|

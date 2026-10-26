@@ -545,8 +545,7 @@ export const GamRelationGraph: React.FC<GamRelationGraphProps> = ({
   );
 
   // Handlers for interactive selection + synchronized text span highlighting
-  const handleEdgeClick = (e: React.MouseEvent, edge: GraphEdge) => {
-    e.stopPropagation();
+  const selectEdge = (edge: GraphEdge) => {
     const isAlreadySelected = selectedEdgeId === edge.id;
     if (isAlreadySelected) {
       onSelectEdge(null);
@@ -565,8 +564,7 @@ export const GamRelationGraph: React.FC<GamRelationGraphProps> = ({
     }
   };
 
-  const handleNodeClick = (e: React.MouseEvent, node: GraphNode) => {
-    e.stopPropagation();
+  const selectNode = (node: GraphNode) => {
     const isAlreadySelected = selectedNodeId === node.id;
     if (isAlreadySelected) {
       onSelectNode(null);
@@ -583,6 +581,23 @@ export const GamRelationGraph: React.FC<GamRelationGraphProps> = ({
         onHighlightSpan(null);
       }
     }
+  };
+
+  const activateWithKeyboard = (e: React.KeyboardEvent<SVGGElement>, activate: () => void) => {
+    if (e.key !== 'Enter' && e.key !== ' ') return;
+    e.preventDefault();
+    e.stopPropagation();
+    activate();
+  };
+
+  const handleEdgeClick = (e: React.MouseEvent, edge: GraphEdge) => {
+    e.stopPropagation();
+    selectEdge(edge);
+  };
+
+  const handleNodeClick = (e: React.MouseEvent, node: GraphNode) => {
+    e.stopPropagation();
+    selectNode(node);
   };
 
   const handleCanvasBackgroundClick = () => {
@@ -925,7 +940,7 @@ export const GamRelationGraph: React.FC<GamRelationGraphProps> = ({
             onMouseLeave={handleMouseUp}
             onClick={handleCanvasBackgroundClick}
             data-testid="gam-relation-graph-svg"
-            role="img"
+            role="group"
             aria-label="Interactive Governance Analysis Method (GAM) Formal Entity and Directed Relation Graph"
           >
             <defs>
@@ -1214,7 +1229,12 @@ export const GamRelationGraph: React.FC<GamRelationGraphProps> = ({
                   <g
                     key={edge.id}
                     data-testid={`graph-edge-${edge.id}`}
+                    role="button"
+                    tabIndex={0}
+                    aria-label={`Select ${edge.type} relation from ${sourceNode.label} to ${targetNode.label}; ${style.categoryLabel}`}
+                    aria-pressed={isSelected}
                     onClick={(e) => handleEdgeClick(e, edge)}
+                    onKeyDown={(e) => activateWithKeyboard(e, () => selectEdge(edge))}
                     onMouseEnter={() => setHoveredEdgeId(edge.id)}
                     onMouseLeave={() => setHoveredEdgeId(null)}
                     className="cursor-pointer"
@@ -1331,10 +1351,15 @@ export const GamRelationGraph: React.FC<GamRelationGraphProps> = ({
                   <g
                     key={node.id}
                     data-testid={`graph-node-${node.id}`}
+                    role="button"
+                    tabIndex={0}
+                    aria-label={`Select ${node.sort} ${node.label}${node.verified ? ', verified' : ', draft'}${node.sourceSpan ? ', linked to source text' : ', no source text link'}`}
+                    aria-pressed={isSelected}
                     transform={`translate(${node.cx - node.width / 2}, ${
                       node.cy - node.height / 2
                     })`}
                     onClick={(e) => handleNodeClick(e, node)}
+                    onKeyDown={(e) => activateWithKeyboard(e, () => selectNode(node))}
                     onMouseEnter={() => setHoveredNodeId(node.id)}
                     onMouseLeave={() => setHoveredNodeId(null)}
                     className="cursor-pointer"

@@ -1,0 +1,2015 @@
+© Published by Alberta King’s Printer
+Alberta King’s Printer
+Suite 700, Park Plaza
+10611 - 98 Avenue
+Edmonton, AB T5K 2P7
+Phone: 780-427-4952
+E-mail: kings-printer@gov.ab.ca
+Shop on-line at kings-printer.alberta.ca
+Province of Alberta
+Office Consolidation
+Statutes of Alberta, 2024
+Chapter P-28.5
+Current as of December 11, 2025
+PROTECTION OF PRIVACY ACT
+Copyright and Permission Statement
+The Government of Alberta, through the Alberta King’s Printer, holds copyright
+for all Alberta legislation. Alberta King’s Printer permits any person to reproduce
+Alberta’s statutes and regulations without seeking permission and without charge,
+provided due diligence is exercised to ensure the accuracy of the materials
+produced, and copyright is acknowledged in the following format:
+© Alberta King’s Printer, 20__.*
+*The year of first publication of the legal materials is to be completed.
+Note
+All persons making use of this consolidation are reminded that it has no
+legislative sanction, that amendments have been embodied for convenience of
+reference only. The official Statutes and Regulations should be consulted for all
+purposes of interpreting and applying the law.
+Regulations
+The following is a list of the regulations made under the Protection of Privacy
+Act that are filed as Alberta Regulations under the Regulations Act
+Alta. Reg. Amendments
+Protection of Privacy Act
+Protection of Privacy ...................................132/2025
+Protection of Privacy (Ministerial) ..............143/2025
+1
+PROTECTION OF PRIVACY ACT
+Chapter P-28.5
+Table of Contents
+1 Definitions
+2 Purposes of this Act
+3 Application of this Act
+Part 1
+Personal Information
+Division 1
+Collection of Personal Information
+4 Purpose of collection of personal information
+5 Manner of collection of personal information
+6 Accuracy and retention
+7 Right to request correction of personal information
+8 Transferring request to correct personal information
+9 Request under section 7 deemed to be a request under HIA
+10 Protection of personal information
+Division 2
+Use and Disclosure of Personal Information
+11 Sale of personal information prohibited
+12 Use of personal information
+13 Disclosure of personal information
+14 Consistent purposes
+15 Disclosure for research or statistical purposes
+Part 2
+Disclosure of Information in Archives
+16 Disclosure of information in archives
+2024
+Chapter P-28.5
+2
+PROTECTION OF PRIVACY ACT
+Part 3
+Data Matching, Data Derived from Personal
+Information and Non-personal Data
+Division 1
+Data Matching and Data Derived
+from Personal Information
+17 Data matching
+18 Retention and use of data derived from personal information
+19 Disclosure of data derived from personal information
+20 Protection of data derived from personal information
+Division 2
+Non-personal Data
+21 Creation of non-personal data
+22 Use of non-personal data
+23 Disclosure of non-personal data
+24 Protection of non-personal data
+Part 4
+Privacy Management Programs and
+Privacy Impact Assessments
+25 Privacy management program
+26 Privacy impact assessment
+Part 5
+Powers of Information and
+Privacy Commissioner
+27 General powers of Commissioner
+28 Advice and recommendations
+29 Powers of Commissioner in conducting
+investigations or inquiries
+30 Statements made to Commissioner not
+admissible in evidence
+31 Privileged information
+32 Restrictions on disclosure of information by
+Commissioner and staff
+33 Protection of Commissioner and staff
+34 Delegation by Commissioner
+35 Role of Ombudsman
+36 Annual report of Commissioner
+2024
+Chapter P-28.5
+3
+PROTECTION OF PRIVACY ACT
+Part 6
+Reviews and Complaints
+Division 1
+Reviews by Commissioner
+37 Right to ask for review by Commissioner
+38 How to ask for review by Commissioner
+39 Notifying others of review by Commissioner
+40 Mediation may be authorized
+41 Inquiry by Commissioner
+42 Commissioner’s orders
+43 No appeal
+44 Duty to comply with orders
+Division 2
+Investigations and Reviews by
+Independent Adjudicator
+45 Independent adjudicator to investigate
+complaints and review decisions
+46 Powers, duties, functions and protections
+of independent adjudicator
+47 Right to ask for review by independent adjudicator
+48 Review where Commissioner in conflict
+49 How to ask for review by independent adjudicator
+50 Notifying others of review by independent adjudicator
+51 Conduct and outcome of review
+Division 3
+Disclosure to Commissioner
+52 Disclosure to Commissioner
+Part 7
+General Provisions
+53 Manner of giving notice
+54 Exercise of rights by other persons
+55 Delegation by head of public body
+56 Annual report of Minister
+57 Directory of personal information banks
+58 Protection of public body from legal suit
+59 Protection of employee
+60 Offences and penalties
+61 Lieutenant Governor in Council regulations
+62 Ministerial regulations
+2024
+Section 1 Chapter P-28.5
+4
+PROTECTION OF PRIVACY ACT
+63 Review of Act
+Part 8
+Transitional Provisions and
+Coming into Force
+64 Transitional
+65 Coming into force
+HIS MAJESTY, by and with the advice and consent of the
+Legislative Assembly of Alberta, enacts as follows:
+Definitions
+1 In this Act,
+(a) “biometric information” means information derived from an
+individual’s unique measurable characteristics;
+(b) “business day” means a day other than
+(i) a Saturday,
+(ii) a holiday, or
+(iii) a day when Government of Alberta offices are closed as
+part of the Government of Alberta’s Christmas closure;
+(c) “Commissioner” means the Information and Privacy
+Commissioner appointed under the Access to Information
+Act;
+(d) “common or integrated program or service”, in relation to a
+public body, means a program or service planned,
+administered, delivered, managed, monitored or evaluated
+by
+(i) the public body working collaboratively with one or
+more other public bodies, or
+(ii) another public body working on behalf of
+(A) the public body, or
+(B) the public body and one or more other public bodies;
+(e) “data derived from personal information” means data
+(i) created by data matching, and
+2024
+Section 1 Chapter P-28.5
+5
+PROTECTION OF PRIVACY ACT
+(ii) that identifies any individual whose personal information
+was used in the data matching;
+(f) “data matching” means linking personal information
+between 2 or more databases or other electronic sources of
+information;
+(g) “educational body” means an educational body as defined in
+the Access to Information Act;
+(h) “employee”, in relation to a public body, includes a person
+who performs a service for the public body as an appointee,
+volunteer or student or under a contract or agency
+relationship with the public body;
+(i) “head”, in relation to a public body, means a head as defined
+in the Access to Information Act;
+(j) “independent adjudicator” means a person designated under
+section 45;
+(k) “law enforcement” means
+(i) policing, including criminal intelligence operations,
+(ii) a police, security or administrative investigation,
+including the complaint giving rise to the investigation,
+that leads or could lead to a penalty or sanction,
+including a penalty or sanction imposed by the body
+conducting the investigation or by another body to which
+the results of the investigation are referred, or
+(iii) proceedings that lead or could lead to a penalty or
+sanction, including a penalty or sanction imposed by the
+body conducting the proceedings or by another body to
+which the results of the proceedings are referred;
+(l) “local public body” means a local public body as defined in
+the Access to Information Act;
+(m) “Minister” means the Minister determined under section 16
+of the Government Organization Act as the Minister
+responsible for this Act;
+(n) “non-personal data” means data, including data derived
+from personal information, that has been generated,
+modified or anonymized so that it does not identify any
+individual, and includes synthetic data and any other type of
+non-personal data identified in the regulations;
+2024
+Section 1 Chapter P-28.5
+6
+PROTECTION OF PRIVACY ACT
+(o) “offence” means an offence under an enactment of Alberta
+or Canada;
+(o.1) “Office of Statistics and Information” means the Office of
+Statistics and Information continued under section 2 of the
+Office of Statistics and Information Act;
+(p) “officer of the Legislature” means the Auditor General, the
+Ombudsman, the Chief Electoral Officer, the Ethics
+Commissioner, the Information and Privacy Commissioner,
+the Child and Youth Advocate or the Public Interest
+Commissioner;
+(q) “personal information” means recorded information about
+an identifiable individual, including
+(i) the individual’s name, home or business address, home
+or business telephone number, home or business email
+address, or other contact information, except where the
+individual has provided the information on behalf of the
+individual’s employer or principal in the individual’s
+capacity as an employee or agent,
+(ii) the individual’s race, national or ethnic origin, colour or
+religious or political beliefs or associations,
+(iii) the individual’s age, gender identity, sex, sexual
+orientation, marital status or family status,
+(iv) an identifying number, symbol or other particular
+assigned to the individual,
+(v) the individual’s fingerprints, other biometric
+information, blood type, genetic information or
+inheritable characteristics,
+(vi) information about the individual’s health and health care
+history, including information about the individual’s
+physical or mental health,
+(vii) information about the individual’s educational, financial,
+employment or criminal history, including criminal
+records where a pardon has been given,
+(viii) anyone else’s opinions about the individual, and
+(ix) the individual’s personal views or opinions, except if
+they are about someone else;
+(r) “prescribed” means prescribed by the regulations;
+2024
+Section 2 Chapter P-28.5
+7
+PROTECTION OF PRIVACY ACT
+(s) “privacy impact assessment” means a privacy impact
+assessment prepared under section 26;
+(t) “privacy management program” means a privacy
+management program established and implemented under
+section 25;
+(u) “public body” means a public body as defined in the Access
+to Information Act;
+(v) “record” means a record as defined in the Access to
+Information Act;
+(w) “synthetic data” means artificial data created to maintain the
+structure and patterns of real data without being linked to
+any individual in the original data set.2024 cP-28.5 s1;2025 c11 s2
+Purposes of this Act
+2 The purposes of this Act are
+(a) to control the collection, use and disclosure of personal
+information by a public body,
+(b) to allow individuals a right to request corrections to personal
+information about themselves that is held by a public body,
+(c) to control the creation, use and disclosure of data derived
+from personal information and non-personal data by a
+public body, and
+(d) to provide for independent reviews of decisions made by
+public bodies under this Act and the resolution of
+complaints under this Act.
+Application of this Act
+3(1) This Act applies to all personal information collected, used or
+disclosed by a public body and all data derived from personal
+information and non-personal data created, used or disclosed by a
+public body, but nothing in this Act applies to personal information
+contained in the following or data derived from personal
+information or non-personal data contained in or created from the
+following:
+(a) a court file, court database or any other record system used
+by a court, a record of a judge of the Court of Appeal, the
+Court of King’s Bench or the Court of Justice, a record of an
+applications judge of the Court of King’s Bench, a record of
+a justice of the peace other than a non-presiding justice of
+2024
+Section 3 Chapter P-28.5
+8
+PROTECTION OF PRIVACY ACT
+the peace under the Justice of the Peace Act, a judicial
+administration record or a record relating to support services
+provided to the judges of any of the courts referred to in this
+clause;
+(b) a personal note, communication or draft decision created by
+or on behalf of a person acting in a judicial or quasi-judicial
+capacity, including any authority designated by the
+Lieutenant Governor in Council to which the Administrative
+Procedures and Jurisdiction Act applies;
+(c) a quality assurance record as defined in section 9 of the
+Alberta Evidence Act;
+(d) a record that is created by or on behalf of or is in the
+custody or under the control of an officer of the Legislature
+and relates to the exercise of that officer’s functions under
+an Act of Alberta;
+(e) information that is collected by or on behalf of or is in the
+custody or under the control of the Ethics Commissioner
+and relates to the disclosure statements of deputy ministers
+and other senior officers that have been filed with the Ethics
+Commissioner;
+(f) information that is collected by or on behalf of or is in the
+custody or under the control of the Ethics Commissioner
+and relates to the disclosure statements of designated senior
+officials that have been filed with the Ethics Commissioner
+under Part 4.3 of the Conflicts of Interest Act;
+(g) a record that is created by or on behalf of or is in the
+custody or under the control of the Ethics Commissioner
+and relates to any advice relating to conflicts of interest
+whether or not the advice was given under the Conflicts of
+Interest Act;
+(h) a question to be used on an examination or test;
+(i) teaching materials of
+(i) an employee of a post-secondary educational body,
+(ii) a post-secondary educational body, or
+(iii) both an employee of a post-secondary educational body
+and the post-secondary educational body;
+(j) research information of an employee of a post-secondary
+educational body;
+2024
+Section 3 Chapter P-28.5
+9
+PROTECTION OF PRIVACY ACT
+(k) material that has been deposited in the Provincial Archives
+of Alberta or the archives of a public body by or on behalf
+of a person or entity other than a public body;
+(l) published works collected by a library of a public body in
+accordance with the library’s acquisition of materials policy;
+(m) information relating to a prosecution or potential
+prosecution, including any charging recommendation, if all
+proceedings in respect of the prosecution have not been
+completed;
+(n) information collected, used or disclosed by
+(i) the Personal Property Registry,
+(ii) the office of the Registrar of Motor Vehicle Services,
+(iii) the office of the Registrar of Corporations,
+(iv) the office of the Registrar of Companies,
+(v) a Land Titles Office,
+(vi) the office of the Registrar of Vital Statistics, or
+(vii) a registry operated by a public body if that registry is
+authorized or recognized by an enactment and public
+access to the registry is normally permitted;
+(o) a personal record or constituency record of an elected
+member of a local public body;
+(p) a personal record of an appointed or elected member of the
+governing body of a local public body;
+(q) a personal record or constituency record of a member of the
+Executive Council;
+(r) a record created by or on behalf of the office of the Speaker
+of the Legislative Assembly or the office of a Member of
+the Legislative Assembly that is in the custody or under the
+control of the Legislative Assembly Office;
+(s) a record created by or on behalf of
+(i) a member of the Executive Council,
+(ii) a Member of the Legislative Assembly, or
+2024
+Section 3 Chapter P-28.5
+10
+PROTECTION OF PRIVACY ACT
+(iii) a chair of a Provincial agency, as defined in the
+Financial Administration Act, who is a Member of the
+Legislative Assembly
+that has been sent or is to be sent to a member of the
+Executive Council, a Member of the Legislative Assembly
+or a chair of a Provincial agency, as defined in the Financial
+Administration Act, who is a Member of the Legislative
+Assembly;
+(t) a record of communication between
+(i) political staff, or
+(ii) a member of Executive Council and political staff
+that does not involve any other employee of a public body;
+(u) a record in the custody or under the control of ATB
+Financial other than a record that relates to a non-arm’s
+length transaction between the Government of Alberta and
+another party;
+(v) a record relating to the business or affairs of Credit Union
+Central Alberta Limited, a credit union or a dissolved credit
+union or relating to an application for incorporation as a
+credit union that is obtained or produced in the course of
+administering or enforcing the Credit Union Act or the
+regulations under it, other than a record that relates to a
+non-arm’s length transaction between the Government and
+another party;
+(w) a record of the information referred to in section 120(3) of
+the Credit Union Act or respecting loans made by a credit
+union that are subsequently assumed by the Credit Union
+Deposit Guarantee Corporation;
+(x) information collected, used or disclosed by
+(i) the Government of Canada or its agencies, or
+(ii) the government of a province or territory of Canada or
+its agencies, other than the Government of Alberta or its
+agencies.
+(2) This Act does not apply to health information, as defined in the
+Health Information Act, that is in the custody or under the control
+of a public body that is a custodian, as defined in the Health
+Information Act.
+2024
+Section 3 Chapter P-28.5
+11
+PROTECTION OF PRIVACY ACT
+(3) In this section, “governing body” means,
+(a) in relation to a university, the board of governors or the
+general faculties council as described in the Post-secondary
+Learning Act, and
+(b) in relation to a comprehensive community college or
+polytechnic institution, the board of governors or the
+academic council as described in the Post-secondary
+Learning Act.
+(4) In this section, “judicial administration record” means a record
+containing information relating to a judge of the Court of Appeal,
+the Court of King’s Bench or the Court of Justice, to an
+applications judge of the Court of King’s Bench or to a justice of
+the peace other than a non-presiding justice of the peace under the
+Justice of the Peace Act, and includes
+(a) the scheduling of judges and trials,
+(b) the content of judicial training programs,
+(c) statistics of judicial activity prepared by or on behalf of a
+judge, and
+(d) any record of the Judicial Council established under Part 6
+of the Judicature Act.
+(5) In this section, “political staff” means political staff as defined
+in the regulations under the Access to Information Act for the
+purposes of section 4(1)(w) of that Act.
+(6) For the purposes of subsection (1)(u) and (v), a non-arm’s
+length transaction is any transaction that has been approved by
+(a) the Executive Council or any of its committees,
+(b) the Treasury Board or any of its committees, or
+(c) a member of the Executive Council. 2024 cP-28.5 s3;2025 c11 s2
+2024
+Section 4 Chapter P-28.5
+12
+PROTECTION OF PRIVACY ACT
+Part 1
+Personal Information
+Division 1
+Collection of Personal Information
+Purpose of collection of personal information
+4 No personal information may be collected by or on behalf of a
+public body unless
+(a) the collection of that information is expressly authorized by
+an enactment of Alberta or Canada,
+(b) that information is collected for the purposes of law
+enforcement, or
+(c) that information relates directly to and is necessary for an
+operating program or activity of the public body, including a
+common or integrated program or service.
+Manner of collection of personal information
+5(1) Subject to subsection (3), a public body must collect personal
+information directly from the individual the information is about
+unless
+(a) another method of collection is authorized by
+(i) that individual,
+(ii) another Act or a regulation under another Act, or
+(iii) the Commissioner under section 27(1)(h),
+(b) the information may be disclosed to the public body under
+Division 2 of this Part,
+(c) the information is collected in a health or safety emergency
+where
+(i) the individual is not able to provide the information
+directly, or
+(ii) direct collection could reasonably be expected to
+endanger the mental or physical health or safety of the
+individual or another person,
+(d) the information concerns an individual who is designated as
+a person to be contacted in an emergency or other specified
+circumstances,
+2024
+Section 5 Chapter P-28.5
+13
+PROTECTION OF PRIVACY ACT
+(e) the information is collected for the purpose of determining
+suitability for an honour or award, including an honorary
+degree, scholarship, prize or bursary,
+(f) the information is collected from published or other public
+sources for the purpose of fund-raising,
+(g) the information is collected for the purpose of law
+enforcement,
+(h) the information is collected for the purpose of collecting a
+fine or a debt owed to the Government of Alberta or a
+public body,
+(i) the information concerns the history, release or supervision
+of an individual under the control or supervision of a
+correctional authority,
+(j) the information is collected for use in the provision of legal
+services to the Government of Alberta or a public body,
+(k) the information is necessary
+(i) to determine the eligibility of an individual to participate
+in a program of or receive a benefit, product or service
+from the Government of Alberta or a public body and is
+collected in the course of processing an application made
+by or on behalf of the individual the information is
+about, or
+(ii) to verify the eligibility of an individual who is
+participating in a program of or receiving a benefit,
+product or service from the Government of Alberta or a
+public body and is collected for that purpose,
+(l) the information is collected for the purpose of informing the
+Public Trustee or a Public Guardian about clients or
+potential clients,
+(m) the information is collected for the purpose of enforcing a
+maintenance order under the Maintenance Enforcement Act,
+(n) the information is collected for the purpose of managing or
+administering personnel of the Government of Alberta or
+the public body,
+(o) the information is collected for the purpose of assisting in
+researching or validating the claims, disputes or grievances
+of aboriginal people, or
+2024
+Section 6 Chapter P-28.5
+14
+PROTECTION OF PRIVACY ACT
+(p) the information is necessary to plan, administer, deliver,
+manage, monitor or evaluate a common or integrated
+program or service.
+(2) Subject to subsections (3) and (4), a public body that collects
+personal information that is required by subsection (1) to be
+collected directly from the individual the information is about must
+give notice to the individual, at the time of collection, of
+(a) the purpose for which the information is collected,
+(b) the specific legal authority for the collection,
+(c) the email address, telephone number or other contact
+information to which the individual may direct the
+individual’s questions about the collection, and
+(d) the public body’s intention, if any, at that time to input the
+information into an automated system to generate content or
+make decisions, recommendations or predictions.
+(3) Subsections (1) and (2) do not apply if, in the opinion of the
+head of the public body concerned, it could reasonably be expected
+that the information collected would be inaccurate.
+(4) Subsection (2) does not apply where a public body previously
+gave notice to an individual under that subsection and the public
+body continues to collect personal information from that individual
+for the same purpose and under the same specific legal authority as
+identified in the notice.
+Accuracy and retention
+6 If an individual’s personal information will be used by a public
+body to make a decision that directly affects the individual,
+including a decision made using an automated system, the public
+body must
+(a) make every reasonable effort to ensure that the information
+is accurate and complete, and
+(b) retain the information for at least one year after using it so
+the individual has a reasonable opportunity to obtain access
+to it, or for any shorter period of time as agreed to in writing
+by
+(i) the individual,
+(ii) the public body, and
+2024
+Section 7 Chapter P-28.5
+15
+PROTECTION OF PRIVACY ACT
+(iii) if the body that approves the records retention and
+disposition schedule for the public body is different from
+the public body, that body.
+Right to request correction of personal information
+7(1) An individual who believes there is an error or omission in
+the individual’s personal information may request the head of the
+public body that has the information in its custody or under its
+control to correct the information.
+(2) Despite subsection (1), the head of a public body must not
+correct an opinion, including a professional or expert opinion.
+(3) If no correction is made in response to a request under
+subsection (1), or if no correction may be made because of
+subsection (2), the head of the public body must annotate or link
+the personal information with that part of the requested correction
+that is relevant and material to the record in question.
+(4) On correcting, annotating or linking personal information
+under this section, the head of the public body must notify any
+other public body or any third party to whom that information has
+been disclosed during the one year before the correction was
+requested that a correction, annotation or linkage has been made.
+(5) Despite subsection (4), the head of a public body may dispense
+with notifying any other public body or third party that a
+correction, annotation or linkage has been made if
+(a) in the opinion of the head of the public body, the correction,
+annotation or linkage is not material, and
+(b) the individual who requested the correction is advised and
+agrees in writing that notification is not necessary.
+(6) On being notified under subsection (4) of a correction,
+annotation or linkage of personal information, a public body must
+make the correction, annotation or linkage on any record of that
+information in its custody or under its control.
+(7) Within 30 business days after the request under subsection (1)
+is received, or any longer period allowed by the Commissioner, the
+head of the public body must give written notice to the individual
+that
+(a) the correction has been made, or
+(b) an annotation or linkage has been made under subsection
+(3).
+2024
+Section 8 Chapter P-28.5
+16
+PROTECTION OF PRIVACY ACT
+Transferring request to correct personal information
+8(1) Within 15 business days after a request to correct personal
+information under section 7(1) is received by a public body, the
+head of the public body may transfer the request to another public
+body if
+(a) the personal information was collected by the other public
+body, or
+(b) the other public body created the record containing the
+personal information.
+(2) If a request is transferred under subsection (1),
+(a) the head of the public body who transferred the request must
+notify the individual who made the request of the transfer as
+soon as possible, and
+(b) the head of the public body to which the request is
+transferred must make every reasonable effort to respond to
+the request not later than 30 business days after receiving
+the request unless the time limit is extended as referred to in
+section 7(7).
+Request under section 7 deemed to be a request under HIA
+9(1) If a request is made under section 7(1) to correct personal
+information that contains information to which the Health
+Information Act applies, the part of the request that relates to that
+information is deemed to be a request under section 13(1) of the
+Health Information Act, and that Act applies as if the request had
+been made under section 13(1) of that Act.
+(2) Subsection (1) does not apply if the public body that receives
+the request is not a custodian as defined in the Health Information
+Act.
+Protection of personal information
+10(1) The head of a public body must protect personal information
+in the custody or under the control of the public body by making
+reasonable security arrangements against such risks as
+unauthorized access, collection, use, disclosure or destruction.
+(2) If an incident occurs involving the loss of, unauthorized access
+to or unauthorized disclosure of personal information in the
+custody or under the control of a public body where a reasonable
+person would consider that there exists a real risk of significant
+harm to an individual as a result of the loss, unauthorized access or
+unauthorized disclosure, the public body must give notice, without
+unreasonable delay, of the incident to the following:
+2024
+Section 11 Chapter P-28.5
+17
+PROTECTION OF PRIVACY ACT
+(a) the individual to whom there exists a real risk of significant
+harm;
+(b) the Commissioner;
+(c) the Minister.
+(3) A notice given under subsection (2) must comply with the
+prescribed requirements.
+Division 2
+Use and Disclosure of
+Personal Information
+Sale of personal information prohibited
+11 A public body is prohibited from selling personal information
+in any circumstance or for any purpose, including for marketing or
+advertising purposes.
+Use of personal information
+12(1) A public body may use personal information only
+(a) for the purpose for which the information was collected or
+compiled or for a use consistent with that purpose,
+(b) if the individual the information is about has identified the
+information and consented, in the prescribed manner, to the
+use, or
+(c) for a purpose for which that information may be disclosed
+under section 13, 15 or 16.
+(2) Despite subsection (1), but subject to subsection (3), a
+post-secondary educational body may use personal information in
+its alumni records for the purpose of its own fund-raising activities.
+(3) A post-secondary educational body must, when requested to do
+so by an individual, discontinue using that individual’s personal
+information under subsection (2).
+(4) A public body may use personal information only to the extent
+necessary to enable the public body to carry out its purpose in a
+reasonable manner.
+Disclosure of personal information
+13(1) A public body may disclose personal information only
+(a) if the disclosure would not be an unreasonable invasion of
+personal privacy under section 20 of the Access to
+Information Act,
+2024
+Section 13 Chapter P-28.5
+18
+PROTECTION OF PRIVACY ACT
+(b) for the purpose for which the information was collected or
+compiled or for a use consistent with that purpose,
+(c) if the individual the information is about has identified the
+information and consented, in the prescribed manner, to the
+disclosure,
+(d) for the purpose of complying with an enactment of Alberta
+or Canada or with a treaty, arrangement or agreement made
+under an enactment of Alberta or Canada,
+(e) for any purpose in accordance with an enactment of Alberta
+or Canada that authorizes or requires the disclosure,
+(f) for the purpose of complying with a subpoena, warrant or
+order issued or made by a court, person or body having
+jurisdiction in Alberta to compel the production of
+information or with a rule of court binding in Alberta that
+relates to the production of information,
+(g) to an officer or employee of the public body or to a member
+of the Executive Council if the information is necessary for
+the performance of the duties of the officer, employee or
+member,
+(h) to an officer or employee of a public body or to a member of
+the Executive Council if the disclosure is necessary for
+planning, administering, delivering, managing, monitoring
+or evaluating a common or integrated program or service
+and for the performance of the duties of the officer,
+employee or member to whom the information is disclosed,
+(i) for the purpose of enforcing a legal right that the
+Government of Alberta or a public body has against any
+person,
+(j) for the purpose of
+(i) collecting a fine or debt owing by an individual to the
+Government of Alberta or to a public body, or to an
+assignee of either of them, or
+(ii) making a payment owing by the Government of Alberta
+or by a public body to an individual,
+(k) for the purpose of determining or verifying an individual’s
+suitability or eligibility for a program or benefit,
+(l) to the Auditor General or any other prescribed person or
+body for audit purposes,
+2024
+Section 13 Chapter P-28.5
+19
+PROTECTION OF PRIVACY ACT
+(m) to a Member of the Legislative Assembly who has been
+requested by the individual the information is about to assist
+in resolving a problem,
+(n) to a representative of a bargaining agent who has been
+authorized in writing by the employee the information is
+about to make an inquiry,
+(o) to the Provincial Archives of Alberta or to the archives of a
+public body for permanent preservation,
+(p) to a public body or a law enforcement agency in Canada to
+assist in an investigation
+(i) undertaken with a view to a law enforcement
+proceeding, or
+(ii) from which a law enforcement proceeding is likely to
+result,
+(q) if the public body is a law enforcement agency and the
+information is disclosed
+(i) to another law enforcement agency in Canada, or
+(ii) to a law enforcement agency in a foreign country under
+an arrangement, written agreement, treaty or legislative
+authority,
+(r) so that the spouse or adult interdependent partner, relative or
+friend of an injured, ill or deceased individual may be
+contacted,
+(s) to the surviving spouse or adult interdependent partner or a
+relative of a deceased individual if, in the opinion of the
+head of the public body, the disclosure is not an
+unreasonable invasion of the deceased’s personal privacy,
+(t) in accordance with section 15 or 16,
+(u) for use in a proceeding before a court or quasi-judicial body
+to which the Government of Alberta or a public body is a
+party,
+(v) when disclosure is by the Minister of Justice or an agent or
+lawyer of the Minister of Justice to a place of lawful
+detention,
+2024
+Section 13 Chapter P-28.5
+20
+PROTECTION OF PRIVACY ACT
+(w) for the purpose of managing or administering personnel of
+the Government of Alberta or the public body, including for
+conducting workplace investigations,
+(x) to the Director of Maintenance Enforcement for the purpose
+of enforcing a maintenance order under the Maintenance
+Enforcement Act,
+(y) to an officer of the Legislature if the information is
+necessary for the performance of the duties of that officer,
+(z) for the purpose of supervising an individual under the
+control or supervision of a correctional authority,
+(aa) to a lawyer or student-at-law acting for an inmate under the
+control or supervision of a correctional authority,
+(bb) when the information is available to the public,
+(cc) if the head of the public body believes, on reasonable
+grounds, that the disclosure will avert or minimize
+(i) a risk of harm to the health or safety of a minor, or
+(ii) an imminent danger to the health or safety of any person,
+(dd) to the Administrator of the Motor Vehicle Accident Claims
+Act or to an agent or lawyer of the Administrator for the
+purpose of dealing with claims under that Act,
+(ee) to a law enforcement agency, an organization providing
+services to a minor, another public body or any prescribed
+person or body if the information is in respect of a minor or
+a parent or guardian of a minor and the head of the public
+body believes, on reasonable grounds, that the disclosure is
+in the best interests of that minor, or
+(ff) to another public body for the purpose of carrying out data
+matching to create data derived from personal information
+under section 17(1).
+(2) Notwithstanding subsection (1), a post-secondary educational
+body may disclose personal information in its alumni records for
+the purpose of fund-raising activities of the post-secondary
+educational body if the post-secondary educational body and the
+person to whom the information is disclosed have entered into a
+written agreement
+2024
+Section 14 Chapter P-28.5
+21
+PROTECTION OF PRIVACY ACT
+(a) that allows individuals a right of access to personal
+information that is disclosed about them under this
+subsection, and
+(b) that provides that the person to whom the information is
+disclosed must discontinue using the personal information
+of any individual who so requests.
+(3) Notwithstanding subsection (1), a post-secondary educational
+body may, for the purpose of assisting students in selecting
+courses, disclose teaching and course evaluations that were
+completed by students.
+(4) A public body may disclose personal information only to the
+extent necessary to enable the public body to carry out the purposes
+described in subsections (1), (2) and (3) in a reasonable manner.
+Consistent purposes
+14 For the purposes of sections 12(1)(a) and 13(1)(b), a use or
+disclosure of personal information is consistent with the purpose
+for which the information was collected or compiled if the use or
+disclosure
+(a) has a reasonable and direct connection to that purpose, and
+(b) is necessary for performing the statutory duties of, or for
+operating a legally authorized program or common or
+integrated program or service of, the public body that uses
+or discloses the information.
+Disclosure for research or statistical purposes
+15 A public body may disclose personal information to a person
+other than a public body for a research purpose, including statistical
+research, only if
+(a) the research purpose
+(i) cannot reasonably be accomplished unless that
+information is provided in individually identifiable form,
+or
+(ii) has been approved by the Commissioner,
+(b) any data matching is not harmful to the individuals the
+information is about and the benefits to be derived from the
+data matching are clearly in the public interest,
+(c) the head of the public body has approved conditions relating
+to the following:
+2024
+Section 16 Chapter P-28.5
+22
+PROTECTION OF PRIVACY ACT
+(i) security and confidentiality;
+(ii) the removal or destruction of individual identifiers at the
+earliest reasonable time;
+(iii) the prohibition of any subsequent use or disclosure of
+the information in individually identifiable form without
+the express authorization of that public body,
+and
+(d) the person to whom the information is disclosed has signed
+an agreement to comply with the approved conditions, this
+Act, the regulations and any of the public body’s policies
+and procedures relating to the confidentiality of personal
+information.
+Part 2
+Disclosure of Information in Archives
+Disclosure of information in archives
+16 The Provincial Archives of Alberta and the archives of a
+public body may disclose the following:
+(a) personal information in a record that
+(i) has been in existence for 25 years or more if the
+disclosure
+(A) would not be an unreasonable invasion of personal
+privacy under section 20 of the Access to Information
+Act, or
+(B) is in accordance with section 15,
+or
+(ii) has been in existence for 75 years or more;
+(b) information other than personal information in a record that
+has been in existence for 25 years or more if
+(i) the disclosure of the information would not be harmful
+to the business interests of a third party within the
+meaning of section 19 of the Access to Information Act,
+(ii) the disclosure of the information would not be harmful
+to a law enforcement matter within the meaning of
+section 23 of the Access to Information Act, and
+2024
+Section 17 Chapter P-28.5
+23
+PROTECTION OF PRIVACY ACT
+(iii) the information and the record are not information or a
+record described in section 27 or 32(1)(a) or (2) of the
+Access to Information Act.
+Part 3
+Data Matching,
+Data Derived from
+Personal Information
+and Non-personal Data
+Division 1
+Data Matching and
+Data Derived from
+Personal Information
+Data matching
+17(1) A public body may carry out data matching to create data
+derived from personal information only for one or more of the
+following purposes:
+(a) research and analysis;
+(b) planning, administering, delivering, managing, monitoring
+or evaluating a program or service;
+(c) one or more prescribed purposes.
+(2) Data matching carried out to create data derived from personal
+information under subsection (1) must be carried out in accordance
+with the prescribed security arrangements.
+(3) For the purpose of carrying out data matching to create data
+derived from personal information under subsection (1), a public
+body must not collect personal information directly from an
+individual but may do the following:
+(a) collect personal information from another public body;
+(b) use personal information in its custody or under its control.
+(4) Subsection (3) does not apply to the Office of Statistics and
+Information. 2024 cP-28.5 s17;2025 c11 s2
+Retention and use of data derived from personal information
+18(1) A public body may retain and use data derived from
+personal information created under section 17(1) only for
+(a) the purpose for which it was created, and
+2024
+Section 19 Chapter P-28.5
+24
+PROTECTION OF PRIVACY ACT
+(b) as long as is reasonably necessary to enable the public body
+to carry out that purpose.
+(2) As soon as reasonably possible after a public body has finished
+using data derived from personal information created under section
+17(1) for the purpose for which it was created, the public body
+must destroy the data derived from personal information or
+transform it into non-personal data.
+(3) This section does not apply to the Office of Statistics and
+Information. 2024 cP-28.5 s18;2025 c11 s2
+Disclosure of data derived from personal information
+19(1) Subject to subsections (2) and (3), a public body is
+prohibited from disclosing data derived from personal information
+created under section 17(1).
+(2) If a public body collected personal information from another
+public body under section 17(3)(a) for the purpose of carrying out
+data matching to create data derived from personal information
+under section 17(1) and that other public body requires that data
+derived from personal information for the purpose for which it was
+created, the public body may disclose that data derived from
+personal information to that other public body for the purpose for
+which it was created.
+(3) A public body may disclose data derived from personal
+information created under section 17(1) to the Office of Statistics
+and Information for the purposes of the Office of Statistics and
+Information Act.
+(4) This section prevails to the extent of any inconsistency or
+conflict with the Access to Information Act. 2024 cP-28.5 s19;2025 c11 s2
+Protection of data derived from personal information
+20 The head of a public body must protect data derived from
+personal information created under section 17(1) by making
+reasonable security arrangements against such risks as
+unauthorized access, collection, use, disclosure or destruction.
+Division 2
+Non-personal Data
+Creation of non-personal data
+21(1) A public body may create non-personal data only for one or
+more of the following purposes:
+(a) research and analysis;
+2024
+Section 21 Chapter P-28.5
+25
+PROTECTION OF PRIVACY ACT
+(b) planning, administering, delivering, managing, monitoring
+or evaluating a program or service;
+(c) one or more prescribed purposes.
+(2) Non-personal data created under subsection (1) must be created
+in accordance with
+(a) generally accepted best practices, and
+(b) the prescribed requirements, including,
+(i) in the case of synthetic data, any prescribed
+requirements respecting the creation of synthetic data,
+and
+(ii) in the case of another type of non-personal data
+identified in the regulations, any prescribed requirements
+respecting the creation of that type of non-personal data.
+(3) For the purpose of creating non-personal data under subsection
+(1), a public body may use the following only if it is already in the
+custody or under the control of the public body:
+(a) personal information;
+(b) data derived from personal information.
+(3.1) Subsection (3) does not apply to the Office of Statistics and
+Information.
+(4) Each time a public body creates non-personal data under
+subsection (1), the public body must maintain a record, in
+accordance with any prescribed requirements, of
+(a) a description of the personal information or data derived
+from personal information used to create the non-personal
+data,
+(b) the purpose for creating the non-personal data,
+(c) the method used for creating the non-personal data, and
+(d) the assessment done to ensure that the identity of the
+individual who is the subject of the non-personal data
+cannot be identified or re-identified from the data.
+2024 cP-28.5 s21;2025 c11 s2
+2024
+Section 22 Chapter P-28.5
+26
+PROTECTION OF PRIVACY ACT
+Use of non-personal data
+22 A public body may use non-personal data created under
+section 21(1) for any purpose.
+Disclosure of non-personal data
+23(1) A public body may disclose non-personal data created under
+section 21(1)
+(a) to another public body for any purpose, and
+(b) to a person other than a public body only if
+(i) the disclosure is for one or more of the following
+purposes:
+(A) research and analysis;
+(B) planning, administering, delivering, managing,
+monitoring or evaluating a program or service;
+(C) one or more prescribed purposes,
+(ii) the head of the public body has approved conditions
+relating to the following:
+(A) security and confidentiality;
+(B) the prohibition of any actual or attempted
+re-identification of the non-personal data;
+(C) the prohibition of any subsequent use or disclosure of
+the non-personal data without the express
+authorization of the public body;
+(D) the destruction of the non-personal data at the earliest
+reasonable time after it has served its purpose under
+subclause (i), unless the public body has given the
+express authorization referred to in paragraph (C),
+and
+(iii) the person has signed an agreement to comply with the
+approved conditions, this Act, the regulations and any of
+the public body’s policies and procedures relating to
+non-personal data.
+(2) A public body may give the express authorization referred to in
+subsection (1)(b)(ii)(C) only if
+2024
+Section 24 Chapter P-28.5
+27
+PROTECTION OF PRIVACY ACT
+(a) the subsequent use or disclosure is for one or more of the
+purposes allowed under subsection (1)(b)(i),
+(b) the head of the public body approves conditions, relating to
+the matters described in subsection (1)(b)(ii), that apply to
+the subsequent use or disclosure, and
+(c) there is a signed agreement, as described in subsection
+(1)(b)(iii), that applies to the subsequent use or disclosure.
+(3) For greater certainty, nothing in this section is intended to
+restrict the disclosure of a report, summary or other publication
+containing non-personal data that is in aggregate or statistical form.
+(4) This section prevails to the extent of any inconsistency or
+conflict with the Access to Information Act. 2024 cP-28.5 s23;2025 c11 s2
+Protection of non-personal data
+24 The head of a public body must protect non-personal data
+created under section 21(1) by making reasonable security
+arrangements against such risks as unauthorized access, collection,
+use, disclosure or destruction.
+Part 4
+Privacy Management Programs and
+Privacy Impact Assessments
+Privacy management program
+25(1) A public body must establish and implement a privacy
+management program consisting of documented policies and
+procedures that promote the public body’s compliance with its
+duties under this Act.
+(2) A privacy management program must
+(a) be proportional to the volume and sensitivity of the personal
+information in the custody or under the control of the public
+body, and
+(b) comply with the prescribed requirements.
+(3) Any person may request a copy of a public body’s privacy
+management program and the public body must provide the person
+with a copy, or with directions to where the person may access a
+copy, within 30 business days of the request.
+(4) A request made and the public body’s response under
+subsection (3) must comply with the prescribed requirements.
+2024
+Section 26 Chapter P-28.5
+28
+PROTECTION OF PRIVACY ACT
+(5) Notwithstanding subsections (1) and (3), a public body is not
+required to do the following until one year after this section comes
+into force:
+(a) establish and implement a privacy management program;
+(b) provide a person with a copy of its privacy management
+program or with directions to where the person may access a
+copy.
+Privacy impact assessment
+26(1) A public body must prepare a privacy impact assessment in
+prescribed circumstances and, if required by the regulations, submit
+it to the Commissioner in accordance with the regulations.
+(2) A privacy impact assessment must
+(a) identify and review risks associated with the public body’s
+collection, use and disclosure of personal information,
+(b) develop mitigation strategies and safeguards respecting
+those risks,
+(c) address how the public body will comply with its duties
+under this Act, and
+(d) comply with the prescribed requirements.
+(3) A public body must provide the Commissioner with a copy of
+the requested privacy impact assessment of the public body within
+30 business days of a request made under section 27(1)(j).
+Part 5
+Powers of Information and
+Privacy Commissioner
+General powers of Commissioner
+27(1) In addition to the Commissioner’s powers and duties under
+Part 6, the Commissioner is generally responsible for monitoring
+how this Act is administered to ensure that its purposes are
+achieved and may
+(a) conduct investigations to ensure compliance with any
+provision of this Act or compliance with rules relating to the
+destruction of records
+(i) set out in any other enactment of Alberta, or
+(ii) set out in a bylaw, resolution or other legal instrument
+by which a local public body acts or, if a local public
+2024
+Section 27 Chapter P-28.5
+29
+PROTECTION OF PRIVACY ACT
+body does not have a bylaw, resolution or other legal
+instrument setting out rules related to the destruction of
+records, as authorized by the governing body of a local
+public body,
+(b) make an order under section 42(2) whether or not a review
+is requested,
+(c) inform the public about this Act,
+(d) receive comments from the public concerning the
+administration of this Act,
+(e) engage in or commission research into anything affecting
+the achievement of the purposes of this Act,
+(f) comment on the implications for protection of personal
+privacy of proposed legislative schemes or programs of
+public bodies,
+(g) comment on the implications for protection of personal
+privacy of
+(i) collecting personal information for the purpose of
+carrying out data matching to create data derived from
+personal information,
+(ii) carrying out data matching to create data derived from
+personal information,
+(iii) using or disclosing data derived from personal
+information, and
+(iv) creating, using or disclosing non-personal data,
+including creating non-personal data in a manner that
+contravenes section 21(3),
+(h) authorize the collection of personal information from
+sources other than the individual the information is about,
+(i) give advice and recommendations of general application to
+the head of a public body on matters respecting the rights or
+obligations of a head under this Act, and
+(j) request a copy of a privacy impact assessment of a public
+body.
+(2) Without limiting subsection (1), the Commissioner may
+investigate and attempt to resolve complaints
+2024
+Section 28 Chapter P-28.5
+30
+PROTECTION OF PRIVACY ACT
+(a) that personal information has been collected, used or
+disclosed by a public body in contravention of this Act,
+(b) that a correction of personal information requested under
+section 7(1) has been refused without justification,
+(c) that data derived from personal information or non-personal
+data has been created, used or disclosed by a public body in
+contravention of this Act, and
+(d) respecting the actual or attempted re-identification by any
+person of non-personal data created under section 21(1).
+Advice and recommendations
+28(1) The head of a public body may ask the Commissioner to
+give advice and recommendations on any matter respecting any
+rights or duties under this Act.
+(2) The Commissioner may provide the head with advice and
+recommendations in writing that
+(a) state the material facts either expressly or by incorporating
+facts stated by the head,
+(b) are based on the facts referred to in clause (a), and
+(c) may be based on any other considerations the Commissioner
+considers appropriate.
+Powers of Commissioner in conducting
+investigations or inquiries
+29(1) In conducting an investigation under section 27(1)(a) or an
+inquiry under section 41 or in giving advice and recommendations
+under section 28, the Commissioner has all the powers, privileges
+and immunities of a commissioner under the Public Inquiries Act
+and the powers given by subsection (2).
+(2) The Commissioner may require any record to be produced to
+the Commissioner and may examine any information in a record,
+including personal information, whether or not the record is subject
+to the provisions of this Act.
+(3) Despite any other enactment, a public body must produce to
+the Commissioner within 10 business days any record or a copy of
+any record required under subsection (1) or (2).
+(4) If a public body is required to produce a record under
+subsection (1) or (2) and it is not practicable to make a copy of the
+2024
+Section 30 Chapter P-28.5
+31
+PROTECTION OF PRIVACY ACT
+record, the head of that public body may require the Commissioner
+to examine the original at its site.
+(5) After completing a review or investigation, the Commissioner
+must
+(a) return any original paper record produced to the
+Commissioner, and
+(b) destroy any copy of any record, including any electronic
+record, produced to the Commissioner.
+(6) Despite subsections (1) to (3), the Commissioner must not
+require any of the following records or information to be produced
+to the Commissioner:
+(a) a record or information described in section 4(1)(a), (s), (t)
+or (w) of the Access to Information Act;
+(b) a record or information described in section 27 of the Access
+to Information Act;
+(c) a record or information described in section 32(1)(a) or (2)
+of the Access to Information Act.
+(7) The Commissioner may require the public body who has
+refused to produce a record or information on the basis that
+subsection (6)(b) applies to attest, in accordance with the
+regulations under the Access to Information Act respecting
+attestations under section 50(7) of that Act, that the record or
+information is a record or information described in section 27 of
+the Access to Information Act.
+Statements made to Commissioner not
+admissible in evidence
+30(1) A statement made or an answer given by a person during an
+investigation or inquiry by the Commissioner is inadmissible in
+evidence in court or in any other proceeding, except in
+(a) a prosecution for perjury in respect of sworn testimony,
+(b) a prosecution for an offence under this Act, or
+(c) an application for judicial review or an appeal from a
+decision with respect to that application.
+(2) Subsection (1) applies also in respect of evidence of the
+existence of proceedings conducted before the Commissioner.
+2024
+Section 31 Chapter P-28.5
+32
+PROTECTION OF PRIVACY ACT
+Privileged information
+31 Anything said, any information supplied or any record
+produced by a person during an investigation or inquiry by the
+Commissioner is privileged in the same manner as if the
+investigation or inquiry were a proceeding in a court.
+Restrictions on disclosure of information by
+Commissioner and staff
+32(1) The Commissioner, and anyone acting for or under the
+direction of the Commissioner, must not disclose any information
+obtained in performing their powers, duties and functions under
+this Act, except as provided in subsections (2) to (5).
+(2) The Commissioner may disclose, or may authorize anyone
+acting for or under the direction of the Commissioner to disclose,
+information that is necessary to
+(a) conduct an investigation or inquiry under this Act, or
+(b) establish the grounds for findings and recommendations
+contained in a report under this Act.
+(3) In conducting an investigation or inquiry under this Act and in
+a report under this Act, the Commissioner and anyone acting for or
+under the direction of the Commissioner must take every
+reasonable precaution to avoid disclosing and must not disclose any
+information the head of a public body would be required or
+authorized to refuse to disclose if it were contained in a record
+requested under section 7(1) of the Access to Information Act.
+(4) The Commissioner may disclose to the Minister of Justice
+information relating to the commission of an offence against an
+enactment of Alberta or Canada if the Commissioner considers
+there is evidence of an offence.
+(5) The Commissioner may disclose, or may authorize anyone
+acting for or under the direction of the Commissioner to disclose,
+information in the course of a prosecution, application or appeal
+referred to in section 30.
+Protection of Commissioner and staff
+33 No proceedings lie against the Commissioner, or against a
+person acting for or under the direction of the Commissioner, for
+anything done, reported or said in good faith in the exercise or
+performance, or the intended exercise or performance, of a power,
+duty or function under this Part or Part 6.
+2024
+Section 34 Chapter P-28.5
+33
+PROTECTION OF PRIVACY ACT
+Delegation by Commissioner
+34(1) The Commissioner may delegate to any person any power,
+duty or function of the Commissioner under this Act, except the
+power to delegate.
+(2) A delegation under subsection (1) must be in writing and may
+contain any conditions or restrictions the Commissioner considers
+appropriate.
+Role of Ombudsman
+35 The Ombudsman may not investigate any matter that the
+Commissioner has the power to investigate or review under this
+Act unless the Commissioner agrees.
+Annual report of Commissioner
+36(1) The Commissioner must submit a written report annually to
+the Speaker of the Legislative Assembly on
+(a) the work of the Commissioner’s office,
+(b) any complaints or reviews under this Act resulting from a
+decision, act or failure to act of the Commissioner as head
+of a public body, and
+(c) any other matters relating to protection of personal privacy
+that the Commissioner considers appropriate.
+(2) The Speaker must lay each annual report before the Legislative
+Assembly as soon as possible.
+Part 6
+Reviews and Complaints
+Division 1
+Reviews by Commissioner
+Right to ask for review by Commissioner
+37(1) A person who believes that the person’s own personal
+information has been collected, used or disclosed in contravention
+of this Act may ask the Commissioner to review that matter.
+(2) A person who makes a request under section 7(1) to the head
+of a public body for correction of personal information may ask the
+Commissioner to review any decision, act or failure to act of the
+head that relates to that request.
+(3) The surviving spouse or adult interdependent partner or a
+relative of a deceased individual may ask the Commissioner to
+2024
+Section 38 Chapter P-28.5
+34
+PROTECTION OF PRIVACY ACT
+review a decision of a head of a public body under section 13(1)(s)
+not to disclose personal information.
+(4) This section does not apply
+(a) to a decision, act or failure to act of the Commissioner when
+acting as the head of the Office of the Information and
+Privacy Commissioner, or
+(b) if the person appointed as the Commissioner is, at the same
+time, appointed as any other officer of the Legislature, to a
+decision, act or failure to act of that person when acting as
+the head of that office.
+How to ask for review by Commissioner
+38(1) To ask for a review under this Division, a written request
+must be delivered to the Commissioner.
+(2) Before delivering a request for a review made under section
+37(1) to the Commissioner, a person must make a complaint to the
+public body concerned respecting the matter that will be the subject
+of the request.
+(3) If the public body concerned decides to respond to a complaint
+made under subsection (2), it must respond within 30 business days
+after it receives the complaint.
+(4) A request for a review must be delivered
+(a) if the request is made under section 37(1), no sooner than
+the end of the period set out in subsection (3) and,
+(i) if the public body concerned responds under subsection
+(3) to the complaint made under subsection (2) by the
+person asking for the review, within 60 business days
+after the person receives the response, or
+(ii) if the public body concerned does not respond under
+subsection (3) to the complaint made under subsection
+(2) by the person asking for the review, within 60
+business days after the end of the period set out in
+subsection (3),
+or
+(b) if the request is made under section 37(2) or (3), within 60
+business days after the person asking for the review is
+notified of the decision, act or failure to act that is the
+subject of the request.
+2024
+Section 39 Chapter P-28.5
+35
+PROTECTION OF PRIVACY ACT
+Notifying others of review by Commissioner
+39(1) On receiving a request for a review, the Commissioner must,
+as soon as practicable,
+(a) give a copy of the request
+(i) to the head of the public body concerned, and
+(ii) to any other person who, in the opinion of the
+Commissioner, is affected by the request,
+and
+(b) provide a summary of the review procedures and an
+anticipated date for a decision on the review
+(i) to the person who asked for the review,
+(ii) to the head of the public body concerned, and
+(iii) to any other person who, in the opinion of the
+Commissioner, is affected by the request.
+(2) The Commissioner may sever any information in the request
+that the Commissioner considers appropriate before giving a copy
+of the request under this section.
+Mediation may be authorized
+40 The Commissioner may authorize a mediator to investigate
+and try to settle any matter that is the subject of a request for a
+review.
+Inquiry by Commissioner
+41(1) Subject to subsections (2), (3) and (4), if a matter is not
+settled under section 40, the Commissioner must conduct an
+inquiry and decide all questions of fact and law arising in the
+course of the inquiry.
+(2) The Commissioner may refuse to conduct an inquiry if, in the
+opinion of the Commissioner,
+(a) the subject-matter of the request for a review has been dealt
+with in an order or investigation report of the
+Commissioner,
+(b) the request for a review was made under section 37(1) and
+the person who asked for the review did not make a
+complaint under section 38(2), or
+2024
+Section 41 Chapter P-28.5
+36
+PROTECTION OF PRIVACY ACT
+(c) the circumstances otherwise warrant refusing to conduct an
+inquiry.
+(3) The Commissioner must not commence an inquiry until the
+Commissioner notifies the person who asked for the review of the
+pending inquiry, and the person who asked for the review confirms
+in writing to the Commissioner that the person wants the inquiry to
+proceed.
+(4) If the person who asked for the review does not confirm in
+writing, within 30 business days of being notified of the pending
+inquiry under subsection (3), that the person wants the inquiry to
+proceed, the inquiry will not be conducted.
+(5) An inquiry may be conducted in private.
+(6) The person who asked for the review, the head of the public
+body concerned and any other person given a copy of the request
+for the review must be given an opportunity to make
+representations to the Commissioner during the inquiry, but no one
+is entitled to be present during, to have access to or to comment on
+representations made to the Commissioner by another person.
+(7) The Commissioner may decide whether the representations are
+to be made orally or in writing.
+(8) The person who asked for the review, the head of the public
+body concerned and any other person given a copy of the request
+for the review may be represented at the inquiry by counsel or an
+agent.
+(9) The Commissioner must complete an inquiry within 180
+business days after receiving the request for the review unless
+(a) the Commissioner has refused under subsection (2) to
+conduct an inquiry,
+(b) the inquiry will not be conducted pursuant to subsection (4),
+(c) the Commissioner discontinues the inquiry under subsection
+(11), or
+(d) the Commissioner
+(i) notifies the person who asked for the review, the head of
+the public body concerned and any other person given a
+copy of the request for the review that the Commissioner
+is extending that period, and
+2024
+Section 42 Chapter P-28.5
+37
+PROTECTION OF PRIVACY ACT
+(ii) provides an anticipated date for the completion of the
+inquiry.
+(10) An extension under subsection (9)(d) must not exceed a total
+of 180 business days beyond the original 180 business days for
+completing an inquiry.
+(11) The Commissioner may discontinue an inquiry if, in the
+opinion of the Commissioner, it is appropriate to do so.
+(12) If the Commissioner discontinues an inquiry under subsection
+(11), the Commissioner must give notice in writing to the person
+who asked for the review, the head of the public body concerned
+and any other person given a copy of the request for the review and
+the notice must include the reasons for the discontinuation.
+Commissioner’s orders
+42(1) On completing an inquiry under section 41, the
+Commissioner must dispose of the issues by making an order under
+this section.
+(2) The Commissioner, by order, may do one or more of the
+following:
+(a) require that a duty imposed by this Act or the regulations be
+performed;
+(b) require a public body to stop collecting, using or disclosing
+personal information in contravention of Part 1;
+(c) require the head of a public body to destroy personal
+information collected in contravention of this Act;
+(d) confirm a decision not to correct personal information or
+specify how personal information is to be corrected;
+(e) require a public body to stop doing any of the following in
+contravention of Part 3:
+(i) collecting personal information for the purpose of
+carrying out data matching to create data derived from
+personal information;
+(ii) carrying out data matching to create data derived from
+personal information;
+(iii) using or disclosing data derived from personal
+information;
+2024
+Section 43 Chapter P-28.5
+38
+PROTECTION OF PRIVACY ACT
+(iv) creating or disclosing non-personal data, including
+creating non-personal data in a manner that contravenes
+section 21(3);
+(f) require the head of a public body to destroy data derived
+from personal information or non-personal data created in
+contravention of this Act.
+(3) The Commissioner may specify any terms or conditions in an
+order made under this section.
+(4) The Commissioner must give a copy of an order made under
+this section to
+(a) the person who asked for the review,
+(b) the head of the public body concerned,
+(c) any other person given a copy of the request for the review,
+and
+(d) the Minister.
+(5) A copy of an order made by the Commissioner under this
+section may be filed with a clerk of the Court of King’s Bench and,
+after filing, the order is enforceable as a judgment or order of that
+Court.
+No appeal
+43 An order made by the Commissioner under this Act is final.
+Duty to comply with orders
+44(1) Subject to subsection (2), not later than 50 business days
+after being given a copy of an order of the Commissioner, the head
+of a public body concerned must comply with the order.
+(2) The head of a public body must not take any steps to comply
+with a Commissioner’s order until the period for bringing an
+application for judicial review under subsection (3) ends.
+(3) An application for judicial review of a Commissioner’s order
+must be made to the Court of King’s Bench not later than 45
+business days after the person making the application is given a
+copy of the order.
+(4) If an application for judicial review is made in accordance with
+subsection (3), the Commissioner’s order is stayed until
+2024
+Section 45 Chapter P-28.5
+39
+PROTECTION OF PRIVACY ACT
+(a) the application is dealt with by the Court of King’s Bench
+and the period for making an appeal of the decision of the
+Court of King’s Bench to the Court of Appeal ends, or
+(b) the appeal of the decision of the Court of King’s Bench to
+the Court of Appeal is dealt with by the Court of Appeal, if
+an appeal of that decision is made to the Court of Appeal.
+(5) Despite subsection (3), the Court of King’s Bench, on
+application made either before or after the expiry of the period
+referred to in subsection (3), may extend that period if it considers
+it appropriate to do so.
+Division 2
+Investigations and Reviews by
+Independent Adjudicator
+Independent adjudicator to investigate
+complaints and review decisions
+45(1) The Minister may make an order designating a judge of the
+Court of King’s Bench to act as an independent adjudicator
+(a) to investigate complaints made against the Commissioner as
+the head of the Office of the Information and Privacy
+Commissioner with respect to any matter referred to in
+section 27(2),
+(b) if the person appointed as the Commissioner is, at the same
+time, appointed as any other officer of the Legislature, to
+investigate complaints respecting any matter referred to in
+section 27(2) made against that person when acting as the
+head of that office,
+(c) to investigate complaints respecting any matter referred to in
+section 27(2) made against a head of a public body if the
+Commissioner was a member, employee or head of that
+public body during the relevant period or, in the
+Commissioner’s opinion, the Commissioner has a conflict
+with respect to that public body,
+(d) to review, if requested under section 47, any decision, act or
+failure to act of the Commissioner as the head of the Office
+of the Information and Privacy Commissioner,
+(e) if the person appointed as the Commissioner is, at the same
+time, appointed as any other officer of the Legislature, to
+review, if requested under section 47, any decision, act or
+failure to act of that person when acting as the head of that
+office, and
+2024
+Section 46 Chapter P-28.5
+40
+PROTECTION OF PRIVACY ACT
+(f) to review, if requested under section 48, a decision, act or
+failure to act of a head of a public body if the Commissioner
+was a member, employee or head of that public body during
+the relevant period or, in the Commissioner’s opinion, the
+Commissioner has a conflict with respect to that public
+body.
+(2) An independent adjudicator must not review an order of the
+Commissioner made under this Act.
+(3) An independent adjudicator may retain the services of any
+persons necessary to assist in performing the independent
+adjudicator’s functions under this Act.
+(4) The Government of Alberta may pay out of the General
+Revenue Fund,
+(a) to an independent adjudicator, the expenses a judge is
+entitled to receive under subsection 57(3) of the Judges Act
+(Canada) while acting as an adjudicator, and
+(b) to a person whose services are retained under subsection (3),
+remuneration for those services.
+Powers, duties, functions and protections
+of independent adjudicator
+46(1) For the purposes of section 45, an independent adjudicator
+has the powers, duties and functions given to the Commissioner by
+sections 27(2), 29 and 32(1), (2)(a) and (3) to (5).
+(2) Sections 30, 31, 33 and 35 apply for the purposes of an
+investigation, inquiry or review by an independent adjudicator.
+Right to ask for review by independent adjudicator
+47(1) This section applies
+(a) to a decision, act or failure to act of the Commissioner when
+acting as the head of the Office of the Information and
+Privacy Commissioner, and
+(b) if the person appointed as the Commissioner is, at the same
+time, appointed as any other officer of the Legislature, to a
+decision, act or failure to act of that person when acting as
+the head of that office.
+(2) A person who believes that the person’s own personal
+information has been collected, used or disclosed in contravention
+of this Act may ask an independent adjudicator to review that
+matter.
+2024
+Section 48 Chapter P-28.5
+41
+PROTECTION OF PRIVACY ACT
+(3) A person who makes a request under section 7(1) for
+correction of personal information may ask an independent
+adjudicator to review any decision, act or failure to act that relates
+to that request.
+(4) The surviving spouse or adult interdependent partner or a
+relative of a deceased individual may ask an independent
+adjudicator to review a decision under section 13(1)(s) not to
+disclose personal information.
+Review where Commissioner in conflict
+48(1) This section applies where the Commissioner is asked under
+section 37(1), (2) or (3) to review a matter, decision, act or failure
+to act and the Commissioner was, during the relevant period, a
+member, employee or head of the public body that the matter,
+decision, act or failure to act concerns or, in the Commissioner’s
+opinion, the Commissioner has a conflict with respect to that public
+body.
+(2) A person who believes that the person’s own personal
+information has been collected, used or disclosed in contravention
+of this Act may ask an independent adjudicator to review that
+matter.
+(3) A person who makes a request under section 7(1) to the head
+of a public body for correction of personal information may ask an
+independent adjudicator to review any decision, act or failure to act
+of the head of the public body that relates to that request.
+(4) The surviving spouse or adult interdependent partner or a
+relative of a deceased individual may ask an independent
+adjudicator to review a decision of a head of a public body under
+section 13(1)(s) not to disclose personal information.
+How to ask for review by independent adjudicator
+49(1) To ask for a review under this Division, a written request
+must be delivered to the Minister.
+(2) A request for a review must be delivered within
+(a) 60 business days after the person asking for the review is
+notified of the matter, decision, act or failure to act that is
+the subject of the request, or
+(b) any longer period allowed by the independent adjudicator.
+Notifying others of review by independent adjudicator
+50 On receiving a request for a review, the Minister must, as soon
+as practicable,
+2024
+Section 51 Chapter P-28.5
+42
+PROTECTION OF PRIVACY ACT
+(a) give the request to an independent adjudicator,
+(b) give a copy of the request to
+(i) the Commissioner, and
+(ii) any other person who, in the opinion of the Minister, is
+affected by the request,
+and
+(c) provide a summary of the review procedures to
+(i) the person who asked for the review,
+(ii) the Commissioner, and
+(iii) any other person who, in the opinion of the Minister, is
+affected by the request.
+Conduct and outcome of review
+51(1) An independent adjudicator has the powers and duties given
+to the Commissioner by sections 40 and 41(1), (2), (3), (5), (7),
+(11) and (12), and section 41(4), (6) and (8) apply to an inquiry
+conducted by an independent adjudicator.
+(2) On completing an inquiry, an independent adjudicator has the
+same duty to dispose of the issues, the same power to make orders
+and the same duty to give copies of those orders as the
+Commissioner has under section 42(1) to (4).
+(3) An independent adjudicator must give a copy of an order made
+by the independent adjudicator under this Act to the Commissioner.
+(4) A copy of an order made by an independent adjudicator under
+this section may be filed with a clerk of the Court of King’s Bench
+and, after filing, the order is enforceable as a judgment or order of
+that Court.
+(5) Section 44 applies to an order of an independent adjudicator.
+(6) An order made by an independent adjudicator under this Act is
+final.
+Division 3
+Disclosure to Commissioner
+Disclosure to Commissioner
+52(1) An employee of a public body may disclose to the
+Commissioner any personal information, data derived from
+2024
+Section 53 Chapter P-28.5
+43
+PROTECTION OF PRIVACY ACT
+personal information or non-personal data that the employee is
+required to keep confidential and that the employee, acting in good
+faith, believes is being created, collected, used or disclosed in
+contravention of this Act.
+(2) The Commissioner must investigate and review any disclosure
+made under subsection (1).
+(3) If an employee makes a disclosure under subsection (1), the
+Commissioner must not disclose the identity of the employee to
+any person without the employee’s consent.
+(4) An employee is not liable to a prosecution for an offence under
+any Act for doing any of the following, unless the employee acted
+in bad faith:
+(a) copying a record or disclosing it to the Commissioner;
+(b) disclosing personal information, data derived from personal
+information or non-personal information to the
+Commissioner.
+(5) A public body or person acting on behalf of a public body must
+not take any adverse employment action against an employee
+because the employee, acting in good faith, has
+(a) disclosed personal information, data derived from personal
+information or non-personal data to the Commissioner under
+this section, or
+(b) exercised or may exercise a right under this section.
+(6) A person who contravenes subsection (5) is guilty of an
+offence and liable to a fine of not more than $10 000.
+(7) In carrying out an investigation and review under this section,
+the Commissioner has all of the powers and duties set out in
+sections 29, 32, 40, 41 and 42(1) to (4), and sections 30, 31, 33 and
+35 apply.
+Part 7
+General Provisions
+Manner of giving notice
+53 Where this Act requires any notice or other document to be
+given to a person, it is to be given
+(a) by sending it to that person by prepaid mail to the last
+known address of that person,
+2024
+Section 54 Chapter P-28.5
+44
+PROTECTION OF PRIVACY ACT
+(b) by personal service,
+(c) by substitutional service if so authorized by the
+Commissioner,
+(d) by fax, or
+(e) in electronic form other than fax if that person’s contact
+information for that electronic form is publicly available or
+has been provided by that person.
+Exercise of rights by other persons
+54(1) Any right or power conferred on an individual by this Act
+may be exercised
+(a) if the individual is deceased, by the individual’s personal
+representative if the exercise of the right or power relates to
+the administration of the individual’s estate,
+(b) if a guardian or trustee has been appointed for the individual
+under the Adult Guardianship and Trusteeship Act, by the
+guardian or trustee if the exercise of the right or power
+relates to the powers and duties of the guardian or trustee,
+(c) if an agent has been designated under a personal directive
+under the Personal Directives Act, by the agent under the
+authority of the directive if the directive so authorizes,
+(d) if a power of attorney has been granted by the individual, by
+the attorney if the exercise of the right or power relates to
+the powers and duties of the attorney conferred by the power
+of attorney,
+(e) if the individual is a minor, by a guardian of the minor in
+circumstances where, in the opinion of the head of the
+public body concerned, the exercise of the right or power by
+the guardian would not constitute an unreasonable invasion
+of the personal privacy of the minor, or
+(f) by any person with written authorization from the individual
+to act on the individual’s behalf.
+(2) Any notice required to be given to an individual under this Act
+may be given to the person entitled to exercise the individual’s
+rights or powers referred to in subsection (1).
+2024
+Section 55 Chapter P-28.5
+45
+PROTECTION OF PRIVACY ACT
+Delegation by head of public body
+55(1) The head of a public body may delegate to any person any
+power, duty or function of the head under this Act, except the
+power to delegate under this section.
+(2) A delegation under subsection (1) must be in writing and may
+contain any conditions or restrictions the head of the public body
+considers appropriate.
+Annual report of Minister
+56 The Minister must prepare an annual report about the
+operation of this Act and lay the report before the Legislative
+Assembly.
+Directory of personal information banks
+57(1) In this section, “personal information bank” means a
+collection of personal information that is organized or retrievable
+by the name of an individual or by an identifying number, symbol
+or other particular assigned to an individual.
+(2) The head of a public body must publish a directory, in printed
+or electronic form, that lists the public body’s personal information
+banks.
+(3) The directory must include, for each personal information
+bank, the following:
+(a) the title and location of the personal information bank;
+(b) a description of the kind of personal information and the
+categories of individuals whose personal information is
+included;
+(c) the authority for collecting the personal information;
+(d) the purposes for which the personal information was
+collected or compiled and the purposes for which it is used
+or disclosed.
+(4) If personal information is used or disclosed by a public body
+for a purpose that is not included in the directory published under
+subsection (2), the head of the public body must
+(a) keep a record of the purpose and either attach or link that
+record to the personal information, and
+(b) ensure that the purpose is included in the next publication of
+the directory.
+2024
+Section 58 Chapter P-28.5
+46
+PROTECTION OF PRIVACY ACT
+(5) The head of a public body must ensure that the directory
+referred to in subsection (2) is kept as current as is practicable and
+that access to the directory is available to the public.
+Protection of public body from legal suit
+58 No action lies and no proceeding may be brought against the
+Crown, a public body, the head of a public body, an elected official
+of a local public body or any person acting for or under the
+direction of the head of a public body for damages resulting from
+(a) the disclosure of or failure to disclose, in good faith, all or
+part of any personal information, data derived from personal
+information or non-personal data under this Act or any
+consequences of that disclosure or failure to disclose, or
+(b) the failure to give a notice required under this Act if
+reasonable care is taken to give the required notice.
+Protection of employee
+59(1) A public body, or person acting on behalf of a public body,
+must not take any adverse employment action against an employee
+as a result of the employee properly disclosing personal
+information, data derived from personal information or
+non-personal data in accordance with this Act.
+(2) A person who contravenes subsection (1) is guilty of an
+offence and liable to a fine of not more than $10 000.
+Offences and penalties
+60(1) A person must not knowingly
+(a) collect, use or disclose personal information in
+contravention of Part 1,
+(b) gain or attempt to gain access to personal information in
+contravention of this Act,
+(c) do any of the following in contravention of Part 3:
+(i) collect personal information for the purpose of carrying
+out data matching to create data derived from personal
+information;
+(ii) carry out data matching to create data derived from
+personal information;
+(iii) use or disclose data derived from personal information;
+2024
+Section 60 Chapter P-28.5
+47
+PROTECTION OF PRIVACY ACT
+(iv) create or disclose non-personal data, including create
+non-personal data in a manner that contravenes section
+21(3),
+(d) gain or attempt to gain access to data derived from personal
+information or non-personal data in contravention of this
+Act,
+(e) re-identify or attempt to re-identify non-personal data
+created under section 21(1),
+(f) make a false statement to, or mislead or attempt to mislead,
+the Commissioner or another person in the performance of
+the powers, duties or functions of the Commissioner or
+other person under this Act,
+(g) obstruct the Commissioner or another person in the
+performance of the powers, duties or functions of the
+Commissioner or other person under this Act, or
+(h) fail to comply with an order made by the Commissioner
+under section 42 or by an independent adjudicator under
+section 51(2).
+(2) A person who contravenes subsection (1), other than
+subsection (1)(c), (d) or (e), is guilty of an offence and liable,
+(a) in the case of an individual, to a fine of not more than
+$125 000, and
+(b) in the case of any other person, to a fine of not more than
+$750 000.
+(3) A person who contravenes subsection (1)(c), (d) or (e) is guilty
+of an offence and liable,
+(a) in the case of an individual, to a fine of not more than
+$200 000, and
+(b) in the case of any other person, to a fine of not more than
+$1 000 000.
+(4) A person must not knowingly disclose personal information,
+data derived from personal information or non-personal data to
+which this Act applies in accordance with a subpoena, warrant or
+order issued or made by a court, person or body having no
+jurisdiction in Alberta to compel the production of information or
+in accordance with a rule of court that is not binding in Alberta.
+2024
+Section 61 Chapter P-28.5
+48
+PROTECTION OF PRIVACY ACT
+(5) A person who contravenes subsection (4) is guilty of an
+offence and liable,
+(a) in the case of an individual, to a fine of not less than $2000
+and not more than $10 000, and
+(b) in the case of any other person, to a fine of not less than
+$200 000 and not more than $500 000.
+(6) A prosecution under this Act may be commenced within 2
+years after the day on which evidence of the alleged offence first
+came to the attention of the Commissioner, but not afterwards.
+Lieutenant Governor in Council regulations
+61 The Lieutenant Governor in Council may make regulations
+(a) prescribing the manner of giving consent for the purposes of
+sections 12(1)(b) and 13(1)(c);
+(b) prescribing persons to whom a public body may disclose
+personal information under section 13(1)(l) for audit
+purposes;
+(c) prescribing persons or bodies for the purposes of section
+13(1)(ee);
+(d) respecting forms for the purposes of this Act;
+(e) defining, enlarging or restricting the meaning of any term
+used in this Act but not defined in this Act;
+(f) requiring public bodies to provide to the Minister
+information that relates to the administration of this Act or
+is required for preparing the Minister’s annual report;
+(g) exempting any public body or class of public body from the
+operation of a regulation made under this section;
+(h) respecting any other matter or thing that the Lieutenant
+Governor in Council considers necessary to carry out the
+intent of this Act.
+Ministerial regulations
+62 The Minister may make regulations
+(a) identifying safeguards and technical standards to be
+observed for the security and protection of personal
+information, data derived from personal information and
+non-personal data and requiring public bodies to comply
+with those safeguards and technical standards;
+2024
+Section 63 Chapter P-28.5
+49
+PROTECTION OF PRIVACY ACT
+(b) identifying types of non-personal data;
+(c) respecting a notice given under section 10(2), including
+prescribing requirements for the purposes of section 10(3);
+(d) respecting data matching by public bodies to create data
+derived from personal information, including prescribing
+purposes for the purposes of section 17(1)(c) and
+prescribing security arrangements for the purposes of
+section 17(2);
+(e) respecting the creation of non-personal data by public
+bodies, including prescribing purposes for the purposes of
+section 21(1)(c) and prescribing requirements for the
+purposes of section 21(2)(b) and (4);
+(f) respecting the disclosure of non-personal data by public
+bodies, including prescribing purposes for the purposes of
+section 23(1)(b)(i)(C);
+(g) respecting privacy management programs, including
+prescribing requirements for the purposes of section
+25(2)(b) and (4);
+(h) respecting privacy impact assessments, including respecting
+in what circumstances and manner a public body must
+submit a privacy impact assessment to the Commissioner
+under section 26(1), prescribing circumstances for the
+purposes of section 26(1) and prescribing requirements for
+the purposes of section 26(2)(d).
+62.1 Repealed 2025 c23 s7.
+Review of Act
+63(1) A special committee of the Legislative Assembly must
+begin a comprehensive review of this Act and the regulations
+(a) within 6 years after this Act comes into force, and
+(b) thereafter, every 6 years after the date on which the previous
+special committee submits its report under subsection (2).
+(2) A special committee must submit a final report to the
+Legislative Assembly within 18 months after beginning a review
+under subsection (1).
+(3) The report of a special committee may include the special
+committee’s recommendations for amendments to this Act, the
+regulations or any other enactment.
+2024
+Section 64 Chapter P-28.5
+50
+PROTECTION OF PRIVACY ACT
+Part 8
+Transitional Provisions and
+Coming into Force
+Transitional
+64(1) In this section, “former Act” means the Freedom of
+Information and Protection of Privacy Act.
+(2) Notwithstanding the repeal of the former Act,
+(a) a person designated as the head of a public body for the
+purposes of section 1(f)(ii) of the former Act continues as
+the head of the public body for the purposes of this Act until
+a new person is designated as the head of the public body
+for the purposes of section 1(h)(ii) of the Access to
+Information Act,
+(b) a person or group of persons designated as the head of a
+local public body under section 95(a) of the former Act
+continues as the head of the local public body under this Act
+until a new person or group of persons is designated as the
+head of the local public body under section 98(a) of the
+Access to Information Act, and
+(c) the former Act as it read immediately before its repeal
+continues in effect and applies
+(i) to a review, inquiry or investigation if the matter,
+decision, disclosure, act or failure to act that is the
+subject of the review, inquiry or investigation occurred
+before the repeal of the former Act, and
+(ii) subject to subsection (3), to an offence committed under
+the former Act before its repeal.
+(3) A prosecution under the former Act of an offence committed
+under that Act before its repeal may be commenced in accordance
+with section 60(6) of this Act.
+Coming into force
+65 This Act comes into force on the coming into force of the
+Access to Information Act.
+(NOTE: The Access to Information Act proclaimed in force June
+11, 2025.)
+
+Printed on Recycled Paper
+*9780779861309*

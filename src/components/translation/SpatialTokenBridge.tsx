@@ -613,10 +613,10 @@ export const SpatialTokenBridge: React.FC<SpatialTokenBridgeProps> = ({
                 <button
                   key={tok.id}
                   type="button"
-                  onClick={() => onHighlightSpan?.(tok.sourceSpan)}
+                  onClick={() => tok.sourceSpan && onHighlightSpan?.(tok.sourceSpan)}
                   data-testid={`bridge-token-${tok.id}`}
                   className="inline-flex items-center gap-1 rounded border border-sky-500/35 bg-sky-500/10 px-2 py-0.5 text-xs font-medium text-sky-200 hover:border-sky-400 hover:bg-sky-500/20"
-                  title={`${tok.category} [${tok.sourceSpan.start}..${tok.sourceSpan.end}]`}
+                  title={tok.sourceSpan ? `${tok.category} [${tok.sourceSpan.start}..${tok.sourceSpan.end}]` : `${tok.category}: no verified source span`}
                 >
                   <span className="truncate max-w-[110px]">{tok.label}</span>
                   <span className="rounded bg-slate-900/90 px-1 font-mono text-[10px] text-sky-300">

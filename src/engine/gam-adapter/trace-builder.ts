@@ -30,11 +30,13 @@ export function extractLiveConcepts(text: string, clauses: SegmentedClause[], mo
   const patterns = extractPatterns(text).patterns;
   const categories: Record<string, ExtractedConceptToken['category']> = { activity: 'Activity', process: 'Process', role: 'Role', legalEntity: 'Actor', assignment: 'Role', delegation: 'Delegation', separation: 'Structure', sequence: 'Ordering', containment: 'Structure', obligation: 'Activity', prohibition: 'Prohibition', permission: 'Permission', conditional: 'Condition', exemption: 'Exception' };
   return patterns.map((p: { subtype: string; source: string; entity?: string }, index: number) => {
-    const clause = clauses.find(c => p.source.includes(c.text) || c.text.includes(p.source));
-    const start = text.indexOf(p.source);
-    const span = clause?.sourceSpan ?? { start: Math.max(0, start), end: Math.max(0, start) + p.source.length };
+    const start = typeof p.source === 'string' && p.source.length ? text.indexOf(p.source) : -1;
+    const end = start < 0 ? -1 : start + p.source.length;
+    const clause = start < 0 ? undefined : clauses.find(c => start < c.sourceSpan.end && end > c.sourceSpan.start);
+    const hasEvidence = !!clause && text.slice(start, end) === p.source;
+    const span = hasEvidence ? { start, end, clauseId: clause.id, text: p.source } : undefined;
     const entity = model.entities.find(e => e.id === p.entity);
-    return { id: `concept-${index + 1}`, label: entity?.name ?? p.subtype, category: categories[p.subtype] ?? 'Unmapped', sourceSpan: span, clauseId: clause?.id ?? '', verified: false, mappedEntityId: entitySort(entity) ? entity?.id : undefined, notes: 'Actual phase-one heuristic pattern; semantic review pending.' };
+    return { id: `concept-${index + 1}`, label: entity?.name ?? p.subtype, category: hasEvidence ? categories[p.subtype] ?? 'Unmapped' : 'Unmapped', sourceSpan: span, clauseId: hasEvidence ? clause.id : '', verified: false, mappedEntityId: hasEvidence && entitySort(entity) ? entity?.id : undefined, notes: hasEvidence ? 'Actual phase-one heuristic pattern; semantic review pending.' : 'No exact source passage could be linked to a parsed clause; mapping withheld.' };
   });
 }
 

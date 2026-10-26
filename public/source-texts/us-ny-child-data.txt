@@ -1,0 +1,313 @@
+STATE OF NEW YORK
+________________________________________________________________________
+7695--A
+2023-2024 Regular Sessions
+IN SENATE
+October 13, 2023
+___________
+Introduced by Sens. GOUNARDES, BORRELLO, CHU, COMRIE, FERNANDEZ, GONZA-
+LEZ, HARCKHAM, JACKSON, KAVANAGH, KENNEDY, MANNION, MAYER, PALUMBO,
+PARKER, RAMOS, RHOADS, RIVERA, SALAZAR, SEPULVEDA, STAVISKY, WEBB,
+WEBER -- read twice and ordered printed, and when printed to be
+committed to the Committee on Rules -- recommitted to the Committee on
+Internet and Technology in accordance with Senate Rule 6, sec. 8 --
+committee discharged, bill amended, ordered reprinted as amended and
+recommitted to said committee
+AN ACT to amend the general business law, in relation to establishing
+the New York child data protection act
+The People of the State of New York, represented in Senate and Assem-
+bly, do enact as follows:
+1 Section 1. The general business law is amended by adding a new article
+2 39-FF to read as follows:
+3 ARTICLE 39-FF
+4 NEW YORK CHILD DATA PROTECTION ACT
+5 Section 899-ee. Definitions.
+6 899-ff. Privacy protection by default.
+7 899-gg. Third parties.
+8 899-hh. Ongoing use.
+9 899-ii. Respecting user-provided age flags.
+10 899-jj. Protections for third-party operators.
+11 899-kk. Rulemaking authority.
+12 899-ll. Scope.
+13 899-mm. Remedies.
+14 § 899-ee. Definitions. For purposes of this article, the following
+15 terms shall have the following meanings:
+16 1. "Covered user" shall mean a user of a website, online service,
+17 online application, mobile application, or connected device, or portion
+18 thereof, in the state of New York who is:
+EXPLANATION--Matter in (underscored) is new; matter in bracketsitalics
+[ ] is old law to be omitted.
+LBD13150-05-4
+S. 7695--A 2
+1 (a) actually known by the operator of such website, online service,
+2 online application, mobile application, or connected device to be a
+3 minor; or
+4 (b) a user of a website, online service, online application, mobile
+5 application, or connected device primarily directed to minors.
+6 2. "Minor" shall mean a natural person under the age of eighteen.
+7 3. "Operator" shall mean any person:
+8 (a) who operates or provides a website on the internet, online
+9 service, online application, mobile application, or connected device;
+10 and
+11 (b) who:
+12 (i) collects or maintains, either directly or through another person,
+13 personal data from or about the users of such website, service, applica-
+14 tion, or connected device;
+15 (ii) integrates with another website, service, application, or
+16 connected device and directly collects personal data from the users of
+17 such website, service, application, or connected device;
+18 (iii) allows another person to collect personal data directly from
+19 users of such website, service, application, or connected device; or
+20 (iv) allows users of such website, service, application, or connected
+21 device to publicly disclose personal data.
+22 4. "Personal data" shall mean any data that identifies or could
+23 reasonably be linked, directly or indirectly, with a specific natural
+24 person or device.
+25 5. "Process" or "processing" shall mean an operation or set of oper-
+26 ations performed on personal data, including but not limited to the
+27 collection, use, access, sharing, sale, monetization, analysis,
+28 retention, creation, generation, derivation, recording, organization,
+29 structuring, storage, disclosure, transmission, disposal, licensing,
+30 destruction, deletion, modification, or deidentification of personal
+31 data.
+32 6. "Primarily directed to minors" shall mean a website, online
+33 service, online application, mobile application, or connected device, or
+34 a portion thereof, that is targeted to minors. A website, online
+35 service, online application, mobile application, or connected device, or
+36 portion thereof, shall not be deemed directed primarily to minors solely
+37 because such website, online service, online application, mobile appli-
+38 cation, or connected device, or portion thereof refers or links to any
+39 other website, online service, online application, mobile application,
+40 or connected device directed to minors by using information location
+41 tools, including a directory, index, reference, pointer, or hypertext
+42 link. A website, online service, online application, mobile application,
+43 or connected device, or portion thereof, shall be deemed directed to
+44 minors when it has actual knowledge that it is collecting personal data
+45 of users directly from users of another website, online service, online
+46 application, mobile application, or connected device primarily directed
+47 to minors.
+48 7. "Sell" shall mean to share personal data for monetary or other
+49 valuable consideration. "Selling" shall not include the sharing of
+50 personal data for monetary or other valuable consideration to another
+51 person as an asset that is part of a merger, acquisition, bankruptcy, or
+52 other transaction in which that person assumes control of all or part of
+53 the operator's assets.
+54 8. "Third party" shall mean any person who is not any of the follow-
+55 ing:
+S. 7695--A 3
+1 (a) the operator with whom the user intentionally interacts and who
+2 collects personal data from the user as part of the user's current
+3 interaction with the operator;
+4 (b) the user whose personal data the operator processes; or
+5 (c) the parent or legal guardian of a user under thirteen years old
+6 whose personal data the operator processes.
+7 § 899-ff. Privacy protection by default. 1. Except as provided for in
+8 subdivision six of this section and section eight hundred ninety-nine-jj
+9 of this article, an operator shall not process, or allow a third party
+10 to process, the personal data of a covered user collected through the
+11 use of a website, online service, online application, mobile applica-
+12 tion, or connected device unless and to the extent:
+13 (a) the covered user is twelve years of age or younger and processing
+14 is permitted under 15 U.S.C. § 6502 and its implementing regulations; or
+15 (b) the covered user is thirteen years of age or older and processing
+16 is strictly necessary for an activity set forth in subdivision two of
+17 this section, or informed consent has been obtained as set forth in
+18 subdivision three of this section.
+19 2. For the purposes of paragraph (b) of subdivision one of this
+20 section, the processing of personal data of a covered user is permissi-
+21 ble where it is strictly necessary for the following activities:
+22 (a) providing or maintaining a specific product or service requested
+23 by the covered user;
+24 (b) conducting the operator's internal business operations. For
+25 purposes of this paragraph, such internal business operations shall not
+26 include any activities related to marketing, advertising, or providing
+27 products or services to third parties, or prompting covered users to use
+28 the website, online service, online application, mobile application, or
+29 connected device when it is not in use;
+30 (c) identifying and repairing technical errors that impair existing or
+31 intended functionality;
+32 (d) protecting against malicious, fraudulent, or illegal activity;
+33 (e) investigating, establishing, exercising, preparing for, or defend-
+34 ing legal claims;
+35 (f) complying with federal, state, or local laws, rules, or regu-
+36 lations;
+37 (g) complying with a civil, criminal, or regulatory inquiry, investi-
+38 gation, subpoena, or summons by federal, state, local, or other govern-
+39 mental authorities;
+40 (h) detecting, responding to, or preventing security incidents or
+41 threats; or
+42 (i) protecting the vital interests of a natural person.
+43 3. (a) For the purposes of paragraph (b) of subdivision one of this
+44 section, to process personal data of a covered user where such process-
+45 ing is not strictly necessary under subdivision two of this section,
+46 informed consent must be obtained from the covered user either through a
+47 device communication or signal pursuant to the provisions of subdivision
+48 two of section eight hundred ninety-nine-ii of this article or through a
+49 request. Requests for such informed consent shall:
+50 (i) be made separately from any other transaction or part of a trans-
+51 action;
+52 (ii) be made in the absence of any mechanism that has the purpose or
+53 substantial effect of obscuring, subverting, or impairing a covered
+54 user's decision-making regarding authorization for the processing;
+55 (iii) clearly and conspicuously state that the processing for which
+56 the consent is requested is not strictly necessary, and that the covered
+S. 7695--A 4
+1 user may decline without preventing continued use of the website, online
+2 service, online application, mobile application, or connected device;
+3 and
+4 (iv) clearly present an option to refuse to provide consent as the
+5 most prominent option.
+6 (b) Such informed consent, once given, shall be freely revocable at
+7 any time, and shall be at least as easy to revoke as it was to provide.
+8 (c) If a covered user declines to provide or revokes informed consent
+9 for processing, another request may not be made for such processing for
+10 the following calendar year, however an operator may make available a
+11 mechanism that a covered user can use at their discretion to provide
+12 informed consent.
+13 (d) If a covered user's device communicates or signals that the
+14 covered user declines to provide informed consent for processing pursu-
+15 ant to the provisions of subdivision two of section eight hundred nine-
+16 ty-nine-ii of this article, an operator shall not request informed
+17 consent for such processing, however an operator may make available a
+18 mechanism that a covered user can use at their discretion to provide
+19 informed consent.
+20 4. Except where processing is strictly necessary to provide a product,
+21 service, or feature, an operator may not withhold, degrade, lower the
+22 quality, or increase the price of any product, service, or feature to a
+23 covered user due to the operator not obtaining verifiable parental
+24 consent under 15 U.S.C. § 6502 and its implementing regulations or
+25 informed consent under subdivision three of this section.
+26 5. Except as provided for in section eight hundred ninety-nine-jj of
+27 this article, an operator shall not purchase or sell, or allow a third
+28 party to purchase or sell, the personal data of a covered user.
+29 6. Within fourteen days of determining that a user is a covered user,
+30 an operator shall:
+31 (a) dispose of, destroy, or delete all personal data of such covered
+32 user that it maintains, unless processing such personal data is permit-
+33 ted under 15 U.S.C. § 6502 and its implementing regulations, is strictly
+34 necessary for an activity listed in subdivision two of this section, or
+35 informed consent is obtained as set forth in subdivision three of this
+36 section; and
+37 (b) notify any third parties to whom it disclosed the personal data,
+38 and any third parties it allowed to process the personal data, that the
+39 user is a covered user.
+40 § 899-gg. Third parties. 1. Except as provided for in section eight
+41 hundred ninety-nine-jj of this article, no operator shall disclose the
+42 personal data of a covered user to a third party, or allow the process-
+43 ing of the personal data of a covered user by a third party, without a
+44 written, binding agreement governing such disclosure or processing. Such
+45 agreement shall clearly set forth instructions for the nature and
+46 purpose of the third-party's processing of the personal data,
+47 instructions for using or further disclosing the personal data, and the
+48 rights and obligations of both parties.
+49 2. Except as provided for in section eight hundred ninety-nine-jj of
+50 this article, prior to disclosing personal data to a third party, the
+51 operator shall inform the third party if such data is the personal data
+52 of a covered user.
+53 3. An agreement pursuant to subdivision one of this section shall
+54 require that the third party:
+55 (a) process the personal data of covered users only when and to the
+56 extent strictly necessary for an activity listed pursuant to subdivision
+S. 7695--A 5
+1 two of section eight hundred ninety-nine-ff of this article, or where
+2 informed consent was obtained pursuant to subdivision three of section
+3 eight hundred ninety-nine-ff of this article;
+4 (b) delete or return to the operator all personal data of covered
+5 users at the end of its provision of services, unless retention of the
+6 personal data is required by law;
+7 (c) upon reasonable request of the operator, make available to the
+8 operator all data in its possession necessary to demonstrate the third-
+9 party's compliance with the obligations in this section;
+10 (d) allow, and cooperate with, reasonable assessments by the operator
+11 or the operator's designated assessor for purposes of evaluating compli-
+12 ance with the obligations of this article. Alternatively, the third
+13 party may arrange for a qualified and independent assessor to conduct an
+14 assessment of the third-party's policies and technical and organiza-
+15 tional measures in support of the obligations under this article using
+16 an appropriate and accepted control standard or framework and assessment
+17 procedure for such assessments. The third party shall provide a report
+18 of such assessment to the operator upon request; and
+19 (e) notify the operator a reasonable time in advance before disclosing
+20 or transferring the personal data of covered users to any further third
+21 parties, which may be in the form of a regularly updated list of further
+22 third parties that may access personal data of covered users.
+23 § 899-hh. Ongoing use. Upon learning that a user is no longer a
+24 covered user, an operator shall provide notice to such user that such
+25 user is no longer covered by the protections and rights provided under
+26 the New York child data protection act.
+27 § 899-ii. Respecting user-provided age flags. 1. For the purposes of
+28 this article, an operator shall treat a user as a covered user if the
+29 user's device communicates or signals that the user is or shall be
+30 treated as a minor, including through a browser plug-in or privacy
+31 setting, device setting, or other mechanism.
+32 2. For the purposes of subdivision three of section eight hundred
+33 ninety-nine-ff of this article, an operator shall adhere to any clear
+34 and unambiguous communications or signals from a covered user's device,
+35 including through a browser plug-in or privacy setting, device setting,
+36 or other mechanism, concerning processing that the covered user consents
+37 to or declines to consent to. An operator shall not adhere to unclear or
+38 ambiguous communications or signals from a covered user's device, and
+39 shall instead request informed consent pursuant to the provisions of
+40 paragraph a of subdivision three of section eight hundred ninety-nine-ff
+41 of this article.
+42 § 899-jj. Protections for third-party operators. Sections eight
+43 hundred ninety-nine-ff and eight hundred ninety-nine-gg of this article
+44 shall not apply to an operator processing the personal data of a covered
+45 user of another website, online service, online application, mobile
+46 application, or connected device, or portion thereof, where the operator
+47 received reasonable written representations that the covered user
+48 provided informed consent for such processing, or:
+49 1. the operator does not have actual knowledge that the covered user
+50 is a minor; and
+51 2. the operator does not have actual knowledge that the other website,
+52 online service, online application, mobile application, or connected
+53 device, or portion thereof, is primarily directed to minors.
+54 § 899-kk. Rulemaking authority. The attorney general may promulgate
+55 such rules and regulations as are necessary to effectuate and enforce
+56 the provisions of this article.
+S. 7695--A 6
+1 § 899-ll. Scope. 1. This article shall apply to conduct that occurs in
+2 whole or in part in the state of New York. For purposes of this article,
+3 commercial conduct takes place wholly outside of the state of New York
+4 if the business collected such information while the covered user was
+5 outside of the state of New York, no part of the use of the covered
+6 user's personal data occurred in the state of New York, and no personal
+7 data collected while the covered user was in the state of New York is
+8 used.
+9 2. Nothing in this article shall be construed to prohibit an operator
+10 from storing a covered user's personal data that was collected pursuant
+11 to section eight hundred ninety-nine-ff of this article when such
+12 covered user is in the state.
+13 3. Nothing in this article shall be construed to impose liability for
+14 commercial activities or actions by operators subject to 15 U.S.C. 6501
+15 that is inconsistent with the treatment of such activities or actions
+16 under 15 U.S.C. 6502.
+17 § 899-mm. Remedies. Whenever it appears to the attorney general,
+18 either upon complaint or otherwise, that any person, within or outside
+19 the state, has engaged in or is about to engage in any of the acts or
+20 practices stated to be unlawful in this article, the attorney general
+21 may bring an action or special proceeding in the name and on behalf of
+22 the people of the state of New York to enjoin any violation of this
+23 article, to obtain restitution of any moneys or property obtained
+24 directly or indirectly by any such violation, to obtain disgorgement of
+25 any profits or gains obtained directly or indirectly by any such
+26 violation, including but not limited to the destruction of unlawfully
+27 obtained data and algorithms trained on such data, to obtain damages
+28 caused directly or indirectly by any such violation, to obtain civil
+29 penalties of up to five thousand dollars per violation, and to obtain
+30 any such other and further relief as the court may deem proper, includ-
+31 ing preliminary relief.
+32 § 2. Severability. If any clause, sentence, paragraph, subdivision,
+33 section or part of this act shall be adjudged by any court of competent
+34 jurisdiction to be invalid, such judgment shall not affect, impair, or
+35 invalidate the remainder thereof, but shall be confined in its operation
+36 to the clause, sentence, paragraph, subdivision, section or part thereof
+37 directly involved in the controversy in which such judgment shall have
+38 been rendered. It is hereby declared to be the intent of the legislature
+39 that this act would have been enacted even if such invalid provisions
+40 had not been included herein.
+41 § 3. This act shall take effect one year after it shall have become a
+42 law. Effective immediately, the addition, amendment and/or repeal of any
+43 rule or regulation necessary for the implementation of this act on its
+44 effective date are authorized to be made and completed on or before such
+45 effective date.

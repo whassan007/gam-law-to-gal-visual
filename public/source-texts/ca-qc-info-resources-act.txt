@@ -1,0 +1,631 @@
+# Act respecting the governance and management of the information resources of public bodies and government enterprises
+
+*CQLR c G-1.03*
+
+*Updated to 2026-05-01*
+
+## I — OBJECT AND SCOPE
+
+**1** The object of this Act is to establish a framework for the governance and management of information resources applicable to public bodies and government enterprises that focuses specifically on
+
+(1) offering individuals and enterprises simplified, integrated and quality services based on information technologies, including digital technologies, while ensuring the preservation of government digital heritage;
+
+(2) optimizing the management of information resources and public services by encouraging pooling, among other things, of know-how, information, systems, infrastructures and resources;
+
+(3) ensuring proper protection of the information resources of public bodies used to support the delivery of the State’s public services or the carrying out of its missions;
+
+(4) establishing optimal governance and management of digital government data to simplify access to public services by individuals and enterprises, better support government action, increase the performance and resilience of the public administration and enhance the quality and protection of such data;
+
+(5) coordinating public bodies’ digital transformation initiatives to offer fully digital public services;
+
+(6) ensuring rigorous and transparent management of the amounts allocated to information resources;
+
+(7) promoting the use of best practices in the governance and management of information resources and the development of government expertise in information technologies, including digital technologies; and
+
+(8) fostering the implementation of guidelines and strategies common to all public bodies.
+
+**2** For the purposes of this Act, the following are public bodies, which form the Public Administration for the purposes of this Act:
+
+(1) government departments;
+
+(2) the budget-funded bodies listed in Schedule 1 to the Financial Administration Act (chapter A-6.001), except those referred to in subparagraph 5, and the Sûreté du Québec;
+
+(3) the bodies other than budget-funded bodies listed in Schedule 2 to that Act, except those referred to in subparagraph 5, as well as the Commission des normes, de l’équité, de la santé et de la sécurité du travail, Retraite Québec and the Société de l’assurance automobile du Québec in the performance of its fiduciary functions;
+
+(4) school service centres, school boards and the Comité de gestion de la taxe scolaire de l’île de Montréal;
+
+(4.1) general and vocational colleges and the educational institutions at the university level listed in paragraphs 1 to 11 of section 1 of the Act respecting educational institutions at the university level (chapter E-14.1);
+
+(5) Santé Québec, the institutions referred to in Schedule II to the Act respecting the governance of the health and social services system (chapter G-1.021), the health and social services network insurance manager referred to in section 788 of that Act, the public institutions governed by the Act respecting health services and social services for the Inuit and Naskapi (chapter S-4.2), the Nunavik Regional Board of Health and Social Services established under section 530.25 of that Act, the Cree Board of Health and Social Services of James Bay established under the Act respecting health services and social services for Cree Native persons (chapter S-5), health communication centres within the meaning of the Act respecting pre-hospital emergency services (chapter S-6.2), the Health and Welfare Commissioner, Urgences-santé, Héma-Québec, the Institut national d’excellence en santé et en services sociaux, the Institut national de santé publique du Québec, the Office des personnes handicapées du Québec and the Régie de l’assurance maladie du Québec; and
+
+(6) other bodies designated by the Government.
+
+Persons designated or appointed by the Government or a minister and listed in Schedules 1 and 2 to the Financial Administration Act, together with the personnel directed by them, are considered to be budget-funded bodies and bodies other than budget-funded bodies, respectively, in the exercise of the functions assigned to them by law or by the Government or the Minister.
+
+**3** The National Assembly, a person appointed or designated by the National Assembly to an office under its jurisdiction together with the personnel directed by that person, and the Commission de la représentation, are not subject to this Act except to the extent provided for by law.
+
+**4** For the purposes of this Act, **government enterprises** means the bodies listed in Schedule 3 to the Financial Administration Act (chapter A-6.001), the Caisse de dépôt et placement du Québec and the Commission de la construction du Québec.
+
+**5** The Government may, on the recommendation of the Minister of Cybersecurity and Digital Technology, exempt a public body or category of public bodies referred to in section 2 or a government enterprise referred to in section 4 from all or part of this Act.
+
+It may also, on the joint recommendation of the Minister of Cybersecurity and Digital Technology and the minister responsible for the administration of the Act governing a government enterprise referred to in section 4, determine that all or part of the provisions of Chapter II.2, of the provisions of any regulation made under section 22.1.1 or of the guidelines, strategies, policies, standards, directives, rules or application instructions related to information security made under this Act apply to such an enterprise, on the conditions it determines.
+
+**5.1** A public body must apply the guidelines, strategies, policies, standards, directives, rules and application instructions made under this Act.
+
+The responsibility for ensuring that that obligation is complied with is incumbent on the chief executive officer of the public body, who must take measures to make the obligation known to the body’s personnel members and to ensure that they comply with it.
+
+For the purposes of this Act, the chief executive officer of the public body is the person having the highest administrative authority, such as the deputy minister, the president, the director general or any other person responsible for the day-to-day management of the body. However, in the case of a public body referred to in subparagraph 4 or 4.1 of the first paragraph of section 2, the chief executive officer of the body is the board of governors or, in the case of a school board governed by the Education Act for Cree, Inuit and Naskapi Native Persons (chapter I-14), the council of commissioners.
+
+## II — CHIEF INFORMATION OFFICER AND INFORMATION OFFICERS
+
+### I — CHIEF INFORMATION OFFICER
+
+**6** The Deputy Minister of the Ministère de la Cybersécurité et du Numérique acts as chief information officer.
+
+**7** The functions of the chief information officer include
+
+(0.1) developing, and submitting to the Minister, an overall vision for information resources, including for the digital transformation of the Public Administration, and proposing the means for its implementation;
+
+(0.2) facilitating a good match between, on the one hand, government priorities and the priorities of public bodies and, on the other hand, the possibilities offered by information resources in terms of supporting those bodies’ transformation projects and day-to-day activities;
+
+(1) implementing the policies and directives made under this Act, overseeing their application and coordinating their execution;
+
+(1.1) making and sending to public bodies application instructions with respect to information resources with which the public bodies must comply;
+
+(2) advising the Minister on all aspects of information resources, in particular with regard to strategies, policies, budgets, management frameworks, standards, systems and acquisitions, and to human resources in relation to those information resources, and making recommendations on those matters;
+
+(3) proposing to the Minister an investment and expenditure plan, described in section 16.1, for the information resources of public bodies and any other planning document requested by the Minister;
+
+(4) coordinating the implementation of information resource initiatives, particularly those aimed at organizational transformation and, more specifically, those aimed at achieving a digital public administration centred on the needs of individuals, enterprises and public bodies;
+
+(5) rethinking and modernizing government enterprise architecture, in particular with regard to information security, information assets and information management;
+
+(6) (paragraph repealed);
+
+(7) disseminating best practices and innovative solutions and approaches with respect to information resources among public bodies and government enterprises, and informing the Minister of the results observed and the benefits obtained;
+
+(7.1) developing expertise with respect to information resources, in particular information security, digital transformation and information technologies, including digital technologies, so as to offer services, advice or support to public bodies and to strengthen the State’s know-how in such matters;
+
+(8) taking the necessary measures to ensure that public bodies consider all the technologies offering potential savings or benefits, or the pooling or sharing of such technologies, as well as development or acquisition models available to meet their needs, including open-source software;
+
+(9) publishing guides, proposing practices and offering services to support public bodies and government enterprises with respect to their information resources; and
+
+(10) exercising any other function assigned by the Minister or by the Government.
+
+For the purposes of this Act, **application instruction** means any instruction given in writing that is related to the carrying out of activities, the fulfillment of responsibilities or the application of measures with respect to information resources.
+
+**7.1** The chief information officer acts, for the Public Administration, as
+
+(1) government chief information security officer, by assuming the responsibilities under section 12.6;
+
+(2) government chief digital transformation officer, by assuming the responsibilities under section 12.9; and
+
+(3) government digital data manager, by assuming the responsibilities under section 12.12.
+
+**7.2** The chief information officer may delegate, in writing, a function, a power or a responsibility provided for in or arising from this Act to a person under the officer’s direction. The chief information officer may, in the instrument of delegation, authorize the subdelegation of any of the functions, powers or responsibilities the chief information officer specifies.
+
+### II — INFORMATION OFFICERS
+
+**8** The incumbent minister of a department designates, from among the members of the management personnel who report directly to his or her deputy minister and after a recommendation from the chief information officer, an information officer for the department and all the other public bodies within the Minister’s portfolio.
+
+However, the Minister may, on the recommendation of the minister responsible for a body referred to in the first paragraph, authorize the body to designate its own information officer. In such a case, the designation is made by the chief executive officer of the public body after a recommendation from the chief information officer. As of that designation, no information officer designated in accordance with the first paragraph performs functions for that public body.
+
+**8.1** (Repealed).
+
+**9** Despite the first paragraph of section 8, a minister may, after consultation with the chief information officer, enter with another minister into an agreement under which the information officer designated by the latter under that paragraph is to also act as information officer for the minister’s department and for the other public bodies under the minister’s responsibility.
+
+**10** An information officer designated under the first paragraph of section 8 and attached to the public bodies referred to in subparagraph 4, 4.1 or 5 of the first paragraph of section 2 may be designated as “network information officer”.
+
+**10.1** The functions of an information officer include
+
+(1) ensuring that each public body to which the information officer is attached applies the guidelines, strategies, policies, standards, directives, rules and application instructions made under this Act;
+
+(2) coordinating and promoting organizational transformation within each of those bodies;
+
+(3) reporting to the chief information officer on the progress and results of the information resource projects of each of those bodies and on compliance with the obligations under this Act;
+
+(4) ensuring, if the information officer is attached to two or more public bodies, the consolidation of the planning tools produced by those bodies;
+
+(5) participating in the governance committee established under section 12.1;
+
+(6) advising the chief executive officer of each public body to which the information officer is attached on all aspects of information resources, in particular as regards innovative approaches and solutions that could meet its needs;
+
+(7) defining, as necessary and in keeping with the rules established in accordance with this Act, specific information management rules, including information security rules, which, after being approved by the Minister, will be applicable to all or some of the public bodies to which the information officer is attached;
+
+(8) taking the necessary measures to ensure that the bodies to which the information officer is attached consider all the technologies offering potential savings or benefits or the pooling or sharing of such technologies, as well as the development or acquisition models available to meet their needs, including open-source software;
+
+(9) ensuring the longevity of the information assets of the public bodies to which the information officer is attached;
+
+(9.1) acting as deputy chief information security officer by assuming the responsibilities under section 12.7;
+
+(9.2) acting as delegated manager of government digital data by assuming the responsibilities under section 12.13, except where the incumbent minister of the department to whom the delegated manager reports or the chief executive officer of a public body who is so authorized by the Minister designates another person as delegated manager of government digital data, following the rules set out in section 8 for the designation of the information officer, with the necessary modifications; and
+
+(10) exercising any other function required under this Act.
+
+The specific rules defined in accordance with subparagraph 7 of the first paragraph by the information officer designated by the Minister of Health and Social Services may, in the cases provided for in an Act administered by that minister, also apply to bodies and persons in the health and social services network. That information officer also exercises any functions required under such an Act.
+
+**10.2** If the chief information officer is of the opinion that an information officer is not exercising the information officer’s functions in accordance with the Act, the chief information officer may recommend to the person who designated the information officer that the information officer be replaced.
+
+### III
+
+**11** (Repealed).
+
+**12** (Repealed).
+
+## II.1 — GOVERNANCE COMMITTEE
+
+**12.1** A governance committee composed of the chief information officer and all the information officers is established. The mandate of the committee, which is chaired by the chief information officer, includes
+
+(0.1) recommending to the Minister the common technology infrastructure services and support system services that the Minister could provide;
+
+(1) developing guidelines to be proposed to the Minister;
+
+(2) ensuring concerted implementation of the guidelines determined by the Minister; and
+
+(3) identifying opportunities for optimizing, sharing and pooling information resource services and information assets, in particular by promoting their interoperability.
+
+## II.2 — INFORMATION SECURITY
+
+**12.2** Every public body must ensure the security of the information resources and the information that it holds or uses under the obligations governing it, in keeping with the guidelines, strategies, policies, standards, directives, rules and application instructions made under this Act.
+
+Where a public body becomes aware that an information resource or information under its responsibility is or has been the subject of a breach of confidentiality, availability or integrity, or that a risk of such a breach is apprehended, the body must take all measures to correct the impacts or reduce the risk of such a breach.
+
+If such a public body becomes aware or apprehends that an information resource or information of another public body may experience such a breach, the public body may communicate to the other public body any information, including personal information, considered necessary for correcting the impacts or reducing the risk of such a breach.
+
+**12.3** A public body must, at the request of the government chief information security officer, communicate to the officer without delay any information, including personal information, even if the information must be generated or its communication involves extraction operations, if such communication is necessary for taking measures to correct the impacts of a breach referred to in the second paragraph of section 12.2 or to reduce the risk of such a breach.
+
+**12.4** The Minister may use information referred to in section 12.3 to support public bodies if a breach or the risk of a breach referred to in the second paragraph of section 12.2 occurs, and the Minister has all the powers necessary to that end, including the power to enter into agreements, in accordance with the applicable legislative provisions, with any person or any body in Canada or abroad where the Minister considers it necessary to ensure information security.
+
+The Minister may communicate to those persons or bodies the information referred to in the first paragraph that is necessary to prevent, detect or reduce the impacts in the event of a breach or the risk of a breach.
+
+**12.5** The Minister maintains an administrative unit specialized in information security within the Ministère de la Cybersécurité et du Numérique. The unit is under the direction of the government chief information security officer.
+
+**12.5.1** The Minister may, by order, set out the obligation for a public body the Minister designates to call on his or her services to carry out cybersecurity activities, according to the conditions and procedures determined by the Minister.
+
+A public body whose information officer is designated in accordance with the second paragraph of section 8 and within which no administrative unit specialized in information security is maintained must call on the services offered by the Minister to carry out its cybersecurity activities. However, the public body need not use the services offered by the Minister if such services are provided by another public body under an agreement authorized by the Minister.
+
+**12.5.2** The Minister may, by any means, and for the purpose of supporting a public body if a breach or risk of a breach referred to in the second paragraph of section 12.2 occurs, order the body to remove from its infrastructures or from its systems any software, application or other information asset that the Minister determines.
+
+The power provided for in the first paragraph may only be exercised in either of the following cases:
+
+(1) the Minister considers that urgent action is immediately required in the area of cybersecurity or that there is a risk of irreparable harm to an information resource or to information under the responsibility of the public body concerned; or
+
+(2) the Minister considers that urgent action is required within a short period of time in the area of cybersecurity.
+
+In the case provided for in subparagraph 2 of the second paragraph, the Minister may exercise the power provided for in the first paragraph only following thorough and documented verification. In addition, the Minister may not exercise such a power without there first being a consultation between the government chief information security officer and the deputy chief information security officer attached to the body and without notifying the chief executive officer of the public body concerned beforehand of the Minister’s intention to do so.
+
+**12.6** The government chief information security officer assumes the following responsibilities:
+
+(1) directing government action with respect to information security;
+
+(2) recommending to the Minister rules to ensure information security, including authentication and identification rules, and targets applicable to public bodies with respect to information security;
+
+(3) establishing the government digital data security classification model based on the data’s nature, characteristics and use, and the rules governing them, and obtaining approval for the model from the Minister;
+
+(4) communicating expectations to public bodies with respect to information security and making application instructions for them;
+
+(4.1) making tools and best practices in that area available to public bodies and informing the Minister of the results observed;
+
+(4.2) conducting, according to the terms and conditions determined by the Minister, analyses concerning the security provided by an information asset or an information resource service, used or to be used in a public body’s systems and infrastructures, and providing the latter with an opinion concerning the estimated security level;
+
+(5) overseeing the implementation by public bodies of the information security obligations resulting from the application of this Act, seeing to compliance with those obligations and evaluating the measures taken by public bodies in that area;
+
+(6) reporting to the Minister, according to the conditions and procedures determined by the latter, on target results as well as on compliance with obligations and making any necessary recommendation; and
+
+(7) exercising any other function assigned by the Minister or by the Government.
+
+**12.7** A deputy chief information security officer assumes the following responsibilities with respect to the public bodies to which the deputy is attached:
+
+(1) supporting the government chief information security officer in taking responsibility for government action with respect to information security;
+
+(2) applying, under the direction of the government chief information security officer, the standards, directives, rules or application instructions related to information security made under this Act;
+
+(3) ensuring the protection of information resources and information, in particular by managing risks and vulnerabilities and by implementing measures to provide protection against any form of breach such as threats or cyber attacks;
+
+(4) taking any action required in the event of a breach of the protection of information resources and information;
+
+(5) making specific application instructions with respect to information security for those bodies;
+
+(6) overseeing the implementation of the information security obligations under this Act, seeing to compliance with those obligations and evaluating the measures taken by those bodies in that area; and
+
+(7) reporting on his or her management to the government chief information security officer and sending that officer any information required, according to the procedure determined by the Minister.
+
+If the provisions of an application instruction of the government chief information security officer made under paragraph 4 of section 12.6 are incompatible with the provisions of an application instruction of the deputy chief information security officer made under subparagraph 5 of the first paragraph concerning the same object, the provisions of the former prevail.
+
+## II.3 — DIGITAL TRANSFORMATION
+
+**12.8** A public body must, in accordance with the guidelines defined by the Minister concerning digital transformation initiatives establish a digital transformation plan and send it to the government chief digital transformation officer.
+
+The Minister determines the information to be included in the plan, the period it covers, its form and the intervals at which it must be reviewed.
+
+The Minister may ask a public body to make any amendment to its digital transformation plan that the Minister considers necessary to ensure it is consistent with the government digital transformation strategy.
+
+**12.8.1** Each year, the Minister proposes to the Government, within 60 days after the investment and expenditure plan for the information resources of public bodies referred to in section 16.1 is tabled in the National Assembly, a portfolio of priority information resource projects in order to establish government priorities as regards public bodies’ digital transformation initiatives.
+
+Subject to obtaining the authorizations required in accordance with this Act, a public body must give priority to the carrying out of any project included in the government priorities and for which the body is responsible.
+
+The Minister may make a directive specifying guidelines regarding prioritization criteria for public bodies’ information resource projects and establishing rules to ensure centralized governance of priority projects portfolio management, including as regards project follow-up.
+
+A directive made under this section must be approved by the Government and is applicable on the date specified in the directive. Once approved, the directive is binding on the public bodies concerned and the rules it establishes apply to those bodies in addition to the rules already applicable to them under this Act, in particular as regards reporting and audits.
+
+**12.8.2** The Minister presents to the Government, at the time the Minister considers appropriate, a consolidation of the progress reports on the information resource projects of public bodies included in the portfolio of priority projects.
+
+**12.9** The government chief digital transformation officer assumes the following responsibilities:
+
+(1) advising the Minister with respect to digital transformation, in particular by proposing guidelines, strategies, action plans and initiatives for optimizing and simplifying the services offered to individuals and enterprises, supporting the State’s missions and increasing the Public Administration’s performance;
+
+(2) making tools, services and expertise for supporting digital transformation available to public bodies;
+
+(3) presenting a portfolio of priority projects to the Minister every year for accelerating the Public Administration’s digital transformation;
+
+(3.1) keeping up to date a consolidation of the progress reports on the information resource projects of public bodies included in the portfolio of priority projects;
+
+(4) evaluating action taken by public bodies to achieve the Government’s digital transformation vision, in particular on the basis of information collected from the bodies and by conducting any appropriate follow-ups; and
+
+(5) (paragraph repealed);
+
+(6) exercising any other function assigned by the Minister or by the Government.
+
+## II.4 — GOVERNMENT DIGITAL DATA
+
+### I — GENERAL PROVISIONS
+
+#### 1 — Principles and definitions
+
+**12.10** Government digital data constitute a strategic information asset of the Government’s digital heritage. The data’s mobility and valorization within the Public Administration for administrative or public service purposes, taking into account their nature, characteristics and the access and protection rules which otherwise govern them, are of government-wide interest.
+
+For the purposes of this Act,
+
+(1) **government digital data** means any information inscribed on a technological medium, including a digital medium, held by a public body, excluding
+
+(a) information under the control of a court of justice or another public body exercising adjudicative functions; and
+
+(b) any information or category of information determined by Government regulation, in particular information that may be covered by a restriction to the right of access under the Act respecting Access to documents held by public bodies and the Protection of personal information (chapter A-2.1);
+
+(2) **administrative or public service purposes** means any of the following purposes:
+
+(a) the optimization or simplification of services offered to citizens or enterprises;
+
+(b) support to the various missions of the State, to the provision by more than one public body of common services or to the carrying out of missions common to more than one public body;
+
+(c) the accomplishment of a mandate assigned under an Act or a government-wide initiative;
+
+(d) the planning, management, assessment or control of resources, programs or government services;
+
+(e) the production of information in support of the decision-making of a minister or the Government; or
+
+(f) the verification of a person’s eligibility to a program or measure;
+
+(g) (subparagraph repealed);
+
+(3) **mobility** means the communication or transmission of government digital data between public bodies for an administrative or public service purpose;
+
+(4) **valorization** means the development of government digital data within the Public Administration for an administrative or public service purpose, excluding sale of the data or any other form of alienation.
+
+The first paragraph must not be interpreted as having the effect of changing public bodies’ obligations in respect of personal information that they hold or a person’s rights in respect of such information.
+
+**12.11** The powers conferred by this chapter must be exercised in a manner consistent with respecting the right to privacy and the principle of transparency and with promoting public confidence in measures to ensure the security, confidentiality, availability and integrity of government digital data.
+
+#### 2 — Management of government digital data
+
+**12.12** The government digital data manager assumes the following responsibilities:
+
+(1) advising the Minister with regard to government digital data, in particular regarding their mobility and valorization;
+
+(2) keeping up to date a consolidation of the inventories of such data that public bodies must keep in accordance with the regulation made under paragraph 1 of section 12.21 and identifying the data that have a mobility or valorization potential;
+
+(3) developing and implementing data mobility or valorization strategies;
+
+(4) authorizing, for any administrative or public service purpose specified in an order made under section 12.14, the mobility or valorization of the government digital data concerned in keeping, as applicable, with the mobility or valorization strategies;
+
+(5) ensuring the application of the data security classification model established by the government chief information security officer under paragraph 3 of section 12.6, and of the quality standards for government digital data determined by the Government under paragraph 2 of section 12.21;
+
+(6) controling the quality of government digital data and the measures ensuring their security and requiring for that purpose any information the manager considers necessary from the public bodies holding the data;
+
+(7) seeing to the application of the rules or measures established by the Government under paragraphs 4 and 5 of section 12.21;
+
+(8) supporting and assisting public bodies and delegated managers for government digital data in public bodies in implementing the obligations provided for in this chapter;
+
+(8.1) proposing strategies to the Minister to foster an open government approach and seeing that they are implemented; and
+
+(9) exercising any other function assigned by the Minister or the Government.
+
+Every public body must send the government digital data manager, within the time and in accordance with the terms determined by the latter, the information required to carry out the consolidation referred to in subparagraph 2 of the first paragraph.
+
+**12.13** A delegated manager for government digital data assumes, in respect of the public bodies to which the manager is attached, the following responsibilities:
+
+(1) supporting those bodies in applying the provisions of this Chapter;
+
+(2) supporting the government digital data manager in the exercise of his or her responsibilities; and
+
+(3) applying any application instruction made by the chief information officer under paragraph 1.1 of section 7, or any rule or measure made by the Government under paragraphs 4 and 5 of section 12.21.
+
+#### 3 — Official source of government digital data
+
+**12.14** The Government may, on the joint recommendation of the Minister and the minister responsible for the public body holding the government digital data concerned, designate a public body to act as an official source of government digital data.
+
+An official source of government digital data collects, uses or communicates government digital data, or collects information, including personal information, from any person, where necessary for an administrative or public service purpose. An official source of government digital data must ensure the coherence and quality of the data concerned, and public bodies are required to collect such data from that source and use them or to communicate them to the source.
+
+The Government specifies the government digital data concerned and the administrative or public service purposes for which such data may be the subject of a mobility or valorization authorization. It may exempt a public body or category of public bodies from the obligation to collect data from an official source of government digital data, to use them or to communicate them to that source.
+
+### II — SPECIAL PROVISIONS FOR PERSONAL INFORMATION
+
+**12.15** Government digital data that include personal information are communicated by any public body to an official source of government digital data where such communication is necessary for the purposes specified in an order made pursuant to section 12.14. Such purposes must be in the public interest or for the benefit of the persons concerned.
+
+Such data are communicated by an official source of government digital data to another public body where such communication is necessary for the purposes specified in such an order.
+
+When such data may be used or communicated in a form that does not allow direct identification of the person concerned, they must be used or communicated in that form.
+
+**12.16** The public body designated as an official source of government digital data must, before collecting, using or communicating personal information in the exercise of its function,
+
+(1) make an evaluation of the privacy factors and send the evaluation to the Commission d’accès à l’information; and
+
+(2) establish rules for its governance in respect of personal information and send them to the Commission.
+
+The rules must include rules applicable to the preservation and destruction of the personal information concerned, the roles and responsibilities of the public body’s personnel members with regard to such information over the course of its life cycle and a procedure for dealing with complaints regarding personal information protection.
+
+**12.17** The public body designated as an official source of government digital data must, for the purposes of this division, submit to the Commission d’accès à l’information a report on the personal information collected, used or communicated within 45 days after the end of each fiscal year containing
+
+(1) a description of the personal information collected or the personal information communicated to the public body and its origin;
+
+(2) the names of the public bodies to which personal information is communicated;
+
+(3) a description of the purposes for which the personal information is collected, used or communicated;
+
+(4) a description of the terms for the communication of the personal information; and
+
+(5) a description of the measures to ensure the protection of the personal information.
+
+**12.18** A public body designated as an official source of government digital data makes public on its website, in a section dedicated to that function, the rules referred to in subparagraph 2 of the first paragraph of section 12.16 and the report referred to in section 12.17. It must promptly send copies of those documents to the government digital data manager.
+
+**12.19** Any person to whom or body to which personal information is communicated by a body designated as an official source of government digital data or by another public body referred to in an order made under section 12.14, in the context of a mandate or contract related to carrying out an administrative or public service purpose specified in such an order and entrusted to the person or body in accordance with section 67.2 of the Act respecting Access to documents held by public bodies and the Protection of personal information (chapter A-2.1), must submit to an external audit aimed at ensuring compliance with the highest standards and best practices in matters of information security and protection of such information.
+
+The Minister may determine the cases and circumstances in which the first paragraph does not apply, and makes the criteria leading to the decision public.
+
+### III — OTHER PROVISIONS
+
+**12.20** The government digital data manager may entrust a public body with the mandate to circulate open data or a dataset in an open document format.
+
+The public body entrusted with the mandate referred to in the first paragraph must circulate such data or dataset on its website or on another site indicated by the government digital data manager, in accordance with the terms determined by the manager.
+
+The terms may, in particular, pertain to the quality of the data, the required formats for their circulation, the main elements to be documented or other compliance rules. Where the terms include rules for the use of the data or dataset, including any secondary use, the terms are binding on public bodies.
+
+**12.21** The Government may, by regulation,
+
+(1) determine the terms governing the keeping of government digital data inventories by public bodies;
+
+(2) determine quality standards for government digital data based on their nature, characteristics, use and their mobility and valorization potential, as well as, if applicable, special protection standards for those data;
+
+(3) exclude categories of data for the application of this chapter;
+
+(4) determine rules for the mobility or valorization authorization referred to in subparagraph 4 of the first paragraph of section 12.12 given by the government digital data manager and rules applicable to public bodies covered by such an authorization; and
+
+(5) prescribe any other measure necessary for the application of this chapter.
+
+## III — PUBLIC BODY PLANNING AND MANAGEMENT
+
+### I — PLANNING
+
+**13** For the purposes of the development of government-wide information resource planning, a public body must
+
+(1) establish, in keeping with the guidelines determined under the second paragraph of section 21, an information resource strategy that sets out its digital transformation plan, its risk management practices and any other information prescribed by the Minister;
+
+(2) establish an information resource investment and expenditure program;
+
+(3) compile and keep up to date an inventory of its information assets, including an evaluation of their condition;
+
+(4) provide a portrait of the workforce assigned to information resources and of the use of consultants assigned to the same;
+
+(5) describe how amounts allocated to information resource investments and expenditures will be used; and
+
+(6) produce any other planning tool determined by the Minister.
+
+**14** A public body must send or otherwise make available to the chief information officer and the information officer attached to the public body the planning tools produced under section 13.
+
+**15** The information officer must give an advisory opinion to the chief information officer and to each of the public bodies concerned, particularly as regards compliance with the guidelines determined under the second paragraph of section 21 and as regards possible avenues for optimization.
+
+The information officer must also send to the chief information officer the documentation prescribed by the latter and provide a copy to the minister responsible for each body for information purposes.
+
+**16** The Minister must determine conditions and procedures relating to the planning tools to be produced under section 13 and the documents to be produced by the information officer under section 15, which may, in particular, pertain to the period they are to cover, their required content and form, the deadlines by which they must be sent and, if applicable, the intervals at which they must be reviewed.
+
+When such conditions and procedures are to apply to the planning tools and documents of the public bodies referred to in any of subparagraphs 4, 4.1 and 5 of the first paragraph of section 2, they are determined after consultation with the minister responsible for those bodies.
+
+**16.1** Each year, the Minister must send to the Chair of the Conseil du trésor an investment and expenditure plan for the information resources of public bodies that includes
+
+(1) a description of the contribution of information resources to State activities and of how the strategies referred to in paragraph 1 of section 13 are aligned with the guidelines determined under the second paragraph of section 21;
+
+(2) information on the information resource investments and expenditures that public bodies plan to make;
+
+(3) information on information resource projects whose estimated total cost is greater than the threshold determined by the Government and on other projects that are of government-wide interest; and
+
+(4) an inventory of the information assets of public bodies, including an evaluation of their condition.
+
+The investment and expenditure plan for the information resources of public bodies is attached to the estimates of expenditures tabled in the National Assembly under section 45 of the Public Administration Act (chapter A-6.01).
+
+### II — MANAGEMENT OF INFORMATION RESOURCE PROJECTS
+
+**16.2** A public body must comply with the project management conditions and procedures determined by the Government, on a proposal of the Minister and on the recommendation of the Chair of the Conseil du trésor, relating to the stages a project must go through and the required opinions and authorizations. The Government also determines the types of projects that must be authorized and the authority responsible for authorizing a project or a phase of a project, which authorization may vary according to the costs of the project, its complexity and the risks it involves.
+
+Such a body must also comply with the conditions and procedures determined by the Minister concerning the criteria to be considered for granting authorizations and for project follow-up. Those conditions and procedures may, in particular, pertain to the type of documents to be produced, their required content and form, and the deadlines by which they must be sent.
+
+If the conditions and procedures relate to the management of projects carried out by the public bodies referred to in any of subparagraphs 4, 4.1 and 5 of the first paragraph of section 2 or by a body having its own information officer in accordance with the second paragraph of section 8, they must be determined after consultation with the minister responsible for the body.
+
+The Government may also allow the decision-making authority to delegate its power of authorization.
+
+**16.3** For the purposes of this Act, an information resource project consists in all the actions taken to develop, acquire, update or replace an information asset or information resource service. It is considered to be of “government-wide interest” if it is designated as such by the Government or if it involves the designation of a public body to act as an official source of government digital data under section 12.14.
+
+However, a technology research and development project carried out in the context of teaching or research under the direction of a professor, researcher, senior lecturer, student, intern, technician or research professional at a university institution referred to in subparagraph 4.1 of the first paragraph of section 2 is not an information resource project.
+
+**16.3.1** To ensure adequate monitoring of an information resource project, the chief information officer may give a public body any opinion the officer considers appropriate concerning the acquisition strategy relating to such a project. The officer may also require from such a body any information relating to that acquisition strategy.
+
+**16.4** The chief information officer may require a public body to report on such aspects of an information resource project as the chief information officer determines.
+
+**16.5** The Minister may impose support measures, such as the assistance of a monitoring committee, on a public body with respect to a project.
+
+A public body on which support measures are imposed must send or otherwise make available to any person responsible for applying those measures any document or information that person considers necessary.
+
+**16.6** The chief information officer must periodically publish a report on the information resource projects of public bodies that meet the criteria determined by the Minister.
+
+### III — REPORTING
+
+**16.6.1** A public body must send the Minister or the chief information officer any information and any report they require concerning its information resource activities.
+
+It must also send to the government chief digital transformation officer, the government chief information security officer or the government digital data manager any information and any report they require concerning its activities related to their respective fields of jurisdiction.
+
+**16.6.2** A public body must, not later than 10 June 2023 and subsequently every five years, carry out an audit on compliance with the information security obligations under this Act.
+
+**16.6.3** The Minister may, where warranted by the situation and on the recommendation of the chief information officer, establish control mechanisms and carry out audits to ensure that the objectives of this Act are achieved.
+
+In particular, the Minister may require a public body to establish an evaluation program or an internal audit program, or carry out a comparative cost study.
+
+**16.7** Each public body must report on the contribution of information resources to the achievement of its mission, in particular by describing the impact of such resources on the performance of its organization.
+
+The Minister determines reporting conditions and procedures. Such conditions and procedures may, in particular, pertain to the required content and form of the report, the deadline by which it must be filed and, if applicable, the intervals at which it must be reviewed.
+
+Such a report must be made public every year.
+
+## IV — GOVERNEMENT-ENTERPRISE PLANNING AND MANAGEMENT
+
+**17** Government enterprises must adopt, within the time set by the Minister, an information resource governance and management policy that reflects the objectives of this Act and provides, among other things, for the implementation of planning and management tools similar to those provided for in Chapter III.
+
+Those enterprises must make their policy public within 30 days after adopting it.
+
+**18** A government enterprise must provide the chief information officer with information on its information assets and its information resource projects that meet the criteria determined by the Minister, and any other information determined by the Minister. However, the Minister may not require information if the enterprise shows that its release would likely reveal an investment strategy or substantially reduce the enterprise’s competitive margin.
+
+That information must be provided in accordance with the conditions and in the manner determined by the Minister.
+
+## V — SPECIFIC RESPONSIBILITIES
+
+**19** The Minister is responsible for developing policies on information resource governance and management and proposing them to the Government.
+
+The Minister assumes the leadership of the Public Administration’s digital transformation and cybersecurity.
+
+**19.1** The Minister may communicate expectations to public bodies regarding digital transformation.
+
+**19.2** The Minister may develop means to reinforce digital sovereignty in the governance and management of information resources, in particular as regards government digital data that contain sensitive personal information within the meaning of the third paragraph of section 59 of the Act respecting Access to documents held by public bodies and the Protection of personal information (chapter A-2.1).
+
+**20** In addition to exercising the powers conferred upon it by this Act, the Minister may prepare an information resource governance and management directive applicable to public bodies or to a category of public bodies.
+
+Without limiting the generality of the foregoing, the directive may
+
+(1) provide for rules to ensure the security of information resources, which includes the protection of personal and other confidential information;
+
+(2) provide for measures to ensure coherence in government actions and to allow the pooling of information resource services and information assets, and determine management procedures;
+
+(3) (paragraph repealed).
+
+**21** The Minister may determine information resource standards for public bodies or for a category of public bodies.
+
+It may also determine guidelines pertaining to the principles or practices to be applied in information resource management, including practices to optimize work organization and the necessity of considering all the technologies offering potential savings or benefits and all the development or acquisition models available to meet the needs of public bodies, including open-source software.
+
+**22** Despite any provision to the contrary in another Act, the Government may, on the recommendation of the Minister and under the conditions it determines, confer on a public body the Government designates, the responsibility of carrying out all or part of a public body’s information resource project.
+
+The decision of the Government must provide for, among other things, the remuneration of the designated public body.
+
+The designated public body may require that the public body affected by the decision provide it with the documents and information concerning the project.
+
+**22.1** The Government may, on the conditions it determines and on the recommendation of the Minister, require
+
+(1) that a public body use an information resource service of the Minister or of a public body it designates; and
+
+(2) that the information assets of a public body and all the resulting obligations, including lease-related obligations, be transferred to a body designated under subparagraph 1.
+
+The application of the first paragraph does not transfer ownership of personal information to the designated body or change the applicable confidentiality rules.
+
+This section does not apply to administrative bodies established to exercise adjudicative functions.
+
+**22.1.1** The Government prescribes by regulation the terms and conditions of application of sections 12.2 to 12.4. The regulation must, in particular, specify the procedures and the grounds for communications between the government chief information security officer or the deputy chief information security officer and a public body whose resources or information have been the subject of a breach referred to in the second paragraph of section 12.2 or are at risk of such a breach, as well as the conditions for providing proper protection of personal information communicated abroad under section 12.4.
+
+## V.1 — AUDIT
+
+**22.2** The Minister may, if he or she considers it advisable, verify whether a public body complies with the provisions of this Act. The audit may verify, among other things, whether the public body’s actions comply with this Act and with the guidelines, standards, strategies, directives, rules and application instructions made under this Act.
+
+The Minister may designate in writing a person to conduct the audit.
+
+**22.3** At the request of the Minister or the person designated to conduct the audit, the public body being audited must send or otherwise make available to the Minister or the designated person all documents and information considered necessary to conduct the audit.
+
+**22.4** The Minister makes any recommendations the Minister may have to the minister responsible for the body being audited. The ministers may jointly require the public body to take corrective measures, conduct any appropriate follow-up or comply with any other measure they determine, including oversight or support measures. The ministers may also jointly recommend to the authority responsible for authorizing a project or a phase of a project the suspension or termination of the project. All or part of the amount intended for such a body may also be retained or cancelled by the minister responsible, on the recommendation of the Conseil du trésor.
+
+## VI — AMENDING PROVISIONS
+
+**PUBLIC ADMINISTRATION ACT**
+
+**23** (Amendment integrated into c. A-6.01, s. 24).
+
+**24** (Omitted).
+
+**25** (Amendment integrated into c. A-6.01, s. 72).
+
+**26** (Amendment integrated into c. A-6.01, s. 74).
+
+**27** (Amendment integrated into c. A-6.01, s. 77.1).
+
+**ACT RESPECTING THE NATIONAL ASSEMBLY**
+
+**28** (Amendment integrated into c. A-23.1, s. 110.2).
+
+**ACT RESPECTING PARENTAL INSURANCE**
+
+**29** (Amendment integrated into c. A-29.011, s. 115.14).
+
+**ACT RESPECTING THE COMMISSION ADMINISTRATIVE DES RÉGIMES DE RETRAITE ET D’ASSURANCES**
+
+**30** (Omitted).
+
+**31** (Amendment integrated into c. C-32.1.2, s. 10).
+
+**ELECTION ACT**
+
+**32** (Amendment integrated into c. E-3.3, s. 488.2).
+
+**ACT RESPECTING THE MINISTÈRE DES SERVICES GOUVERNEMENTAUX**
+
+**33** (Amendment integrated into c. M-26.1, s. 3).
+
+**34** (Omitted).
+
+**35** (Amendment integrated into c. M-26.1, s. 6).
+
+**PUBLIC PROTECTOR ACT**
+
+**36** (Amendment integrated into c. P-32, s. 35.1).
+
+**ACT RESPECTING OCCUPATIONAL HEALTH AND SAFETY**
+
+**37** (Omitted).
+
+**38** (Amendment integrated into c. S-2.1, s. 176.0.1).
+
+**ACT RESPECTING THE SOCIÉTÉ DE L’ASSURANCE AUTOMOBILE DU QUÉBEC**
+
+**39** (Amendment integrated into c. S-11.011, s. 23.0.15).
+
+**AUDITOR GENERAL ACT**
+
+**40** (Amendment integrated into c. V-5.01, s. 67).
+
+## VII — MISCELLANEOUS, TRANSITIONAL AND FINAL PROVISIONS
+
+**40.1** The conditions, procedures and other elements determined by the Minister for the purposes of this Act may vary depending on the public body and, if applicable, the government enterprise.
+
+**41** A person who is exercising the functions of chief information officer on 12 June 2011 continues to exercise those functions until appointed or replaced under this Act.
+
+**42** Despite section 11, a person who, on 12 June 2011, is a person in authority in a public body referred to in that section and whose functions are mainly related to information resources is designated, without further formality, the first sectoral information officer of that body.
+
+**43** The obligation of a public body to establish and obtain approval for its information resource spending program for a fiscal year applies to fiscal years beginning more than 90 days after 13 June 2011.
+
+**44** The obligation of a public body to obtain authorization for an information resource project that satisfies the criteria determined by the Conseil du trésor does not apply to projects in progress on 13 June 2011.
+
+**45** Any decision about information resources made by the Conseil du trésor under section 66 or 74 of the Public Administration Act (chapter A-6.01) continues to apply to the extent that it is not inconsistent with this Act or with a directive or policy drawn up under this Act, until the decision is replaced by a decision on the same subject made under this Act.
+
+**46** A policy on the security and management of information resources that is in force in a public body on 13 June 2011 continues to apply to the extent that it is not inconsistent with this Act or with a directive or policy drawn up under this Act.
+
+**47** Not later than 13 June 2016, and subsequently every five years, the Minister must report to the Government on the carrying out of this Act and the advisability of maintaining it in force or amending it.
+
+The report must be tabled in the National Assembly within 30 days or, if the Assembly is not sitting, within 30 days of resumption.
+
+**47.1** This Act may be cited as the Act respecting information resources.
+
+**48** The Minister of Cybersecurity and Digital Technology is responsible for the administration of this Act.
+
+**49** (Omitted).

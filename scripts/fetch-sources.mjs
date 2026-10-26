@@ -14,6 +14,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { ADAPTERS } from './source-fetch/adapters.mjs';
 import { contentCheck, sha256 } from './source-fetch/lib.mjs';
+import { archivePriorVersion, failedFetchMetadata } from './source-fetch/history.mjs';
 import { REGISTRY } from './source-fetch/registry.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -49,33 +50,42 @@ async function run(entry) {
   const sources = [];
   try {
     for (const part of entry.parts) {
-      const { text, url } = await ADAPTERS[part.kind](part);
+      const { text, url, requestedUrl, finalUrl, versionDate } = await ADAPTERS[part.kind](part);
       texts.push(part.label ? `${part.label}\n\n${text}` : text);
-      sources.push({ url, kind: part.kind });
+      sources.push({
+        url,
+        kind: part.kind,
+        ...(requestedUrl ? { requestedUrl } : {}),
+        ...(finalUrl ? { finalUrl } : {}),
+        ...(versionDate ? { versionDate } : {}),
+      });
     }
     const text = texts.join('\n\n────────────────────────────────────────\n\n');
     const check = contentCheck(text, entry.expect);
     const file = `${entry.id}.txt`;
+    const textSha256 = sha256(text);
+    const history = await archivePriorVersion({ outDir, id: entry.id, previous: prev, nextSha256: textSha256 });
     await writeFile(path.join(outDir, file), text);
     manifest.entries[entry.id] = {
       status: 'fetched',
       file,
       chars: text.length,
-      sha256: sha256(text),
+      sha256: textSha256,
       retrievedAt: new Date().toISOString(),
       sources,
       contentCheck: check.result,
+      ...(history.length ? { history } : {}),
       ...(check.missing.length ? { missingPhrases: check.missing } : {}),
       ...(entry.note ? { note: entry.note } : {}),
     };
     console.log(`ok    ${entry.id.padEnd(36)} ${String(text.length).padStart(9)} chars  ${check.result}`);
   } catch (e) {
-    manifest.entries[entry.id] = {
+    manifest.entries[entry.id] = failedFetchMetadata(prev, {
       status: entry.status === 'blocked' ? 'blocked' : 'failed',
-      error: String(e.message ?? e).slice(0, 300),
-      ...(prev?.file ? { file: prev.file } : {}),
-      ...(entry.note ? { note: entry.note } : {}),
-    };
+      error: e.message ?? e,
+      attemptedAt: new Date().toISOString(),
+      note: entry.note,
+    });
     console.log(`FAIL  ${entry.id.padEnd(36)} ${String(e.message ?? e).slice(0, 110)}`);
   }
 }

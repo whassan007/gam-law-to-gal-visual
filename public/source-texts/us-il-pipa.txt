@@ -1,0 +1,650 @@
+|
+
+Home |
+
+Legislation & Laws |
+
+Senate |
+
+House |
+
+My Legislation |
+
+Site Map |
+
+|
+
+|
+
+Bills & Resolutions |
+
+Compiled Statutes |
+
+Public Acts |
+
+Legislative Reports |
+
+IL Constitution |
+
+Legislative Guide |
+
+Legislative Glossary |
+
+|
+
+Search By Number
+
+(example: HB0001) |
+
+|
+
+Search By Keyword |
+
+|
+
+|
+
+|
+
+Illinois Compiled Statutes
+
+Back to Act Listing Public Acts Search Guide Disclaimer Printer-Friendly Version
+
+Information maintained by the Legislative Reference Bureau
+
+Updating the database of the Illinois Compiled Statutes (ILCS) is an ongoing process. Recent laws may not yet be included in the ILCS database, but they are found on this site as Public Acts soon after they become law. For information concerning the relationship between statutes and Public Acts, refer to the Guide.
+
+Because the statute database is maintained primarily for legislative drafting purposes, statutory changes are sometimes included in the statute database before they take effect. If the source note at the end of a Section of the statutes includes a Public Act that has not yet taken effect, the version of the law that is currently in effect may have already been removed from the database and you should refer to that Public Act to see the changes made to the current law.
+
+BUSINESS TRANSACTIONS
+
+(815 ILCS 530/) Personal Information Protection Act.
+
+815 ILCS 530/1
+
+(815 ILCS 530/1)
+
+Sec. 1. Short title. This Act may be cited as the Personal Information Protection Act.
+
+(Source: P.A. 94-36, eff. 1-1-06.)
+|
+
+815 ILCS 530/5
+
+(815 ILCS 530/5)
+
+Sec. 5. Definitions. In this Act:
+
+"Data collector" may include, but is not limited to,
+government agencies, public and private universities,
+privately and publicly held corporations, financial
+institutions, retail operators, and any other entity that, for any purpose, handles, collects, disseminates, or otherwise
+deals with nonpublic personal information.
+
+"Breach of the security of the system data" or "breach" means
+unauthorized acquisition of computerized data that compromises the security, confidentiality, or integrity of personal information maintained by the data collector. "Breach of the security of the system data" does not include good faith
+acquisition of personal information by an employee or agent of
+the data collector for a legitimate purpose of the data
+collector, provided that the personal information is not used
+for a purpose unrelated to the data collector's business or
+subject to further unauthorized disclosure.
+
+"Health insurance information" means an individual's health insurance policy number or subscriber identification number, any unique identifier used by a health insurer to identify the individual, or any medical information in an individual's health insurance application and claims history, including any appeals records.
+
+"Medical information" means any information regarding an individual's medical history, mental or physical condition, or medical treatment or diagnosis by a healthcare professional, including such information provided to a website or mobile application.
+
+"Personal information" means either of the following:
+
+(1) An individual's first name or first initial and
+|
+
+|
+
+last name in combination with any one or more of the following data elements, when either the name or the data elements are not encrypted or redacted or are encrypted or redacted but the keys to unencrypt or unredact or otherwise read the name or data elements have been acquired without authorization through the breach of security:
+|
+
+|
+
+(A) Social Security number.
+
+(B) Driver's license number or State
+|
+
+|
+
+identification card number.
+|
+
+|
+
+(C) Account number or credit or debit card
+|
+
+|
+
+number, or an account number or credit card number in combination with any required security code, access code, or password that would permit access to an individual's financial account.
+|
+
+|
+
+(D) Medical information.
+
+(E) Health insurance information.
+
+(F) Unique biometric data generated from
+|
+
+|
+
+measurements or technical analysis of human body characteristics used by the owner or licensee to authenticate an individual, such as a fingerprint, retina or iris image, or other unique physical representation or digital representation of biometric data.
+|
+
+|
+
+(2) User name or email address, in combination with a
+|
+
+|
+
+password or security question and answer that would permit access to an online account, when either the user name or email address or password or security question and answer are not encrypted or redacted or are encrypted or redacted but the keys to unencrypt or unredact or otherwise read the data elements have been obtained through the breach of security.
+|
+
+|
+
+"Personal information" does not include publicly available
+information that is lawfully made available to the general
+public from federal, State, or local government records.
+
+(Source: P.A. 99-503, eff. 1-1-17.)
+|
+
+815 ILCS 530/10
+
+(815 ILCS 530/10)
+
+Sec. 10. Notice of breach; notice to Attorney General.
+
+(a) Any data collector that owns or licenses personal information concerning an Illinois resident shall notify the
+resident at no charge that there has been a breach of the security of the
+system data following discovery or notification of the breach.
+The disclosure notification shall be made in the most
+expedient time possible and without unreasonable delay,
+consistent with any measures necessary to determine the
+scope of the breach and restore the reasonable integrity,
+security, and confidentiality of the data system. The disclosure notification to an Illinois resident shall include, but need not be limited to, information as follows:
+
+(1) With respect to personal information as defined
+|
+
+|
+
+in Section 5 in paragraph (1) of the definition of "personal information":
+|
+
+|
+
+(A) the toll-free numbers and addresses for
+|
+
+|
+
+consumer reporting agencies;
+|
+
+|
+
+(B) the toll-free number, address, and website
+|
+
+|
+
+address for the Federal Trade Commission; and
+|
+
+|
+
+(C) a statement that the individual can obtain
+|
+
+|
+
+information from these sources about fraud alerts and security freezes.
+|
+
+|
+
+(2) With respect to personal information defined in
+|
+
+|
+
+Section 5 in paragraph (2) of the definition of "personal information", notice may be provided in electronic or other form directing the Illinois resident whose personal information has been breached to promptly change his or her user name or password and security question or answer, as applicable, or to take other steps appropriate to protect all online accounts for which the resident uses the same user name or email address and password or security question and answer.
+|
+
+|
+
+The notification shall not, however, include information concerning the number of Illinois residents affected by the breach.
+
+(b) Any data collector that maintains or stores, but does not own or license, computerized data that
+includes personal information that the data collector does not own or license shall notify the owner or licensee of the information of any breach of the security of the data immediately following discovery, if the personal information was, or is reasonably believed to have been, acquired by
+an unauthorized person. In addition to providing such notification to the owner or licensee, the data collector shall cooperate with the owner or licensee in matters relating to the breach. That cooperation shall include, but need not be limited to, (i) informing the owner or licensee of the breach, including giving notice of the date or approximate date of the breach and the nature of the breach, and (ii) informing the owner or licensee of any steps the data collector has taken or plans to take relating to the breach. The data collector's cooperation shall not, however, be deemed to require either the disclosure of confidential business information or trade secrets or the notification of an Illinois resident who may have been affected by the breach.
+
+(b-5) The notification to an Illinois resident required by subsection (a) of this Section may be delayed if an appropriate law enforcement agency determines that notification will interfere with a criminal investigation and provides the data collector with a written request for the delay. However, the data collector must notify the Illinois resident as soon as notification will no longer interfere with the investigation.
+
+(c) For purposes of this Section, notice to consumers may be provided by one of the following methods:
+
+(1) written notice;
+
+(2) electronic notice, if the notice provided is
+|
+
+|
+
+consistent with the provisions regarding electronic records and signatures for notices legally required to be in writing as set forth in Section 7001 of Title 15 of the United States Code; or
+|
+
+|
+
+(3) substitute notice, if the data collector
+|
+
+|
+
+demonstrates that the cost of providing notice would exceed $250,000 or that the affected class of subject persons to be notified exceeds 500,000, or the data collector does not have sufficient contact information. Substitute notice shall consist of all of the following: (i) email notice if the data collector has an email address for the subject persons; (ii) conspicuous posting of the notice on the data collector's web site page if the data collector maintains one; and (iii) notification to major statewide media or, if the breach impacts residents in one geographic area, to prominent local media in areas where affected individuals are likely to reside if such notice is reasonably calculated to give actual notice to persons whom notice is required.
+|
+
+|
+
+(d) Notwithstanding any other subsection in this Section, a data collector
+that maintains its own notification procedures as part of an
+information security policy for the treatment of personal
+information and is otherwise consistent with the timing requirements of this Act, shall be deemed in compliance
+with the notification requirements of this Section if the
+data collector notifies subject persons in accordance with its policies in the event of a breach of the security of the system data.
+
+(e)(1) This subsection does not apply to data collectors that are covered entities or business associates and are in compliance with Section 50.
+
+(2) Any data collector required to issue notice pursuant to this Section to more than 500 Illinois residents as a result of a single breach of the security system shall provide notice to the Attorney General of the breach, including:
+
+(A) A description of the nature of the breach of
+|
+
+|
+
+security or unauthorized acquisition or use.
+|
+
+|
+
+(B) The number of Illinois residents affected by such
+|
+
+|
+
+incident at the time of notification.
+|
+
+|
+
+(C) Any steps the data collector has taken or plans
+|
+
+|
+
+to take relating to the incident.
+|
+
+|
+
+Such notification must be made in the most expedient time possible and without unreasonable delay but in no event later than when the data collector provides notice to consumers pursuant to this Section. If the date of the breach is unknown at the time the notice is sent to the Attorney General, the data collector shall send the Attorney General the date of the breach as soon as possible.
+
+Upon receiving notification from a data collector of a breach of personal information, the Attorney General may publish the name of the data collector that suffered the breach, the types of personal information compromised in the breach, and the date range of the breach.
+
+(Source: P.A. 100-201, eff. 8-18-17; 101-343, eff. 1-1-20.)
+|
+
+815 ILCS 530/12
+
+(815 ILCS 530/12)
+
+Sec. 12. Notice of breach; State agency.
+
+(a) Any State agency that collects personal information concerning an Illinois resident shall notify the
+resident at no charge that there has been a breach of the security of the
+system data or written material following discovery or notification of the breach.
+The disclosure notification shall be made in the most
+expedient time possible and without unreasonable delay,
+consistent with any measures necessary to determine the
+scope of the breach and restore the reasonable integrity,
+security, and confidentiality of the data system. The disclosure notification to an Illinois resident shall include, but need not be limited to information as follows:
+
+(1) With respect to personal information defined in
+|
+
+|
+
+Section 5 in paragraph (1) of the definition of "personal information":
+|
+
+|
+
+(i) the toll-free numbers and addresses for
+|
+
+|
+
+consumer reporting agencies;
+|
+
+|
+
+(ii) the toll-free number, address, and website
+|
+
+|
+
+address for the Federal Trade Commission; and
+|
+
+|
+
+(iii) a statement that the individual can obtain
+|
+
+|
+
+information from these sources about fraud alerts and security freezes.
+|
+
+|
+
+(2) With respect to personal information as defined
+|
+
+|
+
+in Section 5 in paragraph (2) of the definition of "personal information", notice may be provided in electronic or other form directing the Illinois resident whose personal information has been breached to promptly change his or her user name or password and security question or answer, as applicable, or to take other steps appropriate to protect all online accounts for which the resident uses the same user name or email address and password or security question and answer.
+|
+
+|
+
+The notification shall not, however, include information concerning the number of Illinois residents affected by the breach.
+
+(a-5) The notification to an Illinois resident required by subsection (a) of this Section may be delayed if an appropriate law enforcement agency determines that notification will interfere with a criminal investigation and provides the State agency with a written request for the delay. However, the State agency must notify the Illinois resident as soon as notification will no longer interfere with the investigation.
+
+(b) For purposes of this Section, notice to residents may be provided by one of the following methods:
+
+(1) written notice;
+
+(2) electronic notice, if the notice provided is
+|
+
+|
+
+consistent with the provisions regarding electronic records and signatures for notices legally required to be in writing as set forth in Section 7001 of Title 15 of the United States Code; or
+|
+
+|
+
+(3) substitute notice, if the State agency
+|
+
+|
+
+demonstrates that the cost of providing notice would exceed $250,000 or that the affected class of subject persons to be notified exceeds 500,000, or the State agency does not have sufficient contact information. Substitute notice shall consist of all of the following: (i) email notice if the State agency has an email address for the subject persons; (ii) conspicuous posting of the notice on the State agency's web site page if the State agency maintains one; and (iii) notification to major statewide media.
+|
+
+|
+
+(c) Notwithstanding subsection (b), a State agency
+that maintains its own notification procedures as part of an
+information security policy for the treatment of personal
+information and is otherwise consistent with the timing requirements of this Act shall be deemed in compliance
+with the notification requirements of this Section if the
+State agency notifies subject persons in accordance with its policies in the event of a breach of the security of the system data or written material.
+
+(d) If a State agency is required to notify more than 1,000 persons of a breach of security pursuant to this Section, the State agency shall also notify, without unreasonable delay, all consumer reporting agencies that compile and maintain files on consumers on a nationwide basis, as defined by 15 U.S.C. Section 1681a(p), of the timing, distribution, and content of the notices. Nothing in this subsection (d) shall be construed to require the State agency to provide to the consumer reporting agency the names or other personal identifying information of breach notice recipients.
+
+(e) Notice to Attorney General. Any State agency that suffers a single breach of the security of the data concerning the personal information of more than 250 Illinois residents shall provide notice to the Attorney General of the breach, including:
+
+(A) The types of personal information compromised in
+|
+
+|
+
+the breach.
+|
+
+|
+
+(B) The number of Illinois residents affected by such
+|
+
+|
+
+incident at the time of notification.
+|
+
+|
+
+(C) Any steps the State agency has taken or plans to
+|
+
+|
+
+take relating to notification of the breach to consumers.
+|
+
+|
+
+(D) The date and timeframe of the breach, if known at
+|
+
+|
+
+the time notification is provided.
+|
+
+|
+
+Such notification must be made within 45 days of the State agency's discovery of the security breach or when the State agency provides any notice to consumers required by this Section, whichever is sooner, unless the State agency has good cause for reasonable delay to determine the scope of the breach and restore the integrity, security, and confidentiality of the data system, or when law enforcement requests in writing to withhold disclosure of some or all of the information required in the notification under this Section. If the date or timeframe of the breach is unknown at the time the notice is sent to the Attorney General, the State agency shall send the Attorney General the date or timeframe of the breach as soon as possible.
+
+(f) In addition to the report required by Section 25 of this Act, if the State agency that suffers a breach determines the identity of the actor who perpetrated the breach, then the State agency shall report this information, within 5 days after the determination, to the General Assembly, provided that such report would not jeopardize the security of Illinois residents or compromise a security investigation.
+
+(g) A State agency directly responsible to the Governor that has been subject to or has reason to believe it has been subject to a single breach of the security of the data concerning the personal information of more than 250 Illinois residents or an instance of aggravated computer tampering, as defined in Section 17-53 of the Criminal Code of 2012, shall notify the Office of the Chief Information Security Officer of the Illinois Department of Innovation and Technology and the Attorney General regarding the breach or instance of aggravated computer tampering. The notification shall be made without delay, but no later than 72 hours following the discovery of the incident.
+
+Upon receiving notification of such incident, the Chief Information Security Officer shall without delay take necessary and reasonable actions to:
+
+(i) assess the incident to determine the potential
+|
+
+|
+
+impact on the overall confidentiality, security, and availability of State of Illinois data and information systems;
+|
+
+|
+
+(ii) ensure the security incident is contained to
+|
+
+|
+
+minimize additional impact and risk to the State;
+|
+
+|
+
+(iii) identify the root cause of the incident;
+
+(iv) provide recommendations to the impacted State
+|
+
+|
+
+agency to assist with eradicating the threat and removing and mitigating any vulnerabilities to reduce the risk of further compromise; and
+|
+
+|
+
+(v) assist the impacted State agency in any
+|
+
+|
+
+necessary recovery efforts to ensure effective return to a state of normal operations.
+|
+
+|
+
+The Department of Innovation and Technology may agree to submit the reports required in subsections (e) and (f) of this Section and in Section 25 in lieu of the impacted agency.
+
+(h) Upon receiving notification from a State agency of a breach of personal information or from the Department of Innovation and Technology in lieu of the impacted agency, the Attorney General may publish the name of the State agency that suffered the breach, the types of personal information compromised in the breach, and the date range of the breach.
+
+(Source: P.A. 99-503, eff. 1-1-17; 100-412, eff. 8-25-17.)
+|
+
+815 ILCS 530/15
+
+(815 ILCS 530/15)
+
+Sec. 15. Waiver. Any waiver of the provisions of this Act is
+contrary to public policy and is void and unenforceable.
+
+(Source: P.A. 94-36, eff. 1-1-06.)
+|
+
+815 ILCS 530/20
+
+(815 ILCS 530/20)
+
+Sec. 20. Violation. A violation of this Act constitutes
+an unlawful practice under the Consumer Fraud and Deceptive Business Practices Act.
+
+(Source: P.A. 94-36, eff. 1-1-06.)
+|
+
+815 ILCS 530/25
+
+(815 ILCS 530/25)
+
+Sec. 25. Annual reporting. Any State agency that collects personal data and has had a breach of security of the system data or written material shall submit a report within 5 business days of the discovery or notification of the breach to the General Assembly listing the breaches and outlining any corrective measures that have been taken to prevent future breaches of the security of the system data or written material. Any State agency that has submitted a report under this Section shall submit an annual report listing all breaches of security of the system data or written materials and the corrective measures that have been taken to prevent future breaches.
+
+(Source: P.A. 94-947, eff. 6-27-06.)
+|
+
+815 ILCS 530/30
+
+(815 ILCS 530/30)
+
+Sec. 30. Safe disposal of information. Any State agency that collects personal data that is no longer needed or stored at the agency shall dispose of the personal data or written material it has collected in such a manner as to ensure the security and confidentiality of the material.
+
+(Source: P.A. 94-947, eff. 6-27-06.)
+|
+
+815 ILCS 530/40
+
+(815 ILCS 530/40)
+
+Sec. 40. Disposal of materials containing personal information; Attorney General.
+
+(a) In this Section, "person" means: a natural person; a corporation, partnership, association, or other legal entity; a unit of local government or any agency, department, division, bureau, board, commission, or committee thereof; or the State of Illinois or any constitutional officer, agency, department, division, bureau, board, commission, or committee thereof.
+
+(b) A person must dispose of the materials containing personal information in a manner that renders the personal information unreadable, unusable, and undecipherable. Proper disposal methods include, but are not limited to, the following:
+
+(1) Paper documents containing personal information
+|
+
+|
+
+may be either redacted, burned, pulverized, or shredded so that personal information cannot practicably be read or reconstructed.
+|
+
+|
+
+(2) Electronic media and other non-paper media
+|
+
+|
+
+containing personal information may be destroyed or erased so that personal information cannot practicably be read or reconstructed.
+|
+
+|
+
+(c) Any person disposing of materials containing personal information may contract with a third party to dispose of such materials in accordance with this Section. Any third party that contracts with a person to dispose of materials containing personal information must implement and monitor compliance with policies and procedures that prohibit unauthorized access to or acquisition of or use of personal information during the collection, transportation, and disposal of materials containing personal information.
+
+(d) Any person, including but not limited to a third party referenced in subsection (c), who violates this Section is subject to a civil penalty of not more than $100 for each individual with respect to whom personal information is disposed of in violation of this Section. A civil penalty may not, however, exceed $50,000 for each instance of improper disposal of materials containing personal information. The Attorney General may impose a civil penalty after notice to the person accused of violating this Section and an opportunity for that person to be heard in the matter. The Attorney General may file a civil action in the circuit court to recover any penalty imposed under this Section.
+
+(e) In addition to the authority to impose a civil penalty under subsection (d), the Attorney General may bring an action in the circuit court to remedy a violation of this Section, seeking any appropriate relief.
+
+(f) A financial institution under 15 U.S.C. 6801 et. seq. or any person subject to 15 U.S.C. 1681w is exempt from this Section.
+
+(Source: P.A. 97-483, eff. 1-1-12.)
+|
+
+815 ILCS 530/45
+
+(815 ILCS 530/45)
+
+Sec. 45. Data security.
+
+(a) A data collector that owns or licenses, or maintains or stores but does not own or license, records that contain personal information concerning an Illinois resident shall implement and maintain reasonable security measures to protect those records from unauthorized access, acquisition, destruction, use, modification, or disclosure.
+
+(b) A contract for the disclosure of personal information concerning an Illinois resident that is maintained by a data collector must include a provision requiring the person to whom the information is disclosed to implement and maintain reasonable security measures to protect those records from unauthorized access, acquisition, destruction, use, modification, or disclosure.
+
+(c) If a state or federal law requires a data collector to provide greater protection to records that contain personal information concerning an Illinois resident that are maintained by the data collector and the data collector is in compliance with the provisions of that state or federal law, the data collector shall be deemed to be in compliance with the provisions of this Section.
+
+(d) A data collector that is subject to and in compliance with the standards established pursuant to Section 501(b) of the Gramm-Leach-Bliley Act of 1999, 15 U.S.C. Section 6801, shall be deemed to be in compliance with the provisions of this Section.
+
+(Source: P.A. 99-503, eff. 1-1-17.)
+|
+
+815 ILCS 530/50
+
+(815 ILCS 530/50)
+
+Sec. 50. Entities subject to the federal Health Insurance Portability and Accountability Act of 1996. Any covered entity or business associate that is subject to and in compliance with the privacy and security standards for the protection of electronic health information established pursuant to the federal Health Insurance Portability and Accountability Act of 1996 and the Health Information Technology for Economic and Clinical Health Act shall be deemed to be in compliance with the provisions of this Act, provided that any covered entity or business associate required to provide notification of a breach to the Secretary of Health and Human Services pursuant to the Health Information Technology for Economic and Clinical Health Act also provides such notification to the Attorney General within 5 business days of notifying the Secretary.
+
+(Source: P.A. 99-503, eff. 1-1-17.)
+|
+
+815 ILCS 530/900
+
+(815 ILCS 530/900)
+
+Sec. 900.
+(Amendatory provisions; text omitted).
+
+(Source: P.A. 94-36, eff. 1-1-06; text omitted.)
+|
+
+Top
+
+|
+
+Home |
+Legislation & Laws |
+House |
+Senate |
+My Legislation |
+Disclaimers |
+Email
+|
+
+|
+
+|
+
+This site is maintained for the Illinois General Assembly
+by the
+
+Legislative Information System, 705 Stratton Building, Springfield, Illinois 62706
+
+Contact ILGA Webmaster
+
+|
+
+|
+
+|

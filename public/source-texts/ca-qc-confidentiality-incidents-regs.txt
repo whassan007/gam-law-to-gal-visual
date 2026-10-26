@@ -1,0 +1,99 @@
+# Regulation respecting confidentiality incidents
+
+*CQLR c A-2.1, r 3.1*
+
+*Enabling statute: Act respecting Access to documents held by public bodies and the Protection of personal information (chapter A-2.1, s. 155, 1st par., subpars. 6.1 and 6.2)*
+
+*Updated to 2023-09-22*
+
+## I — SCOPE AND DEFINITION
+
+**1** This Regulation applies to all public bodies referred to in section 3 of the Act respecting Access to documents held by public bodies and the Protection of personal information (chapter A-2.1), and any person carrying on an enterprise and who is referred to in the Act respecting the protection of personal information in the private sector (chapter P-39.1).
+
+It also applies to the professional orders to the extent provided for in the Professional Code (chapter C-26) and to political parties, independent Members and independent candidates to the extent provided for in section 127.22 of the Election Act (chapter E-3.3).
+
+**2** In this Regulation, **body** means a public body, a person carrying on an enterprise, a professional order, a political party, an independent Member or an independent candidate to which this Regulation applies.
+
+## II — NOTICES TO THE COMMISSION D’ACCÈS À L’INFORMATION
+
+**3** Notices to the Commission d’accès à l’information that a confidentiality incident presents a risk of serious injury, given under the second paragraph of section 63.8 of the Act respecting Access to documents held by public bodies and the Protection of personal information (chapter A-2.1) or the second paragraph of section 3.5 of the Act respecting the protection of personal information in the private sector (chapter P-39.1), must be in writing and must contain
+
+(1) the name of the body affected by the confidentiality incident and any Québec business number assigned to such body under the Act respecting the legal publicity of enterprises (chapter P-44.1);
+
+(2) the name and contact information of the person to be contacted in that body with regard to the incident;
+
+(3) a description of the personal information covered by the incident or, if that information is not known, the reasons why it is impossible to provide such a description;
+
+(4) a brief description of the circumstances of the incident and what caused it, if known;
+
+(5) the date or time period when the incident occurred or, if that is not known, the approximate time period;
+
+(6) the date or time period when the body became aware of the incident;
+
+(7) the number of persons concerned by the incident and the number of those who reside in Québec or, if that is not known, the approximate numbers;
+
+(8) a description of the elements that led the body to conclude that there is a risk of serious injury to the persons concerned, such as the sensitivity of the personal information concerned, any possible ill-intentioned uses of such information, the anticipated consequences of its use and the likelihood that such information will be used for injurious purposes;
+
+(9) the measures the body has taken or intends to take to notify the persons whose personal information is concerned by the incident, pursuant to the second paragraph of section 63.8 of the Act respecting Access to documents held by public bodies and the Protection of personal information or the second paragraph of section 3.5 of the Act respecting the protection of personal information in the private sector, and the date on which such persons were notified, or the expected time limit for the notification;
+
+(10) the measures the body has taken or intends to take after the incident occurred, including those aimed at reducing the risk of injury or mitigating any such injury and those aimed at preventing new incidents of the same nature, and the date or time period on which the measures were taken or the expected time limit for taking the measures; and
+
+(11) if applicable, an indication that a person or body outside Québec that exercises similar functions to those of the Commission d’accès à l’information with respect to overseeing the protection of personal information has been notified of the incident.
+
+**4** The body must send to the Commission d’accès à l’information all the information listed in section 3 that it becomes aware of after sending the notice described therein. The additional information must promptly be sent after the body becomes aware of it.
+
+## III — NOTICES TO THE PERSONS CONCERNED
+
+**5** Notices to persons whose personal information is concerned by a confidentiality incident presenting a risk of serious injury, given under the second paragraph of section 63.8 of the Act respecting Access to documents held by public bodies and the Protection of personal information (chapter A-2.1) or the second paragraph of section 3.5 of the Act respecting the protection of personal information in the private sector (chapter P-39.1), must contain
+
+(1) a description of the personal information covered by the incident or, if that information is not known, the reasons why it is impossible to provide such a description;
+
+(2) a brief description of the circumstances of the incident;
+
+(3) the date or time period when the incident occurred or, if that is not known, the approximate time period;
+
+(4) a brief description of the measures the body has taken or intends to take after the incident occurred in order to reduce the risks of injury;
+
+(5) the measures that the body suggests the person concerned take in order to reduce the risk of injury or mitigate any such injury; and
+
+(6) the contact information where the person concerned may obtain more information about the incident.
+
+**6** The notices referred to in section 5 are sent to the persons concerned by the confidentiality incident.
+
+Despite the first paragraph, the notices referred to in section 5 are given by way of a public notice in any of the following circumstances:
+
+(1) when the fact of sending such notice is likely to cause increased injury to the person concerned;
+
+(2) when the fact of sending such notice is likely to cause undue hardship for the body;
+
+(3) when the body does not have the contact information for the person concerned.
+
+The notices referred to in section 5 may also be given by way of a public notice if there is a need to act rapidly to reduce the risk of a serious injury or to mitigate any such injury. In such cases, the body must still send a notice to the person concerned with proper diligence, unless one of the circumstances listed in the second paragraph applies.
+
+Pursuant to this section, public notices may be made by any method that could be reasonably expected to reach the person concerned.
+
+## IV — REGISTERS OF CONFIDENTIALITY INCIDENTS
+
+**7** The registers provided for in section 63.11 of the Act respecting Access to documents held by public bodies and the Protection of personal information (chapter A-2.1) and section 3.8 of the Act respecting the protection of personal information in the private sector (chapter P-39.1) must contain
+
+(1) a description of the personal information covered by the incident or, if that information is not known, the reasons why it is impossible to provide such a description;
+
+(2) a brief description of the circumstances of the incident;
+
+(3) the date or time period when the incident occurred or, if that is not known, the approximate time period;
+
+(4) the date or time period when the body became aware of the incident;
+
+(5) the number of persons concerned by the incident or, if that is not known, the approximate number;
+
+(6) a description of the elements that led the body to conclude whether or not there is a risk of serious injury to the persons concerned, such as the sensitivity of the personal information concerned, any possible ill-intentioned uses of such information, the anticipated consequences of its use and the likelihood that such information will be used for injurious purposes;
+
+(7) if the incident presents a risk of serious injury, the transmission dates of the notices to the Commission d’accès à l’information and the persons concerned, pursuant to the second paragraph of section 63.8 of the Act respecting Access to documents held by public bodies and the Protection of personal information or the second paragraph of section 3.5 of the Act respecting the protection of personal information in the private sector, as well as an indication of whether the body issued public notices and, if applicable, its reasons for doing so; and
+
+(8) a brief description of the measures the body has taken after the incident occurred in order to reduce the risks of injury.
+
+**8** The information in the registers must be kept up to date and kept for at least 5 years after the date or time period when the body became aware of the incident.
+
+## V — FINAL
+
+**9** (Omitted).
