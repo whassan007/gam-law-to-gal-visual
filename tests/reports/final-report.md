@@ -20,7 +20,7 @@ All 20 agent assignments completed. The exact outcomes, implementation status, a
 
 The current source manifest has 255 instrument entries: 247 fetched, 2 blocked, and 6 with no automated source. It contains 249 phrase matches and 6 unchecked entries. A phrase match only shows that expected words appeared in a fetched text; it does not verify the citation, current legal status, effective date, completeness, or interpretation. Per-entry source details are in [source-coverage.csv](source-coverage.csv).
 
-Existing coverage includes EU, US, and Canada sources, with the caveats and mismatches documented in the source coverage rows. New text snapshots cover APPI, the Australian Privacy Act compilation, SDAIA's English PDPL PDF, the DIFC July 2025 consolidated law, and the India DPDP Act via an archive mirror. The retained UAE and ADGM snapshots remain blocked/unverified. Nunavut's text is blocked as Nunavut coverage because its source artifact is identical to the NWT text.
+Existing coverage includes EU, US, and Canada sources, with the caveats and mismatches documented in the source coverage rows. New text snapshots cover APPI, the Australian Privacy Act compilation, SDAIA's English PDPL PDF, the DIFC July 2025 consolidated law, the India DPDP Act via an archive mirror, and the Nunavut ATIPP consolidation (`ca-nu-atipp`, SHA-256 `2a7f3c1e7fd4...`). The retained UAE and ADGM snapshots (`ae-pdpl`, `ae-adgm-dpr`) remain blocked/unverified.
 
 ## GAM/GAL and visualization
 

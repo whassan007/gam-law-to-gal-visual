@@ -1,5 +1,5 @@
 import React, { useDeferredValue, useEffect, useMemo, useState } from 'react';
-import { ExternalLink, Search, X } from 'lucide-react';
+import { ExternalLink, Play, Search, X } from 'lucide-react';
 
 export interface SourceTextViewerProps {
   title: string;
@@ -9,10 +9,18 @@ export interface SourceTextViewerProps {
   retrievedAt?: string;
   sha256?: string;
   note?: string;
+  onTranslatePassage?: (passage: string) => void;
   onClose: () => void;
 }
 
 const PAGE = 300;
+const NORMATIVE_CUE = /\b(shall|must|may|prohibited|forbidden|required|obligated|authorized|permitted|entitled|consent|personal|disclose|access|process|controller|organization)\b/i;
+
+function pickRepresentativeExcerpt(lines: string[]): string {
+  const candidates = lines.filter((l) => l.length >= 60 && l.length <= 700 && NORMATIVE_CUE.test(l));
+  const chosen = (candidates.length > 0 ? candidates : lines.filter((l) => l.length >= 40)).slice(0, 3);
+  return (chosen.join(' ').slice(0, 1200) || lines.slice(0, 3).join(' ').slice(0, 1200)).trim();
+}
 
 /** In-app reader for a bundled source text (plain text, UTF-8) with find-in-text. */
 export const SourceTextViewer: React.FC<SourceTextViewerProps> = ({
@@ -23,6 +31,7 @@ export const SourceTextViewer: React.FC<SourceTextViewerProps> = ({
   retrievedAt,
   sha256,
   note,
+  onTranslatePassage,
   onClose,
 }) => {
   const [lines, setLines] = useState<string[] | null>(null);
@@ -96,6 +105,16 @@ export const SourceTextViewer: React.FC<SourceTextViewerProps> = ({
             {note && <p className="mt-1 text-[11px] text-amber-300/80">{note}</p>}
           </div>
           <div className="flex shrink-0 items-center gap-2">
+            {onTranslatePassage && lines && lines.length > 0 && (
+              <button
+                type="button"
+                data-testid="translate-source-excerpt-button"
+                onClick={() => onTranslatePassage(pickRepresentativeExcerpt(lines))}
+                className="inline-flex items-center gap-1 rounded-lg border border-cyan-500/40 bg-cyan-500/15 px-2.5 py-1.5 text-xs font-medium text-cyan-200 hover:bg-cyan-500/25"
+              >
+                <Play className="h-3 w-3 fill-current" /> Translate excerpt → GAL
+              </button>
+            )}
             {officialSourceUrl && (
               <a
                 href={officialSourceUrl}
@@ -134,14 +153,38 @@ export const SourceTextViewer: React.FC<SourceTextViewerProps> = ({
                 {matches.length > 200 ? ' (first 200 shown)' : ''}
               </p>
               {matches.slice(0, 200).map(([i, l]) => (
-                <p key={i} className="mb-2 whitespace-pre-wrap">{l}</p>
+                <div key={i} className="group mb-2 flex items-start justify-between gap-2 rounded-lg p-1.5 hover:bg-slate-800/40">
+                  <p className="whitespace-pre-wrap">{l}</p>
+                  {onTranslatePassage && l.length >= 25 && (
+                    <button
+                      type="button"
+                      data-testid={`translate-paragraph-${i}`}
+                      onClick={() => onTranslatePassage(l)}
+                      className="shrink-0 rounded border border-cyan-500/40 bg-cyan-500/10 px-2 py-0.5 font-sans text-[11px] text-cyan-200 opacity-0 transition group-hover:opacity-100 focus:opacity-100 hover:bg-cyan-500/20"
+                    >
+                      Translate → GAL
+                    </button>
+                  )}
+                </div>
               ))}
             </>
           )}
           {lines && !q && (
             <>
               {lines.slice(0, shown).map((l, i) => (
-                <p key={i} className="mb-1.5 whitespace-pre-wrap">{l}</p>
+                <div key={i} className="group mb-1.5 flex items-start justify-between gap-2 rounded-lg p-1 hover:bg-slate-800/40">
+                  <p className="whitespace-pre-wrap">{l}</p>
+                  {onTranslatePassage && l.length >= 25 && (
+                    <button
+                      type="button"
+                      data-testid={`translate-paragraph-${i}`}
+                      onClick={() => onTranslatePassage(l)}
+                      className="shrink-0 rounded border border-cyan-500/40 bg-cyan-500/10 px-2 py-0.5 font-sans text-[11px] text-cyan-200 opacity-0 transition group-hover:opacity-100 focus:opacity-100 hover:bg-cyan-500/20"
+                    >
+                      Translate → GAL
+                    </button>
+                  )}
+                </div>
               ))}
               {shown < lines.length && (
                 <button

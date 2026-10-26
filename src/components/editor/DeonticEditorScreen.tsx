@@ -1,8 +1,10 @@
-import React, { useCallback, useEffect, useRef, useState } from 'react';
+import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import {
-  ArrowLeft, Download, FileJson, FileText, Globe2, Link2, Lock, Network, Printer, Redo2, RotateCcw, Save, Sigma, Undo2, X, Cpu,
+  ArrowLeft, BookMarked, Download, FileJson, FileText, Globe2, Link2, Lock, Network, Printer, Redo2, RotateCcw, Save, Sigma, Undo2, X, Cpu,
 } from 'lucide-react';
-import type { CountryMetadata, LawMetadata, LawProvision } from '../../types/contracts';
+import type { CatalogueInstrument, CountryMetadata, LawMetadata, LawProvision } from '../../types/contracts';
+import { INSTRUMENT_CATALOGUE, VERIFIED_LAWS, getCatalogueForCountry } from '../../data/verified-examples';
+import { InstrumentCataloguePanel } from '../law-selector/InstrumentCataloguePanel';
 import {
   EditorProvider, useEditor, saveDraft, loadDraft, clearDraft, encodeShare, docFromSeed,
   type EditorDoc, type EditorSeed, type SharePayload,
@@ -23,7 +25,7 @@ export interface DeonticEditorScreenProps {
   readOnly?: boolean;
   mode: EditorMode;
   customText: string;
-  onCustomText: (text: string) => void;
+  onCustomText: (text: string, sourceMeta?: { title: string; subtitle: string; lawId: string }) => void;
   countries: CountryMetadata[];
   countryLaws: LawMetadata[];
   selectedCountry: CountryMetadata | null;
@@ -116,7 +118,14 @@ const EditorBody: React.FC<Omit<DeonticEditorScreenProps, 'seed' | 'initialDoc' 
   const [shareUrl, setShareUrl] = useState<string | null>(null);
   const [printSvg, setPrintSvg] = useState<string | null>(null);
   const [graphModalOpen, setGraphModalOpen] = useState(false);
+  const [catalogueOpen, setCatalogueOpen] = useState(false);
+  const [catalogueScope, setCatalogueScope] = useState<'country' | 'all'>('country');
   const desktop = useIsDesktop();
+  const countryCatalogue = useMemo(
+    () => (props.selectedCountry ? getCatalogueForCountry(props.selectedCountry.code) : []),
+    [props.selectedCountry],
+  );
+  const activeCatalogue = catalogueScope === 'all' || countryCatalogue.length === 0 ? INSTRUMENT_CATALOGUE : countryCatalogue;
   const errors = issues.filter((i) => i.severity === 'error').length;
   const warnings = issues.length - errors;
   const fileBase = `${seed.lawId}-${seed.provisionId}`;
@@ -208,14 +217,32 @@ const EditorBody: React.FC<Omit<DeonticEditorScreenProps, 'seed' | 'initialDoc' 
           </div>
           <div className="flex flex-wrap items-center gap-2">
             <select aria-label="Jurisdiction" data-testid="editor-country-select" className={`${input} w-auto`} value={props.selectedCountry?.code ?? ''} onChange={(e) => { const c = props.countries.find((x) => x.code === e.target.value); if (c) props.onSelectCountry(c); }}>
-              {props.countries.filter((c) => c.supported).map((c) => <option key={c.code} value={c.code}>{c.flag} {c.name}</option>)}
+              {props.countries.filter((c) => c.supported || getCatalogueForCountry(c.code).length > 0).map((c) => (
+                <option key={c.code} value={c.code}>
+                  {c.flag} {c.name}{!c.supported ? ` (${getCatalogueForCountry(c.code).length} sources)` : ''}
+                </option>
+              ))}
             </select>
-            <select aria-label="Law" data-testid="editor-law-select" className={`${input} w-auto max-w-[11rem]`} value={props.law.id} onChange={(e) => { const l = props.countryLaws.find((x) => x.id === e.target.value); if (l) props.onSelectLaw(l); }}>
-              {props.countryLaws.map((l) => <option key={l.id} value={l.id}>{l.shortName}</option>)}
-            </select>
-            <select aria-label="Provision" data-testid="editor-provision-select" className={`${input} w-auto max-w-[14rem]`} value={props.provision.id} onChange={(e) => { const p = props.law.provisions.find((x) => x.id === e.target.value); if (p) props.onSelectProvision(p); }}>
-              {props.law.provisions.map((p) => <option key={p.id} value={p.id}>{p.section} — {p.title}</option>)}
-            </select>
+            {props.countryLaws.length > 0 && (
+              <>
+                <select aria-label="Law" data-testid="editor-law-select" className={`${input} w-auto max-w-[11rem]`} value={props.law.id} onChange={(e) => { const l = props.countryLaws.find((x) => x.id === e.target.value); if (l) props.onSelectLaw(l); }}>
+                  {props.countryLaws.map((l) => <option key={l.id} value={l.id}>{l.shortName}</option>)}
+                </select>
+                <select aria-label="Provision" data-testid="editor-provision-select" className={`${input} w-auto max-w-[14rem]`} value={props.provision.id} onChange={(e) => { const p = props.law.provisions.find((x) => x.id === e.target.value); if (p) props.onSelectProvision(p); }}>
+                  {props.law.provisions.map((p) => <option key={p.id} value={p.id}>{p.section} — {p.title}</option>)}
+                </select>
+              </>
+            )}
+            <button
+              type="button"
+              className={btn}
+              onClick={() => setCatalogueOpen(true)}
+              data-testid="editor-open-catalogue"
+              title="Browse all 338 catalogued legal instruments and 247 bundled source texts"
+            >
+              <BookMarked className="h-3.5 w-3.5 text-ed-accent" />
+              <span>Catalogue ({countryCatalogue.length > 0 ? `${countryCatalogue.length}/${INSTRUMENT_CATALOGUE.length}` : INSTRUMENT_CATALOGUE.length})</span>
+            </button>
             <div role="radiogroup" aria-label="Translation source" className="flex rounded-md border border-ed-border p-0.5">
               {(['curated', 'live-pipeline'] as const).map((m) => (
                 <button key={m} type="button" role="radio" aria-checked={mode === m} onClick={() => props.onChangeMode(m)} data-testid={`editor-mode-${m}`}
@@ -277,6 +304,89 @@ const EditorBody: React.FC<Omit<DeonticEditorScreenProps, 'seed' | 'initialDoc' 
             <button type="button" className={`${btnGhost} ml-auto`} onClick={() => setGraphModalOpen(false)} aria-label="Close graph editor"><X className="h-4 w-4" /></button>
           </div>
           <div className="min-h-0 flex-1 overflow-auto p-3">{rightPane}</div>
+        </div>
+      )}
+
+      {catalogueOpen && (
+        <div
+          role="dialog"
+          aria-modal="true"
+          aria-label="Catalogued Legal Instruments & Source Texts"
+          data-testid="editor-catalogue-modal"
+          className="ed-print-hide fixed inset-0 z-50 flex items-center justify-center bg-black/70 p-4"
+          onClick={() => setCatalogueOpen(false)}
+        >
+          <div
+            className="flex h-full max-h-[90vh] w-full max-w-5xl flex-col rounded-2xl border border-slate-700 bg-navy-900 text-slate-200 shadow-2xl"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="flex flex-wrap items-center justify-between gap-3 border-b border-slate-800 px-5 py-3.5">
+              <div>
+                <h2 className="text-base font-bold text-white">
+                  Legislative Source Catalogue &amp; Bundled Texts ({INSTRUMENT_CATALOGUE.length} instruments · 247 full texts)
+                </h2>
+                <p className="text-xs text-slate-400">
+                  Read bundled full texts or load any statutory excerpt directly into the Deontic Editor via <span className="font-mono text-cyan-300">readLawToGAM</span>.
+                </p>
+              </div>
+              <div className="flex items-center gap-2">
+                {countryCatalogue.length > 0 && (
+                  <div role="group" aria-label="Catalogue scope" className="inline-flex rounded-lg border border-slate-700 bg-navy-950 p-0.5 text-xs">
+                    <button
+                      type="button"
+                      data-testid="catalogue-scope-country"
+                      onClick={() => setCatalogueScope('country')}
+                      className={`rounded-md px-2.5 py-1 font-medium ${catalogueScope === 'country' ? 'bg-cyan-500/20 text-cyan-200' : 'text-slate-400 hover:text-slate-200'}`}
+                    >
+                      {props.selectedCountry?.flag} {props.selectedCountry?.name} ({countryCatalogue.length})
+                    </button>
+                    <button
+                      type="button"
+                      data-testid="catalogue-scope-all"
+                      onClick={() => setCatalogueScope('all')}
+                      className={`rounded-md px-2.5 py-1 font-medium ${catalogueScope === 'all' ? 'bg-cyan-500/20 text-cyan-200' : 'text-slate-400 hover:text-slate-200'}`}
+                    >
+                      All Jurisdictions ({INSTRUMENT_CATALOGUE.length})
+                    </button>
+                  </div>
+                )}
+                <button
+                  type="button"
+                  onClick={() => setCatalogueOpen(false)}
+                  aria-label="Close catalogue"
+                  className="rounded-lg border border-slate-700 p-1.5 text-slate-300 hover:bg-slate-800"
+                >
+                  <X className="h-4 w-4" />
+                </button>
+              </div>
+            </div>
+            <div className="flex-1 overflow-y-auto p-5">
+              <InstrumentCataloguePanel
+                instruments={activeCatalogue}
+                onOpenTranslatedLaw={(lawId) => {
+                  const foundLaw = VERIFIED_LAWS.find((l) => l.id === lawId);
+                  if (foundLaw) {
+                    const c = props.countries.find((x) => x.code === foundLaw.countryCode);
+                    if (c) props.onSelectCountry(c);
+                    props.onSelectLaw(foundLaw);
+                    setCatalogueOpen(false);
+                  }
+                }}
+                onTranslateSourcePassage={(inst: CatalogueInstrument, passage: string) => {
+                  const c = props.countries.find((x) => x.code === inst.countryCode);
+                  if (c) props.onSelectCountry(c);
+                  setStatuteDraft(passage);
+                  props.onCustomText(passage, {
+                    title: `${inst.shortName} · ${inst.citation}`,
+                    subtitle: `${inst.name} (${inst.jurisdiction})`,
+                    lawId: inst.id,
+                  });
+                  setCatalogueOpen(false);
+                  notify(`Loaded excerpt from ${inst.shortName} into live pipeline`);
+                }}
+              />
+            </div>
+          </div>
         </div>
       )}
 

@@ -100,6 +100,7 @@ export function App({ initialView = 'editor' }: { initialView?: 'editor' | 'clas
   const [customLegalText, setCustomLegalText] = useState<string>(
     'The Chief Privacy Officer must review personal data disclosures. No contractor shall disclose health records unless authorized by the Data Protection Officer.'
   );
+  const [customSourceMeta, setCustomSourceMeta] = useState<{ title: string; subtitle: string; lawId: string } | null>(null);
   const [showCustomSandbox, setShowCustomSandbox] = useState(false);
 
   // Interactive Selection State across Synchronized Views
@@ -379,11 +380,14 @@ export function App({ initialView = 'editor' }: { initialView?: 'editor' | 'clas
   }, [activeSpan, timeline.activeEvent]);
 
   if (showEditor) {
+    const isCustomSource = translationMode === 'custom' && customSourceMeta;
     const seed = {
-      key: `${activeLaw.id}:${activeProvision.id}:${translationMode}:${translationResult.sourceText}`,
-      lawId: activeLaw.id, provisionId: activeProvision.id,
-      title: `${activeLaw.shortName} · ${activeProvision.section}`,
-      subtitle: activeProvision.title, readiness: translationResult.readiness,
+      key: `${isCustomSource ? customSourceMeta.lawId : activeLaw.id}:${activeProvision.id}:${translationMode}:${translationResult.sourceText}`,
+      lawId: isCustomSource ? customSourceMeta.lawId : activeLaw.id,
+      provisionId: isCustomSource ? 'source-excerpt' : activeProvision.id,
+      title: isCustomSource ? customSourceMeta.title : `${activeLaw.shortName} · ${activeProvision.section}`,
+      subtitle: isCustomSource ? customSourceMeta.subtitle : activeProvision.title,
+      readiness: translationResult.readiness,
       sourceText: translationResult.sourceText, clauses: translationResult.clauses,
       concepts: translationResult.concepts, galModel: translationResult.galModel,
       unmappedClauses: translationResult.validation.unmappedClauses.map((c) => ({ ...c, sourceSpan: translationResult.clauses.find((x) => x.id === c.clauseId)?.sourceSpan ?? { start: 0, end: 0 } })),
@@ -392,14 +396,14 @@ export function App({ initialView = 'editor' }: { initialView?: 'editor' | 'clas
     const leaveShared = () => { setShared(null); setEditableDoc(undefined); window.history.replaceState(null, '', window.location.pathname + window.location.search); };
     return <DeonticEditorScreen
       seed={seed} initialDoc={editableDoc ?? shared?.doc} readOnly={!!shared?.readOnly}
-      onCustomText={(text) => { leaveShared(); setCustomLegalText(text); setTranslationMode('custom'); }}
+      onCustomText={(text, meta) => { leaveShared(); setCustomLegalText(text); setCustomSourceMeta(meta ?? null); setTranslationMode('custom'); }}
       mode={translationMode} customText={customLegalText} countries={COUNTRIES}
       countryLaws={countryLaws} selectedCountry={selectedCountry} law={activeLaw} provision={activeProvision}
       reducedMotion={a11y.reducedMotion}
-      onSelectCountry={(c) => { leaveShared(); handleSelectCountry(c); }}
-      onSelectLaw={(l) => { leaveShared(); handleSelectLaw(l); }}
-      onSelectProvision={(p) => { leaveShared(); handleSelectProvision(p); }}
-      onChangeMode={(m) => { leaveShared(); setTranslationMode(m); }}
+      onSelectCountry={(c) => { leaveShared(); setCustomSourceMeta(null); handleSelectCountry(c); }}
+      onSelectLaw={(l) => { leaveShared(); setCustomSourceMeta(null); handleSelectLaw(l); }}
+      onSelectProvision={(p) => { leaveShared(); setCustomSourceMeta(null); handleSelectProvision(p); }}
+      onChangeMode={(m) => { leaveShared(); if (m !== 'custom') setCustomSourceMeta(null); setTranslationMode(m); }}
       onBackToGlobe={() => { setShowEditor(false); setActiveScreen('world'); }}
       onOpenClassic={() => { setShowEditor(false); setActiveScreen('translation'); }}
       onMakeEditable={(doc) => { leaveShared(); setEditableDoc(structuredClone(doc)); }}
@@ -411,7 +415,6 @@ export function App({ initialView = 'editor' }: { initialView?: 'editor' | 'clas
       className="min-h-screen bg-[#070B14] text-slate-100 flex flex-col font-sans selection:bg-cyan-500/30 selection:text-cyan-100"
       data-testid="gam-law-to-gal-app"
     >
-      <button type="button" onClick={() => setShowEditor(true)} className="bg-blue-600 px-4 py-2 text-sm font-semibold text-white" data-testid="open-deontic-editor">Open interactive deontic editor →</button>
       {/* Top Global Navigation & Journey Header */}
       <TopHeaderBar
         activeScreen={activeScreen}
@@ -425,7 +428,7 @@ export function App({ initialView = 'editor' }: { initialView?: 'editor' | 'clas
         onToggleReducedMotion={a11y.toggleReducedMotion}
       />
 
-      {/* Secondary Action Bar: Quick Access to Pedagogical Guide, Custom Sandbox, and Keyboard Shortcuts */}
+      {/* Secondary Action Bar: Quick Access to Deontic Editor, Pedagogical Guide, Custom Sandbox, and Keyboard Shortcuts */}
       <div className="border-b border-slate-800/80 bg-[#0B1220]/90 px-4 py-1.5 flex flex-wrap items-center justify-between gap-2 text-xs">
         <div className="flex items-center gap-3 flex-wrap">
           <span className="inline-flex items-center gap-1.5 text-slate-400">
@@ -440,7 +443,16 @@ export function App({ initialView = 'editor' }: { initialView?: 'editor' | 'clas
           </span>
         </div>
 
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 flex-wrap">
+          <button
+            type="button"
+            onClick={() => setShowEditor(true)}
+            data-testid="open-deontic-editor"
+            className="inline-flex items-center gap-1.5 px-3 py-1 rounded-md bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-400 hover:to-blue-500 text-white font-semibold shadow-sm transition-all"
+          >
+            <Network className="w-3.5 h-3.5" />
+            <span>Open interactive deontic editor →</span>
+          </button>
           <button
             type="button"
             onClick={() => setIsGuideOpen((prev) => !prev)}
@@ -806,6 +818,16 @@ export function App({ initialView = 'editor' }: { initialView?: 'editor' | 'clas
             onSelectLaw={handleSelectLaw}
             onSelectProvision={handleSelectProvision}
             onProcessLaw={handleProcessLaw}
+            onTranslateSourcePassage={(inst, passage) => {
+              setCustomLegalText(passage);
+              setCustomSourceMeta({
+                title: `${inst.shortName} · ${inst.citation}`,
+                subtitle: `${inst.name} (${inst.jurisdiction})`,
+                lawId: inst.id,
+              });
+              setTranslationMode('custom');
+              setShowEditor(true);
+            }}
             onBackToGlobe={() => setActiveScreen('world')}
           />
         </main>

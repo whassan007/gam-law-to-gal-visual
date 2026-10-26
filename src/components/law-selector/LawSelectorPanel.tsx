@@ -39,6 +39,7 @@ export interface LawSelectorPanelProps {
   onSelectLaw: (law: LawMetadata) => void;
   onSelectProvision: (provision: LawProvision) => void;
   onProcessLaw: (mode: 'curated' | 'live-pipeline') => void;
+  onTranslateSourcePassage?: (instrument: CatalogueInstrument, passage: string) => void;
   onBackToGlobe?: () => void;
 }
 
@@ -102,6 +103,7 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
   onSelectLaw,
   onSelectProvision,
   onProcessLaw,
+  onTranslateSourcePassage,
   onBackToGlobe,
 }) => {
   const [processingMode, setProcessingMode] = useState<'curated' | 'live-pipeline'>('curated');
@@ -224,7 +226,10 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
         </div>
 
         {/* Catalogued (untranslated) instruments for this jurisdiction */}
-        <InstrumentCataloguePanel instruments={catalogue} />
+        <InstrumentCataloguePanel
+          instruments={catalogue}
+          onTranslateSourcePassage={onTranslateSourcePassage}
+        />
         </div>
       </section>
     );
@@ -450,6 +455,7 @@ export const LawSelectorPanel: React.FC<LawSelectorPanelProps> = ({
             const law = laws.find((l) => l.id === id);
             if (law) onSelectLaw(law);
           }}
+          onTranslateSourcePassage={onTranslateSourcePassage}
         />
 
         {/* Step 2: Provision Selector */}

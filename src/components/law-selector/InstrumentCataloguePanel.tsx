@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { BookMarked, ExternalLink, Search } from 'lucide-react';
+import { BookMarked, Cpu, ExternalLink, Search } from 'lucide-react';
 import { SourceTextViewer } from './SourceTextViewer';
 import type {
   CatalogueInstrument,
@@ -11,6 +11,8 @@ export interface InstrumentCataloguePanelProps {
   instruments: CatalogueInstrument[];
   /** Called for entries that have a bundled translation. */
   onOpenTranslatedLaw?: (lawId: string) => void;
+  /** Called when the user loads an excerpt from a bundled source text into the live GAM-to-GAL pipeline/editor. */
+  onTranslateSourcePassage?: (instrument: CatalogueInstrument, passage: string) => void;
 }
 
 const STATUS_META: Record<InstrumentStatus, { label: string; classes: string }> = {
@@ -61,12 +63,33 @@ function useSourceManifest(): Record<string, SourceTextEntry> {
 export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> = ({
   instruments,
   onOpenTranslatedLaw,
+  onTranslateSourcePassage,
 }) => {
   const [query, setQuery] = useState('');
   const [category, setCategory] = useState<InstrumentCategory | 'all'>('all');
   const [jurisdiction, setJurisdiction] = useState<string>('all');
   const sources = useSourceManifest();
   const [reading, setReading] = useState<CatalogueInstrument | null>(null);
+  const [translatingId, setTranslatingId] = useState<string | null>(null);
+
+  const handleQuickTranslate = async (inst: CatalogueInstrument) => {
+    if (!onTranslateSourcePassage) return;
+    const src = sources[inst.id];
+    if (!src?.file) return;
+    setTranslatingId(inst.id);
+    try {
+      const res = await fetch(`${SOURCE_BASE}${src.file}`);
+      if (!res.ok) return;
+      const text = new TextDecoder('utf-8').decode(await res.arrayBuffer());
+      const lines = text.split('\n').map((l) => l.trim()).filter((l) => l.length > 0);
+      const cue = /\b(shall|must|may|prohibited|forbidden|required|obligated|authorized|permitted|entitled|consent|personal|disclose|access|process|controller|organization)\b/i;
+      const normative = lines.filter((l) => l.length >= 60 && l.length <= 700 && cue.test(l));
+      const picked = (normative.length > 0 ? normative : lines.filter((l) => l.length >= 40)).slice(0, 3).join(' ').slice(0, 1200);
+      if (picked.trim()) onTranslateSourcePassage(inst, picked.trim());
+    } finally {
+      setTranslatingId(null);
+    }
+  };
 
   const categories = useMemo(
     () => Array.from(new Set(instruments.map((i) => i.category))).sort(),
@@ -215,6 +238,21 @@ export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> =
                       </button>{' '}
                       ({Math.round((src.chars ?? 0) / 1000).toLocaleString()}k characters, retrieved{' '}
                       {src.retrievedAt?.slice(0, 10)})
+                      {onTranslateSourcePassage && (
+                        <>
+                          {' · '}
+                          <button
+                            type="button"
+                            onClick={() => void handleQuickTranslate(i)}
+                            disabled={translatingId === i.id}
+                            data-testid={`translate-source-${i.id}`}
+                            className="inline-flex items-center gap-1 font-medium text-emerald-300 underline decoration-emerald-500/40 underline-offset-2 hover:text-emerald-200 disabled:opacity-50"
+                          >
+                            <Cpu className="h-3 w-3" />
+                            {translatingId === i.id ? 'Loading…' : 'Translate excerpt → GAL'}
+                          </button>
+                        </>
+                      )}
                       {src.contentCheck === 'mismatch' && (
                         <span className="ml-1 text-amber-300">content check failed: verify it is the right document</span>
                       )}
@@ -246,6 +284,15 @@ export const InstrumentCataloguePanel: React.FC<InstrumentCataloguePanelProps> =
           retrievedAt={sources[reading.id].retrievedAt}
           sha256={sources[reading.id].sha256}
           note={sources[reading.id].note}
+          onTranslatePassage={
+            onTranslateSourcePassage
+              ? (passage) => {
+                  const inst = reading;
+                  setReading(null);
+                  onTranslateSourcePassage(inst, passage);
+                }
+              : undefined
+          }
           onClose={() => setReading(null)}
         />
       )}
